@@ -1,10 +1,12 @@
 from django.urls import path
-from rest_framework import routers
 from . import views
 from django.conf.urls import include
+from rest_framework_bulk.routes import BulkRouter
 
-router = routers.DefaultRouter()
+
+router = BulkRouter()
 router.register(r'books', views.BookViewSet)
+router.register(r'authors', views.AuthorViewSet)
 
 urlpatterns = [
     path('', views.index, name='index'),

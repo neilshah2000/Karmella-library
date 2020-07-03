@@ -1,12 +1,12 @@
-from catalog.models import Book
+from catalog.models import Author
 from rest_framework import serializers
 from rest_framework_bulk import (
     BulkListSerializer,
     BulkSerializerMixin,
 )
 
-class BookSerializer(BulkSerializerMixin, serializers.ModelSerializer):
+class AuthorSerializer(BulkSerializerMixin, serializers.ModelSerializer):
     class Meta:
-        model = Book
+        model = Author
         list_serializer_class = BulkListSerializer
-        fields = ['title', 'author', 'summary', 'isbn', 'genre']
+        fields = ['id', 'first_name', 'last_name']

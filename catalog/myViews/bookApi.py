@@ -1,9 +1,8 @@
 from catalog.models import Book
-from rest_framework import viewsets
 from catalog.serializers.bookSerializer import BookSerializer
+from rest_framework_bulk import BulkModelViewSet
 
-
-class BookViewSet(viewsets.ModelViewSet):
+class BookViewSet(BulkModelViewSet):
     """
     API endpoint that allows books to be viewed or edited.
     """
