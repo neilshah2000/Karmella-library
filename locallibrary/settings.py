@@ -130,3 +130,8 @@ LOGIN_REDIRECT_URL = '/'
 
 # for testing in development
 EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
+
+# for bulk upload
+DATA_UPLOAD_MAX_NUMBER_FIELDS = 5000
+
+DEBUG=True

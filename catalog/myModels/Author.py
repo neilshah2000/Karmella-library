@@ -3,8 +3,8 @@ from django.urls import reverse # Used to generate URLs by reversing the URL pat
 
 class Author(models.Model):
     """Model representing an author."""
-    first_name = models.CharField(max_length=100)
-    last_name = models.CharField(max_length=100)
+    first_name = models.CharField(max_length=100, blank=True)
+    last_name = models.CharField(max_length=100, blank=True)
     date_of_birth = models.DateField(null=True, blank=True)
     date_of_death = models.DateField('Died', null=True, blank=True)
 
