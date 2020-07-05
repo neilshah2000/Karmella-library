@@ -9,4 +9,4 @@ class BookSerializer(BulkSerializerMixin, serializers.ModelSerializer):
     class Meta:
         model = Book
         list_serializer_class = BulkListSerializer
-        fields = ['title', 'author', 'summary', 'isbn', 'genre']
+        fields = '__all__'

@@ -1,23 +1,25 @@
 from django.db import models
 from django.urls import reverse # Used to generate URLs by reversing the URL patterns
-from .Genre import Genre
 from .Author import Author
 
 class Book(models.Model):
     """Model representing a book (but not a specific copy of a book)."""
     title = models.CharField(max_length=200)
+    titleShort = models.CharField(max_length=50, blank=True, null=True)
+    author = models.ManyToManyField(Author, null=True)
+    isbn = models.CharField('ISBN', max_length=50, unique=True)
+    zoteroId = models.CharField(max_length=50, blank=True, null=True)
+    callNumber = models.CharField(max_length=50, blank=True, null=True)
+    language = models.CharField(max_length=50, blank=True, null=True)
+    pages = models.IntegerField(blank=True, null=True)
+    publisher = models.CharField(max_length=50, blank=True, null=True)
+    publisherPlace = models.CharField(max_length=50, blank=True, null=True)
+    issued = models.IntegerField(blank=True, null=True)
+    collectionTitle = models.CharField(max_length=50, blank=True, null=True)
+    place = models.CharField(max_length=50, blank=True, null=True)
+    abstract = models.CharField(max_length=2000, blank=True, null=True)
 
-    # Foreign Key used because book can only have one author, but authors can have multiple books
-    # Author as a string rather than object because it hasn't been declared yet in the file
-    author = models.ForeignKey(Author, on_delete=models.SET_NULL, null=True)
-    
-    summary = models.TextField(max_length=1000, help_text='Enter a brief description of the book')
-    isbn = models.CharField('ISBN', max_length=13, help_text='13 Character <a href="https://www.isbn-international.org/content/what-isbn">ISBN number</a>')
-    
-    # ManyToManyField used because genre can contain many books. Books can cover many genres.
-    # Genre class has already been defined so we can specify the object above.
-    genre = models.ManyToManyField(Genre, help_text='Select a genre for this book')
-    
+
     def __str__(self):
         """String for representing the Model object."""
         return self.title
@@ -25,9 +27,3 @@ class Book(models.Model):
     def get_absolute_url(self):
         """Returns the url to access a detail record for this book."""
         return reverse('book-detail', args=[str(self.id)])
-
-    def display_genre(self):
-        """Create a string for the Genre. This is required to display genre in Admin."""
-        return ', '.join(genre.name for genre in self.genre.all()[:3])
-    
-    display_genre.short_description = 'Genre'

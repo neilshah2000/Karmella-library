@@ -1,5 +1,5 @@
 from django.contrib import admin
-from .models import Author, Genre, Book, BookInstance
+from .models import Author, Book, BookInstance
 
 
 class BooksInline(admin.TabularInline):
@@ -10,7 +10,7 @@ class BooksInline(admin.TabularInline):
 class AuthorAdmin(admin.ModelAdmin):
     list_display = ('last_name', 'first_name', 'date_of_birth', 'date_of_death')
     fields = ['first_name', 'last_name', ('date_of_birth', 'date_of_death')]
-    inlines = [BooksInline]
+    # inlines = [BooksInline]   # cant use for many-to-many
 
 
 
@@ -22,7 +22,8 @@ class BooksInstanceInline(admin.TabularInline):
 
 @admin.register(Book)
 class BookAdmin(admin.ModelAdmin):
-    list_display = ('title', 'author', 'display_genre')
+    # list_display = ('title', 'author', 'display_genre')   # cant use for many-to-many
+    list_display = ['title']
     inlines = [BooksInstanceInline]
 
 
@@ -43,5 +44,3 @@ class BookInstanceAdmin(admin.ModelAdmin):
         }),
     )
 
-
-admin.site.register(Genre)
