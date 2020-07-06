@@ -7,7 +7,7 @@ class Book(models.Model):
     title = models.CharField(max_length=200)
     titleShort = models.CharField(max_length=50, blank=True, null=True)
     author = models.ManyToManyField(Author, null=True)
-    isbn = models.CharField('ISBN', max_length=50, unique=True)
+    isbn = models.CharField('ISBN', max_length=50, unique=True, blank=True, null=True)
     zoteroId = models.CharField(max_length=50, blank=True, null=True)
     callNumber = models.CharField(max_length=50, blank=True, null=True)
     language = models.CharField(max_length=50, blank=True, null=True)

@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'rest_framework',
+    'django_filters',
     'catalog'
 ]
 
@@ -135,3 +136,10 @@ EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
 DATA_UPLOAD_MAX_NUMBER_FIELDS = 5000
 
 DEBUG=True
+
+REST_FRAMEWORK = {
+    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.LimitOffsetPagination',
+    'DEFAULT_FILTER_BACKENDS': (
+        'django_filters.rest_framework.DjangoFilterBackend'
+    ),
+}

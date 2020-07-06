@@ -9,4 +9,4 @@ class AuthorSerializer(BulkSerializerMixin, serializers.ModelSerializer):
     class Meta:
         model = Author
         list_serializer_class = BulkListSerializer
-        fields = ['id', 'first_name', 'last_name']
+        fields = fields = '__all__'
