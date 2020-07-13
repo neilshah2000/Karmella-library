@@ -1,5 +1,6 @@
 django
 djangorestframework
 django-filter
+djangorestframework-bulk
 gunicorn
 django-heroku
