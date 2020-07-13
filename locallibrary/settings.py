@@ -33,7 +33,9 @@ SECRET_KEY = '(7i)p%)ud1tymry!75(&+sj*%sht%=z%8@@11almo4cybwhgfx'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'blooming-mountain-86004.herokuapp.com'
+    'blooming-mountain-86004.herokuapp.com',
+    '127.0.0.1',
+    'localhost'
 ]
 
 

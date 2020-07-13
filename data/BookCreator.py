@@ -2,7 +2,7 @@ from AuthorFinder import AuthorFinder
 
 class BookCreator:
     def __init__(self):
-        self.authorFinder = AuthorFinder('http://127.0.0.1:8000/')
+        self.authorFinder = AuthorFinder('https://blooming-mountain-86004.herokuapp.com/')
     
     def createBook(self, zoteroBook):
         title = zoteroBook.get('title')

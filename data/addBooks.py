@@ -98,11 +98,11 @@ for book in library:
     createdBooks.append(created)
     unq = (created.get('isbn'), created.get('title'))
     isbnSet.add(unq)
-    # response = addBooks(created)
-    # print(response.json())
+    response = addBooks(created)
+    print(response.json())
 
-for dat in isbnSet:
-    print(dat)
+# for dat in isbnSet:
+#     print(dat)
 
-print(len(library))
-print(len(isbnSet))
+# print(len(library))
+# print(len(isbnSet))

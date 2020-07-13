@@ -3,8 +3,8 @@ import json
 from datetime import datetime, timedelta
 
 
-serverUrl = 'http://127.0.0.1:8000/'
-
+# serverUrl = 'http://127.0.0.1:8000/'
+serverUrl = 'https://blooming-mountain-86004.herokuapp.com/'
 
 # User is object like {'username': 'olga', 'password': 'olga'}
 def loginUser(user):
