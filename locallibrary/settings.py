@@ -25,7 +25,9 @@ SECRET_KEY = '(7i)p%)ud1tymry!75(&+sj*%sht%=z%8@@11almo4cybwhgfx'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'blooming-mountain-86004.herokuapp.com'
+]
 
 
 # Application definition
