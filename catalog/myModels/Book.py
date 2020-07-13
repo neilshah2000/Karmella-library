@@ -6,7 +6,7 @@ class Book(models.Model):
     """Model representing a book (but not a specific copy of a book)."""
     title = models.CharField(max_length=200)
     titleShort = models.CharField(max_length=50, blank=True, null=True)
-    author = models.ManyToManyField(Author, null=True)
+    author = models.ManyToManyField(Author, null=True, related_name='authors')
     isbn = models.CharField('ISBN', max_length=50, unique=True, blank=True, null=True)
     zoteroId = models.CharField(max_length=50, blank=True, null=True)
     callNumber = models.CharField(max_length=50, blank=True, null=True)
