@@ -1,0 +1,215 @@
+[
+	{
+		"id": "http://zotero.org/groups/2204707/items/R6GJ47ZN",
+		"type": "book",
+		"call-number": "329.lang OFF par",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Madrid",
+		"ISBN": "978-84-86497-20-0",
+		"language": "es",
+		"number-of-pages": "265",
+		"publisher": "Sistema",
+		"publisher-place": "Madrid",
+		"title": "Partidos políticos y nuevos movimientos sociales",
+		"author": [
+			{
+				"family": "Offe",
+				"given": "Claus"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1992"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/7J7FJ9Y3",
+		"type": "book",
+		"call-number": "329.lang MAJ his",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-189-6",
+		"language": "es",
+		"number-of-pages": "219",
+		"number-of-volumes": "2",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Historia del sindicato LAB: Langile Abertzaleen Batzordeak, 1975-2000",
+		"title-short": "Historia del sindicato LAB",
+		"volume": "1",
+		"author": [
+			{
+				"family": "Majuelo",
+				"given": "Emilio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/DIGB59KS",
+		"type": "book",
+		"call-number": "329.lang FRE pro",
+		"event-place": "Managua",
+		"language": "es",
+		"number-of-pages": "56",
+		"publisher": "Departamento de Propaganda y Educación Política del FSLN",
+		"publisher-place": "Managua",
+		"title": "Programa histórico del FSLN.",
+		"author": [
+			{
+				"literal": "Frente sandinista de liberación nacional"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1984"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/26ZFK2I7",
+		"type": "book",
+		"call-number": "329.lang FON san",
+		"event-place": "Managua",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "62",
+		"publisher": "Departamento de Propaganda y Educación Política del FSLN",
+		"publisher-place": "Managua",
+		"title": "Sandino, guerrillero proletario",
+		"author": [
+			{
+				"family": "Fonseca",
+				"given": "Carlos"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1984"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/Y5858Q37",
+		"type": "book",
+		"call-number": "329.lang BUS his",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-481-1",
+		"language": "es",
+		"number-of-pages": "89",
+		"number-of-volumes": "2",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Historia del sindicato LAB II: hator gorrira! (2000-2005)",
+		"title-short": "Historia del sindicato LAB II",
+		"volume": "2",
+		"author": [
+			{
+				"family": "Bustrillo",
+				"given": "Joserra"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/8CJSSDWK",
+		"type": "book",
+		"call-number": "329.lang BUS his",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-481-1",
+		"language": "es",
+		"number-of-pages": "89",
+		"number-of-volumes": "2",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Historia del sindicato LAB II: hator gorrira! (2000-2005)",
+		"title-short": "Historia del sindicato LAB II",
+		"volume": "2",
+		"author": [
+			{
+				"family": "Bustrillo",
+				"given": "Joserra"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/PLYLKEQR",
+		"type": "book",
+		"call-number": "329.lang BUS his",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-481-1",
+		"language": "es",
+		"number-of-pages": "89",
+		"number-of-volumes": "2",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Historia del sindicato LAB II: hator gorrira! (2000-2005)",
+		"title-short": "Historia del sindicato LAB II",
+		"volume": "2",
+		"author": [
+			{
+				"family": "Bustrillo",
+				"given": "Joserra"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/N2I3UPNB",
+		"type": "book",
+		"abstract": "Nular, corregir o moderar la influencia del sindicalismo en la dinámica social y económica, desgastar sus recursos de poder y aislar quirúrgicamente a sus elementos más combativos constituyen el programa del capitalismo occidental. Tomar conciencia de ello es fundamental a la hora de analizar las oportunidades y amenazas que se ciernen sobre el sindicalismo europeo, en general, y el vasco, en particular. A partir de ahí, el autor defiende un proceso soberanista impulsado por una articulación social y política que haga del modelo de sociedad el vector principal capaz de concitar las adhesiones mayoritarias que son necesarias para quebrar el impulso uniformizador de los estados. El autor reivindica el sindicalismo abertzale como un instrumento útil para poder abordar ese proceso: su amplia implantación y legitimidad electoral, su autonomía financiera, su modelo de contrapoder y de rechazo al diálogo social, su oposición frontal al escenario de reformas y políticas de austeridad, y el hecho de que incorpore, como elemento clave de su proyecto, la reivindicación nacional y la alianza social, constituyen para él una singularidad a aprovechar por un proyecto soberanista que se pretenda ganador.",
+		"call-number": "329.lang AUR mir",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-9888-761-7",
+		"language": "es",
+		"number-of-pages": "296",
+		"publisher": "Icaria editorial",
+		"publisher-place": "Barcelona",
+		"title": "Una mirada sindical contracorriente : clase, territorio y nuevas alianzas",
+		"author": [
+			{
+				"family": "Aurrekoetxea",
+				"given": "Joxe Elorrieta"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	}
+]

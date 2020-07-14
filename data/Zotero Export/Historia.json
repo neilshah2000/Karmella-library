@@ -1,0 +1,1551 @@
+[
+	{
+		"id": "http://zotero.org/groups/2204707/items/ZFYHJFMJ",
+		"type": "book",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-316-6",
+		"language": "es",
+		"number-of-pages": "230",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "El credo falsificado",
+		"author": [
+			{
+				"family": "Deschner",
+				"given": "Karlheinz"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/TMSJERKG",
+		"type": "book",
+		"call-number": "94 DOR his",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-87812-47-7",
+		"language": "es",
+		"number-of-pages": "280",
+		"publisher": "Dorleta",
+		"publisher-place": "Bilbao",
+		"title": "Historia de la Bicicleta Eibarresa Euskal Bizikleta",
+		"author": [
+			{
+				"family": "Dorronsoro",
+				"given": "Juan"
+			},
+			{
+				"family": "Bodegas",
+				"given": "Javier"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/4RB3XAPF",
+		"type": "book",
+		"call-number": "94 DKP cro",
+		"event-place": "Madrid",
+		"ISBN": "978-1-4053-3263-7",
+		"language": "es",
+		"number-of-pages": "352",
+		"publisher": "Pearson Educación",
+		"publisher-place": "Madrid",
+		"title": "Crónica marvel: una historia año por año",
+		"author": [
+			{
+				"family": "DK Publishing",
+				"given": "Inc"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/JPHTBJ4D",
+		"type": "book",
+		"call-number": "94 DES cre",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-316-6",
+		"language": "es",
+		"number-of-pages": "230",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "El credo falsificado",
+		"author": [
+			{
+				"family": "Deschner",
+				"given": "Karlheinz"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/SBDHEAN9",
+		"type": "book",
+		"call-number": "94 COS his",
+		"event-place": "Guanajuato",
+		"language": "es",
+		"number-of-pages": "1979",
+		"publisher": "Colegio de Mexico",
+		"publisher-place": "Guanajuato",
+		"title": "Historia minima de Mexico",
+		"author": [
+			{
+				"family": "Cosío Villegas",
+				"given": "Daniel"
+			},
+			{
+				"family": "Bernal",
+				"given": "Ignacio"
+			},
+			{
+				"family": "Moreno Toscano",
+				"given": "Alejandra"
+			},
+			{
+				"family": "González",
+				"given": "Luis"
+			},
+			{
+				"family": "Blanquel",
+				"given": "Eduardo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1973"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/VZIN4KY3",
+		"type": "book",
+		"call-number": "94 CAR ciu",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Barcelona",
+		"ISBN": "84-02-08269-6",
+		"language": "es",
+		"number-of-pages": "95",
+		"publisher": "Bruguera",
+		"publisher-place": "Barcelona",
+		"title": "La ciudad de las columnas",
+		"author": [
+			{
+				"family": "Carpentier",
+				"given": "Alejo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1982"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/BX7FAJ9N",
+		"type": "book",
+		"call-number": "94 BIL gen",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-921998-7-7",
+		"language": "es",
+		"number-of-pages": "182",
+		"publisher": "Muelle de Uribitarte Editores",
+		"publisher-place": "Bilbao",
+		"title": "El genio de la ría: una evocación desde la Ribera de Deusto",
+		"title-short": "El genio de la ría",
+		"author": [
+			{
+				"family": "Bilbao-Goyoaga",
+				"given": "Jesús"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/MCQXADSF",
+		"type": "book",
+		"call-number": "94 BER cru",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-181-0",
+		"language": "es",
+		"number-of-pages": "172",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "La cruz sangrienta: historia del cura Santa Cruz",
+		"title-short": "La cruz sangrienta",
+		"author": [
+			{
+				"family": "Bernoville",
+				"given": "Gaëtan"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/SUAP2LGW",
+		"type": "book",
+		"call-number": "94 BER cru",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-181-0",
+		"language": "es",
+		"number-of-pages": "172",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "La cruz sangrienta: historia del cura Santa Cruz",
+		"title-short": "La cruz sangrienta",
+		"author": [
+			{
+				"family": "Bernoville",
+				"given": "Gaëtan"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/G8NFGNM6",
+		"type": "book",
+		"call-number": "94 BEL gip",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Donostia",
+		"ISBN": "978-84-937670-4-4",
+		"language": "eu",
+		"number-of-pages": "226",
+		"publisher": "Aranzadi Zientzia Elkartea",
+		"publisher-place": "Donostia",
+		"title": "Gipuzkoa, udal errepublikanoetatik frankistetara, 1936-1937",
+		"author": [
+			{
+				"family": "Beledo",
+				"given": "Ane"
+			},
+			{
+				"family": "Egaña",
+				"given": "Iñaki"
+			},
+			{
+				"family": "Zato",
+				"given": "Montse"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/X7W2LUKP",
+		"type": "book",
+		"call-number": "94 BAS bil",
+		"event-place": "Bilbao",
+		"ISBN": "---",
+		"language": "eu/es",
+		"number-of-pages": "35",
+		"publisher": "Bilboko Udala",
+		"publisher-place": "Bilbao",
+		"title": "Bilbao: lehen eta orain = Bilbao : ayer y hoy",
+		"author": [
+			{
+				"family": "Basas",
+				"given": "Manuel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1980"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/HQNU63U5",
+		"type": "book",
+		"call-number": "94 BAR hom",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Donostia",
+		"ISBN": "978-84-89077-20-1",
+		"language": "es",
+		"number-of-pages": "87",
+		"publisher": "Egin",
+		"publisher-place": "Donostia",
+		"title": "El hombre primitivo en el País Vasco",
+		"author": [
+			{
+				"family": "Barandiarán",
+				"given": "José Miguel",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/6SQ2FW54",
+		"type": "book",
+		"call-number": "94 BAR leh",
+		"event-place": "Donostia",
+		"ISBN": "---",
+		"language": "eu",
+		"number-of-pages": "120",
+		"publisher": "Lur editoriala",
+		"publisher-place": "Donostia",
+		"title": "Lehen euskal gizona",
+		"author": [
+			{
+				"family": "Barandiarán",
+				"given": "José Miguel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1972"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/ZDGJ2PUP",
+		"type": "book",
+		"call-number": "94 AZN sue",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-166-7",
+		"language": "es",
+		"number-of-pages": "328",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Los sueños de Bolívar en la Venezuela de hoy",
+		"author": [
+			{
+				"family": "Aznárez",
+				"given": "Carlos"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/QILSVAML",
+		"type": "book",
+		"call-number": "94 AZN sue",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-166-7",
+		"language": "es",
+		"number-of-pages": "328",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Los sueños de Bolívar en la Venezuela de hoy",
+		"author": [
+			{
+				"family": "Aznárez",
+				"given": "Carlos"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/3ILK2BDY",
+		"type": "book",
+		"call-number": "94 AZN sue",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-166-7",
+		"language": "es",
+		"number-of-pages": "328",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Los sueños de Bolívar en la Venezuela de hoy",
+		"author": [
+			{
+				"family": "Aznárez",
+				"given": "Carlos"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/CN64CTM8",
+		"type": "book",
+		"call-number": "94 AZN sue",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-166-7",
+		"language": "es",
+		"number-of-pages": "328",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Los sueños de Bolívar en la Venezuela de hoy",
+		"author": [
+			{
+				"family": "Aznárez",
+				"given": "Carlos"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/ASGNNBMY",
+		"type": "book",
+		"call-number": "94 ARI ven",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-173-5",
+		"language": "eu",
+		"number-of-pages": "162",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Venezuela, iraultza isilaren hitzak",
+		"author": [
+			{
+				"family": "Aristi",
+				"given": "Pako"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/7UD4W7LT",
+		"type": "book",
+		"call-number": "94 AGU rit",
+		"event-place": "Donosti",
+		"ISBN": "978-84-89077-59-1",
+		"language": "es",
+		"number-of-pages": "93",
+		"publisher": "Egin",
+		"publisher-place": "Donosti",
+		"title": "El rito funerario en Euskal Herria",
+		"author": [
+			{
+				"family": "Aguirre",
+				"given": "Antxon"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/MV8Z2TLX",
+		"type": "book",
+		"call-number": "94 UGA sin",
+		"event-place": "Hernani",
+		"ISBN": "978-84-89077-33-1",
+		"language": "es",
+		"number-of-pages": "138",
+		"publisher": "Egin",
+		"publisher-place": "Hernani",
+		"title": "Síntesis de la historia del País Vasco",
+		"author": [
+			{
+				"family": "Ugalde",
+				"given": "Martín"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/Z5II2HZC",
+		"type": "book",
+		"call-number": "94 UGA sin",
+		"event-place": "Hernani",
+		"ISBN": "978-84-89077-33-1",
+		"language": "es",
+		"number-of-pages": "138",
+		"publisher": "Egin",
+		"publisher-place": "Hernani",
+		"title": "Síntesis de la historia del País Vasco",
+		"author": [
+			{
+				"family": "Ugalde",
+				"given": "Martín"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/MGTDGU2K",
+		"type": "book",
+		"call-number": "94 UGA sin",
+		"event-place": "Hernani",
+		"ISBN": "978-84-89077-33-1",
+		"language": "es",
+		"number-of-pages": "138",
+		"publisher": "Egin",
+		"publisher-place": "Hernani",
+		"title": "Síntesis de la historia del País Vasco",
+		"author": [
+			{
+				"family": "Ugalde",
+				"given": "Martín"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/DSDP7QHW",
+		"type": "book",
+		"call-number": "94 UGA sin",
+		"event-place": "Hernani",
+		"ISBN": "978-84-89077-33-1",
+		"language": "es",
+		"number-of-pages": "138",
+		"publisher": "Egin",
+		"publisher-place": "Hernani",
+		"title": "Síntesis de la historia del País Vasco",
+		"author": [
+			{
+				"family": "Ugalde",
+				"given": "Martín"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/37HSJHDG",
+		"type": "book",
+		"call-number": "94 SAN nud",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-914-4",
+		"language": "es",
+		"number-of-pages": "270",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "El nudo corredizo: Euskal Herria bajo el primer franquismo",
+		"title-short": "El nudo corredizo",
+		"author": [
+			{
+				"family": "Sánchez Erauskin",
+				"given": "Javier"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/9BLB7K7N",
+		"type": "book",
+		"call-number": "94 SAN nud",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-914-4",
+		"language": "es",
+		"number-of-pages": "270",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "El nudo corredizo: Euskal Herria bajo el primer franquismo",
+		"title-short": "El nudo corredizo",
+		"author": [
+			{
+				"family": "Sánchez Erauskin",
+				"given": "Javier"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/826R9YTM",
+		"type": "book",
+		"call-number": "94 SAN nud",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-914-4",
+		"language": "es",
+		"number-of-pages": "270",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "El nudo corredizo: Euskal Herria bajo el primer franquismo",
+		"title-short": "El nudo corredizo",
+		"author": [
+			{
+				"family": "Sánchez Erauskin",
+				"given": "Javier"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/VQPULK6Z",
+		"type": "book",
+		"call-number": "94 SAN nud",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-914-4",
+		"language": "es",
+		"number-of-pages": "270",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "El nudo corredizo: Euskal Herria bajo el primer franquismo",
+		"title-short": "El nudo corredizo",
+		"author": [
+			{
+				"family": "Sánchez Erauskin",
+				"given": "Javier"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/DQ43AI7D",
+		"type": "book",
+		"call-number": "94 SAN nud",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-914-4",
+		"language": "es",
+		"number-of-pages": "270",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "El nudo corredizo: Euskal Herria bajo el primer franquismo",
+		"title-short": "El nudo corredizo",
+		"author": [
+			{
+				"family": "Sánchez Erauskin",
+				"given": "Javier"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/QHREKT6F",
+		"type": "book",
+		"call-number": "94 SAL otr",
+		"event-place": "Bilbao",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "180",
+		"publisher": "Surbisa",
+		"publisher-place": "Bilbao",
+		"title": "La otra orilla: formación del barrio de San Francisco (1870-1900)",
+		"author": [
+			{
+				"family": "Salazar Arechalde",
+				"given": "José Ignacio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/H7V9MRA9",
+		"type": "book",
+		"call-number": "94 RUZ civ",
+		"event-place": "La Habana",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "156",
+		"publisher": "Editorial de Ciencias Sociales",
+		"publisher-place": "La Habana",
+		"title": "La civilizacion de los antiguos Mayas",
+		"author": [
+			{
+				"family": "Ruz Lhuillier",
+				"given": "Alberto"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1974"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/VGK5PQHX",
+		"type": "book",
+		"call-number": "94 RAM jov",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Madrid",
+		"ISBN": "978-84-7476-151-1",
+		"language": "es",
+		"number-of-pages": "440",
+		"publisher": "CIS, Siglo XXI",
+		"publisher-place": "Madrid",
+		"title": "De jóvenes y sus identidades: socioantropología de la etnicidad en Euskadi",
+		"title-short": "De jóvenes y sus identidades",
+		"author": [
+			{
+				"family": "Ramírez Goicoechea",
+				"given": "Eugenia"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1991"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/5IF7W9E4",
+		"type": "book",
+		"call-number": "94 PET naf",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-171-1",
+		"language": "eu",
+		"number-of-pages": "182",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Nafarroa: iragana eta geroa",
+		"title-short": "Nafarroa",
+		"author": [
+			{
+				"family": "Petxarroman",
+				"given": "Iñaki"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/YY2G6KTG",
+		"type": "book",
+		"call-number": "94 PEÑ eus",
+		"event-place": "Donostia",
+		"ISBN": "978-84-89077-58-4",
+		"language": "es",
+		"number-of-pages": "107",
+		"publisher": "Egin",
+		"publisher-place": "Donostia",
+		"title": "Euskal Herria en la prehistoria",
+		"author": [
+			{
+				"family": "Peñalver",
+				"given": "Xabier"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/93YIMEU9",
+		"type": "book",
+		"call-number": "94 PEÑ eus",
+		"event-place": "Donostia",
+		"ISBN": "978-84-89077-58-4",
+		"language": "es",
+		"number-of-pages": "107",
+		"publisher": "Egin",
+		"publisher-place": "Donostia",
+		"title": "Euskal Herria en la prehistoria",
+		"author": [
+			{
+				"family": "Peñalver",
+				"given": "Xabier"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/4QL2LNLU",
+		"type": "book",
+		"call-number": "94 PEÑ ori",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-328-9",
+		"language": "es",
+		"number-of-pages": "390",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Orígenes",
+		"author": [
+			{
+				"family": "Peñalver",
+				"given": "Xabier"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/Y9M46U94",
+		"type": "book",
+		"call-number": "94 ORE his",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-946-5",
+		"language": "es",
+		"number-of-pages": "330",
+		"number-of-volumes": "3",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Historia de Euskal Herria: Los vascos de ayer",
+		"title-short": "Historia de Euskal Herria",
+		"volume": "1",
+		"author": [
+			{
+				"family": "Orella",
+				"given": "José Luis"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/HF62ASFK",
+		"type": "book",
+		"call-number": "94 OLO cue",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-927-4",
+		"language": "es",
+		"number-of-pages": "250",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "La cuestión foral: reseña de los principales acontecimientos occurridos desde mayo de 1893, á julio de 1894",
+		"title-short": "La cuestión foral",
+		"author": [
+			{
+				"family": "Olóriz",
+				"given": "Hermilio",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/AJ4H9SEU",
+		"type": "book",
+		"call-number": "94 MAI per",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "84-86597-19-6",
+		"language": "es",
+		"number-of-pages": "122",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Perestroika, la revolución de las esperanzas",
+		"author": [
+			{
+				"family": "Maidanik",
+				"given": "Kiva"
+			},
+			{
+				"family": "Harnecker",
+				"given": "Marta"
+			},
+			{
+				"family": "Zamkova",
+				"given": "Nadia"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1990"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/VEFKAPKU",
+		"type": "book",
+		"call-number": "94 MAI per",
+		"event-place": "Tafalla",
+		"ISBN": "84-86597-19-6",
+		"language": "es",
+		"number-of-pages": "122",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Perestroika, la revolución de las esperanzas",
+		"author": [
+			{
+				"family": "Maidanik",
+				"given": "Kiva"
+			},
+			{
+				"family": "Harnecker",
+				"given": "Marta"
+			},
+			{
+				"family": "Zamkova",
+				"given": "Nadia"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1990"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/QWGAWZNG",
+		"type": "book",
+		"call-number": "94 LOR his",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-948-9",
+		"language": "es",
+		"number-of-pages": "334",
+		"number-of-volumes": "3",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Historia de Euskal Herria: El nacimiento de una nación",
+		"title-short": "Historia de Euskal Herria",
+		"volume": "3",
+		"author": [
+			{
+				"family": "Lorenzo Espinosa",
+				"given": "José María"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/X8VKZUGX",
+		"type": "book",
+		"call-number": "94 LOR his",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-948-9",
+		"language": "es",
+		"number-of-pages": "334",
+		"number-of-volumes": "3",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Historia de Euskal Herria: El nacimiento de una nación",
+		"title-short": "Historia de Euskal Herria",
+		"volume": "3",
+		"author": [
+			{
+				"family": "Lorenzo Espinosa",
+				"given": "José María"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/IWTA4SHX",
+		"type": "book",
+		"call-number": "94 LOR ren",
+		"event-place": "Anglet",
+		"ISBN": "978-2-84747-010-9",
+		"language": "es",
+		"number-of-pages": "392",
+		"publisher": "Kale Gorria",
+		"publisher-place": "Anglet",
+		"title": "La renuncia nacional del PNV 1977-2002",
+		"author": [
+			{
+				"family": "Lorenzo Espinosa",
+				"given": "Josemari"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/4BPHM4SH",
+		"type": "book",
+		"call-number": "94 LEA hab",
+		"event-place": "La Habana",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "134",
+		"publisher": "Editorial Letras Cubanas",
+		"publisher-place": "La Habana",
+		"title": "La Habana, ciudad antigua",
+		"author": [
+			{
+				"family": "Leal Spengler",
+				"given": "Eusebio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1988"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/SC8DDBE7",
+		"type": "book",
+		"call-number": "94 JUR his",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-017-2",
+		"language": "es",
+		"number-of-pages": "282",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Historia de Pamplona y de sus lenguas",
+		"author": [
+			{
+				"family": "Jurío",
+				"given": "José María Jimeno"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/XFRKMHIC",
+		"type": "book",
+		"call-number": "94 IPA dep",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-087-5",
+		"language": "es",
+		"number-of-pages": "230",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Deportación: el mal menor",
+		"title-short": "Deportación",
+		"author": [
+			{
+				"family": "Iparragirre",
+				"given": "Pilar"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1998"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/JB8X3XZQ",
+		"type": "book",
+		"call-number": "94 IPA dep",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-087-5",
+		"language": "es",
+		"number-of-pages": "230",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Deportación: el mal menor",
+		"title-short": "Deportación",
+		"author": [
+			{
+				"family": "Iparragirre",
+				"given": "Pilar"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1998"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/Q8QCLIF2",
+		"type": "book",
+		"call-number": "94 IPA dep",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-087-5",
+		"language": "es",
+		"number-of-pages": "230",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Deportación: el mal menor",
+		"title-short": "Deportación",
+		"author": [
+			{
+				"family": "Iparragirre",
+				"given": "Pilar"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1998"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/L9B9A7D2",
+		"type": "book",
+		"call-number": "94 HOF his",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-7432-102-9",
+		"language": "es",
+		"number-of-pages": "227",
+		"publisher": "Gedisa",
+		"publisher-place": "Barcelona",
+		"title": "La historia del LSD balance critico de sus aplicaciones y efectos, realizado por su descubridor.",
+		"title-short": "LSD",
+		"author": [
+			{
+				"family": "Hofmann",
+				"given": "Albert"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1997"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/RXCRMY27",
+		"type": "book",
+		"call-number": "94 HAR sue",
+		"event-place": "La Habana",
+		"ISBN": "978-959-7047-04-9",
+		"language": "es",
+		"number-of-pages": "356",
+		"publisher": "Editorial Cultura Popular",
+		"publisher-place": "La Habana",
+		"title": "El sueño era posible",
+		"author": [
+			{
+				"family": "Harnecker",
+				"given": "Marta"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/3MW259RX",
+		"type": "book",
+		"call-number": "94 GOY eus",
+		"event-place": "Iruña",
+		"ISBN": "978-84-7681-413-0",
+		"language": "eu",
+		"number-of-pages": "158",
+		"publisher": "Pamiela",
+		"publisher-place": "Iruña",
+		"title": "Euskal Herria XI. mendean: Antso III.a Nagusiaren erregealdia (1004 -1035)",
+		"title-short": "Euskal Herria XI. mendean",
+		"author": [
+			{
+				"family": "Goyhenetche",
+				"given": "Manex"
+			},
+			{
+				"family": "Jimeno",
+				"given": "Roldan"
+			},
+			{
+				"family": "Pescador",
+				"given": "Aitor"
+			},
+			{
+				"family": "Urzainqui",
+				"given": "Tomás"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2004"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/9IZ4329M",
+		"type": "book",
+		"call-number": "94 GOI isu",
+		"event-place": "Bilbao",
+		"language": "eu",
+		"number-of-pages": "201",
+		"publisher": "Isuntza",
+		"publisher-place": "Bilbao",
+		"title": "Isuntza, 1977-2002",
+		"author": [
+			{
+				"family": "Goiogana",
+				"given": "Iñaki"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/FCWQ56EA",
+		"type": "book",
+		"call-number": "94 GIL rev",
+		"event-place": "Mexico",
+		"ISBN": "978-968-6011-02-9",
+		"language": "es",
+		"number-of-pages": "400",
+		"publisher": "Ediciones El Caballito",
+		"publisher-place": "Mexico",
+		"title": "La revolucion interrumpida: Mexico, 1910-1920 : una guerra campesina por la tierra y el poder",
+		"title-short": "La revolucion interrumpida",
+		"author": [
+			{
+				"family": "Gilly",
+				"given": "Adolfo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1971"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/5ENQT4XN",
+		"type": "book",
+		"call-number": "94 FAV maf",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-051-6",
+		"language": "es",
+		"number-of-pages": "170",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Mafia: historia a la sombra del poder",
+		"title-short": "Mafia",
+		"author": [
+			{
+				"family": "Fava",
+				"given": "Giuseppe"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1997"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/Q6BMJ3I7",
+		"type": "book",
+		"call-number": "94 FAV maf",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-051-6",
+		"language": "es",
+		"number-of-pages": "170",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Mafia: historia a la sombra del poder",
+		"title-short": "Mafia",
+		"author": [
+			{
+				"family": "Fava",
+				"given": "Giuseppe"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1997"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/ZW63SFKY",
+		"type": "book",
+		"call-number": "94 FAV maf",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-051-6",
+		"language": "es",
+		"number-of-pages": "170",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Mafia: historia a la sombra del poder",
+		"title-short": "Mafia",
+		"author": [
+			{
+				"family": "Fava",
+				"given": "Giuseppe"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1997"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/7ARUTC2H",
+		"type": "book",
+		"call-number": "94 FAN car",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Paris",
+		"ISBN": "978-2-271-05191-2",
+		"language": "fr",
+		"number-of-pages": "140",
+		"publisher": "ALIF, les Éditions de la Méditerranée",
+		"publisher-place": "Paris",
+		"title": "Carthage: la cité punique",
+		"title-short": "Carthage",
+		"author": [
+			{
+				"family": "Fantar",
+				"given": "Mhamed"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/95YS4MSE",
+		"type": "book",
+		"call-number": "94 ESE his",
+		"event-place": "Tafalla",
+		"ISBN": "84-8136-947-0",
+		"language": "es",
+		"number-of-pages": "book",
+		"number-of-volumes": "3",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Historia de Euskal Herria: Del hierro al roble",
+		"volume": "2",
+		"author": [
+			{
+				"family": "Esévez",
+				"given": "Xosé"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/4H9PMBHT",
+		"type": "book",
+		"abstract": "No hubo akelarres. No hubo vuelos ni sobre escobas ni sobre animales. No hubo hechizos, ni vampirismo, ni antropofagia. No hubo metamorfosis zoom�rficas. No hubo c�pulas demon�acas ni partos de sapos. No hubo brujas.S� hubo procesos religiosos y civiles. S� hubo represi�n institucional. S� hubo torturas. S� hubo p�nico. S� se fantase� de manera delirante. La gente s� crey� en brujas. Muchas supuestas brujas s� creyeron en un poder que no poseyeron jam�s. S� sigue habiendo gente que cree en brujas. S� siguen siendo temidas. S� hay personas, todav�a, que dicen que son brujas.",
+		"call-number": "94 DUE bru",
+		"event-place": "Donosti",
+		"ISBN": "978-1-5350-6495-8",
+		"language": "es",
+		"number-of-pages": "186",
+		"publisher": "Egin",
+		"publisher-place": "Donosti",
+		"title": "Brujeria En El Pais Vasco",
+		"author": [
+			{
+				"family": "Dueso",
+				"given": "Jose"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	}
+]

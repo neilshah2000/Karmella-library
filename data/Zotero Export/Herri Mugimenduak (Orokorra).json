@@ -1,0 +1,770 @@
+[
+	{
+		"id": "http://zotero.org/groups/2204707/items/4KGWZLJK",
+		"type": "book",
+		"call-number": "329.orok ZAB ika",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-333-3",
+		"language": "eu",
+		"number-of-pages": "354",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Ikasi eta irauli: euskal ikasle mugimenduaren historia",
+		"title-short": "Ikasi eta irauli",
+		"author": [
+			{
+				"family": "Zabala",
+				"given": "Mikel"
+			},
+			{
+				"family": "Ormazabal",
+				"given": "Sabino"
+			},
+			{
+				"family": "Arroyo",
+				"given": "Igor"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/FMMGBUPF",
+		"type": "book",
+		"call-number": "329.orok TXA des",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-317-3",
+		"language": "eu",
+		"number-of-pages": "314",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Desobedientziaz ibiltzen",
+		"author": [
+			{
+				"family": "Txapartegi",
+				"given": "Ekai"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/Y4P4TBF4",
+		"type": "book",
+		"call-number": "329.orok TXA des",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-317-3",
+		"language": "eu",
+		"number-of-pages": "314",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Desobedientziaz ibiltzen",
+		"author": [
+			{
+				"family": "Txapartegi",
+				"given": "Ekai"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/JFK252BU",
+		"type": "book",
+		"call-number": "329.orok SCO dom",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-282-4",
+		"language": "es",
+		"number-of-pages": "350",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Los dominados y el arte de la resistencia",
+		"author": [
+			{
+				"family": "Scott",
+				"given": "James C."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2003"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/WTIBQ5CJ",
+		"type": "book",
+		"call-number": "329.orok PLA con",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Madrid",
+		"ISBN": "978-84-96146-85-3",
+		"language": "es",
+		"number-of-pages": "279",
+		"publisher": "Nueva Utopía",
+		"publisher-place": "Madrid",
+		"title": "Contra el capitalismo: signos de lucha y esperanza",
+		"title-short": "Contra el capitalismo",
+		"author": [
+			{
+				"family": "Placer Ugarte",
+				"given": "Félix"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/5RQ2CQ44",
+		"type": "book",
+		"call-number": "329.orok PET his",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-913-7",
+		"language": "es",
+		"number-of-pages": "160",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "La historia terminable: Sobre Democracia, Mercado y Revolución",
+		"title-short": "La historia terminable",
+		"author": [
+			{
+				"family": "Petras",
+				"given": "James"
+			},
+			{
+				"family": "vieux",
+				"given": "Steve"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/PLEU3W2B",
+		"type": "book",
+		"call-number": "329.orok NAV hom",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-299-2",
+		"language": "es",
+		"number-of-pages": "302",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Homenaje a Euskal Herria",
+		"author": [
+			{
+				"family": "Navarro",
+				"given": "Joaquín"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2003"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/DBYCDXW6",
+		"type": "book",
+		"call-number": "329.orok MOT mot",
+		"event-place": "Madrid",
+		"ISBN": "978-84-937467-0-4",
+		"language": "ES",
+		"number-of-pages": "378",
+		"publisher": "La Felguera",
+		"publisher-place": "Madrid",
+		"title": "Motherfuckers!: de los veranos del amor al amor armado",
+		"author": [
+			{
+				"literal": "MOTHERFUCKERS"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/C3L6H4HG",
+		"type": "book",
+		"call-number": "329.orok MAR pag",
+		"event-place": "La Habana",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "370",
+		"number-of-volumes": "2",
+		"publisher": "Editorial de Ciencias Sociales",
+		"publisher-place": "La Habana",
+		"title": "Páginas escogidas",
+		"volume": "1",
+		"author": [
+			{
+				"family": "Martí",
+				"given": "José"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1974"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/KUUA6T7P",
+		"type": "book",
+		"call-number": "329.orok MAR pag",
+		"event-place": "La Habana",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "370",
+		"number-of-volumes": "2",
+		"publisher": "Editorial de Ciencias Sociales",
+		"publisher-place": "La Habana",
+		"title": "Páginas escogidas",
+		"volume": "2",
+		"author": [
+			{
+				"family": "Martí",
+				"given": "José"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1974"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/U7TGCEDZ",
+		"type": "book",
+		"call-number": "329.orok LAR int",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-035-6",
+		"language": "eu",
+		"number-of-pages": "245",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Internet solidari@: la última revolución",
+		"title-short": "Internet solidari@",
+		"author": [
+			{
+				"family": "Larrañaga",
+				"given": "Irantzu"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/RS8J3W22",
+		"type": "book",
+		"call-number": "329.orok KIN kin",
+		"event-place": "Madrid",
+		"ISBN": "978-84-612-0169-3",
+		"language": "Es",
+		"number-of-pages": "285",
+		"publisher": "La Felguera",
+		"publisher-place": "Madrid",
+		"title": "King Mob: nosotros, el partido del diablo",
+		"author": [
+			{
+				"literal": "KING MOB"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/G7IREHI5",
+		"type": "book",
+		"call-number": "329.orok KEA dem",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Madrid",
+		"ISBN": "978-84-206-2709-0",
+		"language": "es",
+		"number-of-pages": "300",
+		"publisher": "Alianza",
+		"publisher-place": "Madrid",
+		"title": "Democracia y sociedad civil",
+		"author": [
+			{
+				"family": "Keane",
+				"given": "John"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1992"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/NHS9YERM",
+		"type": "book",
+		"call-number": "329.orok INS san",
+		"event-place": "Managua",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "286",
+		"publisher": "Editorial Nueva Nicaragua",
+		"publisher-place": "Managua",
+		"title": "El Sandinismo: documentos básicos",
+		"author": [
+			{
+				"literal": "Instituto de Estudio del Sandinismo"
+			},
+			{
+				"family": "Sandino",
+				"given": "Augusto C."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1985"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/GRVNSHYI",
+		"type": "book",
+		"call-number": "329.orok FON viv",
+		"event-place": "Managua",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "196",
+		"publisher": "Departamento de Propaganda y Educación Política del FSLN",
+		"publisher-place": "Managua",
+		"title": "Viva Sandino",
+		"author": [
+			{
+				"family": "Fonseca",
+				"given": "Carlos"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1984"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/AK59Y5WZ",
+		"type": "book",
+		"call-number": "329.orok FIN por",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Caracas",
+		"ISBN": "978-980-14-1919-8",
+		"language": "es",
+		"number-of-pages": "91",
+		"publisher": "Ediciones del centro Nacional de investigación-acción anti-imperialista simón Bolivar",
+		"publisher-place": "Caracas",
+		"title": "¿Por qué hablamos de un Socialismo del siglo XXI?",
+		"title-short": "El socialismo del siglo XXI",
+		"author": [
+			{
+				"family": "Finol",
+				"given": "Yldefonso"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/ACA2S4UJ",
+		"type": "book",
+		"call-number": "329.orok ELI ito",
+		"event-place": "Tafalla",
+		"language": "eu",
+		"number-of-pages": "196",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Itoitz: porlanezko gezurra",
+		"author": [
+			{
+				"family": "Elizondo",
+				"given": "Edurne"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2004"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/NLC92EPZ",
+		"type": "book",
+		"call-number": "329.orok ELI ito",
+		"event-place": "Tafalla",
+		"language": "eu",
+		"number-of-pages": "196",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Itoitz: porlanezko gezurra",
+		"author": [
+			{
+				"family": "Elizondo",
+				"given": "Edurne"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2004"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/9D8LWG87",
+		"type": "book",
+		"call-number": "329.orok EGA inc",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-15313-16-8",
+		"language": "es",
+		"number-of-pages": "259",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "La increíble historia de Martín Arbezu",
+		"author": [
+			{
+				"family": "Egaña",
+				"given": "Iñaki"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/SD6QUIBR",
+		"type": "book",
+		"call-number": "329.orok EGA inc",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-15313-16-8",
+		"language": "es",
+		"number-of-pages": "259",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "La increíble historia de Martín Arbezu",
+		"author": [
+			{
+				"family": "Egaña",
+				"given": "Iñaki"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/3YAR3ZTX",
+		"type": "book",
+		"call-number": "329.orok CHA dis",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Caracas",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "52",
+		"publisher": "Ministerio del Poder Popular para la Comunicación e Información",
+		"publisher-place": "Caracas",
+		"title": "El discurso de la undiad",
+		"author": [
+			{
+				"family": "Chávez Frías",
+				"given": "Hugo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/PMHKJTYA",
+		"type": "book",
+		"call-number": "329.orok CAS con",
+		"event-place": "La Habana",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "214",
+		"publisher": "Editora Política",
+		"publisher-place": "La Habana",
+		"title": "II Congreso del Partido Comunista de Cuba: informe central",
+		"title-short": "II Congreso del Partido Comunista de Cuba",
+		"author": [
+			{
+				"family": "Castro",
+				"given": "Fidel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1980"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/4K8IRF3N",
+		"type": "book",
+		"call-number": "329.orok BOS aca",
+		"event-place": "London",
+		"ISBN": "---",
+		"language": "en",
+		"number-of-pages": "10",
+		"publisher": "artofpeintkopa",
+		"publisher-place": "London",
+		"title": "ACAB: an acrony",
+		"author": [
+			{
+				"family": "Bossehard",
+				"given": "Ariane"
+			},
+			{
+				"family": "Dupeyrat",
+				"given": "Jérome"
+			},
+			{
+				"family": "Huz",
+				"given": "Olivier"
+			},
+			{
+				"family": "Martin",
+				"given": "Julie"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/MARZ8RKM",
+		"type": "book",
+		"call-number": "329.orok BEN pen",
+		"event-place": "La Habana",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "385",
+		"publisher": "Editora politica",
+		"publisher-place": "La Habana",
+		"title": "El Pensamiento revolucionario de hombres de nuestra América",
+		"author": [
+			{
+				"family": "Benítez",
+				"given": "José A"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1986"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/LFNJ5H5X",
+		"type": "book",
+		"call-number": "329.orok BAT afr",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-608-2",
+		"language": "es",
+		"number-of-pages": "220",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "El África de Thomas Sankara",
+		"author": [
+			{
+				"family": "Batà",
+				"given": "Carlo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/TQZZCG5P",
+		"type": "book",
+		"call-number": "329.orok AZU eus",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Donostia",
+		"ISBN": "978-84-9027-147-6",
+		"language": "eu",
+		"number-of-pages": "113",
+		"publisher": "Elkarlanean",
+		"publisher-place": "Donostia",
+		"title": "Euskal Herria krisian",
+		"author": [
+			{
+				"family": "Azurmendi",
+				"given": "Joxe"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/H42D58Z3",
+		"type": "book",
+		"call-number": "329.orok AGU bil",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-616-4434-6",
+		"language": "eu/es",
+		"number-of-pages": "303",
+		"publisher": "Asociación Cultural Espacio Plaza",
+		"publisher-place": "Bilbao",
+		"title": "Bilboko San Frantzisko auzoa, gune artistiko bat = El barrio de San Francisco en Bilbao, un polo artístico",
+		"author": [
+			{
+				"family": "Aguiriano",
+				"given": "Txema"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/P5ZG79LU",
+		"type": "book",
+		"call-number": "329.orok AGI jox",
+		"event-place": "Donostia",
+		"ISBN": "978-84-931142-6-8",
+		"language": "eus",
+		"number-of-pages": "98",
+		"publisher": "Egunkaria",
+		"publisher-place": "Donostia",
+		"title": "Joxemi Zumalabe: ipurtargiaren itzal luzea",
+		"title-short": "Joxemi Zumalabe",
+		"author": [
+			{
+				"family": "Agirre",
+				"given": "Lorea"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2003"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/PVGZ5WDW",
+		"type": "book",
+		"call-number": "329.orok AGI jox",
+		"event-place": "Donostia",
+		"ISBN": "978-84-931142-6-8",
+		"language": "eus",
+		"number-of-pages": "98",
+		"publisher": "Egunkaria",
+		"publisher-place": "Donostia",
+		"title": "Joxemi Zumalabe: ipurtargiaren itzal luzea",
+		"title-short": "Joxemi Zumalabe",
+		"author": [
+			{
+				"family": "Agirre",
+				"given": "Lorea"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2003"
+				]
+			]
+		}
+	}
+]

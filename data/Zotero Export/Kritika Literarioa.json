@@ -1,0 +1,521 @@
+[
+	{
+		"id": "http://zotero.org/groups/2204707/items/P268L28M",
+		"type": "book",
+		"call-number": "82.09 ZAL eus",
+		"event-place": "Donostia",
+		"ISBN": "978-84-9027-672-3",
+		"language": "eu",
+		"number-of-pages": "274",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "(Euskal) literaturaren alde (eta kontra): dekalogoak, manifestuak eta bestelako artefaktu apokaliptiko zein integratuak",
+		"title-short": "(Euskal) literaturaren alde (eta kontra)",
+		"author": [
+			{
+				"family": "Zaldua",
+				"given": "Iban"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/W7PDFBE8",
+		"type": "book",
+		"call-number": "82.09 ZAB eus",
+		"event-place": "Lazkao",
+		"ISBN": "---",
+		"language": "eu",
+		"number-of-pages": "151",
+		"publisher": "Enrike Zabala",
+		"publisher-place": "Lazkao",
+		"title": "Euskal literaturaren historia laburra",
+		"author": [
+			{
+				"family": "Zabala",
+				"given": "Enrike"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1977"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/U5DN29N4",
+		"type": "book",
+		"call-number": "82.09 SED epi",
+		"event-place": "Berkeley",
+		"ISBN": "0-520-07874-8",
+		"language": "en",
+		"number-of-pages": "258",
+		"publisher": "University of California Press",
+		"publisher-place": "Berkeley",
+		"title": "Epistemology of the closet",
+		"author": [
+			{
+				"family": "Sedgwick",
+				"given": "Eve Kosofsky"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1990"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/8DTDVRAJ",
+		"type": "book",
+		"call-number": "82.09 SAR bai",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-92599-57-8",
+		"language": "eus",
+		"note": "OCLC: 974406696",
+		"number-of-pages": "245",
+		"publisher": "Labayru Fundazioa",
+		"publisher-place": "Bilbao",
+		"title": "Bainaren belaunaldia: \"Ustela\", \"Pott\" eta \"Oh! Euzkadi\"",
+		"author": [
+			{
+				"family": "Sarasola",
+				"given": "Beñat"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/BVV5LJEV",
+		"type": "book",
+		"call-number": "82.09 SAR his",
+		"event-place": "Madrid",
+		"ISBN": "978-84-7339-169-6",
+		"language": "es",
+		"number-of-pages": "200",
+		"publisher": "Akal",
+		"publisher-place": "Madrid",
+		"title": "Historia social de la literatura vasca",
+		"author": [
+			{
+				"family": "Sarasola",
+				"given": "Ibón"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1982"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/85HYPPHG",
+		"type": "book",
+		"call-number": "82.09 SAR eus",
+		"event-place": "Donostia",
+		"language": "eus",
+		"note": "OCLC: 433257028",
+		"number-of-pages": "151",
+		"publisher": "Lur",
+		"publisher-place": "Donostia",
+		"title": "Euskal literaturaren historia",
+		"author": [
+			{
+				"family": "Sarasola",
+				"given": "Ibon"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1971"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/HGLKQFZV",
+		"type": "book",
+		"call-number": "82.09 OTE per",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-271-1050-2",
+		"language": "eus",
+		"note": "OCLC: 489872225",
+		"number-of-pages": "233",
+		"publisher": "Ediciones Mensajero",
+		"publisher-place": "Bilbao",
+		"title": "Pertsonaia euskal nobelagintzan",
+		"author": [
+			{
+				"family": "Otegi",
+				"given": "Karlos"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1976"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/BNBTXEL8",
+		"type": "book",
+		"call-number": "82.09 ONE req",
+		"event-place": "Buenos Aires",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "235",
+		"publisher": "Arca/Calicanto",
+		"publisher-place": "Buenos Aires",
+		"title": "Requiem por Faulkner: [y otros articulos",
+		"author": [
+			{
+				"family": "Onetti",
+				"given": "Juan Carlos"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1976"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/VP3CZ8SN",
+		"type": "book",
+		"call-number": "82.09 MEL lit",
+		"event-place": "Barcelona",
+		"ISBN": "84-01-44224-9",
+		"language": "es",
+		"number-of-pages": "151",
+		"publisher": "Plaza & Janés",
+		"publisher-place": "Barcelona",
+		"title": "Literatura y enfermedad",
+		"author": [
+			{
+				"family": "Mellizo",
+				"given": "Felipe"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1979"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/5L3P52YG",
+		"type": "book",
+		"call-number": "82.09 MCC won",
+		"event-place": "Madrid",
+		"ISBN": "978-84-16544-43-1",
+		"language": "es",
+		"number-of-pages": "302",
+		"publisher": "Errata Naturae",
+		"publisher-place": "Madrid",
+		"title": "Wonder Woman: el feminismo como superpoder",
+		"title-short": "Wonder Woman",
+		"author": [
+			{
+				"family": "McCausland",
+				"given": "Elisa"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/XQTFS36N",
+		"type": "book",
+		"call-number": "82.09 MAR pag",
+		"event-place": "La Habana",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "398",
+		"number-of-volumes": "2",
+		"publisher": "Editorial de Ciencias Sociales",
+		"publisher-place": "La Habana",
+		"title": "Páginas escogidas",
+		"volume": "1",
+		"author": [
+			{
+				"family": "Martí",
+				"given": "José"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1974"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/TLK4EHR5",
+		"type": "book",
+		"call-number": "82.09 MAR ent",
+		"event-place": "La Habana",
+		"language": "es",
+		"number-of-pages": "468",
+		"publisher": "Centro de Estudios Martianos",
+		"publisher-place": "La Habana",
+		"title": "En las entrañas del monstruo",
+		"author": [
+			{
+				"family": "Martí",
+				"given": "José"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1984"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/CF7XRXKU",
+		"type": "book",
+		"call-number": "82.09 KIN urr",
+		"event-place": "Pamplona",
+		"ISBN": "978-84-7681-589-2",
+		"language": "eus",
+		"number-of-pages": "94",
+		"publisher": "Pamiela",
+		"publisher-place": "Pamplona",
+		"title": "Urre urdinaren lurrina: euskal idazle galduaren bila (1810-1940)",
+		"author": [
+			{
+				"family": "Kintana Goiriena",
+				"given": "Jurgi"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/Q4DY96FY",
+		"type": "book",
+		"call-number": "82.09 IZA for",
+		"event-place": "Bilbo",
+		"ISBN": "1137-4888",
+		"language": "eu",
+		"number-of-pages": "111",
+		"publisher": "Bilbo Zaharra",
+		"publisher-place": "Bilbo",
+		"title": "Forum hitzaldiak. 01. %100 Basque",
+		"author": [
+			{
+				"family": "Izagirre",
+				"given": "Koldo"
+			},
+			{
+				"family": "Apalategi",
+				"given": "Ur"
+			},
+			{
+				"family": "Epaltza",
+				"given": "Aingeru"
+			},
+			{
+				"family": "Retolaza Gutierrez",
+				"given": "Iratxe"
+			},
+			{
+				"family": "Egaña",
+				"given": "Ibon"
+			},
+			{
+				"family": "Atxaga",
+				"given": "Bernardo"
+			},
+			{
+				"family": "Etxezaharreta",
+				"given": "Lucien"
+			},
+			{
+				"family": "Dolhare-Zaldunbide",
+				"given": "Katixa"
+			},
+			{
+				"family": "Borda",
+				"given": "Itxaro"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/6IME9PES",
+		"type": "book",
+		"call-number": "82.09 ETX eus",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-398-4369-6",
+		"language": "eus",
+		"number-of-pages": "255",
+		"publisher": "Labayru Ikastegia",
+		"publisher-place": "Bilbao",
+		"title": "Euskal testuen azterbideak: literatura II",
+		"author": [
+			{
+				"family": "Etxebarria",
+				"given": "Igone"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1985"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/IYAE3RLQ",
+		"type": "book",
+		"call-number": "82.09 ARI lit",
+		"event-place": "Donostia",
+		"ISBN": "978-84-7568-147-4",
+		"language": "eus",
+		"note": "OCLC: 434239498",
+		"number-of-pages": "175",
+		"publisher": "Erein",
+		"publisher-place": "Donostia",
+		"title": "Literatura inguruan hitzaurreak eta artikuluak",
+		"author": [
+			{
+				"family": "Ariztimuño",
+				"given": "Jose"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1986"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/L2B4KJ69",
+		"type": "book",
+		"abstract": "Panorama sucinto de las letras de habla hispana de nuestro continente. Este primer volumen cita, analiza y describe la producción intelectual de los periodos colonial e independiente. Aparece también la aportación de los escritores más destacados a las tendencias y corrientes de cada época.",
+		"call-number": "82.09 AND his",
+		"event-place": "Buenos Aires",
+		"ISBN": "978-968-16-0264-2",
+		"language": "es",
+		"number-of-pages": "426",
+		"number-of-volumes": "2",
+		"publisher": "Fondo de Cultura Económica",
+		"publisher-place": "Buenos Aires",
+		"title": "Historia de la literatura hispanoamericana",
+		"volume": "2",
+		"author": [
+			{
+				"family": "Anderson Imbert",
+				"given": "Enrique"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1986"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/3IBCA6WV",
+		"type": "book",
+		"abstract": "Panorama sucinto de las letras de habla hispana de nuestro continente. Este primer volumen cita, analiza y describe la producción intelectual de los periodos colonial e independiente. Aparece también la aportación de los escritores más destacados a las tendencias y corrientes de cada época.",
+		"call-number": "82.09 AND his",
+		"event-place": "Buenos Aires",
+		"ISBN": "978-968-16-0264-2",
+		"language": "es",
+		"number-of-pages": "536",
+		"number-of-volumes": "2",
+		"publisher": "Fondo de Cultura Económica",
+		"publisher-place": "Buenos Aires",
+		"title": "Historia de la literatura hispanoamericana",
+		"volume": "1",
+		"author": [
+			{
+				"family": "Anderson Imbert",
+				"given": "Enrique"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1986"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/RMWZNLNI",
+		"type": "book",
+		"call-number": "82.09 ALD ant",
+		"event-place": "Donostia",
+		"ISBN": "978-84-7568-373-7",
+		"language": "eus",
+		"number-of-pages": "76",
+		"publisher": "Erein",
+		"publisher-place": "Donostia",
+		"title": "Antzarra eta ispilua: (obabakoak-en irudimen mundua)",
+		"author": [
+			{
+				"family": "Aldekoa",
+				"given": "Iñaki"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1992"
+				]
+			]
+		}
+	}
+]

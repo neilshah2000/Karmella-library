@@ -1,0 +1,1266 @@
+[
+	{
+		"id": "http://zotero.org/groups/2204707/items/IFZWFNWD",
+		"type": "book",
+		"archive": "Hemeroteka",
+		"archive_location": "Aldizkaria/revista",
+		"call-number": "054 TOR jak",
+		"event-place": "Donostia",
+		"ISBN": "O211/495X",
+		"language": "eu",
+		"number-of-volumes": "68-91, 148, 174-179",
+		"publisher": "Jakin",
+		"publisher-place": "Donostia",
+		"title": "Jakin",
+		"author": [
+			{
+				"family": "Torrealdai",
+				"given": "Joan Mari"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1992"
+				]
+			],
+			"season": "2018"
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/2Q9ITJTI",
+		"type": "book",
+		"archive": "Hemeroteka",
+		"archive_location": "Aldizkaria/revista",
+		"call-number": "054 SAM ata",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Donostia",
+		"ISBN": "978-84-93617-3-8",
+		"language": "eu/es",
+		"number-of-pages": "203",
+		"number-of-volumes": "07, 10, 13",
+		"publisher": "Ataramiñe",
+		"publisher-place": "Donostia",
+		"title": "Ataramiñe 13: euskal errepresaliatu politikoen literatura koadernoak",
+		"volume": "13",
+		"author": [
+			{
+				"family": "Samaniego",
+				"given": "Ekaitz"
+			},
+			{
+				"family": "Sirvent",
+				"given": "Ekaitz"
+			},
+			{
+				"family": "Eizagirre",
+				"given": "Ekhiñe"
+			},
+			{
+				"family": "Alonso",
+				"given": "Fernando"
+			},
+			{
+				"family": "Muñoa",
+				"given": "Ibon"
+			},
+			{
+				"family": "Andueza",
+				"given": "Oier"
+			},
+			{
+				"family": "Urain",
+				"given": "Jokin"
+			},
+			{
+				"family": "Apeztegia",
+				"given": "Joxe Karlos"
+			},
+			{
+				"family": "Aiensa",
+				"given": "Ibai"
+			},
+			{
+				"family": "Solana",
+				"given": "Kepa Mirena"
+			},
+			{
+				"family": "Azurmendi",
+				"given": "Mikel"
+			},
+			{
+				"family": "Zubikarai",
+				"given": "Patxi"
+			},
+			{
+				"family": "Toda",
+				"given": "Teresa"
+			},
+			{
+				"family": "Aranburu",
+				"given": "Xabier"
+			},
+			{
+				"family": "Lupiañez",
+				"given": "Gorka"
+			},
+			{
+				"family": "Elizegi",
+				"given": "Iñigo"
+			},
+			{
+				"family": "Zarrabe",
+				"given": "Mikel"
+			},
+			{
+				"family": "Galarraga",
+				"given": "Joseba"
+			},
+			{
+				"family": "Moreno",
+				"given": "Itziar"
+			},
+			{
+				"family": "Bravo",
+				"given": "Josu"
+			},
+			{
+				"family": "Otxoantezana",
+				"given": "Jon Aingeri"
+			},
+			{
+				"family": "Troitiño",
+				"given": "Txomin"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/S468XW2J",
+		"type": "book",
+		"archive": "Hemeroteka",
+		"archive_location": "Aldizkaria/revista",
+		"call-number": "054 ROD des",
+		"event-place": "Madrid",
+		"ISBN": "0211-9765",
+		"language": "es",
+		"publisher": "Desnivel",
+		"publisher-place": "Madrid",
+		"title": "Desnivel",
+		"volume": "44-327*",
+		"author": [
+			{
+				"family": "Rodríguez",
+				"given": "Darío"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			],
+			"season": "2013"
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/BTKSJMCD",
+		"type": "book",
+		"archive": "Hemeroteka",
+		"archive_location": "Aldizkaria/revista",
+		"call-number": "054 REI ard",
+		"event-place": "Bilbao",
+		"ISBN": "1329/99",
+		"language": "eu/es",
+		"number-of-volumes": "1-15",
+		"publisher": "Arakatzen",
+		"publisher-place": "Bilbao",
+		"title": "Ardi Beltza: Ikerkuntza Kazetaritzako Hilabetekaria",
+		"author": [
+			{
+				"family": "Rei",
+				"given": "Pepe"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			],
+			"season": "2001"
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/NDZ7B5TM",
+		"type": "book",
+		"archive": "Hemeroteka",
+		"archive_location": "Aldizkaria/revista",
+		"call-number": "054 PAS eus",
+		"event-place": "Bilbao",
+		"ISBN": "1695-3967",
+		"language": "es",
+		"number-of-volumes": "1-53*",
+		"publisher": "Sua",
+		"publisher-place": "Bilbao",
+		"title": "Euskal Herria: montaña, cultura, naturaleza, viahes",
+		"author": [
+			{
+				"family": "Pascual",
+				"given": "Javier"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2003"
+				]
+			],
+			"season": "2011"
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/APNMZLBS",
+		"type": "book",
+		"archive": "Hemeroteka",
+		"archive_location": "Aldizkaria/revista",
+		"call-number": "054 PAG hem",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Gasteiz",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "105",
+		"number-of-volumes": "35",
+		"publisher": "Eusko Jaurlaritza",
+		"publisher-place": "Gasteiz",
+		"title": "Hemen: erlijio gogoetarako aldizkaria: Espetxean egon nintzen",
+		"volume": "35",
+		"author": [
+			{
+				"family": "Pagola",
+				"given": "Jose Antonio"
+			},
+			{
+				"family": "Pikaza",
+				"given": "Xabier"
+			},
+			{
+				"family": "Arrue",
+				"given": "Manu"
+			},
+			{
+				"family": "Orbe",
+				"given": "Martin"
+			},
+			{
+				"family": "Mouesca",
+				"given": "Gabi"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/XY3F2JHP",
+		"type": "book",
+		"archive": "Hemeroteka",
+		"archive_location": "Aldizkaria/revista",
+		"call-number": "054 ORT pyr",
+		"edition": "Euskal Mendizale Federazioa",
+		"event-place": "Bilbo",
+		"ISBN": "0212-5676",
+		"language": "es",
+		"publisher-place": "Bilbo",
+		"title": "Pyrenaica",
+		"volume": "166-256*",
+		"author": [
+			{
+				"family": "Ortega",
+				"given": "Antonio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1992"
+				]
+			],
+			"season": "2014"
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/8B84C5D2",
+		"type": "book",
+		"archive": "Hemeroteka",
+		"archive_location": "Aldizkaria/revista",
+		"call-number": "054 LAP hau",
+		"collection-title": "Multikulturalismoa eta naziiotasuna: diziplinarteko kritika",
+		"language": "eus",
+		"note": "OCLC: 863182639",
+		"title": "Hausnart: Lapiko Kritikoa kolektiboaren aldizkaria.",
+		"title-short": "Hausnart",
+		"volume": "1",
+		"author": [
+			{
+				"literal": "Lapiko Kritikoa"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/YLQDP9ZP",
+		"type": "book",
+		"archive": "Hemeroteka",
+		"archive_location": "Aldizkaria/revista",
+		"call-number": "054 LAN lek",
+		"event-place": "Azpeitia",
+		"language": "eus",
+		"note": "OCLC: 970872472",
+		"number-of-volumes": "3-4",
+		"publisher": "ITU banda",
+		"publisher-place": "Azpeitia",
+		"title": "Lekore",
+		"volume": "4",
+		"author": [
+			{
+				"family": "Landa Eiguren",
+				"given": "Mikele"
+			},
+			{
+				"literal": "et alii"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/JYBI5HDJ",
+		"type": "book",
+		"archive": "Hemeroteka",
+		"archive_location": "Aldizkaria/revista",
+		"call-number": "054 LAN lek",
+		"event-place": "Azpeitia",
+		"language": "eus",
+		"note": "OCLC: 970872472",
+		"number-of-volumes": "3-4",
+		"publisher": "ITU banda",
+		"publisher-place": "Azpeitia",
+		"title": "Lekore",
+		"volume": "3",
+		"author": [
+			{
+				"family": "Landa Eiguren",
+				"given": "Mikele"
+			},
+			{
+				"literal": "et alii"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/VKPD6VSG",
+		"type": "book",
+		"archive": "Hemeroteka",
+		"archive_location": "Aldizkaria/revista",
+		"call-number": "054 KAL kal",
+		"event-place": "Lizarra",
+		"ISBN": "2348/2001",
+		"language": "es",
+		"number-of-volumes": "3-9",
+		"publisher": "Miatzen SARL",
+		"publisher-place": "Lizarra",
+		"title": "Kale Gorria: Dokumentuak",
+		"author": [
+			{
+				"family": "Kale",
+				"given": "Gorria"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			],
+			"season": "2002"
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/AR9DXG58",
+		"type": "book",
+		"archive": "Hemeroteka",
+		"archive_location": "Aldizkaria/revista",
+		"call-number": "054 ETX ata",
+		"event-place": "Donostia",
+		"ISBN": "978-84-93617-3-8",
+		"language": "eu/es",
+		"number-of-pages": "205",
+		"number-of-volumes": "07, 10, 13",
+		"publisher": "Ataramiñe",
+		"publisher-place": "Donostia",
+		"title": "Ataramiñe 07: euskal errepresaliatu politikoen literatura koadernoak",
+		"volume": "07",
+		"author": [
+			{
+				"family": "Etxegarai",
+				"given": "Alfonso"
+			},
+			{
+				"family": "Goitia",
+				"given": "Oier"
+			},
+			{
+				"family": "Bengoa",
+				"given": "Henry"
+			},
+			{
+				"family": "Artola",
+				"given": "Joseba Mirena"
+			},
+			{
+				"literal": "Mikel"
+			},
+			{
+				"family": "Urizar de Paz",
+				"given": "German"
+			},
+			{
+				"family": "Gonzalo",
+				"given": "Iñaki"
+			},
+			{
+				"family": "Apeztegia",
+				"given": "Joxe Karlos"
+			},
+			{
+				"family": "Gonzalez",
+				"given": "Oier"
+			},
+			{
+				"family": "Zubizarreta",
+				"given": "Urtzi"
+			},
+			{
+				"family": "Urai",
+				"given": "Jokin"
+			},
+			{
+				"literal": "Anonimoa"
+			},
+			{
+				"family": "Zamakola",
+				"given": "Zorion"
+			},
+			{
+				"family": "Kintana",
+				"given": "Asier"
+			},
+			{
+				"family": "Alonso",
+				"given": "Fernando"
+			},
+			{
+				"literal": "Elorri"
+			},
+			{
+				"family": "Etxebarrieta",
+				"given": "Txabi"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/L6VELJL2",
+		"type": "book",
+		"archive": "Hemeroteka",
+		"archive_location": "Aldizkaria/revista",
+		"call-number": "054 EIZ arg",
+		"event-place": "Donosti",
+		"ISBN": "0213-909X",
+		"language": "eu",
+		"publisher": "Argia",
+		"publisher-place": "Donosti",
+		"title": "Argia",
+		"volume": "2493-2622*",
+		"author": [
+			{
+				"family": "Eizagirre",
+				"given": "Estitxu"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			],
+			"season": "2018"
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/XQ2LAPP7",
+		"type": "book",
+		"archive": "Hemeroteka",
+		"archive_location": "Aldizkaria/revista",
+		"call-number": "054 EIZ lar",
+		"event-place": "Donosti",
+		"ISBN": "0213-909X",
+		"language": "eu",
+		"publisher": "Argia",
+		"publisher-place": "Donosti",
+		"title": "Larrun",
+		"volume": "197-236*",
+		"author": [
+			{
+				"family": "Eizagirre",
+				"given": "Estitxu"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			],
+			"season": "2018"
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/UWRHR989",
+		"type": "book",
+		"archive": "Hemeroteka",
+		"archive_location": "Aldizkaria/revista",
+		"call-number": "054 CAR Rie",
+		"event-place": "Donostia",
+		"ISBN": "0212-7016",
+		"language": "eu",
+		"number-of-volumes": "37-39",
+		"publisher": "Eusko Ikaskuntza",
+		"publisher-place": "Donostia",
+		"title": "RIEV: Revista Internacional de los Estudios Vascos. Nazioarteko Eusko Ikaskuntzen Aldizkaria. Revue International des Etudes Basques",
+		"author": [
+			{
+				"family": "Caro Baroja",
+				"given": "Julio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1992"
+				]
+			],
+			"season": "1994"
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/ZPB3G9XQ",
+		"type": "book",
+		"archive": "Hemeroteka",
+		"archive_location": "Aldizkaria/revista",
+		"call-number": "054 CAL cua",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Madrid",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "130",
+		"number-of-volumes": "29",
+		"publisher": "SODEPAZ / ASPA",
+		"publisher-place": "Madrid",
+		"title": "Cuadernos. África América Latina: A 30 años de su muerte",
+		"volume": "29",
+		"editor": [
+			{
+				"family": "Calderón",
+				"given": "Francisco"
+			},
+			{
+				"literal": "et al."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1997"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/85JBLANZ",
+		"type": "book",
+		"archive": "Hemeroteka",
+		"archive_location": "Aldizkaria/revista",
+		"call-number": "054 ARE mun",
+		"event-place": "Bilbo",
+		"ISBN": "1138-4123",
+		"language": "es",
+		"publisher": "Sua",
+		"publisher-place": "Bilbo",
+		"title": "El mundo de los Pirineos. Montaña, cultura y naturaleza. Especial",
+		"volume": "1 - 11*",
+		"author": [
+			{
+				"family": "Areitio",
+				"given": "Argiñe"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			],
+			"season": "2014"
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/Y9QTUFM3",
+		"type": "book",
+		"archive": "Hemeroteka",
+		"archive_location": "Aldizkaria/revista",
+		"call-number": "054 ARE mun",
+		"event-place": "Bilbo",
+		"ISBN": "1138-4123",
+		"language": "es",
+		"publisher": "Sua",
+		"publisher-place": "Bilbo",
+		"title": "El mundo de los Pirineos. Montaña, cultura y naturaleza",
+		"volume": "4-87*",
+		"author": [
+			{
+				"family": "Areitio",
+				"given": "Argiñe"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1998"
+				]
+			],
+			"season": "2012"
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/XWA48J8W",
+		"type": "book",
+		"archive": "Hemeroteka",
+		"archive_location": "Aldizkaria/revista",
+		"call-number": "054 ARC cri",
+		"event-place": "Madrid",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "143",
+		"number-of-volumes": "67",
+		"publisher": "Archipiélago",
+		"publisher-place": "Madrid",
+		"title": "Crisis de la heterosexualidad y reinvención de la condición humana",
+		"volume": "67",
+		"author": [
+			{
+				"literal": "Archipiélago: Cuadernos de crítica de la cultura"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/D9TLNEBK",
+		"type": "book",
+		"archive": "Hemeroteka",
+		"archive_location": "Aldizkaria/revista",
+		"call-number": "054 ARA eus",
+		"event-place": "Iruña",
+		"ISBN": "2476-2010",
+		"language": "eu/es",
+		"number-of-volumes": "1-4",
+		"publisher": "Astero",
+		"publisher-place": "Iruña",
+		"title": "Euskal Herria 1870-1970: cien años en imágenes. Del Carlismo al nacionalismo 1870-1900",
+		"volume": "1",
+		"author": [
+			{
+				"family": "Aramburu",
+				"given": "Gotzon"
+			},
+			{
+				"family": "Egaña",
+				"given": "Juantxo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/U67C6JNZ",
+		"type": "book",
+		"archive": "Hemeroteka",
+		"archive_location": "Aldizkaria/revista",
+		"call-number": "054 APA uzt",
+		"event-place": "Bilbao",
+		"ISBN": "1130-5738",
+		"language": "eu",
+		"number-of-volumes": "4-12",
+		"publisher": "Udako Euskal Unibertsitatea",
+		"publisher-place": "Bilbao",
+		"title": "Uztaro: giza eta gizarte-zientzien aldizkaria",
+		"author": [
+			{
+				"family": "Apalategi",
+				"given": "Jokin"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1992"
+				]
+			],
+			"season": "1994"
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/CYFT9A4X",
+		"type": "book",
+		"archive": "Hemeroteka",
+		"archive_location": "Aldizkaria/revista",
+		"call-number": "054 AIA ata",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Donostia",
+		"ISBN": "978-84-93617-3-8",
+		"language": "eu/es",
+		"number-of-pages": "154",
+		"number-of-volumes": "07, 10, 13",
+		"publisher": "Ataramiñe",
+		"publisher-place": "Donostia",
+		"title": "Ataramiñe 10: euskal errepresaliatu politikoen literatura koadernoak",
+		"volume": "10",
+		"author": [
+			{
+				"family": "Aiartzuega",
+				"given": "Eñaut"
+			},
+			{
+				"family": "Lupiañez",
+				"given": "Gorka"
+			},
+			{
+				"family": "Meñika",
+				"given": "Ibon"
+			},
+			{
+				"family": "Alonso",
+				"given": "Fernando"
+			},
+			{
+				"family": "Lasagabaster",
+				"given": "Olatz"
+			},
+			{
+				"family": "Gonzalo",
+				"given": "Iñaki"
+			},
+			{
+				"family": "Bravo",
+				"given": "Josu"
+			},
+			{
+				"family": "Toda",
+				"given": "Teresa"
+			},
+			{
+				"family": "Cornago",
+				"given": "Galder"
+			},
+			{
+				"family": "Gaintza",
+				"given": "Urtzi"
+			},
+			{
+				"family": "Urain",
+				"given": "Jokin"
+			},
+			{
+				"family": "Gonzalez",
+				"given": "Oier"
+			},
+			{
+				"family": "Muñoa",
+				"given": "Ibon"
+			},
+			{
+				"family": "Andueza",
+				"given": "Oier"
+			},
+			{
+				"family": "Apeztegia",
+				"given": "Joxe Karlos"
+			},
+			{
+				"family": "Aranburu",
+				"given": "Xabier"
+			},
+			{
+				"family": "Plaza",
+				"given": "Itziar"
+			},
+			{
+				"family": "Agirrebarrena",
+				"given": "Aitor"
+			},
+			{
+				"family": "Elkano",
+				"given": "Amaia"
+			},
+			{
+				"family": "Galarraga",
+				"given": "Joseba"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/VTE8QEWD",
+		"type": "book",
+		"archive": "Hemeroteka",
+		"archive_location": "Aldizkaria/revista",
+		"call-number": "054 AIA ata",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Donostia",
+		"ISBN": "978-84-93617-3-8",
+		"language": "eu/es",
+		"number-of-pages": "154",
+		"number-of-volumes": "07, 10, 13",
+		"publisher": "Ataramiñe",
+		"publisher-place": "Donostia",
+		"title": "Ataramiñe 10: euskal errepresaliatu politikoen literatura koadernoak",
+		"volume": "10",
+		"author": [
+			{
+				"family": "Aiartzuega",
+				"given": "Eñaut"
+			},
+			{
+				"family": "Lupiañez",
+				"given": "Gorka"
+			},
+			{
+				"family": "Meñika",
+				"given": "Ibon"
+			},
+			{
+				"family": "Alonso",
+				"given": "Fernando"
+			},
+			{
+				"family": "Lasagabaster",
+				"given": "Olatz"
+			},
+			{
+				"family": "Gonzalo",
+				"given": "Iñaki"
+			},
+			{
+				"family": "Bravo",
+				"given": "Josu"
+			},
+			{
+				"family": "Toda",
+				"given": "Teresa"
+			},
+			{
+				"family": "Cornago",
+				"given": "Galder"
+			},
+			{
+				"family": "Gaintza",
+				"given": "Urtzi"
+			},
+			{
+				"family": "Urain",
+				"given": "Jokin"
+			},
+			{
+				"family": "Gonzalez",
+				"given": "Oier"
+			},
+			{
+				"family": "Muñoa",
+				"given": "Ibon"
+			},
+			{
+				"family": "Andueza",
+				"given": "Oier"
+			},
+			{
+				"family": "Apeztegia",
+				"given": "Joxe Karlos"
+			},
+			{
+				"family": "Aranburu",
+				"given": "Xabier"
+			},
+			{
+				"family": "Plaza",
+				"given": "Itziar"
+			},
+			{
+				"family": "Agirrebarrena",
+				"given": "Aitor"
+			},
+			{
+				"family": "Elkano",
+				"given": "Amaia"
+			},
+			{
+				"family": "Galarraga",
+				"given": "Joseba"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/N2MBC7A4",
+		"type": "book",
+		"archive": "Hemeroteka",
+		"archive_location": "Aldizkaria/revista",
+		"call-number": "054 AIA ata",
+		"event-place": "Donostia",
+		"ISBN": "978-84-93617-3-8",
+		"language": "eu/es",
+		"number-of-pages": "154",
+		"number-of-volumes": "07, 10, 13",
+		"publisher": "Ataramiñe",
+		"publisher-place": "Donostia",
+		"title": "Ataramiñe 10: euskal errepresaliatu politikoen literatura koadernoak",
+		"volume": "10",
+		"author": [
+			{
+				"family": "Aiartzuega",
+				"given": "Eñaut"
+			},
+			{
+				"family": "Lupiañez",
+				"given": "Gorka"
+			},
+			{
+				"family": "Meñika",
+				"given": "Ibon"
+			},
+			{
+				"family": "Alonso",
+				"given": "Fernando"
+			},
+			{
+				"family": "Lasagabaster",
+				"given": "Olatz"
+			},
+			{
+				"family": "Gonzalo",
+				"given": "Iñaki"
+			},
+			{
+				"family": "Bravo",
+				"given": "Josu"
+			},
+			{
+				"family": "Toda",
+				"given": "Teresa"
+			},
+			{
+				"family": "Cornago",
+				"given": "Galder"
+			},
+			{
+				"family": "Gaintza",
+				"given": "Urtzi"
+			},
+			{
+				"family": "Urain",
+				"given": "Jokin"
+			},
+			{
+				"family": "Gonzalez",
+				"given": "Oier"
+			},
+			{
+				"family": "Muñoa",
+				"given": "Ibon"
+			},
+			{
+				"family": "Andueza",
+				"given": "Oier"
+			},
+			{
+				"family": "Apeztegia",
+				"given": "Joxe Karlos"
+			},
+			{
+				"family": "Aranburu",
+				"given": "Xabier"
+			},
+			{
+				"family": "Plaza",
+				"given": "Itziar"
+			},
+			{
+				"family": "Agirrebarrena",
+				"given": "Aitor"
+			},
+			{
+				"family": "Elkano",
+				"given": "Amaia"
+			},
+			{
+				"family": "Galarraga",
+				"given": "Joseba"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/K6XPR3BL",
+		"type": "book",
+		"archive": "Hemeroteka",
+		"archive_location": "Aldizkaria/revista",
+		"call-number": "054 ARD ard",
+		"event-place": "Lizarra",
+		"ISBN": "1576-6616",
+		"language": "eu/es",
+		"number-of-volumes": "1-4",
+		"publisher": "Arakatzen",
+		"publisher-place": "Lizarra",
+		"title": "Ardi Beltza: Ikerkuntza Dokumentuak",
+		"author": [
+			{
+				"literal": "Ardi Beltza"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			],
+			"season": "2004"
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/BV2FQJN7",
+		"type": "book",
+		"archive": "Hemeroteka",
+		"archive_location": "Aldizkaria/revista",
+		"call-number": "054 FER afr",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "La Habana",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "223",
+		"number-of-volumes": "36-37",
+		"publisher": "Casa de las Americas",
+		"publisher-place": "La Habana",
+		"title": "Africa en américa",
+		"volume": "36-37",
+		"author": [
+			{
+				"family": "Fernandez Retamar",
+				"given": "Roberto"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1966"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/AC8E69A4",
+		"type": "book",
+		"archive": "Hemeroteka",
+		"archive_location": "Aldizkaria/revista",
+		"call-number": "054 JUA 7k",
+		"event-place": "Bilbo",
+		"ISBN": "---",
+		"language": "eu/es",
+		"publisher": "Baigorri",
+		"publisher-place": "Bilbo",
+		"title": "7k",
+		"volume": "349-670*",
+		"author": [
+			{
+				"family": "Juaristi",
+				"given": "Josu"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			],
+			"season": "2011"
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/68VSQND8",
+		"type": "book",
+		"archive": "Hemeroteka",
+		"archive_location": "Aldizkaria/revista",
+		"call-number": "054 ZAL her",
+		"event-place": "Bilbao",
+		"ISBN": "1500/1978",
+		"language": "eu/es",
+		"number-of-volumes": "40-266*",
+		"publisher": "Herria 2000 Eliza",
+		"publisher-place": "Bilbao",
+		"title": "Herria 2000 Eliza",
+		"author": [
+			{
+				"family": "Zalakain",
+				"given": "Jexuxmari"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1981"
+				]
+			],
+			"season": "2017"
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/LTBYR56I",
+		"type": "book",
+		"archive": "Hemeroteka",
+		"archive_location": "Aldizkaria/revista",
+		"call-number": "054 TUÑ rev",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Barcelona",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "132",
+		"number-of-volumes": "77-78, 79",
+		"publisher": "Monthly Review Press",
+		"publisher-place": "Barcelona",
+		"title": "Revista Mensual / Montlhy Review: Marxismo, política y estado",
+		"volume": "77-78",
+		"author": [
+			{
+				"family": "Tuñón",
+				"given": "Amparo"
+			},
+			{
+				"family": "Fontcuberta",
+				"given": "Mar"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1978"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/G86YDK23",
+		"type": "book",
+		"archive": "Hemeroteka",
+		"archive_location": "Aldizkaria/revista",
+		"call-number": "054 TUÑ rev",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Barcelona",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "132",
+		"number-of-volumes": "77-79",
+		"publisher": "Monthly Review Press",
+		"publisher-place": "Barcelona",
+		"title": "Revista Mensual / Montlhy Review: Iran. nueva crisis de la hegemnía USA",
+		"volume": "79",
+		"author": [
+			{
+				"family": "Tuñón",
+				"given": "Amparo"
+			},
+			{
+				"family": "Fontcuberta",
+				"given": "Mar"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1978"
+				]
+			]
+		}
+	}
+]

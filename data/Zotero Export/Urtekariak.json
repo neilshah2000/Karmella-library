@@ -1,0 +1,603 @@
+[
+	{
+		"id": "http://zotero.org/groups/2204707/items/FEZAWKCD",
+		"type": "book",
+		"archive": "Hemeroteka",
+		"archive_location": "Urtekaria/Anuario",
+		"call-number": "058 EIZ arg",
+		"event-place": "Donosti",
+		"ISBN": "978-84-617-7936-9",
+		"language": "eu",
+		"publisher": "Argia",
+		"publisher-place": "Donosti",
+		"title": "Argia. Aktualitatearen gakoak",
+		"volume": "2016-2018",
+		"author": [
+			{
+				"family": "Eizagirre",
+				"given": "Estitxu"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			],
+			"season": "2017"
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/RNGHBERB",
+		"type": "book",
+		"archive": "Hemeroteka",
+		"archive_location": "Urtekaria/Anuario",
+		"call-number": "058 JOX eus",
+		"event-place": "Gasteiz",
+		"ISBN": "84-923899-3-1",
+		"language": "eu",
+		"number-of-pages": "798",
+		"publisher": "Arabera",
+		"publisher-place": "Gasteiz",
+		"title": "Euskal Herriko herri mugimenduen gida, 1999",
+		"author": [
+			{
+				"literal": "Joxemi Zumalabe fundazioa"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/722PMDTX",
+		"type": "book",
+		"archive": "Hemeroteka",
+		"archive_location": "Urtekaria/Anuario",
+		"call-number": "058 JOX eus",
+		"event-place": "Gasteiz",
+		"ISBN": "84-923899-3-1",
+		"language": "eu",
+		"number-of-pages": "798",
+		"publisher": "Arabera",
+		"publisher-place": "Gasteiz",
+		"title": "Euskal Herriko herri mugimenduen gida, 1999",
+		"author": [
+			{
+				"literal": "Joxemi Zumalabe fundazioa"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/TA5J78YW",
+		"type": "book",
+		"archive": "Hemeroteka",
+		"archive_location": "Urtekaria/Anuario",
+		"call-number": "058 JOX her",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Donostia",
+		"ISBN": "---",
+		"language": "eu",
+		"number-of-pages": "144",
+		"number-of-volumes": "1999, 2008",
+		"publisher": "Joxemi Zumalabe Fundazioa",
+		"publisher-place": "Donostia",
+		"title": "Herri mugimenduen urtekaria, 2008",
+		"volume": "2008",
+		"author": [
+			{
+				"literal": "Joxemi Zumalabe fundazioa"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/SSNLX4TL",
+		"type": "book",
+		"archive": "Hemeroteka",
+		"archive_location": "Urtekaria/Anuario",
+		"call-number": "058 MAR anu",
+		"event-place": "Bilbao",
+		"ISBN": "84-7886-049-5",
+		"language": "es",
+		"number-of-pages": "319",
+		"number-of-volumes": "1983-1984",
+		"publisher": "Amigos del libro vasco",
+		"publisher-place": "Bilbao",
+		"title": "Anuario de Euskal Herria 1983",
+		"volume": "1983",
+		"editor": [
+			{
+				"family": "Marcos Real",
+				"given": "Francisco Javier"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1983"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/ZFT8HB7Y",
+		"type": "book",
+		"archive": "Hemeroteka",
+		"archive_location": "Urtekaria/Anuario",
+		"call-number": "058 MAR anu",
+		"event-place": "Bilbao",
+		"ISBN": "84-7886-049-5",
+		"language": "es",
+		"number-of-pages": "319",
+		"number-of-volumes": "1983-1984",
+		"publisher": "Amigos del libro vasco",
+		"publisher-place": "Bilbao",
+		"title": "Anuario de Euskal Herria 1983",
+		"volume": "1983",
+		"editor": [
+			{
+				"family": "Marcos Real",
+				"given": "Francisco Javier"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1983"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/QISI92SU",
+		"type": "book",
+		"archive": "Hemeroteka",
+		"archive_location": "Urtekaria/Anuario",
+		"call-number": "058 MAR anu",
+		"event-place": "Bilbao",
+		"ISBN": "84-7886-050-9",
+		"language": "es",
+		"number-of-pages": "310",
+		"number-of-volumes": "1983-1984",
+		"publisher": "Amigos del libro vasco",
+		"publisher-place": "Bilbao",
+		"title": "Anuario de Euskal Herria 1984",
+		"volume": "1984",
+		"editor": [
+			{
+				"family": "Marcos Real",
+				"given": "Francisco Javier"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1984"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/MUSF7IQK",
+		"type": "book",
+		"archive": "Hemeroteka",
+		"archive_location": "Urtekaria/Anuario",
+		"call-number": "058 MON egi",
+		"event-place": "Bilbao",
+		"ISBN": "---",
+		"language": "eu/es",
+		"number-of-pages": "255",
+		"number-of-volumes": "1982-1983, 1985-1986, 1989, 1992-1997",
+		"publisher": "Egin",
+		"publisher-place": "Bilbao",
+		"title": "Egin: Urtekaria 1982",
+		"volume": "1982",
+		"editor": [
+			{
+				"family": "Moneo",
+				"given": "Nacho"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1982"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/FQRDJSLT",
+		"type": "book",
+		"archive": "Hemeroteka",
+		"archive_location": "Urtekaria/Anuario",
+		"call-number": "058 MON egi",
+		"event-place": "Bilbao",
+		"ISBN": "---",
+		"language": "eu/es",
+		"number-of-pages": "253",
+		"number-of-volumes": "1982-1983, 1985-1986, 1989, 1992-1997",
+		"publisher": "Egin",
+		"publisher-place": "Bilbao",
+		"title": "Egin: Urtekaria 1983",
+		"volume": "1983",
+		"editor": [
+			{
+				"family": "Moneo",
+				"given": "Nacho"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1983"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/3DJB78ME",
+		"type": "book",
+		"archive": "Hemeroteka",
+		"archive_location": "Urtekaria/Anuario",
+		"call-number": "058 MON egi",
+		"event-place": "Bilbao",
+		"ISBN": "---",
+		"language": "eu/es",
+		"number-of-pages": "237",
+		"number-of-volumes": "1982-1983, 1985-1986, 1989, 1992-1997",
+		"publisher": "Egin",
+		"publisher-place": "Bilbao",
+		"title": "Egin: Urtekaria 1985",
+		"volume": "1985",
+		"editor": [
+			{
+				"family": "Moneo",
+				"given": "Nacho"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1985"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/PV593PVC",
+		"type": "book",
+		"archive": "Hemeroteka",
+		"archive_location": "Urtekaria/Anuario",
+		"call-number": "058 MON egi",
+		"event-place": "Bilbao",
+		"ISBN": "---",
+		"language": "eu/es",
+		"number-of-pages": "236",
+		"number-of-volumes": "1982-1983, 1985-1986, 1989, 1992-1997",
+		"publisher": "Egin",
+		"publisher-place": "Bilbao",
+		"title": "Egin: Urtekaria 1986",
+		"volume": "1986",
+		"editor": [
+			{
+				"family": "Moneo",
+				"given": "Nacho"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1986"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/43WVBBI2",
+		"type": "book",
+		"archive": "Hemeroteka",
+		"archive_location": "Urtekaria/Anuario",
+		"call-number": "058 MON egi",
+		"event-place": "Bilbao",
+		"ISBN": "---",
+		"language": "eu/es",
+		"number-of-pages": "320",
+		"number-of-volumes": "1982-1983, 1985-1986, 1989, 1992-1997",
+		"publisher": "Egin",
+		"publisher-place": "Bilbao",
+		"title": "Egin: Urtekaria 1989",
+		"volume": "1989",
+		"editor": [
+			{
+				"family": "Moneo",
+				"given": "Nacho"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1989"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/92LUQHLG",
+		"type": "book",
+		"archive": "Hemeroteka",
+		"archive_location": "Urtekaria/Anuario",
+		"call-number": "058 MUN gar",
+		"event-place": "Bilbao",
+		"ISBN": "---",
+		"language": "eu/es",
+		"number-of-pages": "191",
+		"number-of-volumes": "2002, 2005",
+		"publisher": "Gara",
+		"publisher-place": "Bilbao",
+		"title": "Gara: Urtekaria 2002",
+		"volume": "2002",
+		"editor": [
+			{
+				"family": "Munarriz",
+				"given": "Fermin"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/MM4BX8SM",
+		"type": "book",
+		"archive": "Hemeroteka",
+		"archive_location": "Urtekaria/Anuario",
+		"call-number": "058 MUN gar",
+		"event-place": "Bilbao",
+		"ISBN": "---",
+		"language": "eu/es",
+		"number-of-pages": "191",
+		"number-of-volumes": "2002, 2005",
+		"publisher": "Gara",
+		"publisher-place": "Bilbao",
+		"title": "Gara: Urtekaria 2005",
+		"volume": "2005",
+		"editor": [
+			{
+				"family": "Munarriz",
+				"given": "Fermin"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/UXRZLU79",
+		"type": "book",
+		"archive": "Hemeroteka",
+		"archive_location": "Urtekaria/Anuario",
+		"call-number": "058 SAL egi",
+		"event-place": "Bilbao",
+		"ISBN": "---",
+		"language": "eu/es",
+		"number-of-pages": "352",
+		"number-of-volumes": "1982-1983, 1985-1986, 1989, 1992-1997",
+		"publisher": "Egin",
+		"publisher-place": "Bilbao",
+		"title": "Egin: Urtekaria 1992",
+		"volume": "1992",
+		"editor": [
+			{
+				"family": "Salutregi",
+				"given": "Xabier"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1992"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/ND8U4PEQ",
+		"type": "book",
+		"archive": "Hemeroteka",
+		"archive_location": "Urtekaria/Anuario",
+		"call-number": "058 SAL egi",
+		"event-place": "Bilbao",
+		"ISBN": "---",
+		"language": "eu/es",
+		"number-of-pages": "320",
+		"number-of-volumes": "1982-1983, 1985-1986, 1989, 1992-1997",
+		"publisher": "Egin",
+		"publisher-place": "Bilbao",
+		"title": "Egin: Urtekaria 1993",
+		"volume": "1993",
+		"editor": [
+			{
+				"family": "Salutregi",
+				"given": "Xabier"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1993"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/A53R59QV",
+		"type": "book",
+		"archive": "Hemeroteka",
+		"archive_location": "Urtekaria/Anuario",
+		"call-number": "058 SAL egi",
+		"event-place": "Bilbao",
+		"ISBN": "---",
+		"language": "eu/es",
+		"number-of-pages": "320",
+		"number-of-volumes": "1982-1983, 1985-1986, 1989, 1992-1997",
+		"publisher": "Egin",
+		"publisher-place": "Bilbao",
+		"title": "Egin: Urtekaria 1993",
+		"volume": "1993",
+		"editor": [
+			{
+				"family": "Salutregi",
+				"given": "Xabier"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1993"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/B2ESCSVF",
+		"type": "book",
+		"archive": "Hemeroteka",
+		"archive_location": "Urtekaria/Anuario",
+		"call-number": "058 SAL egi",
+		"event-place": "Bilbao",
+		"ISBN": "---",
+		"language": "eu/es",
+		"number-of-pages": "336",
+		"number-of-volumes": "1982-1983, 1985-1986, 1989, 1992-1997",
+		"publisher": "Egin",
+		"publisher-place": "Bilbao",
+		"title": "Egin: Urtekaria 1994",
+		"volume": "1994",
+		"editor": [
+			{
+				"family": "Salutregi",
+				"given": "Xabier"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/UVG39QKM",
+		"type": "book",
+		"archive": "Hemeroteka",
+		"archive_location": "Urtekaria/Anuario",
+		"call-number": "058 SAL egi",
+		"event-place": "Bilbao",
+		"ISBN": "---",
+		"language": "eu/es",
+		"number-of-pages": "304",
+		"number-of-volumes": "1982-1983, 1985-1986, 1989, 1992-1997",
+		"publisher": "Egin",
+		"publisher-place": "Bilbao",
+		"title": "Egin: Urtekaria 1995",
+		"volume": "1995",
+		"editor": [
+			{
+				"family": "Salutregi",
+				"given": "Xabier"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/UE38DYUS",
+		"type": "book",
+		"archive": "Hemeroteka",
+		"archive_location": "Urtekaria/Anuario",
+		"call-number": "058 SAL egi",
+		"event-place": "Bilbao",
+		"ISBN": "---",
+		"language": "eu/es",
+		"number-of-pages": "343",
+		"number-of-volumes": "1982-1983, 1985-1986, 1989, 1992-1997",
+		"publisher": "Egin",
+		"publisher-place": "Bilbao",
+		"title": "Egin: Urtekaria 1997",
+		"volume": "1997",
+		"editor": [
+			{
+				"family": "Salutregi",
+				"given": "Xabier"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1997"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/ZJ4FX9FE",
+		"type": "book",
+		"archive": "Hemeroteka",
+		"archive_location": "Urtekaria/Anuario",
+		"call-number": "058 ETC kal",
+		"event-place": "Angelu",
+		"ISBN": "1963/2001",
+		"language": "Es",
+		"number-of-volumes": "1-26",
+		"publisher": "Miatzen SARL",
+		"publisher-place": "Angelu",
+		"title": "Kale Gorria: Periodismo de investigación y denuncia social",
+		"author": [
+			{
+				"family": "Etchezaharreta",
+				"given": "Xarlo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			],
+			"season": "2003"
+		}
+	}
+]

@@ -1,0 +1,313 @@
+[
+	{
+		"id": "http://zotero.org/groups/2204707/items/X9W5RWBF",
+		"type": "book",
+		"call-number": "329.inde SUD txi",
+		"event-place": "Donostia",
+		"ISBN": "978-84-9027-544-3",
+		"language": "es",
+		"number-of-pages": "353",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Txillardegiren borroka abertzalea",
+		"author": [
+			{
+				"family": "Sudupe",
+				"given": "Pako"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/BCAF3T2V",
+		"type": "book",
+		"call-number": "329.inde NAV ful",
+		"event-place": "Anglet",
+		"ISBN": "978-2-914743-08-2",
+		"language": "es",
+		"number-of-pages": "243",
+		"publisher": "Kale Gorria",
+		"publisher-place": "Anglet",
+		"title": "Fulgor de libertad: el estado contra Euskal Herria",
+		"title-short": "Fulgor de libertad",
+		"author": [
+			{
+				"family": "Navarro",
+				"given": "Joaquín"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/6GIZX522",
+		"type": "book",
+		"call-number": "329.inde LOP jos",
+		"event-place": "Morelia, Michoacán de Ocampos, Mexico",
+		"ISBN": "978-968-7469-10-2",
+		"language": "es",
+		"number-of-pages": "76",
+		"publisher": "Universidad Michoacana de San Nicolás de Hidalgo, Instituto de Investigaciones Históricas, Departamento de Historia Latinoamericana",
+		"publisher-place": "Morelia, Michoacán de Ocampos, Mexico",
+		"title": "José Martí, 1853-1895: la dignidad humana",
+		"author": [
+			{
+				"family": "López Civeira",
+				"given": "Francisca"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/GF5P6Q6V",
+		"type": "book",
+		"call-number": "329.inde LET nov",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Donostia",
+		"language": "es",
+		"number-of-pages": "264",
+		"publisher": "Txertoa",
+		"publisher-place": "Donostia",
+		"title": "El no vasco a la reforma: La consolidación de la reforma",
+		"title-short": "El no vasco a la reforma",
+		"author": [
+			{
+				"family": "Letamendia",
+				"given": "Francisco"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1979"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/S3SQ9EH8",
+		"type": "book",
+		"call-number": "329.inde JUR ind",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-593-1",
+		"language": "es",
+		"number-of-pages": "239",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Independencia: de reivindicación histórica a necesidad económica",
+		"title-short": "Independencia",
+		"author": [
+			{
+				"family": "Jurado",
+				"given": "Nekane"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/AU7QFI2M",
+		"type": "book",
+		"call-number": "329.inde GON der",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-404-8360-7",
+		"language": "Spanish",
+		"number-of-pages": "409",
+		"publisher": "Herria 2000 Eliza",
+		"publisher-place": "Bilbao",
+		"title": "Derechos Humanos individuales. Derechos de los Estados. Derechos de los Pueblos. Congreso sobre Derechos Humanos Individuales y Colectivos",
+		"editor": [
+			{
+				"family": "Goñi Alzueta",
+				"given": "Joseba"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1990"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/NHWGBGVS",
+		"type": "book",
+		"call-number": "329.inde ESP nue",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-16350-44-5",
+		"language": "es",
+		"number-of-pages": "318",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Nuestro pueblo despertará :David Jaime y la República vasconavarra",
+		"title-short": "Nuestro pueblo despertará",
+		"author": [
+			{
+				"family": "Esparza Zabalegi",
+				"given": "Jose Mari"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/7PEYX5DB",
+		"type": "book",
+		"call-number": "329.inde ESP cie",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-465-1",
+		"language": "es",
+		"number-of-pages": "384",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Cien razones por las que dejé de ser español",
+		"author": [
+			{
+				"family": "Esparza",
+				"given": "Jose Mari"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/9MNCGFRK",
+		"type": "book",
+		"call-number": "329.inde ERK biz",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-16350-70-4",
+		"language": "eu",
+		"number-of-pages": "327",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Bizipenak eta hausnarketak",
+		"author": [
+			{
+				"family": "Erkizia",
+				"given": "Tasio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/CAML4IR8",
+		"type": "book",
+		"call-number": "329.inde DIA pro",
+		"event-place": "La Habana",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "114",
+		"publisher": "Ministerio de Educación Superior",
+		"publisher-place": "La Habana",
+		"title": "El proceso de formación de los estados nacionales en América Latina",
+		"author": [
+			{
+				"family": "Díaz de Arce",
+				"given": "Omar"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1988"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/HKTKJDD5",
+		"type": "book",
+		"call-number": "329.inde ART jos",
+		"event-place": "La Habana",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "214",
+		"publisher": "Casa de las Américas",
+		"publisher-place": "La Habana",
+		"title": "José Artigas: documentos",
+		"author": [
+			{
+				"family": "Artigas",
+				"given": "José Gervasio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1971"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/GCG8LSVM",
+		"type": "book",
+		"call-number": "329.inde ARI per",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-16350-33-9",
+		"language": "eu",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Periko gazteekin hizketan",
+		"author": [
+			{
+				"family": "Ariztegi Ziaran",
+				"given": "Ibai"
+			},
+			{
+				"family": "Barberena",
+				"given": "Eneko"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	}
+]

@@ -1,0 +1,127 @@
+[
+	{
+		"id": "http://zotero.org/groups/2204707/items/QNFLHZUU",
+		"type": "book",
+		"call-number": "37 ROD ika",
+		"event-place": "Donostia",
+		"ISBN": "978-84-89077-70-6",
+		"number-of-pages": "108",
+		"publisher": "Egin",
+		"publisher-place": "Donostia",
+		"title": "Ikastolak eta euskal eskolak",
+		"author": [
+			{
+				"family": "Rodriguez",
+				"given": "Fito"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/ICNKAAJ7",
+		"type": "book",
+		"call-number": "37 ROD ika",
+		"event-place": "Donostia",
+		"ISBN": "978-84-89077-70-6",
+		"number-of-pages": "108",
+		"publisher": "Egin",
+		"publisher-place": "Donostia",
+		"title": "Ikastolak eta euskal eskolak",
+		"author": [
+			{
+				"family": "Rodriguez",
+				"given": "Fito"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/TPAL4BFK",
+		"type": "book",
+		"call-number": "37 ORI his",
+		"event-place": "La Habana",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "326",
+		"publisher": "Unión de Escritores y Artistas de Cuba",
+		"publisher-place": "La Habana",
+		"title": "Historia del frente infantil del Grupo Teatro Escambray",
+		"author": [
+			{
+				"family": "Orihuela",
+				"given": "Roberto"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1978"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/NPGXL32S",
+		"type": "book",
+		"abstract": "Durante 50 años, A.S. Neill dirigió en las cercanías de Londres la famosa escuela de Summerhill, que ha tratado de dar un paso hacia la verdadera educación progresista: la autorregulación de los niños. A tal propósito, el sistema seguido por el autor es un punto de vista radical y las exposiciones que hace en este extraordinario libro son el resultado de sus experiencias.",
+		"call-number": "37 NEI sum",
+		"event-place": "México",
+		"ISBN": "978-968-16-7222-5",
+		"language": "es",
+		"number-of-pages": "302",
+		"publisher": "Fondo de Cultura Económica",
+		"publisher-place": "México",
+		"title": "Summerhill: un punto de vista radical sobre la educación de los niños",
+		"title-short": "Summerhill",
+		"author": [
+			{
+				"family": "Neill",
+				"given": "Alexander Sutherland"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1963"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/LE3U28TA",
+		"type": "book",
+		"call-number": "37 ALC edu",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-329-8640-6",
+		"language": "es",
+		"number-of-pages": "98",
+		"publisher": "Ceac",
+		"publisher-place": "Barcelona",
+		"title": "Educar la autoestima",
+		"author": [
+			{
+				"family": "Alcántara",
+				"given": "José Antonio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			]
+		}
+	}
+]

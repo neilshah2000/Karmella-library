@@ -1,0 +1,1120 @@
+[
+	{
+		"id": "http://zotero.org/groups/2204707/items/JPM43RMC",
+		"type": "book",
+		"abstract": "The child of Communist war-hero parents under Tito's regime in postwar Yugoslavia, Marina Abramović was raised with a relentless work ethic. Even as she was beginning to build an international artistic career, she lived at home under her mother's abusive control, strictly obeying a 10 p.m. curfew. But nothing could quell her insatiable curiosity, her desire to connect with people, or her distinctly Balkan sense of humor -- all of which informs her art and her life. Marina's story, by turns moving, epic, and dryly funny, is a vivid and powerful rendering of the unparalleled life of an extraordinary artist.",
+		"call-number": "329.femi ABR wal",
+		"ISBN": "978-1-101-90506-7",
+		"language": "en",
+		"number-of-pages": "370",
+		"publisher": "Penguin",
+		"title": "Walk through walls: a memoir",
+		"title-short": "Walk through walls",
+		"author": [
+			{
+				"family": "Abramović",
+				"given": "Marina"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/TSABNR26",
+		"type": "book",
+		"call-number": "239.femi WOL pro",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-08-02512-2",
+		"language": "es",
+		"number-of-pages": "429",
+		"publisher": "Planeta",
+		"publisher-place": "Barcelona",
+		"title": "Promiscuidades",
+		"author": [
+			{
+				"family": "Wolf",
+				"given": "Naomi"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1998"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/A86YWH9N",
+		"type": "book",
+		"call-number": "329.femi ZIG sex",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-15313-08-3",
+		"language": "es",
+		"number-of-pages": "116",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Sexual Herria",
+		"author": [
+			{
+				"family": "Ziga",
+				"given": "Itziar"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/Z7VBYGKR",
+		"type": "book",
+		"call-number": "329.femi ZAB mov",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-517-7",
+		"language": "es",
+		"number-of-pages": "303",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Movimiento de mujeres, mujeres en movimiento",
+		"author": [
+			{
+				"family": "Zabala González",
+				"given": "Begoña"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/5BA6EF6Z",
+		"type": "book",
+		"call-number": "329.femi WIT wit",
+		"event-place": "Madrid",
+		"ISBN": "978-84-611-5573-6",
+		"language": "Es",
+		"number-of-pages": "142",
+		"publisher": "La Felguera",
+		"publisher-place": "Madrid",
+		"title": "WITCH (Women's International Terrorist Conspiracy from Hell): textos, comunicados y hechizos (1968-1969).",
+		"author": [
+			{
+				"literal": "WITCH"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/ZSBE7E56",
+		"type": "book",
+		"call-number": "329.femi WIL tod",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-115-5",
+		"language": "es",
+		"number-of-pages": "234",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Con todas sus fuerzas: Gertrude Harding, militante sufragista",
+		"title-short": "Con todas sus fuerzas",
+		"author": [
+			{
+				"family": "Wilson",
+				"given": "Gretchen"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/FI9WKW26",
+		"type": "book",
+		"call-number": "329.femi WIL tod",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-115-5",
+		"language": "es",
+		"number-of-pages": "234",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Con todas sus fuerzas: Gertrude Harding, militante sufragista",
+		"title-short": "Con todas sus fuerzas",
+		"author": [
+			{
+				"family": "Wilson",
+				"given": "Gretchen"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/HYWSDXZ4",
+		"type": "book",
+		"call-number": "329.femi WIL tod",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-115-5",
+		"language": "es",
+		"number-of-pages": "234",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Con todas sus fuerzas: Gertrude Harding, militante sufragista",
+		"title-short": "Con todas sus fuerzas",
+		"author": [
+			{
+				"family": "Wilson",
+				"given": "Gretchen"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/MF4PXVK9",
+		"type": "book",
+		"call-number": "329.femi WAL wom",
+		"event-place": "London",
+		"ISBN": "978-0-237-49953-2",
+		"language": "en",
+		"number-of-pages": "44",
+		"publisher": "Evans Bros",
+		"publisher-place": "London",
+		"title": "Women in Britain: seven women talk about their lives",
+		"title-short": "Women in Britain",
+		"author": [
+			{
+				"family": "Wallace",
+				"given": "Catherine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1975"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/PE3TUFSI",
+		"type": "book",
+		"call-number": "329.femi VAL muj",
+		"event-place": "Donostia",
+		"ISBN": "978-84-89077-67-6",
+		"language": "es",
+		"number-of-pages": "106",
+		"publisher": "Egin",
+		"publisher-place": "Donostia",
+		"title": "Las mujeres en Euskal Herria: ayer y hoy",
+		"title-short": "Las mujeres en Euskal Herria",
+		"author": [
+			{
+				"family": "Valle",
+				"given": "Teresa",
+				"dropping-particle": "del"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/HPJB8B3A",
+		"type": "book",
+		"call-number": "329.femi TOR por",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-609-9",
+		"language": "es",
+		"number-of-pages": "225",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Pornoterrorismo",
+		"author": [
+			{
+				"family": "Torres",
+				"given": "Diana J."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011",
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/PVYIC6XQ",
+		"type": "book",
+		"call-number": "329.femi TIE sex",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Madrid",
+		"ISBN": "978-84-88119-47-6",
+		"language": "es",
+		"number-of-pages": "361",
+		"publisher": "Talasa",
+		"publisher-place": "Madrid",
+		"title": "El sexo no es un acto natural y otros ensayos",
+		"author": [
+			{
+				"family": "Tiefer",
+				"given": "Leonore"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/H9E9NNDX",
+		"type": "book",
+		"call-number": "329.femi TEJ soc",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Gasteiz",
+		"ISBN": "84-457-0656-X",
+		"language": "es",
+		"number-of-pages": "184",
+		"publisher": "Eusko Jaurlaritza",
+		"publisher-place": "Gasteiz",
+		"title": "Sociedad civil, protesta y movimientos sociales en el País Vasco: los límites de la teoría de la movilización de recursos",
+		"title-short": "Sociedad civil, protesta y movimientos sociales en el País Vasco",
+		"author": [
+			{
+				"family": "Tejerina Montaña",
+				"given": "Benjamín"
+			},
+			{
+				"family": "Aierdi",
+				"given": "Xabier"
+			},
+			{
+				"family": "Fernández Sobrado",
+				"given": "José Manuel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/54VBYEIU",
+		"type": "book",
+		"call-number": "329.femi STU izq",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Donostia",
+		"ISBN": "978-84-931693-0-5",
+		"language": "es",
+		"number-of-pages": "358",
+		"publisher": "Basandere",
+		"publisher-place": "Donostia",
+		"title": "La izquierda desde la clase, el género y la opresión nacional",
+		"author": [
+			{
+				"family": "Stürtze",
+				"given": "Alizia"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/4XBQPYA7",
+		"type": "book",
+		"call-number": "329.femi SAC teo",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Santo Domingo",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "157",
+		"publisher": "Centro de Investigacion para la Accion Femenina (CIPAF)",
+		"publisher-place": "Santo Domingo",
+		"title": "Teoría feminista: selección de textos",
+		"title-short": "Teoría feminista",
+		"editor": [
+			{
+				"family": "Sacks",
+				"given": "Karen"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1984"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/64IE4UW7",
+		"type": "book",
+		"call-number": "329.femi ROQ his",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-15313-74-8",
+		"language": "es",
+		"number-of-pages": "197",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Historia de la prostitución en Euskal Herria",
+		"author": [
+			{
+				"family": "Roquero",
+				"given": "Charo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/4REXZZMG",
+		"type": "book",
+		"call-number": "329.femi REI esc",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-85302-13-0",
+		"language": "es",
+		"number-of-pages": "115",
+		"publisher": "Síntesis",
+		"publisher-place": "Barcelona",
+		"title": "Escucha pequeño hombrecito",
+		"author": [
+			{
+				"family": "Reich",
+				"given": "Wilhelm"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1978"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/94DD9DJW",
+		"type": "book",
+		"call-number": "329.femi PER gul",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-86597-76-4",
+		"language": "es",
+		"number-of-pages": "162",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Gulili: mujeres del desierto saharaui",
+		"title-short": "Gulili",
+		"author": [
+			{
+				"family": "Perregaux",
+				"given": "Christiane"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1993"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/PW34T2J7",
+		"type": "book",
+		"call-number": "329.femi OSO isa",
+		"event-place": "Donostia",
+		"ISBN": "978-84-8331-067-0",
+		"language": "eus",
+		"number-of-pages": "140",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Isadora Duncan",
+		"author": [
+			{
+				"family": "Osoro Igartua",
+				"given": "Jasone"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1998"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/M9AM2TMH",
+		"type": "book",
+		"call-number": "329.femi OLM ero",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-608-4142-5",
+		"language": "eu",
+		"number-of-pages": "187",
+		"publisher": "Ideatomics",
+		"publisher-place": "Bilbao",
+		"title": "Eromekanika: makineria sozialaren erotika",
+		"author": [
+			{
+				"family": "Olmo Alonso",
+				"given": "Saioa"
+			},
+			{
+				"family": "Erkizia",
+				"given": "Xabier"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/236EBI82",
+		"type": "book",
+		"call-number": "329.femi NIN ana",
+		"edition": "Bruguera",
+		"event-place": "Barcelona",
+		"language": "es",
+		"number-of-pages": "445",
+		"publisher": "Bruguera",
+		"publisher-place": "Barcelona",
+		"title": "Anaïs Nin: diario",
+		"author": [
+			{
+				"family": "Nin",
+				"given": "Anaïs"
+			},
+			{
+				"family": "Hegewicz",
+				"given": "Enrique"
+			},
+			{
+				"family": "Stuhlmann",
+				"given": "Gunther"
+			},
+			{
+				"family": "Benveniste",
+				"given": "Ida"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1984"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/85YV9IDY",
+		"type": "book",
+		"call-number": "329.femi NGO guz",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Donostia",
+		"ISBN": "---",
+		"language": "eu",
+		"number-of-pages": "33",
+		"publisher": "Plazara goaz",
+		"publisher-place": "Donostia",
+		"title": "Guztiok izan beharko ginateke feminista",
+		"author": [
+			{
+				"family": "Ngozi Adichie",
+				"given": "Chimamanda"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/I7WXJ7LC",
+		"type": "book",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Donostia",
+		"ISBN": "---",
+		"language": "eu",
+		"number-of-pages": "33",
+		"publisher": "Plazara goaz",
+		"publisher-place": "Donostia",
+		"source": "329.femi NGO guz",
+		"title": "Guztiok izan beharko ginateke feminista",
+		"author": [
+			{
+				"family": "Ngozi Adichie",
+				"given": "Chimamanda"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/DFB6HHAN",
+		"type": "book",
+		"call-number": "329.femi NAR muj",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Madrid",
+		"ISBN": "978-84-00-07481-4",
+		"language": "es",
+		"number-of-pages": "204",
+		"publisher": "CSIC",
+		"publisher-place": "Madrid",
+		"title": "Mujer, mujeres, género: una aproximación crítica al estudio de las mujeres en las ciencias sociales",
+		"title-short": "Mujer, mujeres, género",
+		"author": [
+			{
+				"family": "Narotzky",
+				"given": "Susana"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/84D7YBLY",
+		"type": "book",
+		"call-number": "329.femi MAH mun",
+		"event-place": "Bilbao",
+		"ISBN": "---",
+		"language": "eu/es",
+		"number-of-pages": "136",
+		"publisher": "GITE-IPES",
+		"publisher-place": "Bilbao",
+		"title": "Munduko emakumeak krisiaren aurrean / Mujeres del mundo ante la crisis global",
+		"author": [
+			{
+				"family": "Mahmoud",
+				"given": "Souad"
+			},
+			{
+				"family": "Bekridaki",
+				"given": "Georgia"
+			},
+			{
+				"family": "Nela Prada",
+				"given": "Maria"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/CLSVZA6Y",
+		"type": "book",
+		"call-number": "329.femi LAS gor",
+		"event-place": "Bilbo",
+		"ISBN": "978-84-8438-516-5",
+		"language": "eu",
+		"number-of-pages": "228",
+		"publisher": "Udako Euskal Unibertsitatea",
+		"publisher-place": "Bilbo",
+		"title": "Gorputza eta generoa: teoria, didaktika eta esperientziak",
+		"author": [
+			{
+				"family": "Lasarte Leonet",
+				"given": "Gema"
+			},
+			{
+				"family": "Alvarez Uria",
+				"given": "Amaia"
+			},
+			{
+				"family": "Torras",
+				"given": "Meri"
+			},
+			{
+				"family": "Esteban",
+				"given": "Mari Luz"
+			},
+			{
+				"family": "Fernandez",
+				"given": "Jone"
+			},
+			{
+				"family": "Miner",
+				"given": "Kattalin"
+			},
+			{
+				"family": "Vizcarra",
+				"given": "Maria Teresa"
+			},
+			{
+				"family": "Meabe",
+				"given": "Miren Agur"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/688P3IBQ",
+		"type": "book",
+		"call-number": "329.femi GAL kol",
+		"event-place": "Bilbao",
+		"ISBN": "---",
+		"language": "eu/es",
+		"number-of-pages": "40",
+		"publisher": "Galtzagorri San Frantzizkoko Emakumeen Taldea",
+		"publisher-place": "Bilbao",
+		"title": "Koloretxe: Auzo garaietako emakumeen etxea = Koloretxe: La casa de las mujeres de los barrios altos",
+		"author": [
+			{
+				"literal": "Galtzagorri San Frantzizkoko Emakumeen Taldea"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/5M8NIZLX",
+		"type": "book",
+		"call-number": "329.femi FED rev",
+		"event-place": "Madrid",
+		"ISBN": "978-987-3687-25-9",
+		"language": "es",
+		"number-of-pages": "285",
+		"publisher": "Traficantes de Sueños",
+		"publisher-place": "Madrid",
+		"title": "Revolución en punto cero: trabajo doméstico, reproducción y luchas feministas",
+		"author": [
+			{
+				"family": "Federici",
+				"given": "Silvia"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/3UDRIT7G",
+		"type": "book",
+		"call-number": "329.femi EUS ind",
+		"event-place": "Bilbao",
+		"ISBN": "---",
+		"publisher": "Euskal Herriko Bilgune Feminista",
+		"publisher-place": "Bilbao",
+		"title": "Indar bat gara gu: Euskal Herriko Bilgune Feministak 15 urte",
+		"author": [
+			{
+				"literal": "Euskal Herriko Bilgune Feminista"
+			},
+			{
+				"literal": "Emagin"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/Z5Q2IL3Z",
+		"type": "book",
+		"call-number": "329.femi ESC tra",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-947350-5-9",
+		"language": "es",
+		"number-of-pages": "253",
+		"publisher": "Mundubat",
+		"publisher-place": "Bilbao",
+		"title": "Trabajadoras no domesticadas: Diagnóstico participativo y plan de acción integral",
+		"author": [
+			{
+				"family": "Escobar",
+				"given": "Aidee"
+			},
+			{
+				"family": "Quinatana",
+				"given": "Liz"
+			},
+			{
+				"family": "Montoya",
+				"given": "Lyudmila"
+			},
+			{
+				"family": "Gil",
+				"given": "Pili"
+			},
+			{
+				"family": "Rugamas",
+				"given": "Silvia"
+			},
+			{
+				"family": "Fernandez",
+				"given": "Riosby"
+			},
+			{
+				"family": "Roco",
+				"given": "Josefina"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/CQB4UNEC",
+		"type": "book",
+		"call-number": "329.femi DUB his",
+		"ISBN": "978-84-306-0388-6",
+		"language": "es",
+		"number-of-pages": "682",
+		"publisher": "Taurus",
+		"title": "Historia de las mujeres: La antigüedad",
+		"editor": [
+			{
+				"family": "Duby",
+				"given": "Georges"
+			},
+			{
+				"family": "Perrot",
+				"given": "Michelle"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1990"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/WT55RTDN",
+		"type": "book",
+		"call-number": "329.femi CEL gar",
+		"event-place": "Vitoria-Gasteiz",
+		"ISBN": "978-84-457-2437-8",
+		"language": "eu/es",
+		"number-of-pages": "176",
+		"publisher": "Eusko Jaurlartitza",
+		"publisher-place": "Vitoria-Gasteiz",
+		"title": "Garapenerako estrategia positiboa: Hegoaldearen ikuspegia genero-berdintasunerako emakumeen jabekuntzan / Estrategias positivas de desarrollo: la visión sur en el empoderamiento de las mujeres para la equidad de género.",
+		"editor": [
+			{
+				"family": "Celiberti",
+				"given": "Lilian"
+			},
+			{
+				"family": "Río Martinez",
+				"given": "Amaia",
+				"dropping-particle": "del"
+			},
+			{
+				"family": "Sanden",
+				"given": "Cecilia Von"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/B8AYPTYV",
+		"type": "book",
+		"call-number": "329.femi BUR mel",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Barcelona",
+		"ISBN": "84-322-4688-3",
+		"language": "es",
+		"number-of-pages": "284",
+		"publisher": "Seix Barral",
+		"publisher-place": "Barcelona",
+		"title": "Me llamo Rigoberta Menchú y así me nació la conciencia",
+		"author": [
+			{
+				"family": "Burgos",
+				"given": "Elizabeth"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1997"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/DGUHWI9S",
+		"type": "book",
+		"abstract": "El conflicto surgido en Irún y Hondarribia en torno a la participación de mujeres en los alardes de armas de las fiestas ha dado lugar a numerosos espectáculos tristes desde que estalló la polémica: violencia, discusiones y ostracismo a toda persona simpatizante con ofrecer a las mujeres la posibilidad de participar en otro papel que el de cantinera. Este estudio pretende entender por qué la solicitud de una participación igualitaria produce un rechazo tan visceral de parte de la población, analizar los argumentos expuestos y conocer las razones, opiniones y emociones de las personas implicadas en una realidad social ciertamente espinosa.",
+		"call-number": "329.femi BUL tri",
+		"ISBN": "978-84-8373-557-2",
+		"language": "es",
+		"number-of-pages": "276",
+		"publisher": "EHU",
+		"title": "Tristes espectáculos: las mujeres y los Alardes de Irún y Hondarribia",
+		"author": [
+			{
+				"family": "Bullen",
+				"given": "Margaret"
+			},
+			{
+				"family": "Egido",
+				"given": "José Antonio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2003"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/7ES5Q9CU",
+		"type": "book",
+		"call-number": "329.femi AZP mas",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-92559-78-7",
+		"language": "es",
+		"number-of-pages": "138",
+		"publisher": "Virus Editorial",
+		"publisher-place": "Barcelona",
+		"title": "Masculinidades y feminismo",
+		"author": [
+			{
+				"family": "Azpiazu Carballo",
+				"given": "Jokin"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/M4H5S829",
+		"type": "book",
+		"call-number": "329.femi ALV gen",
+		"event-place": "Donostia",
+		"ISBN": "978-84-940489-5-1",
+		"language": "eu",
+		"number-of-pages": "318",
+		"publisher": "Edo!",
+		"publisher-place": "Donostia",
+		"title": "Genero-ariketak: feminismoaren subjektuak",
+		"editor": [
+			{
+				"family": "Castillo Etxano",
+				"given": "Isa"
+			},
+			{
+				"family": "Retolaza Gutierrez",
+				"given": "Iratxe"
+			}
+		],
+		"author": [
+			{
+				"family": "Alvarez Uria",
+				"given": "Amaia"
+			},
+			{
+				"family": "Butler",
+				"given": "Judith"
+			},
+			{
+				"family": "Despentes",
+				"given": "Virginie"
+			},
+			{
+				"family": "Esteban",
+				"given": "Mari Luz"
+			},
+			{
+				"family": "Güemes",
+				"given": "Ainhoa"
+			},
+			{
+				"literal": "Medeak"
+			},
+			{
+				"family": "Platero",
+				"given": "Lucas"
+			},
+			{
+				"family": "Preciado",
+				"given": "Beatriz"
+			},
+			{
+				"family": "Sáez",
+				"given": "Javier"
+			},
+			{
+				"family": "Ziga",
+				"given": "Itziar"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/L2QBX5NB",
+		"type": "book",
+		"call-number": "329.femi AGI sim",
+		"event-place": "Donostia",
+		"ISBN": "978-84-9783-614-2",
+		"language": "eus",
+		"note": "OCLC: 434254325",
+		"number-of-pages": "119",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Simone de Beauvoir emakume libre bat XX. mendean",
+		"author": [
+			{
+				"family": "Agirreurreta",
+				"given": "Arantxa"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/6TLTMBBV",
+		"type": "book",
+		"call-number": "329.femi AGI ros",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Donostia",
+		"ISBN": "978-84-8331-650-4",
+		"language": "eu",
+		"number-of-pages": "156",
+		"publisher": "Elkarlanean",
+		"publisher-place": "Donostia",
+		"title": "Rosa Luxemburg",
+		"author": [
+			{
+				"family": "Agirre",
+				"given": "Lorea"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	}
+]

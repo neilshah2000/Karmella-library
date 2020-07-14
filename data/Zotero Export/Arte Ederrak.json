@@ -1,0 +1,776 @@
+[
+	{
+		"id": "http://zotero.org/groups/2204707/items/S7MB5GGB",
+		"type": "book",
+		"call-number": "73 WAR rit",
+		"event-place": "Donostia",
+		"ISBN": "978-84-697-3118-5",
+		"language": "es",
+		"number-of-pages": "87",
+		"publisher": "Tabakalera, Kultura Garaikidearen Nazioarteko Zentroa",
+		"publisher-place": "Donostia",
+		"title": "El ritual de la serpiente",
+		"author": [
+			{
+				"family": "Warburg",
+				"given": "Aby Moritz"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/FHXZ4UI2",
+		"type": "book",
+		"call-number": "73 USA eus",
+		"event-place": "Amorebieta",
+		"ISBN": "978-84-8325-807-1",
+		"language": "eus",
+		"number-of-pages": "122",
+		"publisher": "Ibaizabal",
+		"publisher-place": "Amorebieta",
+		"title": "Euskal Herriko eskultura",
+		"author": [
+			{
+				"family": "Usabiaga Urkola",
+				"given": "Juan José"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2004"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/IGE3WHR9",
+		"type": "book",
+		"call-number": "73 URI uni",
+		"event-place": "Ziburu",
+		"ISBN": "978-2-9517005-0-5",
+		"language": "fr",
+		"number-of-pages": "208",
+		"publisher": "S.U.M.",
+		"publisher-place": "Ziburu",
+		"title": "L'univers d'Antonio Uria Monzón.",
+		"author": [
+			{
+				"family": "Uría Monzón",
+				"given": "Antonio"
+			},
+			{
+				"family": "Lacouture",
+				"given": "Jean"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/D5REIRZI",
+		"type": "book",
+		"call-number": "73 UGA hab",
+		"event-place": "Donostia",
+		"ISBN": "978-84-7148-375-1",
+		"language": "es",
+		"number-of-pages": "180",
+		"publisher": "Txertoa",
+		"publisher-place": "Donostia",
+		"title": "Hablando con Chillida, escultor vasco",
+		"author": [
+			{
+				"family": "Ugalde",
+				"given": "Martin"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1975"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/TUX9H6KD",
+		"type": "book",
+		"call-number": "73 ROD bil",
+		"event-place": "Bilbao",
+		"ISBN": "---",
+		"language": "Spanish",
+		"number-of-pages": "136",
+		"publisher": "Bilbao Arte",
+		"publisher-place": "Bilbao",
+		"title": "Bilbao Arte, 1998-2000: memoria de actividades",
+		"title-short": "Bilbao Arte, 1998-2000",
+		"author": [
+			{
+				"family": "Rodríguez",
+				"given": "Celia"
+			},
+			{
+				"family": "Kareaga",
+				"given": "Pedro"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/VRSDHM5M",
+		"type": "book",
+		"call-number": "73 pho liv",
+		"event-place": "Paris",
+		"language": "fr",
+		"number-of-pages": "108",
+		"publisher": "Minerva",
+		"publisher-place": "Paris",
+		"title": "Le livre de la chasse de Gaston Phœbus, comte de Foix",
+		"author": [
+			{
+				"family": "Phœbus",
+				"given": "Gaston III"
+			}
+		],
+		"editor": [
+			{
+				"family": "Bise",
+				"given": "Gabriel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1993"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/L3XWWCWV",
+		"type": "book",
+		"abstract": "Muñoz",
+		"call-number": "73 PER nes",
+		"collection-title": "Maria Teresa",
+		"event-place": "Bilbao",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "178",
+		"publisher": "COINPASA",
+		"publisher-place": "Bilbao",
+		"title": "Néstor Basterrechea",
+		"author": [
+			{
+				"family": "Perallón",
+				"given": "José E"
+			},
+			{
+				"family": "Basterretxea",
+				"given": "Néstor"
+			},
+			{
+				"family": "Fullaondo",
+				"given": "J. Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1992"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/RX482WUC",
+		"type": "book",
+		"call-number": "73 PAZ bus",
+		"event-place": "Madrid",
+		"ISBN": "978-84-245-0297-3",
+		"language": "es",
+		"number-of-pages": "130",
+		"publisher": "Fundamentos",
+		"publisher-place": "Madrid",
+		"title": "La busqueda del comienzo: escritos sobre el surrealismo",
+		"title-short": "La busqueda del comienzo",
+		"author": [
+			{
+				"family": "Paz",
+				"given": "Octavio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1980"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/ITN6R8FY",
+		"type": "book",
+		"call-number": "73 OTE hab",
+		"event-place": "Bilbao",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "78",
+		"publisher": "Coavn",
+		"publisher-place": "Bilbao",
+		"title": "Habla Oteiza",
+		"author": [
+			{
+				"family": "Oteiza",
+				"given": "Jorge"
+			},
+			{
+				"family": "Merino",
+				"given": "José Luis"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/IB775QLQ",
+		"type": "book",
+		"call-number": "73 PAP mer",
+		"event-place": "Girona",
+		"language": "es",
+		"number-of-pages": "128",
+		"publisher": "Art Internacional Gallery",
+		"publisher-place": "Girona",
+		"title": "Papikian",
+		"author": [
+			{
+				"family": "Merino",
+				"given": "José Luis"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/4PHWUZNQ",
+		"type": "book",
+		"call-number": "73 MAR ens",
+		"event-place": "La Habana",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "248",
+		"publisher": "Editorial letras cubanas",
+		"publisher-place": "La Habana",
+		"title": "Ensayos sobre arte y literatura",
+		"author": [
+			{
+				"family": "Martí",
+				"given": "José"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1979"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/GZ5VBB5I",
+		"type": "book",
+		"call-number": "73 MAN mai",
+		"event-place": "Donostia",
+		"ISBN": "978-84-944108-3-3",
+		"language": "eu",
+		"number-of-pages": "282",
+		"publisher": "Edo!",
+		"publisher-place": "Donostia",
+		"title": "Maite ditut maite: transmisioa XX. mendeko Euskal Herriko artean",
+		"author": [
+			{
+				"family": "Manterola Ispizua",
+				"given": "Ismael"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/ZYSM9QP2",
+		"type": "book",
+		"call-number": "73 LET ori",
+		"event-place": "Donostia",
+		"ISBN": "978-84-923794-0-8",
+		"language": "es",
+		"number-of-pages": "287",
+		"publisher": "Filmoteca Vasca",
+		"publisher-place": "Donostia",
+		"title": "Los orígenes del cine en Bizkaia y sus pioneros: antecedentes precinematográficos en Bilbao, inicio y consolidación de la proyecciones en Bizkaia",
+		"author": [
+			{
+				"family": "Letamendi",
+				"given": "Jon"
+			},
+			{
+				"family": "Seguin",
+				"given": "Jean-Claude"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1998"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/ICLJJFFK",
+		"type": "book",
+		"call-number": "73 LER ler",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-404-2662-8",
+		"language": "eu/es/en",
+		"number-of-pages": "208",
+		"publisher": "Grafo",
+		"publisher-place": "Bilbao",
+		"title": "Lertxundi: euskaradun arte unibertsala",
+		"title-short": "Lertxundi",
+		"author": [
+			{
+				"family": "Lertxundi",
+				"given": "Mikel Anjel"
+			},
+			{
+				"family": "Aiertza",
+				"given": "Maribel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1988"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/2CFUVLAZ",
+		"type": "book",
+		"call-number": "73 LAZ his",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-330-0430-7",
+		"language": "es",
+		"number-of-pages": "645",
+		"number-of-volumes": "4",
+		"publisher": "Asuri",
+		"publisher-place": "Bilbao",
+		"title": "Historia de la pintura: III",
+		"volume": "3",
+		"author": [
+			{
+				"family": "Lazefa",
+				"given": "Max"
+			},
+			{
+				"literal": "et alii"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1989"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/CXI8TT3P",
+		"type": "book",
+		"call-number": "73 LAZ his",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-330-0430-7",
+		"language": "es",
+		"number-of-pages": "209",
+		"number-of-volumes": "4",
+		"publisher": "Asuri",
+		"publisher-place": "Bilbao",
+		"title": "Historia de la pintura: I",
+		"volume": "1",
+		"author": [
+			{
+				"family": "Lazefa",
+				"given": "Max"
+			},
+			{
+				"literal": "et alii"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1989"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/M57UHQTV",
+		"type": "book",
+		"call-number": "73 LAZ his",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-330-0430-7",
+		"language": "es",
+		"number-of-pages": "882",
+		"number-of-volumes": "4",
+		"publisher": "Asuri",
+		"publisher-place": "Bilbao",
+		"title": "Historia de la pintura: IV",
+		"volume": "4",
+		"author": [
+			{
+				"family": "Lazefa",
+				"given": "Max"
+			},
+			{
+				"literal": "et alii"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1989"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/7LK4CI7M",
+		"type": "book",
+		"call-number": "73 LAZ his",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-330-0430-7",
+		"language": "es",
+		"number-of-pages": "425",
+		"number-of-volumes": "4",
+		"publisher": "Asuri",
+		"publisher-place": "Bilbao",
+		"title": "Historia de la pintura: II",
+		"volume": "2",
+		"author": [
+			{
+				"family": "Lazefa",
+				"given": "Max"
+			},
+			{
+				"literal": "et alii"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1989"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/HJTTL2BM",
+		"type": "book",
+		"call-number": "73 JAM fri",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Barcelona",
+		"ISBN": "84-7765-002-0",
+		"language": "es",
+		"number-of-pages": "359",
+		"publisher": "Circe",
+		"publisher-place": "Barcelona",
+		"title": "Frida Kahlo",
+		"author": [
+			{
+				"family": "Jamis",
+				"given": "Rauda"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1989"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/3PF5BI39",
+		"type": "book",
+		"abstract": "\"La mujer que mira a los hombres que miran a las mujeres\". Así define Siri Hustvedt esta ambiciosa reunión de sus mejores ensayos, escritos entre 2011 y 2015. Su vasto conocimiento en un amplio abanico de disciplinas como el arte, la literatura, la neurociencia o el psicoanálisis ilumina una teoría central en su obra ensayística, la de que la percepción está influenciada por nuestros prejuicios cognitivos implícitos, aquellos que no provienen del entorno, sino que se han interiorizado como una realidad psicofisiológica.",
+		"call-number": "73 HUS muj",
+		"event-place": "Barcelona; Bogotá",
+		"ISBN": "978-958-42-5754-3",
+		"language": "es",
+		"number-of-pages": "446",
+		"publisher": "Seix Barral ; Planeta",
+		"publisher-place": "Barcelona; Bogotá",
+		"title": "La mujer que mira a los hombres que miran a las mujeres: ensayos sobre feminismo, arte y ciencia",
+		"title-short": "La mujer que mira a los hombres que miran a las mujeres",
+		"author": [
+			{
+				"family": "Hustvedt",
+				"given": "Siri"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/ANGCPYF7",
+		"type": "book",
+		"call-number": "73 COR met",
+		"event-place": "Sevilla",
+		"ISBN": "978-84-7898-197-7",
+		"language": "es",
+		"number-of-pages": "176",
+		"publisher": "Alfar",
+		"publisher-place": "Sevilla",
+		"title": "La metáfora del espejo: teoría e historia del cartel publicitario",
+		"title-short": "La metáfora del espejo",
+		"author": [
+			{
+				"family": "Coronado",
+				"given": "Diego"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/8W3UUP9Q",
+		"type": "book",
+		"call-number": "73 CLA luz",
+		"event-place": "Barcelona",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "126",
+		"publisher": "Carroggio",
+		"publisher-place": "Barcelona",
+		"title": "La luz en la pintura",
+		"editor": [
+			{
+				"family": "Claret",
+				"given": "Ramón"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1998"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/HA5SMRLM",
+		"type": "book",
+		"call-number": "73 CAN txa",
+		"event-place": "Donostia",
+		"ISBN": "978-84-940489-4-4",
+		"language": "eu",
+		"number-of-pages": "57",
+		"publisher": "Edo!",
+		"publisher-place": "Donostia",
+		"title": "Txalorik ez, arren",
+		"author": [
+			{
+				"family": "Cano",
+				"given": "Harkaitz"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/CH787LSY",
+		"type": "book",
+		"call-number": "73 BAR goy",
+		"event-place": "Madrid",
+		"ISBN": "978-84-604-9323-5",
+		"language": "Spanish",
+		"publisher": "Real academia de Bellas artes de San Fernando, Calcografía nacional",
+		"publisher-place": "Madrid",
+		"title": "Goya, los caprichos dibujos y aguafuertes",
+		"editor": [
+			{
+				"family": "Barrena",
+				"given": "Clemente"
+			},
+			{
+				"family": "Blas",
+				"given": "Javier"
+			},
+			{
+				"family": "Martilla",
+				"given": "José Manuel"
+			},
+			{
+				"family": "Villar",
+				"given": "José Manuel"
+			},
+			{
+				"family": "Villar",
+				"given": "José Luis"
+			},
+			{
+				"family": "Villena",
+				"given": "Elvira"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/7DSN6RQB",
+		"type": "book",
+		"call-number": "73 AZU apr",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Iruña",
+		"ISBN": "978-84-7681-084-2",
+		"language": "es",
+		"number-of-pages": "220",
+		"publisher": "Pamiela",
+		"publisher-place": "Iruña",
+		"title": "El aprendizaje de la decepción",
+		"author": [
+			{
+				"family": "Azúa",
+				"given": "Félix",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1989"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/4EUAQD6Y",
+		"type": "book",
+		"call-number": "73 ARA bil",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-695-0799-5",
+		"language": "eu/es",
+		"number-of-pages": "120",
+		"publisher": "Bilbao Arte Fundazioa",
+		"publisher-place": "Bilbao",
+		"title": "BilbaoArte 2011",
+		"author": [
+			{
+				"family": "Arakistain",
+				"given": "Aitor"
+			},
+			{
+				"family": "Bueno",
+				"given": "Alvaro"
+			},
+			{
+				"family": "Fernández",
+				"given": "Laura"
+			},
+			{
+				"family": "Cabrera",
+				"given": "Oihana"
+			},
+			{
+				"family": "Bengoetxea",
+				"given": "Ibone"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/EH5N59DP",
+		"type": "book",
+		"call-number": "73 AGU mod",
+		"event-place": "Donostia",
+		"ISBN": "978-84-16248-79-7",
+		"language": "eu/es/en",
+		"number-of-pages": "175",
+		"publisher": "La Farbica",
+		"publisher-place": "Donostia",
+		"title": "Modernitate bakan bat: \"Arte Berria\", Donostiaren inguruan : 1925-1936 = Una modernidad singular : \"Arte Nuevo\", alrededor de San Sebastián : 1925-1936",
+		"title-short": "Modernitate bakan bat",
+		"author": [
+			{
+				"family": "Aguirre",
+				"given": "Peio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	}
+]

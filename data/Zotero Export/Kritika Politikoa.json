@@ -1,0 +1,651 @@
+[
+	{
+		"id": "http://zotero.org/groups/2204707/items/RHUV7WCP",
+		"type": "book",
+		"call-number": "32 ZEL cas",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-939238-0-8",
+		"number-of-pages": "222",
+		"publisher": "Revista Hincapié",
+		"publisher-place": "Bilbao",
+		"title": "La casta vasca: mafias y Gobierno Vasco en la última década: de Lakua a los JJOO de Brasil",
+		"title-short": "La casta vasca",
+		"author": [
+			{
+				"family": "Zelaieta",
+				"given": "Ahoztar"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/G5NI2R8X",
+		"type": "book",
+		"abstract": "El autor, después de analizar las causas del crecimiento demográfico y de cómo ha llegado la humanidad a la presente situación, aborda las perspectivas para el futuro y da cuenta del debate actual sobre demografía y desarrollo. Examina también las medidas de control demográfico en relación con la justicia social y la libertad individual, así como las cuestiones del reparto de recursos y la explotación más racional de los mismos.",
+		"call-number": "32 VAL pob",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Madrid",
+		"ISBN": "978-84-206-2804-2",
+		"language": "es",
+		"number-of-pages": "140",
+		"publisher": "Alianza",
+		"publisher-place": "Madrid",
+		"title": "La población mundial",
+		"author": [
+			{
+				"family": "Vallin",
+				"given": "Jacques"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/7NNTBH32",
+		"type": "book",
+		"call-number": "32 SUA eus",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Gasteiz",
+		"ISBN": "978-84-500-4886-5",
+		"language": "eu/es",
+		"number-of-pages": "81",
+		"publisher": "Gobierno Vasco ; Eusko Jaurlaritza",
+		"publisher-place": "Gasteiz",
+		"title": "Euskal Herriko Autonomia Estatutoa = Estatuto de Autonomía del País Vasco.",
+		"author": [
+			{
+				"family": "Suarez",
+				"given": "Adolfo"
+			},
+			{
+				"literal": "Eusko Jaurlaritza"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1986"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/4NGI3DFP",
+		"type": "book",
+		"call-number": "32 SHE cap",
+		"event-place": "Moscú",
+		"ISBN": "978-5-01-002240-2",
+		"language": "es",
+		"number-of-pages": "398",
+		"publisher": "Editorial Progreso",
+		"publisher-place": "Moscú",
+		"title": "El capitalismo de estado en los paises de América Latina",
+		"author": [
+			{
+				"family": "Sheremétiev",
+				"given": "Igor"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1990"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/LTBJNEYU",
+		"type": "book",
+		"archive": "Hemeroteka",
+		"archive_location": "Urtekaria/Anuario",
+		"call-number": "32 SAL egi",
+		"event-place": "Bilbao",
+		"ISBN": "---",
+		"language": "eu/es",
+		"number-of-pages": "317",
+		"number-of-volumes": "1982-1983, 1985-1986, 1989, 1992-1997",
+		"publisher": "Egin",
+		"publisher-place": "Bilbao",
+		"title": "Egin: Urtekaria 1996",
+		"volume": "1996",
+		"editor": [
+			{
+				"family": "Salutregi",
+				"given": "Xabier"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/ZSCHUFHG",
+		"type": "book",
+		"call-number": "32 PRO mon",
+		"event-place": "Rosario",
+		"ISBN": "978-987-29441-3-1",
+		"language": "es",
+		"number-of-pages": "150",
+		"publisher": "Z",
+		"publisher-place": "Rosario",
+		"title": "El monstruo de la vivienda",
+		"author": [
+			{
+				"literal": "Prole.info"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/VSCVHPDU",
+		"type": "book",
+		"call-number": "32 PRO aba",
+		"event-place": "Rosario",
+		"ISBN": "978-987-29441-3-1",
+		"language": "es",
+		"number-of-pages": "98",
+		"publisher": "Z",
+		"publisher-place": "Rosario",
+		"title": "Abajo los restaurantes",
+		"author": [
+			{
+				"literal": "Prole.info"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/TH4MC6MC",
+		"type": "book",
+		"call-number": "32 PAB pen",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-8432-008-1",
+		"language": "es",
+		"number-of-pages": "398",
+		"publisher": "Crítica",
+		"publisher-place": "Barcelona",
+		"title": "El péndulo patriótico: historia del Partido Nacionalista Vasco, I: 1895-1936",
+		"title-short": "El péndulo patriótico",
+		"author": [
+			{
+				"family": "Pablo",
+				"given": "Santiago",
+				"dropping-particle": "de"
+			},
+			{
+				"family": "Mees",
+				"given": "Ludger"
+			},
+			{
+				"family": "Rodríguez Ranz",
+				"given": "José Antonio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/PPNDSVXK",
+		"type": "book",
+		"call-number": "32 ORT bil",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-002-8",
+		"language": "es",
+		"number-of-pages": "258",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Bilbao a la deriva: fantasía, especulación y ciudadanía",
+		"title-short": "Bilbao a la deriva",
+		"author": [
+			{
+				"family": "Ortega",
+				"given": "Hektor"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/2JFSZZYE",
+		"type": "book",
+		"call-number": "32 ORT bil",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-002-8",
+		"language": "es",
+		"number-of-pages": "258",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Bilbao a la deriva: fantasía, especulación y ciudadanía",
+		"title-short": "Bilbao a la deriva",
+		"author": [
+			{
+				"family": "Ortega",
+				"given": "Hektor"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/JHR6WMAF",
+		"type": "book",
+		"call-number": "32 NOV ban",
+		"event-place": "Anglet",
+		"ISBN": "978-84-96797-29-1",
+		"language": "es",
+		"number-of-pages": "413",
+		"publisher": "Kale Gorria",
+		"publisher-place": "Anglet",
+		"title": "Bancos, banqueros, bandidos",
+		"author": [
+			{
+				"family": "Novoa",
+				"given": "Josep Manuel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/LPCMBXH9",
+		"type": "book",
+		"call-number": "32 MON fas",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-317-0442-1",
+		"language": "es",
+		"number-of-pages": "191",
+		"publisher": "Zero, ZYX",
+		"publisher-place": "Bilbao",
+		"title": "Fascismo y crisis capitalista",
+		"author": [
+			{
+				"family": "Montalvo Rodríguez",
+				"given": "Manuel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1978"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/N9YR2S8L",
+		"type": "book",
+		"call-number": "32 LAF esc",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Donostia",
+		"ISBN": "978-84-941992-1-9",
+		"language": "es",
+		"number-of-pages": "62",
+		"publisher": "Astero",
+		"publisher-place": "Donostia",
+		"title": "Escenarios para un futuro político y social",
+		"author": [
+			{
+				"family": "Lafont Mendizabal",
+				"given": "Antxon"
+			},
+			{
+				"family": "Azkarraga Rodero",
+				"given": "Joseba"
+			},
+			{
+				"family": "Díez",
+				"given": "Rafael"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/WQDPPBNN",
+		"type": "book",
+		"call-number": "32\t JIM nav",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-021-9",
+		"language": "es",
+		"number-of-pages": "160",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Navarra jamás dijo no al Estatuto Vasco",
+		"author": [
+			{
+				"family": "Jimeno Jurío",
+				"given": "José María"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1997"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/DB9GNRHC",
+		"type": "book",
+		"call-number": "32 IRI iba",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-95663-83-2",
+		"language": "es",
+		"number-of-pages": "255",
+		"publisher": "Gara",
+		"publisher-place": "Bilbao",
+		"title": "Ibarretxe: entre el poder y el querer",
+		"title-short": "Ibarretxe",
+		"author": [
+			{
+				"family": "Iriondo",
+				"given": "Iñaki"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/X5TJ9C23",
+		"type": "book",
+		"call-number": "32 GIL ban",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-15313-73-1",
+		"language": "es",
+		"number-of-pages": "302",
+		"publisher": "Editorial Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "El banquete: expolio y desaparición de la CAN",
+		"title-short": "El banquete",
+		"author": [
+			{
+				"family": "Gil",
+				"given": "Alberto"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/LQG4MN5U",
+		"type": "book",
+		"call-number": "32 GAL pol",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "València",
+		"ISBN": "978-84-8002-260-6",
+		"language": "es",
+		"number-of-pages": "400",
+		"publisher": "Tirant lo Blanch",
+		"publisher-place": "València",
+		"title": "Política económica: objetivos, instrumentos, sectores y territorio",
+		"title-short": "Política económica",
+		"author": [
+			{
+				"family": "Galduf",
+				"given": "Josep M"
+			},
+			{
+				"family": "García Reche",
+				"given": "Andrés"
+			},
+			{
+				"family": "Fuentes Prósper",
+				"given": "Víctor"
+			},
+			{
+				"family": "Villalba Fonfría",
+				"given": "Ángel"
+			},
+			{
+				"family": "Ochando",
+				"given": "Carlos"
+			},
+			{
+				"family": "Sanches",
+				"given": "Antoni"
+			},
+			{
+				"family": "Picher i Campos",
+				"given": "Josep Vicent"
+			},
+			{
+				"family": "Tamborero",
+				"given": "Pilar"
+			},
+			{
+				"family": "Fuentes",
+				"given": "Victor"
+			},
+			{
+				"family": "Piñol",
+				"given": "José Agustín"
+			},
+			{
+				"family": "García",
+				"given": "Jose María"
+			},
+			{
+				"family": "García",
+				"given": "Andrés"
+			},
+			{
+				"family": "Such",
+				"given": "Juan"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/IFV9JA35",
+		"type": "book",
+		"call-number": "32 EGU eus",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-941024-6-2",
+		"language": "es",
+		"number-of-pages": "174",
+		"publisher": "Gara",
+		"publisher-place": "Bilbao",
+		"title": "Euskal Herria: por un nuevo nacionalismo, vasquismo y navarrismo",
+		"title-short": "Euskal Herria",
+		"author": [
+			{
+				"family": "Eguiguren",
+				"given": "Jesús"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/5II9DM32",
+		"type": "book",
+		"call-number": "32 EGU eus",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-941024-6-2",
+		"language": "es",
+		"number-of-pages": "174",
+		"publisher": "Gara",
+		"publisher-place": "Bilbao",
+		"title": "Euskal Herria: por un nuevo nacionalismo, vasquismo y navarrismo",
+		"title-short": "Euskal Herria",
+		"author": [
+			{
+				"family": "Eguiguren",
+				"given": "Jesús"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/SDNFRDFH",
+		"type": "book",
+		"call-number": "32 DOW soc",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Madrid",
+		"ISBN": "978-84-206-2956-8",
+		"language": "es",
+		"publisher": "Alianza",
+		"publisher-place": "Madrid",
+		"title": "Sociología política",
+		"author": [
+			{
+				"family": "Dowse",
+				"given": "Robert E"
+			},
+			{
+				"family": "Hughes",
+				"given": "John A"
+			},
+			{
+				"family": "Giner",
+				"given": "Salvador"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/X3FCB4U5",
+		"type": "book",
+		"call-number": "32 CUE esc",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-86597-10-8",
+		"language": "es",
+		"number-of-pages": "488",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "La escisión del PNV: EA, HB, ETA y la deslegitimación del estado español en Euskadi Sur",
+		"title-short": "La escisión del PNV",
+		"author": [
+			{
+				"family": "Cueva Alonso",
+				"given": "Justo",
+				"dropping-particle": "de la"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1988"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/ZQK3VN8N",
+		"type": "book",
+		"call-number": "32 CUE esc",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-86597-10-8",
+		"language": "es",
+		"number-of-pages": "488",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "La escisión del PNV: EA, HB, ETA y la deslegitimación del estado español en Euskadi Sur",
+		"title-short": "La escisión del PNV",
+		"author": [
+			{
+				"family": "Cueva Alonso",
+				"given": "Justo",
+				"dropping-particle": "de la"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1988"
+				]
+			]
+		}
+	}
+]

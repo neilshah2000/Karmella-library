@@ -1,0 +1,166 @@
+[
+	{
+		"id": "http://zotero.org/groups/2204707/items/TCWS22DY",
+		"type": "book",
+		"call-number": "77 JIM rob",
+		"event-place": "Donostia",
+		"ISBN": "978-84-9783-193-2",
+		"language": "eus",
+		"number-of-pages": "123",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Robert Capa",
+		"author": [
+			{
+				"family": "Jimenez",
+				"given": "Edorta"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/34Q6325U",
+		"type": "book",
+		"call-number": "77 CON ani",
+		"event-place": "Paris",
+		"ISBN": "978-2-909571-52-2",
+		"language": "fr",
+		"number-of-pages": "192",
+		"publisher": "Ed. Revue Noire : Paris-Musées",
+		"publisher-place": "Paris",
+		"title": "Anita Conti photographe",
+		"author": [
+			{
+				"family": "Conti",
+				"given": "Anita"
+			},
+			{
+				"family": "Abdelouahab",
+				"given": "Farid"
+			},
+			{
+				"family": "Cojean",
+				"given": "Annick"
+			},
+			{
+				"family": "Girault",
+				"given": "Laurent"
+			},
+			{
+				"family": "Le Pensec",
+				"given": "Louis"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/5H6FUB44",
+		"type": "book",
+		"call-number": "77 BEN nat",
+		"event-place": "México",
+		"ISBN": "978-970-651-713-5",
+		"language": "es",
+		"number-of-pages": "336",
+		"publisher": "RBA",
+		"publisher-place": "México",
+		"title": "National geographic: las mejores fotografías",
+		"author": [
+			{
+				"family": "Bendavid-Val",
+				"given": "Leah"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2004"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/JZ3DH2VT",
+		"type": "book",
+		"call-number": "77 ARR eus",
+		"event-place": "Donostia",
+		"ISBN": "978-84-404-6111-7",
+		"language": "eu/es",
+		"number-of-pages": "167",
+		"publisher": "Euskal Herriko Argazkilari Taldeen Elkartea",
+		"publisher-place": "Donostia",
+		"title": "Euskal Argazkilariak, 150 urte geroago = Fotógraphos Vascos, 150 años después",
+		"editor": [
+			{
+				"family": "Arrieta",
+				"given": "Juan Angel"
+			},
+			{
+				"family": "Zumeta",
+				"given": "Gorka"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1989"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/QKBHC64C",
+		"type": "book",
+		"call-number": "77 ALF ema",
+		"event-place": "Gasteiz",
+		"ISBN": "978-84-96845-12-1",
+		"language": "eu",
+		"number-of-pages": "116",
+		"publisher": "Pilar Aróstegui Udal Artxiboa",
+		"publisher-place": "Gasteiz",
+		"title": "Emakumea Udal Artxiboko argazkietan",
+		"author": [
+			{
+				"family": "Alfaro Fournier",
+				"given": "Tomás"
+			},
+			{
+				"literal": "ARQUÉ"
+			},
+			{
+				"family": "Guinea Maquíbar",
+				"given": "Enrique"
+			},
+			{
+				"family": "Parra García",
+				"given": "Losé María"
+			},
+			{
+				"family": "Sobrado Cobas",
+				"given": "Balbino"
+			},
+			{
+				"family": "Yanguas Alfaro",
+				"given": "Ceferino"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	}
+]

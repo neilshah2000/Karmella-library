@@ -1,0 +1,613 @@
+[
+	{
+		"id": "http://zotero.org/groups/2204707/items/UE6JRVB8",
+		"type": "book",
+		"call-number": "101 APO nor",
+		"event-place": "Iruña",
+		"ISBN": "978-84-7681-712-4",
+		"language": "eu",
+		"number-of-pages": "122",
+		"publisher": "Pamiela",
+		"publisher-place": "Iruña",
+		"title": "Norberaren autonomia krisian",
+		"author": [
+			{
+				"family": "Apodaka",
+				"given": "Eduardo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/JIB38IHM",
+		"type": "book",
+		"call-number": "101 APO ide",
+		"event-place": "Iruñea",
+		"ISBN": "978-84-7681-919-7",
+		"language": "eu",
+		"number-of-pages": "348",
+		"publisher": "Pamiela",
+		"publisher-place": "Iruñea",
+		"title": "Identitatea eta anomalia",
+		"author": [
+			{
+				"family": "Apodaka",
+				"given": "Eduardo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/BIU3YGI2",
+		"type": "book",
+		"call-number": "101 ARG psi",
+		"event-place": "Madrid",
+		"ISBN": "978-84-206-2202-6",
+		"language": "es",
+		"number-of-pages": "264",
+		"publisher": "Alianza",
+		"publisher-place": "Madrid",
+		"title": "Psicología del comportamiento interpersonal",
+		"author": [
+			{
+				"family": "Argyle",
+				"given": "Michael"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1987"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/5RIX8UTY",
+		"type": "book",
+		"call-number": "101 ARR jai",
+		"event-place": "Donostia",
+		"ISBN": "978-84-9783-512-1",
+		"language": "eus",
+		"number-of-pages": "144",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Jainkorik bai ala ez? Erlijioari buruz eztabidan",
+		"author": [
+			{
+				"family": "Arregi",
+				"given": "Joxe"
+			},
+			{
+				"family": "Jimenez",
+				"given": "Edorta"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/4MCUBSQR",
+		"type": "book",
+		"call-number": "101 ARR zer",
+		"event-place": "Donostia",
+		"ISBN": "978-84-95234-16-2",
+		"language": "eu",
+		"number-of-pages": "167",
+		"publisher": "Jakin",
+		"publisher-place": "Donostia",
+		"title": "Zertaz dihardu filosofiak?",
+		"author": [
+			{
+				"family": "Arrieta Urtizberea",
+				"given": "Agustin"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/RRAJBUGI",
+		"type": "book",
+		"call-number": "101 ARR sin",
+		"event-place": "Irún",
+		"ISBN": "978-84-9868-205-2",
+		"language": "eus",
+		"number-of-pages": "177",
+		"publisher": "Alberdania",
+		"publisher-place": "Irún",
+		"title": "Sinesmenak eta usteak: zentzu komunaren alde",
+		"author": [
+			{
+				"family": "Arrieta Urtizberea",
+				"given": "Agustin"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/7MV3FYLE",
+		"type": "book",
+		"call-number": "101 AXU ger",
+		"event-place": "Donostia",
+		"ISBN": "84890774371",
+		"language": "eu",
+		"number-of-pages": "286",
+		"publisher": "Egin",
+		"publisher-place": "Donostia",
+		"title": "Gero",
+		"author": [
+			{
+				"family": "Axular",
+				"given": "Pedro Dagerre"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/677R8686",
+		"type": "book",
+		"call-number": "101 AXU ger",
+		"event-place": "Donostia",
+		"ISBN": "84890774371",
+		"language": "eu",
+		"number-of-pages": "286",
+		"publisher": "Egin",
+		"publisher-place": "Donostia",
+		"title": "Gero",
+		"author": [
+			{
+				"family": "Axular",
+				"given": "Pedro Dagerre"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/P76LJPJ4",
+		"type": "book",
+		"call-number": "101 AXU ger",
+		"event-place": "Donostia",
+		"ISBN": "84890774371",
+		"language": "eu",
+		"number-of-pages": "286",
+		"publisher": "Egin",
+		"publisher-place": "Donostia",
+		"title": "Gero",
+		"author": [
+			{
+				"family": "Axular",
+				"given": "Pedro Dagerre"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/BQZI2G5D",
+		"type": "book",
+		"call-number": "101 AZU azk",
+		"event-place": "Donostia",
+		"ISBN": "978-84-9783-734-7",
+		"language": "eus",
+		"number-of-pages": "489",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Azken egunak Gandiagarekin",
+		"author": [
+			{
+				"family": "Azurmendi",
+				"given": "Joxe"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/YE84QVYR",
+		"type": "book",
+		"call-number": "101 BEL cie",
+		"event-place": "Madrid",
+		"ISBN": "978-84-7476-023-1",
+		"language": "es",
+		"number-of-pages": "394",
+		"publisher": "Centro de Investigaciones Sociológicas : Siglo XXI de España",
+		"publisher-place": "Madrid",
+		"title": "Ciencia y sociología",
+		"author": [
+			{
+				"family": "Beltrán",
+				"given": "Miguel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/BYHXRP2R",
+		"type": "book",
+		"call-number": "101 CIC def",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-7162-668-4",
+		"language": "es",
+		"number-of-pages": "87",
+		"publisher": "Bosch",
+		"publisher-place": "Barcelona",
+		"title": "Defensa de Marco Marcelo",
+		"author": [
+			{
+				"family": "Cicero",
+				"given": "Marcus Tulius"
+			},
+			{
+				"family": "Velázquez Arenas",
+				"given": "Jaime"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1986"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/ZHHI6V7C",
+		"type": "book",
+		"call-number": "101\t CIC lel",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-7162-416-1",
+		"language": "es",
+		"number-of-pages": "261",
+		"publisher": "Bosch",
+		"publisher-place": "Barcelona",
+		"title": "Lelio de la Amistad",
+		"author": [
+			{
+				"family": "Cicero",
+				"given": "Marcus Tullius"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1986"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/KGES6W7Q",
+		"type": "book",
+		"call-number": "101 HEG int",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Madrid",
+		"ISBN": "978-84-03-60097-3",
+		"language": "es",
+		"number-of-pages": "424",
+		"publisher": "Aguilar",
+		"publisher-place": "Madrid",
+		"title": "Introducción a la historia de la filosofía",
+		"author": [
+			{
+				"family": "Hegel",
+				"given": "Georg Wilhelm Freidrich"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1990"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/TR543IRJ",
+		"type": "book",
+		"call-number": "101 LAI yo",
+		"event-place": "Mexico",
+		"ISBN": "978-88-06-03400-9",
+		"language": "es",
+		"number-of-pages": "216",
+		"publisher": "Fondo de Cultura Económica",
+		"publisher-place": "Mexico",
+		"title": "El yo dividido: un estudio sobre la salud y la enfermedad",
+		"title-short": "El yo dividido",
+		"author": [
+			{
+				"family": "Laing",
+				"given": "Ronald David"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1964"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/QQZ4BS59",
+		"type": "book",
+		"call-number": "101 LEI eus",
+		"edition": "Hastapenak",
+		"event-place": "San Sebastian",
+		"language": "eus",
+		"note": "OCLC: 432438466",
+		"number-of-pages": "207",
+		"publisher": "Lur",
+		"publisher-place": "San Sebastian",
+		"title": "Euskal protestantismoa zer zen",
+		"author": [
+			{
+				"family": "Leizarraga",
+				"given": "Joannes"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1970"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/E89N3FZT",
+		"type": "book",
+		"call-number": "101 LYO pos",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-7432-266-8",
+		"language": "es",
+		"number-of-pages": "123",
+		"publisher": "Gedisa",
+		"publisher-place": "Barcelona",
+		"title": "La Posmodernidad: (explicada a los niños)",
+		"title-short": "La Posmodernidad",
+		"author": [
+			{
+				"family": "Lyotard",
+				"given": "Jean-François"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/RB2D6GXZ",
+		"type": "book",
+		"call-number": "101 MON ent",
+		"event-place": "Bilbo",
+		"ISBN": "978-84-88303-51-6",
+		"language": "eu",
+		"number-of-pages": "314",
+		"publisher": "Klasikoak",
+		"publisher-place": "Bilbo",
+		"title": "Entseiuak I",
+		"author": [
+			{
+				"family": "Montaigne",
+				"given": "Michel",
+				"dropping-particle": "de"
+			}
+		],
+		"translator": [
+			{
+				"family": "Gil Bera",
+				"given": "Eduardo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1992"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/BVPKIQB6",
+		"type": "book",
+		"call-number": "101 MON ent",
+		"event-place": "Bilbo",
+		"ISBN": "978-84-88303-51-6",
+		"language": "eu",
+		"number-of-pages": "314",
+		"publisher": "Klasikoak",
+		"publisher-place": "Bilbo",
+		"title": "Entseiuak I",
+		"author": [
+			{
+				"family": "Montaigne",
+				"given": "Michel",
+				"dropping-particle": "de"
+			}
+		],
+		"translator": [
+			{
+				"family": "Gil Bera",
+				"given": "Eduardo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1992"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/I6SEMRGD",
+		"type": "book",
+		"call-number": "101 PEÑ jug",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-88455-63-5",
+		"language": "eu",
+		"number-of-pages": "69",
+		"publisher": "Likiniano Elkarta",
+		"publisher-place": "Bilbao",
+		"title": "El juguete de Mari",
+		"author": [
+			{
+				"family": "Peñalva",
+				"given": "Alberto"
+			},
+			{
+				"family": "Pascual",
+				"given": "Jakue"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/9YPPCLTS",
+		"type": "book",
+		"call-number": "101 ROU ens",
+		"event-place": "Madrid",
+		"ISBN": "978-84-7339-478-9",
+		"language": "es",
+		"number-of-pages": "246",
+		"publisher": "Akal",
+		"publisher-place": "Madrid",
+		"title": "Ensayo sobre el origen de las lenguas",
+		"author": [
+			{
+				"family": "Rousseau",
+				"given": "Jean-Jacques"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1980"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/FG2K2UP3",
+		"type": "book",
+		"call-number": "101 STI tec",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Hondarribia",
+		"ISBN": "978-84-95786-29-6",
+		"language": "es",
+		"number-of-pages": "412",
+		"publisher": "Hiru",
+		"publisher-place": "Hondarribia",
+		"title": "La técnica y el tiempo",
+		"author": [
+			{
+				"family": "Stiegler",
+				"given": "Bernard"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/TGB6YXNF",
+		"type": "book",
+		"call-number": "101 WIT afo",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Madrid",
+		"ISBN": "978-84-239-7381-1",
+		"language": "es",
+		"number-of-pages": "164",
+		"publisher": "Espasa Calpe",
+		"publisher-place": "Madrid",
+		"title": "Aforismos, cultura y valor",
+		"author": [
+			{
+				"family": "Wittgenstein",
+				"given": "Ludwig"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	}
+]

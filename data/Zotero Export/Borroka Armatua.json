@@ -1,0 +1,3046 @@
+[
+	{
+		"id": "http://zotero.org/groups/2204707/items/FDX4ANLR",
+		"type": "book",
+		"call-number": "329.borr LOR txa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-901-4",
+		"language": "es",
+		"number-of-pages": "276",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Txabi Etxebarrieta: armado de palabra y obra",
+		"title-short": "Txabi Etxebarrieta",
+		"author": [
+			{
+				"family": "Lorenzo Espinosa",
+				"given": "José María"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/ZSCB2SID",
+		"type": "book",
+		"call-number": "329.borr\t LOP cam",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-968-427-162-3",
+		"language": "es",
+		"number-of-pages": "232",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Camilo camina en Colombia",
+		"author": [
+			{
+				"family": "López Vigil",
+				"given": "María"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1989"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/DRRKDEW4",
+		"type": "book",
+		"call-number": "329.borr\t LOP cam",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-968-427-162-3",
+		"language": "es",
+		"number-of-pages": "232",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Camilo camina en Colombia",
+		"author": [
+			{
+				"family": "López Vigil",
+				"given": "María"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1989"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/H9DR8M26",
+		"type": "book",
+		"call-number": "329.borr\t LOP cam",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-968-427-162-3",
+		"language": "es",
+		"number-of-pages": "232",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Camilo camina en Colombia",
+		"author": [
+			{
+				"family": "López Vigil",
+				"given": "María"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1989"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/XYS5NQ3D",
+		"type": "book",
+		"call-number": "329.borr JAU ide",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Madrid",
+		"ISBN": "978-84-323-0399-9",
+		"language": "es",
+		"number-of-pages": "491",
+		"publisher": "Siglo XXI",
+		"publisher-place": "Madrid",
+		"title": "Ideología y estrategia política de ETA análisis de su evolución entre 1959-1968",
+		"author": [
+			{
+				"family": "Jáuregui Bereciartu",
+				"given": "Gurutz"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1981"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/P2H73JGF",
+		"type": "book",
+		"call-number": "329.borr IDI jon",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-95663-62-7",
+		"language": "eu/es",
+		"number-of-pages": "164",
+		"publisher": "Gara",
+		"publisher-place": "Bilbao",
+		"title": "Jon, hombre libre",
+		"author": [
+			{
+				"family": "Idigoras",
+				"given": "Jon"
+			},
+			{
+				"literal": "et al."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/DUK4RV2L",
+		"type": "book",
+		"call-number": "329.borr IDI jon",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-95663-62-7",
+		"language": "eu/es",
+		"number-of-pages": "164",
+		"publisher": "Gara",
+		"publisher-place": "Bilbao",
+		"title": "Jon, hombre libre",
+		"author": [
+			{
+				"family": "Idigoras",
+				"given": "Jon"
+			},
+			{
+				"literal": "et al."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/AQMJK44W",
+		"type": "book",
+		"call-number": "329.borr IDI hij",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-149-0",
+		"language": "es",
+		"number-of-pages": "460",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "El hijo de Juanita Gerrikabeitia",
+		"author": [
+			{
+				"family": "Idigoras",
+				"given": "Jon"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/GAZT5NR2",
+		"type": "book",
+		"call-number": "329.borr GUE ern",
+		"event-place": "La Habana",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "698",
+		"number-of-volumes": "2",
+		"publisher": "Casa de las Americas",
+		"publisher-place": "La Habana",
+		"title": "Ernesto Che Guevara obras, 1957-1967: La accion armada",
+		"volume": "2",
+		"author": [
+			{
+				"family": "Guevara",
+				"given": "Ernesto (Che)"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1970"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/7ZPNFMUJ",
+		"type": "book",
+		"call-number": "329.borr GUE ern",
+		"event-place": "La Habana",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "644",
+		"number-of-volumes": "2",
+		"publisher": "Casa de las Americas",
+		"publisher-place": "La Habana",
+		"title": "Ernesto Che Guevara obras, 1957-1967: La accion armada",
+		"volume": "1",
+		"author": [
+			{
+				"family": "Guevara",
+				"given": "Ernesto (Che)"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1970"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/CFYI5RKA",
+		"type": "book",
+		"call-number": "329.borr GUE che",
+		"event-place": "La Habana",
+		"language": "es",
+		"number-of-pages": "298",
+		"publisher": "Unión de Periodistas de Cuba",
+		"publisher-place": "La Habana",
+		"title": "Che periodista",
+		"author": [
+			{
+				"family": "Guevara",
+				"given": "Ernesto"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1959"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/4PWCU684",
+		"type": "book",
+		"call-number": "329.borr GIA eta",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-069-1",
+		"language": "es",
+		"number-of-pages": "286",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "ETA pm: el otro camino",
+		"title-short": "ETA pm",
+		"author": [
+			{
+				"family": "Giacopucci",
+				"given": "Giovanni"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1997"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/HXZAKPDZ",
+		"type": "book",
+		"call-number": "329.borr GIA eta",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-069-1",
+		"language": "es",
+		"number-of-pages": "286",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "ETA pm: el otro camino",
+		"title-short": "ETA pm",
+		"author": [
+			{
+				"family": "Giacopucci",
+				"given": "Giovanni"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1997"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/9UFLVCV3",
+		"type": "book",
+		"call-number": "329.borr GIA eta",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-069-1",
+		"language": "es",
+		"number-of-pages": "286",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "ETA pm: el otro camino",
+		"title-short": "ETA pm",
+		"author": [
+			{
+				"family": "Giacopucci",
+				"given": "Giovanni"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1997"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/BGNI64JM",
+		"type": "book",
+		"call-number": "329.borr GIA eta",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-86597-03-0",
+		"language": "es",
+		"number-of-pages": "367",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "ETA: historia política de una lucha armada, 2a parte",
+		"author": [
+			{
+				"family": "Giacopucci",
+				"given": "Giovanni"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1993"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/NYBDQNKP",
+		"type": "book",
+		"call-number": "329.borr GIA eta",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-86597-03-0",
+		"language": "es",
+		"number-of-pages": "367",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "ETA: historia política de una lucha armada, 2a parte",
+		"author": [
+			{
+				"family": "Giacopucci",
+				"given": "Giovanni"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1993"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/UGW368ZY",
+		"type": "book",
+		"call-number": "329.borr GAR sal",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-86597-77-1",
+		"language": "es",
+		"number-of-pages": "254",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "El Salvador: de la lucha armada a la negociación : la huella vasca",
+		"title-short": "El Salvador",
+		"author": [
+			{
+				"family": "García",
+				"given": "Txema"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1993"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/7NRCBET2",
+		"type": "book",
+		"call-number": "329.borr FOR ope",
+		"event-place": "Donostia",
+		"ISBN": "978-84-89077-11-9",
+		"language": "es",
+		"number-of-pages": "187",
+		"publisher": "Egin",
+		"publisher-place": "Donostia",
+		"title": "Operación Ogro",
+		"author": [
+			{
+				"family": "Forest",
+				"given": "Eva"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/ABKQ3485",
+		"type": "book",
+		"call-number": "329.borr FOR ope",
+		"event-place": "Donostia",
+		"ISBN": "978-84-89077-11-9",
+		"language": "es",
+		"number-of-pages": "187",
+		"publisher": "Egin",
+		"publisher-place": "Donostia",
+		"title": "Operación Ogro",
+		"author": [
+			{
+				"family": "Forest",
+				"given": "Eva"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/QG3ZKD3U",
+		"type": "book",
+		"call-number": "329.borr FOR ope",
+		"event-place": "Donostia",
+		"ISBN": "978-84-89077-11-9",
+		"language": "es",
+		"number-of-pages": "187",
+		"publisher": "Egin",
+		"publisher-place": "Donostia",
+		"title": "Operación Ogro",
+		"author": [
+			{
+				"family": "Forest",
+				"given": "Eva"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/UW6JXFYL",
+		"type": "book",
+		"call-number": "329.borr FOR ope",
+		"event-place": "Donostia",
+		"ISBN": "978-84-89077-11-9",
+		"language": "es",
+		"number-of-pages": "187",
+		"publisher": "Egin",
+		"publisher-place": "Donostia",
+		"title": "Operación Ogro",
+		"author": [
+			{
+				"family": "Forest",
+				"given": "Eva"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/9N5UDY5R",
+		"type": "book",
+		"call-number": "329.borr FON ide",
+		"event-place": "Managua",
+		"language": "es",
+		"number-of-pages": "92",
+		"publisher": "Departamento de Propaganda y Educación Política del FSLN",
+		"publisher-place": "Managua",
+		"title": "Ideario político de Augusto César Sandino",
+		"author": [
+			{
+				"family": "Fonseca",
+				"given": "Carlos"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1984"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/EZJGPVXN",
+		"type": "book",
+		"call-number": "329.borr\t ESC ide",
+		"event-place": "Managua",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "42",
+		"publisher": "Departamento de Propaganda y Educación Política del FSLN",
+		"publisher-place": "Managua",
+		"title": "Ideario sandinista",
+		"author": [
+			{
+				"family": "Escobar",
+				"given": "José B."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1984"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/3MSIEVZK",
+		"type": "book",
+		"call-number": "329.borr EGI via",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-86597-74-0",
+		"language": "es",
+		"number-of-pages": "194",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Viaje a la nada: principio y fin de Euskadiko Ezkerra",
+		"title-short": "Viaje a la nada",
+		"author": [
+			{
+				"family": "Egido",
+				"given": "José Antonio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1993"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/GP643WY5",
+		"type": "book",
+		"call-number": "329.borr EGI via",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-86597-74-0",
+		"language": "es",
+		"number-of-pages": "194",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Viaje a la nada: principio y fin de Euskadiko Ezkerra",
+		"title-short": "Viaje a la nada",
+		"author": [
+			{
+				"family": "Egido",
+				"given": "José Antonio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1993"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/5E5K9EHT",
+		"type": "book",
+		"call-number": "329.borr EGI via",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-86597-74-0",
+		"language": "es",
+		"number-of-pages": "194",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Viaje a la nada: principio y fin de Euskadiko Ezkerra",
+		"title-short": "Viaje a la nada",
+		"author": [
+			{
+				"family": "Egido",
+				"given": "José Antonio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1993"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/EPQQ4NDW",
+		"type": "book",
+		"call-number": "329.borr EGA dia",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-86597-65-8",
+		"language": "es",
+		"number-of-pages": "266",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Los días de Argel: crónica de las conversaciones ETA-Gobierno español",
+		"title-short": "Los días de Argel",
+		"author": [
+			{
+				"family": "Egaña",
+				"given": "Iñaki"
+			},
+			{
+				"family": "Giacopucci",
+				"given": "Giovanni"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1992"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/CB28ASNV",
+		"type": "book",
+		"call-number": "329.borr EGA dia",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-86597-65-8",
+		"language": "es",
+		"number-of-pages": "266",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Los días de Argel: crónica de las conversaciones ETA-Gobierno español",
+		"title-short": "Los días de Argel",
+		"author": [
+			{
+				"family": "Egaña",
+				"given": "Iñaki"
+			},
+			{
+				"family": "Giacopucci",
+				"given": "Giovanni"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1992"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/XJNAE7DY",
+		"type": "book",
+		"call-number": "329.borr EGA mar",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-116-2",
+		"language": "es",
+		"number-of-pages": "166",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Mario Salegi: la pasión del siglo XX",
+		"title-short": "Mario Salegi",
+		"author": [
+			{
+				"family": "Egaña",
+				"given": "Iñaki"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/28GCEVMR",
+		"type": "book",
+		"call-number": "329.borr EGA mar",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-116-2",
+		"language": "es",
+		"number-of-pages": "166",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Mario Salegi: la pasión del siglo XX",
+		"title-short": "Mario Salegi",
+		"author": [
+			{
+				"family": "Egaña",
+				"given": "Iñaki"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/7DH8RKRT",
+		"type": "book",
+		"call-number": "329.borr DAV eus",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Bayonne",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "264",
+		"publisher": "Ekin",
+		"publisher-place": "Bayonne",
+		"title": "Euskadi en guerra",
+		"author": [
+			{
+				"family": "Davant Iratzabal",
+				"given": "Jean Louis"
+			},
+			{
+				"family": "Apalategi",
+				"given": "Jokin"
+			},
+			{
+				"family": "Cereceda",
+				"given": "Jose Luis"
+			},
+			{
+				"family": "Castells",
+				"given": "Manuel"
+			},
+			{
+				"family": "Movimiento Vasco de Liberación Nacional",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1987"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/35L9JAPP",
+		"type": "book",
+		"call-number": "329.borr CHA luc",
+		"event-place": "La Habana",
+		"language": "es",
+		"number-of-pages": "214",
+		"publisher": "Editorial de Ciencias Sociales",
+		"publisher-place": "La Habana",
+		"title": "La lucha en Las Villas",
+		"author": [
+			{
+				"family": "Chaviano Fundora",
+				"given": "Julio O."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1990"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/VZSHTULP",
+		"type": "book",
+		"call-number": "329.borr CAS eta",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-507-8",
+		"language": "es",
+		"number-of-pages": "505",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "ETA, 1958-2008: medio siglo de historia",
+		"title-short": "ETA, 1958-2008",
+		"author": [
+			{
+				"family": "Casanova",
+				"given": "Iker"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/RAXM7RC2",
+		"type": "book",
+		"abstract": "\"A European Marxist perspective on Peru revealed through interviews in 1992 with church, Red Cross, and NGO officials; lawyers; generals; and Shining Path sympathizers\"--Handbook of Latin American Studies, v. 57.",
+		"call-number": "329.borr CAL per",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-929-8",
+		"language": "es",
+		"number-of-pages": "217",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Perú, los senderos posibles",
+		"author": [
+			{
+				"family": "Calvo",
+				"given": "Hernando"
+			},
+			{
+				"family": "Declercq",
+				"given": "Katlijn"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/DU2UH44T",
+		"type": "book",
+		"abstract": "\"A European Marxist perspective on Peru revealed through interviews in 1992 with church, Red Cross, and NGO officials; lawyers; generals; and Shining Path sympathizers\"--Handbook of Latin American Studies, v. 57.",
+		"call-number": "329.borr CAL per",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-929-8",
+		"language": "es",
+		"number-of-pages": "217",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Perú, los senderos posibles",
+		"author": [
+			{
+				"family": "Calvo",
+				"given": "Hernando"
+			},
+			{
+				"family": "Declercq",
+				"given": "Katlijn"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/6Y4YAIBH",
+		"type": "book",
+		"abstract": "\"A European Marxist perspective on Peru revealed through interviews in 1992 with church, Red Cross, and NGO officials; lawyers; generals; and Shining Path sympathizers\"--Handbook of Latin American Studies, v. 57.",
+		"call-number": "329.borr CAL per",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-929-8",
+		"language": "es",
+		"number-of-pages": "217",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Perú, los senderos posibles",
+		"author": [
+			{
+				"family": "Calvo",
+				"given": "Hernando"
+			},
+			{
+				"family": "Declercq",
+				"given": "Katlijn"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/KA3ZJJ5W",
+		"type": "book",
+		"abstract": "\"A European Marxist perspective on Peru revealed through interviews in 1992 with church, Red Cross, and NGO officials; lawyers; generals; and Shining Path sympathizers\"--Handbook of Latin American Studies, v. 57.",
+		"call-number": "329.borr CAL per",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-929-8",
+		"language": "es",
+		"number-of-pages": "217",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Perú, los senderos posibles",
+		"author": [
+			{
+				"family": "Calvo",
+				"given": "Hernando"
+			},
+			{
+				"family": "Declercq",
+				"given": "Katlijn"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/X34QLFL7",
+		"type": "book",
+		"call-number": "329.borr CAB can",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-033-2",
+		"language": "es",
+		"number-of-pages": "351",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Canción de amor para los hombres",
+		"author": [
+			{
+				"family": "Cabezas",
+				"given": "Omar"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/FL699YHN",
+		"type": "book",
+		"call-number": "329.borr CAB can",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-033-2",
+		"language": "es",
+		"number-of-pages": "351",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Canción de amor para los hombres",
+		"author": [
+			{
+				"family": "Cabezas",
+				"given": "Omar"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/VB4T74CU",
+		"type": "book",
+		"call-number": "329.borr CAB can",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-033-2",
+		"language": "es",
+		"number-of-pages": "351",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Canción de amor para los hombres",
+		"author": [
+			{
+				"family": "Cabezas",
+				"given": "Omar"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/N8EJFXA2",
+		"type": "book",
+		"call-number": "329.borr CAB can",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-033-2",
+		"language": "es",
+		"number-of-pages": "351",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Canción de amor para los hombres",
+		"author": [
+			{
+				"family": "Cabezas",
+				"given": "Omar"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/N4RPSFN9",
+		"type": "book",
+		"call-number": "329.borr\t BRU eta",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-86597-03-0",
+		"language": "es",
+		"number-of-pages": "358",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "ETA: historia política de una lucha armada",
+		"title-short": "ETA",
+		"author": [
+			{
+				"family": "Bruni",
+				"given": "Luigi"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1993"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/82WRFWXV",
+		"type": "book",
+		"call-number": "329.borr\t BRO mem",
+		"event-place": "Anglet",
+		"ISBN": "978-2-84747-003-1",
+		"language": "es",
+		"number-of-pages": "359",
+		"publisher": "Kale Gorria",
+		"publisher-place": "Anglet",
+		"title": "Memoria antifascista: recuerdos en medio del camino",
+		"author": [
+			{
+				"family": "Brotons Beneyto",
+				"given": "Francisco"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/74PXTZNJ",
+		"type": "book",
+		"call-number": "329.borr BID ipa",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-617-4",
+		"language": "es",
+		"number-of-pages": "314",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Iparretarrak: historia de una organización política armada",
+		"title-short": "Iparretarrak",
+		"author": [
+			{
+				"family": "Bidegain",
+				"given": "Eneko"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/X8PJYH7F",
+		"type": "book",
+		"call-number": "329.borr BEL con",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-86597-04-7",
+		"language": "eu",
+		"number-of-pages": "143",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Con Sandino en Nicaragua",
+		"author": [
+			{
+				"family": "Belausteguigoitia",
+				"given": "Ramón de ( 1891-1981)"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1987"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/FSAEW5KU",
+		"type": "book",
+		"call-number": "329.borr BEL con",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-86597-04-7",
+		"language": "eu",
+		"number-of-pages": "143",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Con Sandino en Nicaragua",
+		"author": [
+			{
+				"family": "Belausteguigoitia",
+				"given": "Ramón de ( 1891-1981)"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1987"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/5UG2BLEW",
+		"type": "book",
+		"call-number": "329.borr BEL con",
+		"event-place": "Managua",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "244",
+		"publisher": "Editorial Nueva Nicaragua",
+		"publisher-place": "Managua",
+		"title": "Con Sandino en Nicaragua: la hora de la paz",
+		"title-short": "Con Sandino en Nicaragua",
+		"author": [
+			{
+				"family": "Belausteguigoitia",
+				"given": "Ramón",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1985"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/Z53QRJ6S",
+		"type": "book",
+		"call-number": "329.borr ARZ maz",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-582-5",
+		"language": "es",
+		"number-of-pages": "309",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "La maza y la cantera: juventud vasca, represión y solidariad",
+		"title-short": "La maza y la cantera",
+		"author": [
+			{
+				"family": "Arzuaga",
+				"given": "Julen"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/WDQDVPZW",
+		"type": "book",
+		"call-number": "329.borr ARR rob",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-357-9",
+		"language": "es",
+		"number-of-pages": "430",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "El roble y la ceiba: historia de los vascos en Cuba",
+		"title-short": "El roble y la ceiba",
+		"author": [
+			{
+				"family": "Arrozarena",
+				"given": "Cecilia"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2003"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/CXUZ73G3",
+		"type": "book",
+		"call-number": "329.borr ALV eus",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-937-3",
+		"language": "eu",
+		"number-of-pages": "330",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Euskal Herria helburu",
+		"author": [
+			{
+				"family": "Alvarez Enparantza",
+				"given": "Jose Luis (Txillardegi"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/WUJG4HRL",
+		"type": "book",
+		"call-number": "329.borr ALV eus",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-937-3",
+		"language": "eu",
+		"number-of-pages": "330",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Euskal Herria helburu",
+		"author": [
+			{
+				"family": "Alvarez Enparantza",
+				"given": "Jose Luis (Txillardegi"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/SNESYFII",
+		"type": "book",
+		"call-number": "329.borr ALV eus",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-086-8",
+		"language": "es",
+		"number-of-pages": "316",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Euskal Herria en el horizonte",
+		"author": [
+			{
+				"family": "Alvarez Enparantza",
+				"given": "Jose Luis"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1997"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/5WS755M5",
+		"type": "book",
+		"call-number": "329.borr\t ALA man",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-160-5",
+		"language": "es",
+		"number-of-pages": "306",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Manuel Marulanda \"Tirofijo\": Colombia, 40 años de lucha guerrillera",
+		"title-short": "Manuel Marulanda \"Tirofijo\"",
+		"author": [
+			{
+				"family": "Alape",
+				"given": "Arturo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/6VG6WAVG",
+		"type": "book",
+		"call-number": "329.borr AIE luc",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Donostia",
+		"ISBN": "978-84-87303-01-2",
+		"language": "es",
+		"number-of-pages": "204",
+		"publisher": "Gakoa",
+		"publisher-place": "Donostia",
+		"title": "Lucha armada en Europa: IRA, RAF, Brigadas Rojas, Rote Zora, FLNC, células revolucionarias",
+		"title-short": "Lucha armada en Europa",
+		"author": [
+			{
+				"family": "Aierbe",
+				"given": "Pello"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1989"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/MFU2ZT39",
+		"type": "book",
+		"call-number": "329.borr ADA ant",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-061-5",
+		"language": "es",
+		"number-of-pages": "354",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Antes del amanecer: una autobiografía",
+		"title-short": "Antes del amanecer",
+		"author": [
+			{
+				"family": "Adams",
+				"given": "Gerry"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1997"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/JVBQBLM7",
+		"type": "book",
+		"call-number": "329.borr ADA ant",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-061-5",
+		"language": "es",
+		"number-of-pages": "354",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Antes del amanecer: una autobiografía",
+		"title-short": "Antes del amanecer",
+		"author": [
+			{
+				"family": "Adams",
+				"given": "Gerry"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1997"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/VV4UZTZD",
+		"type": "book",
+		"call-number": "329.borr ADA ant",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-061-5",
+		"language": "es",
+		"number-of-pages": "354",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Antes del amanecer: una autobiografía",
+		"title-short": "Antes del amanecer",
+		"author": [
+			{
+				"family": "Adams",
+				"given": "Gerry"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1997"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/CCCUZZLR",
+		"type": "book",
+		"call-number": "329.borr ADA ant",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-061-5",
+		"language": "es",
+		"number-of-pages": "354",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Antes del amanecer: una autobiografía",
+		"title-short": "Antes del amanecer",
+		"author": [
+			{
+				"family": "Adams",
+				"given": "Gerry"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1997"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/US8B7U3X",
+		"type": "book",
+		"call-number": "329.borr ADA ant",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-061-5",
+		"language": "es",
+		"number-of-pages": "354",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Antes del amanecer: una autobiografía",
+		"title-short": "Antes del amanecer",
+		"author": [
+			{
+				"family": "Adams",
+				"given": "Gerry"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1997"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/Z27ZMN7U",
+		"type": "book",
+		"call-number": "329.borr ADA hac",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-86597-34-4",
+		"language": "es",
+		"number-of-pages": "240",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Hacia la libertad de Irlanda",
+		"author": [
+			{
+				"family": "Adams",
+				"given": "Gerry"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1991"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/9IEJWTJ7",
+		"type": "book",
+		"call-number": "329.borr ADA hac",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-86597-34-4",
+		"language": "es",
+		"number-of-pages": "240",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Hacia la libertad de Irlanda",
+		"author": [
+			{
+				"family": "Adams",
+				"given": "Gerry"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1991"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/CNCGGDKC",
+		"type": "book",
+		"call-number": "329.borr ADA hac",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-86597-34-4",
+		"language": "es",
+		"number-of-pages": "240",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Hacia la libertad de Irlanda",
+		"author": [
+			{
+				"family": "Adams",
+				"given": "Gerry"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1991"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/KJJUH32H",
+		"type": "book",
+		"call-number": "329.borr ADA hac",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-86597-34-4",
+		"language": "es",
+		"number-of-pages": "240",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Hacia la libertad de Irlanda",
+		"author": [
+			{
+				"family": "Adams",
+				"given": "Gerry"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1991"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/763SJWRQ",
+		"type": "book",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-86597-65-8",
+		"language": "es",
+		"number-of-pages": "266",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Los días de Argel: crónica de las conversaciones ETA-Gobierno español",
+		"title-short": "Los días de Argel",
+		"author": [
+			{
+				"family": "Egaña",
+				"given": "Iñaki"
+			},
+			{
+				"family": "Giacopucci",
+				"given": "Giovanni"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1992"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/6F4Z3Z36",
+		"type": "book",
+		"call-number": "329.borr CAS arg",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-142-1",
+		"language": "es",
+		"number-of-pages": "378",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Argala",
+		"author": [
+			{
+				"family": "Casanova",
+				"given": "Iker"
+			},
+			{
+				"family": "Asensio",
+				"given": "Paul"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/DYCEUWEH",
+		"type": "book",
+		"call-number": "329.borr CAS arg",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-142-1",
+		"language": "es",
+		"number-of-pages": "378",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Argala",
+		"author": [
+			{
+				"family": "Casanova",
+				"given": "Iker"
+			},
+			{
+				"family": "Asensio",
+				"given": "Paul"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/S8SWHRZI",
+		"type": "book",
+		"call-number": "329.borr ZUN hac",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Ziburu",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "315",
+		"publisher": "Hordago",
+		"publisher-place": "Ziburu",
+		"title": "Hacia una estrategia revolucionaria vasca.",
+		"author": [
+			{
+				"family": "Zunbeltz",
+				"given": "K.",
+				"dropping-particle": "de"
+			},
+			{
+				"literal": "Beltza"
+			},
+			{
+				"literal": "Orti"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1975"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/FEP4CLQ8",
+		"type": "book",
+		"call-number": "329.borr ZAB vol",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-165-0",
+		"language": "es",
+		"number-of-pages": "402",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Voluntarios: semillas de libertad",
+		"title-short": "Voluntarios",
+		"author": [
+			{
+				"family": "Zabalza",
+				"given": "Ricardo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/SC744CBV",
+		"type": "book",
+		"call-number": "329.borr ZAB vol",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-165-0",
+		"language": "es",
+		"number-of-pages": "402",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Voluntarios: semillas de libertad",
+		"title-short": "Voluntarios",
+		"author": [
+			{
+				"family": "Zabalza",
+				"given": "Ricardo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/XZAYNGKD",
+		"type": "book",
+		"call-number": "329.borr ZAB sec",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-905-2",
+		"language": "es",
+		"number-of-pages": "260",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Secuestrados!: 117 días en la encrucijada vasca",
+		"title-short": "Secuestrados!",
+		"author": [
+			{
+				"family": "Zabalza",
+				"given": "Ricardo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1993"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/DCWZK8BD",
+		"type": "book",
+		"call-number": "329.borr ZAB sec",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-905-2",
+		"language": "es",
+		"number-of-pages": "260",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Secuestrados!: 117 días en la encrucijada vasca",
+		"title-short": "Secuestrados!",
+		"author": [
+			{
+				"family": "Zabalza",
+				"given": "Ricardo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1993"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/FPLEBZ7J",
+		"type": "book",
+		"call-number": "329.borr ZAB sec",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-905-2",
+		"language": "es",
+		"number-of-pages": "260",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Secuestrados!: 117 días en la encrucijada vasca",
+		"title-short": "Secuestrados!",
+		"author": [
+			{
+				"family": "Zabalza",
+				"given": "Ricardo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1993"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/BURBL23E",
+		"type": "book",
+		"call-number": "329.borr ZAB sec",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-905-2",
+		"language": "es",
+		"number-of-pages": "260",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Secuestrados!: 117 días en la encrucijada vasca",
+		"title-short": "Secuestrados!",
+		"author": [
+			{
+				"family": "Zabalza",
+				"given": "Ricardo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1993"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/AUAXW9EI",
+		"type": "book",
+		"call-number": "329.borr WOM zap",
+		"event-place": "La Habana",
+		"ISBN": "978-959-06-0538-3",
+		"language": "es",
+		"number-of-pages": "420",
+		"publisher": "Editorial de Ciencias Sociales",
+		"publisher-place": "La Habana",
+		"title": "Zapata y la revolución mexicana",
+		"author": [
+			{
+				"family": "Womack",
+				"given": "John"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/EDFPJZ3L",
+		"type": "book",
+		"call-number": "329.borr SUN ger",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-014-1",
+		"language": "eu",
+		"number-of-pages": "124",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Gerraren antzea",
+		"author": [
+			{
+				"literal": "Sun-tzu"
+			},
+			{
+				"family": "Izaga",
+				"given": "Xabier"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/RK9CFCCW",
+		"type": "book",
+		"call-number": "329.borr SCI ren",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-907-6",
+		"language": "es",
+		"number-of-pages": "238",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Renato Curcio: a cara descubierta",
+		"title-short": "Renato Curcio",
+		"author": [
+			{
+				"family": "Scialoja",
+				"given": "Mario"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/3TZJCPIB",
+		"type": "book",
+		"call-number": "329.borr SCI ren",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-907-6",
+		"language": "es",
+		"number-of-pages": "238",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Renato Curcio: a cara descubierta",
+		"title-short": "Renato Curcio",
+		"author": [
+			{
+				"family": "Scialoja",
+				"given": "Mario"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/J2BGKZNV",
+		"type": "book",
+		"call-number": "329.borr SCI ren",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-907-6",
+		"language": "es",
+		"number-of-pages": "238",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Renato Curcio: a cara descubierta",
+		"title-short": "Renato Curcio",
+		"author": [
+			{
+				"family": "Scialoja",
+				"given": "Mario"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/2TG72NTE",
+		"type": "book",
+		"call-number": "329.borr RIF dan",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "París",
+		"ISBN": "2-266-00475-1",
+		"language": "fr",
+		"number-of-pages": "294",
+		"publisher": "Rene Julliard",
+		"publisher-place": "París",
+		"title": "Dans les Maquis \"Vietcong\"",
+		"author": [
+			{
+				"family": "Riffaud",
+				"given": "Madeleine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1965"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/C2DXV27S",
+		"type": "book",
+		"call-number": "329.borr REI alc",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-89077-50-8",
+		"language": "es",
+		"number-of-pages": "227",
+		"publisher": "Egin/Txalaparta",
+		"publisher-place": "Bilbao",
+		"title": "Alcalá 20-N",
+		"author": [
+			{
+				"family": "Rei",
+				"given": "Pepe"
+			},
+			{
+				"family": "San Martín",
+				"given": "Edurne"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/IJY9UC5F",
+		"type": "book",
+		"call-number": "329.borr REI alc",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-89077-50-8",
+		"language": "es",
+		"number-of-pages": "227",
+		"publisher": "Egin/Txalaparta",
+		"publisher-place": "Bilbao",
+		"title": "Alcalá 20-N",
+		"author": [
+			{
+				"family": "Rei",
+				"given": "Pepe"
+			},
+			{
+				"family": "San Martín",
+				"given": "Edurne"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/5I9CGMVX",
+		"type": "book",
+		"call-number": "329.borr PET jon",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-605-1",
+		"language": "es",
+		"number-of-pages": "233",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Jon Anza: ¿el último crimen de Estado?",
+		"title-short": "Jon Anza",
+		"author": [
+			{
+				"family": "Petrikorena",
+				"given": "Juan José"
+			},
+			{
+				"family": "Zinkunegi",
+				"given": "Joseba"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/QBNAZETW",
+		"type": "book",
+		"call-number": "329.borr PET jon",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-605-1",
+		"language": "es",
+		"number-of-pages": "233",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Jon Anza: ¿el último crimen de Estado?",
+		"title-short": "Jon Anza",
+		"author": [
+			{
+				"family": "Petrikorena",
+				"given": "Juan José"
+			},
+			{
+				"family": "Zinkunegi",
+				"given": "Joseba"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/DIKRNSTC",
+		"type": "book",
+		"call-number": "329.borr PER mon",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Madrid",
+		"ISBN": "84-8198-000-5",
+		"language": "es",
+		"number-of-pages": "358",
+		"publisher": "Editorial Canguro",
+		"publisher-place": "Madrid",
+		"title": "Del Moncada a Chiapas: historia de la lucha armada en América Latina",
+		"title-short": "Del Moncada a Chiapas",
+		"author": [
+			{
+				"family": "Pereyra",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/ANCZV3VL",
+		"type": "book",
+		"call-number": "329.borr PER pal",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-383-8",
+		"language": "es",
+		"number-of-pages": "365",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Las palabras indeseables",
+		"author": [
+			{
+				"family": "Pereira",
+				"given": "Rui"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2004"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/I9NM8TS8",
+		"type": "book",
+		"call-number": "329.borr PER pal",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-383-8",
+		"language": "es",
+		"number-of-pages": "365",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Las palabras indeseables",
+		"author": [
+			{
+				"family": "Pereira",
+				"given": "Rui"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2004"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/VLCBP3HX",
+		"type": "book",
+		"call-number": "329.borr PER gue",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-210-7",
+		"language": "es",
+		"number-of-pages": "317",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "La guerra desconocida de los vascos",
+		"author": [
+			{
+				"family": "Pereira",
+				"given": "Rui"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/Y3C8MP7M",
+		"type": "book",
+		"call-number": "329.borr PER gue",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-210-7",
+		"language": "es",
+		"number-of-pages": "317",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "La guerra desconocida de los vascos",
+		"author": [
+			{
+				"family": "Pereira",
+				"given": "Rui"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/KGYTRPTY",
+		"type": "book",
+		"call-number": "329.borr PER gue",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-210-7",
+		"language": "es",
+		"number-of-pages": "317",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "La guerra desconocida de los vascos",
+		"author": [
+			{
+				"family": "Pereira",
+				"given": "Rui"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/WHIXK6WC",
+		"type": "book",
+		"call-number": "329.borr PER gue",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-210-7",
+		"language": "es",
+		"number-of-pages": "317",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "La guerra desconocida de los vascos",
+		"author": [
+			{
+				"family": "Pereira",
+				"given": "Rui"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/KA7GKPW4",
+		"type": "book",
+		"call-number": "329.borr OTE bih",
+		"event-place": "Bilbo",
+		"ISBN": "978-84-95663-65-8",
+		"language": "eu",
+		"number-of-pages": "247",
+		"publisher": "Gara",
+		"publisher-place": "Bilbo",
+		"title": "Bihar, Euskal Herria elkarrizketa Arnaldo Otegirekin",
+		"author": [
+			{
+				"family": "Otegi",
+				"given": "Arnaldo"
+			},
+			{
+				"family": "Iriondo",
+				"given": "Iñaki"
+			},
+			{
+				"family": "Sola",
+				"given": "Ramón"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/CUJQ6AZG",
+		"type": "book",
+		"call-number": "329.borr OTE bih",
+		"event-place": "Bilbo",
+		"ISBN": "978-84-95663-65-8",
+		"language": "eu",
+		"number-of-pages": "247",
+		"publisher": "Gara",
+		"publisher-place": "Bilbo",
+		"title": "Bihar, Euskal Herria elkarrizketa Arnaldo Otegirekin",
+		"author": [
+			{
+				"family": "Otegi",
+				"given": "Arnaldo"
+			},
+			{
+				"family": "Iriondo",
+				"given": "Iñaki"
+			},
+			{
+				"family": "Sola",
+				"given": "Ramón"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/K4NZVGC7",
+		"type": "book",
+		"call-number": "329.borr NUÑ eus",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-86597-87-0",
+		"language": "es",
+		"number-of-pages": "311",
+		"number-of-volumes": "8",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Euskadi eta askatasuna: Euskal Herria y la libertad: Milis y polismilis, 1974-1976",
+		"volume": "4",
+		"author": [
+			{
+				"family": "Nuñez",
+				"given": "Luis"
+			},
+			{
+				"family": "Egaña",
+				"given": "Iñaki"
+			},
+			{
+				"family": "Amuriza",
+				"given": "Xabier"
+			},
+			{
+				"family": "Monzon",
+				"given": "Mariasun"
+			},
+			{
+				"family": "Aizpurua",
+				"given": "Mertxe"
+			},
+			{
+				"family": "Peñalver",
+				"given": "Xabier"
+			},
+			{
+				"family": "Egaña",
+				"given": "Juantxo"
+			},
+			{
+				"family": "Landa",
+				"given": "Josu"
+			},
+			{
+				"family": "Esparza",
+				"given": "Jose Mari"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1993"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/LR9J3KR9",
+		"type": "book",
+		"call-number": "329.borr NUÑ eus",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-86597-87-0",
+		"language": "es",
+		"number-of-pages": "311",
+		"number-of-volumes": "8",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Euskadi eta askatasuna: Euskal Herria y la libertad: Milis y polismilis, 1974-1976",
+		"volume": "4",
+		"author": [
+			{
+				"family": "Nuñez",
+				"given": "Luis"
+			},
+			{
+				"family": "Egaña",
+				"given": "Iñaki"
+			},
+			{
+				"family": "Amuriza",
+				"given": "Xabier"
+			},
+			{
+				"family": "Monzon",
+				"given": "Mariasun"
+			},
+			{
+				"family": "Aizpurua",
+				"given": "Mertxe"
+			},
+			{
+				"family": "Peñalver",
+				"given": "Xabier"
+			},
+			{
+				"family": "Egaña",
+				"given": "Juantxo"
+			},
+			{
+				"family": "Landa",
+				"given": "Josu"
+			},
+			{
+				"family": "Esparza",
+				"given": "Jose Mari"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1993"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/YJIGZM37",
+		"type": "book",
+		"call-number": "329.borr NUÑ eus",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-86597-87-0",
+		"language": "es",
+		"number-of-pages": "311",
+		"number-of-volumes": "8",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Euskadi eta askatasuna: Euskal Herria y la libertad: llega el PSOE, 1981-1984",
+		"volume": "6",
+		"author": [
+			{
+				"family": "Nuñez",
+				"given": "Luis"
+			},
+			{
+				"family": "Egaña",
+				"given": "Iñaki"
+			},
+			{
+				"family": "Amuriza",
+				"given": "Xabier"
+			},
+			{
+				"family": "Monzon",
+				"given": "Mariasun"
+			},
+			{
+				"family": "Aizpurua",
+				"given": "Mertxe"
+			},
+			{
+				"family": "Peñalver",
+				"given": "Xabier"
+			},
+			{
+				"family": "Egaña",
+				"given": "Juantxo"
+			},
+			{
+				"family": "Landa",
+				"given": "Josu"
+			},
+			{
+				"family": "Esparza",
+				"given": "Jose Mari"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1993"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/Q24ME4Q9",
+		"type": "book",
+		"call-number": "329.borr NUÑ eus",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-86597-87-0",
+		"language": "es",
+		"number-of-pages": "311",
+		"number-of-volumes": "8",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Euskadi eta askatasuna: Euskal Herria y la libertad: La reforma del Régimen, 1977-1980",
+		"volume": "5",
+		"author": [
+			{
+				"family": "Nuñez",
+				"given": "Luis"
+			},
+			{
+				"family": "Egaña",
+				"given": "Iñaki"
+			},
+			{
+				"family": "Amuriza",
+				"given": "Xabier"
+			},
+			{
+				"family": "Monzon",
+				"given": "Mariasun"
+			},
+			{
+				"family": "Aizpurua",
+				"given": "Mertxe"
+			},
+			{
+				"family": "Peñalver",
+				"given": "Xabier"
+			},
+			{
+				"family": "Egaña",
+				"given": "Juantxo"
+			},
+			{
+				"family": "Landa",
+				"given": "Josu"
+			},
+			{
+				"family": "Esparza",
+				"given": "Jose Mari"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1993"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/JQGI58T8",
+		"type": "book",
+		"call-number": "329.borr NUÑ eus",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-86597-87-0",
+		"language": "es",
+		"number-of-pages": "311",
+		"number-of-volumes": "8",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Euskadi eta askatasuna: Euskal Herria y la libertad: la ofensiva institucional, 1985-1988",
+		"volume": "7",
+		"author": [
+			{
+				"family": "Nuñez",
+				"given": "Luis"
+			},
+			{
+				"family": "Egaña",
+				"given": "Iñaki"
+			},
+			{
+				"family": "Amuriza",
+				"given": "Xabier"
+			},
+			{
+				"family": "Monzon",
+				"given": "Mariasun"
+			},
+			{
+				"family": "Aizpurua",
+				"given": "Mertxe"
+			},
+			{
+				"family": "Peñalver",
+				"given": "Xabier"
+			},
+			{
+				"family": "Egaña",
+				"given": "Juantxo"
+			},
+			{
+				"family": "Landa",
+				"given": "Josu"
+			},
+			{
+				"family": "Esparza",
+				"given": "Jose Mari"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1993"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/PNKE6KST",
+		"type": "book",
+		"call-number": "329.borr NUÑ eus",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-86597-87-0",
+		"language": "es",
+		"number-of-pages": "311",
+		"number-of-volumes": "8",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Euskadi eta askatasuna: Euskal Herria y la libertad: Intentos negociadores, 1980-1992",
+		"volume": "8",
+		"author": [
+			{
+				"family": "Nuñez",
+				"given": "Luis"
+			},
+			{
+				"family": "Egaña",
+				"given": "Iñaki"
+			},
+			{
+				"family": "Amuriza",
+				"given": "Xabier"
+			},
+			{
+				"family": "Monzon",
+				"given": "Mariasun"
+			},
+			{
+				"family": "Aizpurua",
+				"given": "Mertxe"
+			},
+			{
+				"family": "Peñalver",
+				"given": "Xabier"
+			},
+			{
+				"family": "Egaña",
+				"given": "Juantxo"
+			},
+			{
+				"family": "Landa",
+				"given": "Josu"
+			},
+			{
+				"family": "Esparza",
+				"given": "Jose Mari"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1993"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/M2YWME3L",
+		"type": "book",
+		"call-number": "329.borr NUÑ eus",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-86597-87-0",
+		"language": "es",
+		"number-of-pages": "311",
+		"number-of-volumes": "8",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Euskadi eta askatasuna: Euskal Herria y la libertad: entre Burgos y Carrero, 1970-1973",
+		"volume": "3",
+		"author": [
+			{
+				"family": "Nuñez",
+				"given": "Luis"
+			},
+			{
+				"family": "Egaña",
+				"given": "Iñaki"
+			},
+			{
+				"family": "Amuriza",
+				"given": "Xabier"
+			},
+			{
+				"family": "Monzon",
+				"given": "Mariasun"
+			},
+			{
+				"family": "Aizpurua",
+				"given": "Mertxe"
+			},
+			{
+				"family": "Peñalver",
+				"given": "Xabier"
+			},
+			{
+				"family": "Egaña",
+				"given": "Juantxo"
+			},
+			{
+				"family": "Landa",
+				"given": "Josu"
+			},
+			{
+				"family": "Esparza",
+				"given": "Jose Mari"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1993"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/II9PBPL6",
+		"type": "book",
+		"abstract": "Loiolako (h)egiak kronika-liburuan 2006an EAJ, Batasuna eta PSEren artean gertaturiko elkarrizketa politikoak eta aldi berean ETAren eta Espainiako Gobernuaren artean izandakoak kontatu zituen Imanol Murua kazetariak. Orain, lan hari jarraipena emanez, elkarrizketa haiek zapuztu zirenetik ETAk borroka armatua behin betiko utzi arteko prozesu guztia aztertu du, isilpean zeuden datu asko agerira ekarriz, eta beste asko analisi bikain batean kokatuz. Gure historia hurbila ezagutzeko ezinbesteko tresna.",
+		"call-number": "329.borr MUR eka",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Donostia",
+		"ISBN": "978-84-9027-394-4",
+		"language": "eu",
+		"number-of-pages": "247",
+		"publisher": "Elkarl",
+		"publisher-place": "Donostia",
+		"title": "Ekarri armak",
+		"author": [
+			{
+				"family": "Murua Uria",
+				"given": "Imanol"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/UBRT5H79",
+		"type": "book",
+		"abstract": "Zer gertatu zen Loiolan? Nola landu zen hainbeste konplizitate eta josi hainbeste sare, hura posible egiteko? Eta nola joan zen guztia pikutara, denen nahia hura aurrera ateratzea baldin bazen? Galdera horietatik abiatu da egilea, 2005 eta 2007 arteko elkarrizketa-prozesuaren kronika xehe bat egiteko, Txillare baserritik jesulagunen basilikaraino, Oslo eta Genevako hoteletan barrena.",
+		"call-number": "329.borr MUR loi",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Donostia",
+		"ISBN": "978-84-9027-176-6",
+		"language": "eu",
+		"number-of-pages": "159",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Loiolako hegiak",
+		"author": [
+			{
+				"family": "Murua Uria",
+				"given": "Imanol"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/LNHKVAXJ",
+		"type": "book",
+		"call-number": "329.borr MON ult",
+		"event-place": "Donostia",
+		"ISBN": "978-84-89077-39-3",
+		"language": "es",
+		"number-of-pages": "93",
+		"publisher": "Egin",
+		"publisher-place": "Donostia",
+		"title": "Últimos artículos",
+		"author": [
+			{
+				"family": "Monzón",
+				"given": "Telesforo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/S8U7PGWS",
+		"type": "book",
+		"call-number": "329.borr MON ult",
+		"event-place": "Donostia",
+		"ISBN": "978-84-89077-39-3",
+		"language": "es",
+		"number-of-pages": "93",
+		"publisher": "Egin",
+		"publisher-place": "Donostia",
+		"title": "Últimos artículos",
+		"author": [
+			{
+				"family": "Monzón",
+				"given": "Telesforo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/PHXJXV8F",
+		"type": "book",
+		"call-number": "329.borr MON ult",
+		"event-place": "Donostia",
+		"ISBN": "978-84-89077-39-3",
+		"language": "es",
+		"number-of-pages": "93",
+		"publisher": "Egin",
+		"publisher-place": "Donostia",
+		"title": "Últimos artículos",
+		"author": [
+			{
+				"family": "Monzón",
+				"given": "Telesforo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/ECZCNC7L",
+		"type": "book",
+		"call-number": "329.borr LOR txa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-901-4",
+		"language": "es",
+		"number-of-pages": "276",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Txabi Etxebarrieta: armado de palabra y obra",
+		"title-short": "Txabi Etxebarrieta",
+		"author": [
+			{
+				"family": "Lorenzo Espinosa",
+				"given": "José María"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
+				]
+			]
+		}
+	}
+]

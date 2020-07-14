@@ -1,0 +1,3220 @@
+[
+	{
+		"id": "http://zotero.org/groups/2204707/items/HRDDKRHG",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 LON oih",
+		"event-place": "Donostia",
+		"ISBN": "978-84-7099-144-8",
+		"language": "eu",
+		"number-of-pages": "149",
+		"publisher": "Hordago",
+		"publisher-place": "Donostia",
+		"title": "Oihanaren deia",
+		"author": [
+			{
+				"family": "London",
+				"given": "Jack"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1979"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/4TLECBRF",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 LLO ZER",
+		"event-place": "Donostia",
+		"ISBN": "978-84-8331-586-6",
+		"language": "eu",
+		"number-of-pages": "144",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Zer duzu, Nuria?",
+		"author": [
+			{
+				"family": "Llobet",
+				"given": "Glòria"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2003"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/QCKTDTNC",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 LIN man",
+		"event-place": "Madrid",
+		"ISBN": "978-84-8147-375-9",
+		"language": "eu",
+		"number-of-pages": "147",
+		"publisher": "Zubia; Alfaguara",
+		"publisher-place": "Madrid",
+		"title": "Manolito gaixoa",
+		"author": [
+			{
+				"family": "Lindo",
+				"given": "Elvira"
+			},
+			{
+				"family": "Urberuaga",
+				"given": "Emilio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/L6FV7U3F",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 LER ala",
+		"event-place": "Donostia",
+		"ISBN": "978-84-7568-230-3",
+		"language": "eu",
+		"number-of-pages": "166",
+		"publisher": "Erein",
+		"publisher-place": "Donostia",
+		"title": "Alarguntsa sikodelikoaren kasua",
+		"author": [
+			{
+				"family": "Lertxundi",
+				"given": "Anjel"
+			},
+			{
+				"family": "Olariaga",
+				"given": "Antton"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1988"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/8PCIT8BH",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 LAF cig",
+		"edition": "El País",
+		"event-place": "Barcelona",
+		"language": "es",
+		"number-of-pages": "40",
+		"publisher": "Editorial Sol 90, S.L.",
+		"publisher-place": "Barcelona",
+		"title": "La cigarra y la hormiga",
+		"author": [
+			{
+				"family": "Lafontaine",
+				"given": "Jean De"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/ZA5GIY7D",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 KAZ fil",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-271-2382-3",
+		"language": "eu",
+		"number-of-pages": "46",
+		"publisher": "Ekilore",
+		"publisher-place": "Bilbao",
+		"title": "Fila",
+		"author": [
+			{
+				"family": "Kazabon",
+				"given": "Antton"
+			},
+			{
+				"family": "Hernández",
+				"given": "Ander"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/YQVVP5DF",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 ITU isl",
+		"event-place": "Madrid",
+		"ISBN": "978-84-204-5617-1",
+		"language": "eu",
+		"number-of-pages": "103",
+		"publisher": "Alfaguara",
+		"publisher-place": "Madrid",
+		"title": "Isladak",
+		"author": [
+			{
+				"family": "Iturriaga",
+				"given": "Unai"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1997"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/PZE65IHL",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 ITU isl",
+		"event-place": "Madrid",
+		"ISBN": "978-84-204-5617-1",
+		"language": "eu",
+		"number-of-pages": "102",
+		"publisher": "Alfaguara",
+		"publisher-place": "Madrid",
+		"title": "Isladak",
+		"author": [
+			{
+				"family": "Iturriaga",
+				"given": "Unai"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1997"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/IIDABE86",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 IRI pis",
+		"event-place": "Donostia",
+		"ISBN": "978-84-9027-309-8",
+		"language": "eu",
+		"number-of-pages": "230",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Pistolak eta epistolak",
+		"author": [
+			{
+				"family": "Irigoien",
+				"given": "Joan Mari"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/DD4SZKAK",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 HAR ben",
+		"event-place": "Donostia",
+		"ISBN": "978-84-7917-429-3",
+		"language": "eu",
+		"number-of-pages": "119",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Benek Anna maite du",
+		"author": [
+			{
+				"family": "Härtling",
+				"given": "Peter"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/JXYY8CVV",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 HAR fra",
+		"event-place": "Donostia",
+		"ISBN": "978-84-7917-239-8",
+		"language": "eu",
+		"number-of-pages": "163",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Franze",
+		"author": [
+			{
+				"family": "Härtling",
+				"given": "Peter"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1992"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/Q7NBQCK6",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 GUZ rev",
+		"event-place": "Madrid",
+		"ISBN": "978-84-946223-3-5",
+		"language": "es",
+		"number-of-pages": "38",
+		"publisher": "Ochodoscuatro",
+		"publisher-place": "Madrid",
+		"title": "La revobulliprotesta",
+		"author": [
+			{
+				"family": "Guzmán Soriano",
+				"given": "Rosalba"
+			},
+			{
+				"family": "Fernández",
+				"given": "Klara"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/G7K67BVE",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 GUD biz",
+		"event-place": "Donostia",
+		"ISBN": "978-84-8331-624-5",
+		"language": "eu",
+		"number-of-pages": "185",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Bizitza atzeraka",
+		"author": [
+			{
+				"literal": "Gudule"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/L365ZLS9",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 GOM egu",
+		"event-place": "Donostia",
+		"ISBN": "84-8325-662-2",
+		"language": "eu",
+		"number-of-pages": "173",
+		"publisher": "Ibaizabal",
+		"publisher-place": "Donostia",
+		"title": "Egunerokoa lokatz-eremuan",
+		"author": [
+			{
+				"family": "Gómez",
+				"given": "Ricardo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/WLUEWJ47",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 FER itz",
+		"event-place": "Iruñea",
+		"ISBN": "978-84-7681-452-9",
+		"language": "eus",
+		"number-of-pages": "121",
+		"publisher": "Pamiela",
+		"publisher-place": "Iruñea",
+		"title": "Itzal suntsigarrien gaua",
+		"author": [
+			{
+				"family": "Fernández Paz",
+				"given": "Agustín"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/FZRVX8EZ",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 FER lor",
+		"event-place": "Donostia",
+		"ISBN": "978-84-7917-338-8",
+		"language": "eu",
+		"number-of-pages": "123",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Lore erradioaktiboak",
+		"author": [
+			{
+				"family": "Fernández Paz",
+				"given": "Agustín"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1993"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/4EKG6W5C",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 ETX ene",
+		"event-place": "Donostia",
+		"ISBN": "978-84-85795-15-4",
+		"language": "eu",
+		"number-of-pages": "205",
+		"publisher": "Hordago",
+		"publisher-place": "Donostia",
+		"title": "Eneko Agerroa",
+		"author": [
+			{
+				"family": "Etxaide Itharte",
+				"given": "Yon"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1981"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/UHA5JZ3R",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 ETX ene",
+		"event-place": "Donostia",
+		"ISBN": "978-84-85795-15-4",
+		"language": "eu",
+		"number-of-pages": "205",
+		"publisher": "Hordago",
+		"publisher-place": "Donostia",
+		"title": "Eneko Agerroa",
+		"author": [
+			{
+				"family": "Etxaide Itharte",
+				"given": "Yon"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1981"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/JEAHU92Q",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 ESN aze",
+		"event-place": "Donostia",
+		"ISBN": "978-84-9027-203-9",
+		"language": "eu",
+		"number-of-pages": "216",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Azeri-zuloa",
+		"author": [
+			{
+				"family": "Esnal",
+				"given": "Peio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/38X2LGHQ",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 EGA kix",
+		"event-place": "Donostia",
+		"ISBN": "978-84-9783-631-9",
+		"language": "eus",
+		"number-of-pages": "193",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Kixmi elurpean",
+		"author": [
+			{
+				"family": "Egaña",
+				"given": "Arrate"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/ZY9747KP",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 DUR epa",
+		"event-place": "Donostia",
+		"ISBN": "978-84-9109-262-9",
+		"language": "eu",
+		"number-of-pages": "148",
+		"publisher": "Erein Igela",
+		"publisher-place": "Donostia",
+		"title": "Epailea eta haren borreroa",
+		"author": [
+			{
+				"family": "Dürrenmatt",
+				"given": "Friedrich"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/QAI9DQJ9",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 DOL bir",
+		"event-place": "Donostia",
+		"ISBN": "978-84-9027-259-6",
+		"language": "eu",
+		"number-of-pages": "142",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Biribilgune",
+		"author": [
+			{
+				"family": "Dolhare-Çaldumbide",
+				"given": "Katixa"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/5BDE5H4S",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 DAU tar",
+		"event-place": "Donostia",
+		"ISBN": "978-84-7099-225-4",
+		"language": "eu",
+		"number-of-pages": "191",
+		"publisher": "Hordago",
+		"publisher-place": "Donostia",
+		"title": "Tartarin Alpeetan",
+		"author": [
+			{
+				"family": "Daudet",
+				"given": "Alphonse"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1981"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/4TDDMTDL",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 CRU poe",
+		"event-place": "Madrid",
+		"ISBN": "978-84-7517-446-4",
+		"language": "es",
+		"number-of-pages": "75",
+		"publisher": "Ajonjolí",
+		"publisher-place": "Madrid",
+		"title": "Poemas para la pupila = begi-niniaren poemak",
+		"author": [
+			{
+				"family": "Cruz Iguerabide",
+				"given": "Juan"
+			},
+			{
+				"family": "Balzola",
+				"given": "Asun"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/PIYT2C6U",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 CRE joh",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-233-6",
+		"language": "eu",
+		"number-of-pages": "63",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Johanes, Bargotako aztia",
+		"author": [
+			{
+				"family": "Crespo",
+				"given": "Fultxo"
+			},
+			{
+				"family": "Fernandez",
+				"given": "Mikel"
+			},
+			{
+				"family": "Jimenez Maia",
+				"given": "Josu"
+			},
+			{
+				"family": "Dueñas Chasco",
+				"given": "Beatriz"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2003"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/VWC3FZLH",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 COL esk",
+		"event-place": "Irun",
+		"ISBN": "978-84-938368-1-8",
+		"language": "eu",
+		"number-of-pages": "415",
+		"publisher": "Alberdania",
+		"publisher-place": "Irun",
+		"title": "Eskinoso isekaria",
+		"author": [
+			{
+				"family": "Collins",
+				"given": "Suzanne"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/4D7G3HWW",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 COL hga",
+		"event-place": "Etxebarri",
+		"ISBN": "978-84-8147-835-8",
+		"language": "eu",
+		"number-of-pages": "110",
+		"publisher": "Zubia",
+		"publisher-place": "Etxebarri",
+		"title": "H gabe",
+		"author": [
+			{
+				"family": "Colina",
+				"given": "Sustrai"
+			},
+			{
+				"family": "Mitxelena",
+				"given": "Jokin"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/3R6RPQ7R",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 CIR bal",
+		"event-place": "Donostia",
+		"ISBN": "978-84-7917-135-3",
+		"language": "eu",
+		"number-of-pages": "164",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Balearen eskeletoa",
+		"author": [
+			{
+				"family": "Cirici",
+				"given": "David"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1992"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/3LJI3XLB",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 BRE sor",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-330-1147-3",
+		"language": "eu",
+		"number-of-pages": "136",
+		"publisher": "Desclée",
+		"publisher-place": "Bilbao",
+		"title": "Sorgin-tren berdearen misterioa",
+		"author": [
+			{
+				"family": "Brezina",
+				"given": "Thomas"
+			},
+			{
+				"family": "Fórth",
+				"given": "Bernhard"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/859SGYUE",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 BLY bos",
+		"event-place": "Donostia",
+		"ISBN": "978-84-8331-291-9",
+		"language": "eu",
+		"number-of-pages": "166",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Bostak eta uharteko altxorra",
+		"author": [
+			{
+				"family": "Blyton",
+				"given": "Enid"
+			},
+			{
+				"family": "Correas",
+				"given": "José"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/84LVTD92",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 BIL lew",
+		"event-place": "Madrid",
+		"ISBN": "978-84-96751-49-1",
+		"language": "es",
+		"number-of-pages": "123",
+		"publisher": "El Rompecabezas",
+		"publisher-place": "Madrid",
+		"title": "Lewis y Clark a la conquista del Oeste",
+		"author": [
+			{
+				"family": "Bilbao",
+				"given": "Jon"
+			},
+			{
+				"family": "Fraguas González",
+				"given": "Raquel"
+			},
+			{
+				"literal": "A Cuatro Manos Estudio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/F2IU2QPC",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 BIL leo",
+		"event-place": "Madrid",
+		"ISBN": "978-84-15016-01-4",
+		"language": "es",
+		"number-of-pages": "137",
+		"publisher": "El Rompecabezas",
+		"publisher-place": "Madrid",
+		"title": "Leonardo Da Vinci el inventor",
+		"author": [
+			{
+				"family": "Bilbao",
+				"given": "Jon"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/YDPVKHEE",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 BIL leo",
+		"event-place": "Madrid",
+		"ISBN": "978-84-15016-01-4",
+		"language": "es",
+		"number-of-pages": "137",
+		"publisher": "El Rompecabezas",
+		"publisher-place": "Madrid",
+		"title": "Leonardo Da Vinci el inventor",
+		"author": [
+			{
+				"family": "Bilbao",
+				"given": "Jon"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/L3CZZT7U",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 BIL leo",
+		"event-place": "Madrid",
+		"ISBN": "978-84-15016-01-4",
+		"language": "es",
+		"number-of-pages": "137",
+		"publisher": "El Rompecabezas",
+		"publisher-place": "Madrid",
+		"title": "Leonardo Da Vinci el inventor",
+		"author": [
+			{
+				"family": "Bilbao",
+				"given": "Jon"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/SDC6NS9U",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 BIL leo",
+		"event-place": "Madrid",
+		"ISBN": "978-84-15016-01-4",
+		"language": "es",
+		"number-of-pages": "137",
+		"publisher": "El Rompecabezas",
+		"publisher-place": "Madrid",
+		"title": "Leonardo Da Vinci el inventor",
+		"author": [
+			{
+				"family": "Bilbao",
+				"given": "Jon"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/QZRJ3FS2",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 BAU est",
+		"event-place": "Donostia",
+		"ISBN": "978-84-7099-213-1",
+		"language": "eu",
+		"number-of-pages": "245",
+		"number-of-volumes": "2",
+		"publisher": "Hordago",
+		"publisher-place": "Donostia",
+		"title": "Estepako semeak",
+		"volume": "2",
+		"author": [
+			{
+				"family": "Baumann",
+				"given": "Hans"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1981"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/RR88J7EW",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 BAU est",
+		"event-place": "Donostia",
+		"ISBN": "978-84-7099-213-1",
+		"language": "eu",
+		"number-of-pages": "160",
+		"number-of-volumes": "2",
+		"publisher": "Hordago",
+		"publisher-place": "Donostia",
+		"title": "Estepako semeak",
+		"volume": "1",
+		"author": [
+			{
+				"family": "Baumann",
+				"given": "Hans"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1981"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/4NKLG3F5",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 BAU ozk",
+		"event-place": "Donostia",
+		"ISBN": "978-84-85795-14-7",
+		"language": "eu",
+		"number-of-pages": "204",
+		"publisher": "Hordago",
+		"publisher-place": "Donostia",
+		"title": "Oz-ko magoa",
+		"author": [
+			{
+				"family": "Baum",
+				"given": "L. Frank"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1981"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/NVH3IX6U",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 BAU ozk",
+		"event-place": "Donostia",
+		"ISBN": "978-84-85795-14-7",
+		"language": "eu",
+		"number-of-pages": "204",
+		"publisher": "Hordago",
+		"publisher-place": "Donostia",
+		"title": "Oz-ko magoa",
+		"author": [
+			{
+				"family": "Baum",
+				"given": "L. Frank"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1981"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/UKHXZ7P2",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 AUE iza",
+		"event-place": "Donostia",
+		"ISBN": "978-84-7917-472-9",
+		"language": "eu",
+		"number-of-pages": "103",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Izar bat naiz",
+		"author": [
+			{
+				"family": "Auerbacher",
+				"given": "Inge"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/9YM36ZUW",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 ATX mar",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-89476-38-7",
+		"language": "eu",
+		"number-of-pages": "199",
+		"publisher": "Bilbao Bizkaia Kutxa Fundazioa",
+		"publisher-place": "Bilbao",
+		"title": "Markonitar handien ekintza handiak",
+		"author": [
+			{
+				"family": "Atxaga",
+				"given": "Bernardo"
+			},
+			{
+				"literal": "Mikel Valverde"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/BWST5K7F",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 ATX ast",
+		"event-place": "Donostia",
+		"ISBN": "978-84-7529-447-6",
+		"language": "eu",
+		"number-of-pages": "37",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Astakiloen izkutuko taktika",
+		"author": [
+			{
+				"family": "Atxaga",
+				"given": "Bernardo"
+			},
+			{
+				"literal": "Jaizkibel taldea"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1987"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/CGZDFM3F",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 BAM atx",
+		"event-place": "Donostia",
+		"ISBN": "978-84-7568-868-8",
+		"language": "eu",
+		"number-of-pages": "119",
+		"publisher": "Erein",
+		"publisher-place": "Donostia",
+		"title": "Bambulo: Ternuako penak",
+		"title-short": "Bambulo",
+		"author": [
+			{
+				"family": "Atxaga",
+				"given": "Bernardo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/CATNKZXG",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 BAM atx",
+		"event-place": "Donostia",
+		"ISBN": "978-84-7568-798-8",
+		"language": "eu",
+		"number-of-pages": "119",
+		"publisher": "Erein",
+		"publisher-place": "Donostia",
+		"title": "Bambulo: lehen urratsak",
+		"title-short": "Bambuloren istorio bambulotarrak",
+		"author": [
+			{
+				"family": "Atxaga",
+				"given": "Bernardo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1998"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/BFMNM5SR",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 ATX bam",
+		"event-place": "Donostia",
+		"ISBN": "978-84-7568-814-5",
+		"language": "eu",
+		"number-of-pages": "123",
+		"publisher": "Erein",
+		"publisher-place": "Donostia",
+		"title": "Bambulo: krisia",
+		"title-short": "Bambulo",
+		"author": [
+			{
+				"family": "Atxaga",
+				"given": "Bernardo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1998"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/6524L4I3",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 ART dec",
+		"event-place": "Irun",
+		"ISBN": "978-84-9868-226-7",
+		"language": "eus",
+		"number-of-pages": "45",
+		"publisher": "Alberdania",
+		"publisher-place": "Irun",
+		"title": "Deception island",
+		"author": [
+			{
+				"family": "Artola Zubillaga",
+				"given": "Xabier"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/BXWFX23M",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 ARR ost",
+		"event-place": "Donostia",
+		"ISBN": "978-84-8331-028-1",
+		"language": "eus",
+		"number-of-pages": "107",
+		"publisher": "Elkarlanean",
+		"publisher-place": "Donostia",
+		"title": "Ostegunak",
+		"author": [
+			{
+				"family": "Arretxe",
+				"given": "Jon"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/R7AJC43T",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 ARR ost",
+		"event-place": "Donostia",
+		"ISBN": "978-84-8331-570-5",
+		"language": "eu",
+		"number-of-pages": "135",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Ostiralak",
+		"author": [
+			{
+				"family": "Arretxe",
+				"given": "Jon"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/JY93LDF7",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 ARO nin",
+		"event-place": "Donostia",
+		"ISBN": "978-84-9783-757-6",
+		"language": "eu",
+		"number-of-pages": "235",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Ninak ospa",
+		"author": [
+			{
+				"family": "Arold",
+				"given": "Marliese"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/8PABPXYQ",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 TOB are",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-8378-000-8",
+		"language": "eu",
+		"number-of-pages": "156",
+		"publisher": "Giltza",
+		"publisher-place": "Bilbao",
+		"title": "Beste jostuntxoa",
+		"author": [
+			{
+				"family": "Aretzaga",
+				"given": "María Teresa"
+			},
+			{
+				"family": "Tobella",
+				"given": "Montserrat"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/Z3XB5HT2",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 ANO rey",
+		"edition": "El País",
+		"event-place": "Barcelona",
+		"language": "es",
+		"number-of-pages": "40",
+		"publisher": "Editorial Sol 90, S.L.",
+		"publisher-place": "Barcelona",
+		"title": "El rey Midas",
+		"author": [
+			{
+				"literal": "Anonimoa"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/6856SCJQ",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 AMO sie",
+		"event-place": "Madrid",
+		"ISBN": "978-84-216-1575-1",
+		"language": "es",
+		"number-of-pages": "139",
+		"publisher": "Bruño",
+		"publisher-place": "Madrid",
+		"title": "¡Siempre toca!",
+		"author": [
+			{
+				"family": "Amo",
+				"given": "Montserrat",
+				"dropping-particle": "del"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/WN65KYDF",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 ALA bai",
+		"event-place": "Donostia",
+		"ISBN": "978-84-9783-538-1",
+		"language": "eu",
+		"number-of-pages": "264",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Bai baina ez baina bai",
+		"author": [
+			{
+				"family": "Alapont",
+				"given": "Pasqual"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/SWAYMNQI",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-31 JUA etx",
+		"event-place": "Donostia",
+		"ISBN": "978-84-9783-546-6",
+		"language": "eus",
+		"note": "OCLC: 863178500",
+		"number-of-pages": "109",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Etxearen negarra",
+		"author": [
+			{
+				"family": "Juaristi",
+				"given": "Felipe"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/KDT2I55B",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"event-place": "Donostia",
+		"ISBN": "978-84-9783-830-6",
+		"language": "eus",
+		"number-of-pages": "103",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Pottoko hipermerkatuan",
+		"author": [
+			{
+				"family": "Añorga Lopez",
+				"given": "Pello"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/NM6BX7TI",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"edition": "El País",
+		"event-place": "Barcelona",
+		"language": "es",
+		"number-of-pages": "40",
+		"publisher": "Editorial Sol 90, S.L.",
+		"publisher-place": "Barcelona",
+		"title": "Garbancito",
+		"author": [
+			{
+				"family": "Anónimo",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/42TATIKE",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"edition": "El País",
+		"event-place": "Barcelona",
+		"language": "es",
+		"number-of-pages": "40",
+		"publisher": "Editorial Sol 90, S.L.",
+		"publisher-place": "Barcelona",
+		"title": "Pedro y el lobo",
+		"author": [
+			{
+				"family": "Anónimo",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/HY2D6SM8",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"edition": "El País",
+		"event-place": "Barcelona",
+		"language": "es",
+		"number-of-pages": "40",
+		"publisher": "Editorial Sol 90, S.L.",
+		"publisher-place": "Barcelona",
+		"title": "La gallina de los huevos de oro",
+		"author": [
+			{
+				"literal": "Anónimo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/SKSXFK3V",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"event-place": "Donostia",
+		"ISBN": "978-84-7099-147-9",
+		"language": "eu",
+		"number-of-pages": "157",
+		"publisher": "Hordago",
+		"publisher-place": "Donostia",
+		"title": "Till Eulenspiegel: jaiotzatik bihurri",
+		"title-short": "Till Eulenspiegel",
+		"author": [
+			{
+				"literal": "Anonimoa"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1981"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/SV82CMQL",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 ARR ost",
+		"event-place": "Donostia",
+		"ISBN": "978-84-8331-570-5",
+		"language": "eus",
+		"number-of-pages": "133",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Ostiralak",
+		"author": [
+			{
+				"family": "Arretxe",
+				"given": "Jon ("
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/62QUNT99",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 AGI bai",
+		"event-place": "Irun",
+		"ISBN": "978-84-96310-93-3",
+		"language": "eus",
+		"number-of-pages": "132",
+		"publisher": "Alberdania",
+		"publisher-place": "Irun",
+		"title": "Baietz okerreko bidea aukeratu!: ehuntxo apustu jan-edanaren panoramaz",
+		"author": [
+			{
+				"family": "Agirre",
+				"given": "Edorta"
+			},
+			{
+				"family": "Urmeneta",
+				"given": "Asisko"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/U3ID8Q8N",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 ZUB txe",
+		"event-place": "Donostia",
+		"ISBN": "978-84-8331-412-8",
+		"language": "eu",
+		"number-of-pages": "95",
+		"publisher": "Elkarlanean",
+		"publisher-place": "Donostia",
+		"title": "Txerrama errudun",
+		"author": [
+			{
+				"family": "Zubeldia",
+				"given": "Iñaki"
+			},
+			{
+				"family": "Zabaleta",
+				"given": "Jon"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2003"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/BX7C4TWS",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 ZEL ame",
+		"event-place": "Zaragoza",
+		"ISBN": "978-84-9106-625-5",
+		"language": "eus",
+		"number-of-pages": "63",
+		"publisher": "Matxinsalto Bilduma",
+		"publisher-place": "Zaragoza",
+		"title": "Amets anfibio",
+		"author": [
+			{
+				"family": "Zelaieta",
+				"given": "Edu"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/QFIMGHUJ",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 VIE nir",
+		"event-place": "Arrigorriaga",
+		"ISBN": "978-84-348-3517-7",
+		"language": "eu",
+		"number-of-pages": "137",
+		"publisher": "Baporea",
+		"publisher-place": "Arrigorriaga",
+		"title": "Nire izenaren gorabeherak",
+		"author": [
+			{
+				"family": "Vieira",
+				"given": "Alice"
+			},
+			{
+				"family": "Echevarría",
+				"given": "Mónica"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1991"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/AU9U8HLY",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 VER lur",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-271-1038-0",
+		"language": "eu",
+		"number-of-pages": "155",
+		"publisher": "Ekilore",
+		"publisher-place": "Bilbao",
+		"title": "Lurraren bihotzeraino",
+		"author": [
+			{
+				"family": "Verne",
+				"given": "Julio"
+			},
+			{
+				"family": "Sánchez",
+				"given": "Álvaro"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1976"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/5SXDR8KU",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 VER cin",
+		"event-place": "Madrid",
+		"ISBN": "978-84-677-2219-2",
+		"language": "es",
+		"number-of-pages": "183",
+		"publisher": "Susaeta",
+		"publisher-place": "Madrid",
+		"title": "Cinco semanas en globo",
+		"author": [
+			{
+				"family": "Verne",
+				"given": "Julio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/R8EQ2UB3",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 VER ham",
+		"event-place": "Donostia",
+		"ISBN": "978-84-7099-217-9",
+		"language": "eu",
+		"number-of-pages": "302",
+		"publisher": "Hordago",
+		"publisher-place": "Donostia",
+		"title": "Hamabost urteko kapitaina",
+		"author": [
+			{
+				"family": "Verne",
+				"given": "Jules"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1981"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/NQK8HA9Z",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 URR aur",
+		"event-place": "Donostia",
+		"ISBN": "978-84-7568-749-0",
+		"language": "eu",
+		"number-of-pages": "89",
+		"publisher": "Erein",
+		"publisher-place": "Donostia",
+		"title": "Aurten aldatuko da nire bizitza",
+		"author": [
+			{
+				"family": "Urretabizkaia",
+				"given": "Arantxa"
+			},
+			{
+				"family": "Belmonte",
+				"given": "Jose"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1997"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/SMMRB5W7",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 URK ola",
+		"event-place": "Amorebieta",
+		"ISBN": "978-84-9106-623-1",
+		"language": "eus",
+		"number-of-pages": "23",
+		"publisher": "Txirrista bilduma",
+		"publisher-place": "Amorebieta",
+		"title": "Olatuak zaintzen",
+		"author": [
+			{
+				"family": "Urkiza",
+				"given": "Ana"
+			},
+			{
+				"family": "Ortega",
+				"given": "Manuel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/K2QT8ZS7",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 TWA pri",
+		"event-place": "Donostia",
+		"ISBN": "978-84-7099-216-2",
+		"language": "eu",
+		"number-of-pages": "220",
+		"publisher": "Hordago",
+		"publisher-place": "Donostia",
+		"title": "Printzea eta eskalea",
+		"author": [
+			{
+				"family": "Twain",
+				"given": "Mark"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1981"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/9K5ZVZPD",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 TWA tom",
+		"event-place": "Donostia",
+		"ISBN": "978-84-85795-00-0",
+		"language": "eu",
+		"number-of-pages": "166",
+		"publisher": "Hordago",
+		"publisher-place": "Donostia",
+		"title": "Tom Sawyer, detektibe",
+		"author": [
+			{
+				"family": "Twain",
+				"given": "Mark"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1980"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/IPGA765E",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 TWA tom",
+		"event-place": "Donostia",
+		"ISBN": "978-84-7099-149-3",
+		"language": "eu",
+		"number-of-pages": "126",
+		"publisher": "Hordago",
+		"publisher-place": "Donostia",
+		"title": "Tom Sawyerren abenturak",
+		"author": [
+			{
+				"family": "Twain",
+				"given": "Mark"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1979"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/T2R452IG",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 SWI gul",
+		"event-place": "Donostia",
+		"ISBN": "978-84-7917-259-6",
+		"language": "eu",
+		"number-of-pages": "113",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Gulliver Liliputen",
+		"author": [
+			{
+				"family": "Swift",
+				"given": "Jonathan"
+			},
+			{
+				"family": "Astrain",
+				"given": "Luis"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1993"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/ARQICQTF",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 STO osa",
+		"event-place": "Donostia",
+		"ISBN": "978-84-85795-07-9",
+		"language": "eu",
+		"number-of-pages": "157",
+		"publisher": "Hordago",
+		"publisher-place": "Donostia",
+		"title": "Osaba Tom-en txabola",
+		"author": [
+			{
+				"family": "Stowe",
+				"given": "Harriet Beecher"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1980"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/JPL94Q7J",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 STE aho",
+		"event-place": "Donostia",
+		"ISBN": "978-84-85795-01-7",
+		"language": "eu",
+		"number-of-pages": "123",
+		"publisher": "Hordago",
+		"publisher-place": "Donostia",
+		"title": "Ahotsen isla ; Deabrua botilan",
+		"author": [
+			{
+				"family": "Stevenson",
+				"given": "Robert Louis"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1980"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/NV9JF5FW",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 SOM peq",
+		"event-place": "Madrid",
+		"ISBN": "978-84-204-4399-7",
+		"language": "es",
+		"number-of-pages": "192",
+		"publisher": "Alfaguara",
+		"publisher-place": "Madrid",
+		"title": "El pequeño vampiro",
+		"author": [
+			{
+				"family": "Sommer-Bodenburg",
+				"given": "Angela"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/7C3AVPY4",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 SIR kar",
+		"event-place": "Bilbao",
+		"ISBN": "---",
+		"language": "eu",
+		"number-of-pages": "25",
+		"publisher": "Musikherria",
+		"publisher-place": "Bilbao",
+		"title": "Karosi",
+		"author": [
+			{
+				"literal": "Siroka"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/8UN4VQYL",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 SCO iva",
+		"event-place": "Donostia",
+		"ISBN": "978-84-85795-08-6",
+		"language": "eu",
+		"number-of-pages": "125",
+		"publisher": "Hordago",
+		"publisher-place": "Donostia",
+		"title": "Ivanhoe",
+		"author": [
+			{
+				"family": "Scott",
+				"given": "Walter"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1980"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/9HQ8D4XL",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 SAR ain",
+		"event-place": "Donostia",
+		"ISBN": "978-84-8331-209-4",
+		"language": "eu",
+		"number-of-pages": "73",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Ainhoari gutunak",
+		"author": [
+			{
+				"family": "Sarrionandia",
+				"given": "Joseba"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1991"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/YTNG8DDH",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 SAN bel",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-271-2312-0",
+		"language": "eu",
+		"number-of-pages": "93",
+		"publisher": "Gero",
+		"publisher-place": "Bilbao",
+		"title": "Beldurrak airean",
+		"author": [
+			{
+				"family": "Santisteban",
+				"given": "Karlos"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/R98XN8MR",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 SAL urr",
+		"event-place": "Donostia",
+		"ISBN": "978-84-85795-05-5",
+		"language": "eu",
+		"number-of-pages": "104",
+		"number-of-volumes": "2",
+		"publisher": "Hordago",
+		"publisher-place": "Donostia",
+		"title": "Urrutiko mendebaldeko mugak",
+		"volume": "2",
+		"author": [
+			{
+				"family": "Salgari",
+				"given": "Emilio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1980"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/DIYXSLDT",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 SAL urr",
+		"event-place": "Donostia",
+		"ISBN": "978-84-85795-05-5",
+		"language": "eu",
+		"number-of-pages": "101",
+		"number-of-volumes": "2",
+		"publisher": "Hordago",
+		"publisher-place": "Donostia",
+		"title": "Urrutiko mendebaldeko mugak",
+		"volume": "1",
+		"author": [
+			{
+				"family": "Salgari",
+				"given": "Emilio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1980"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/FFTXN36R",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 SAL pir",
+		"event-place": "Donostia",
+		"ISBN": "978-84-85795-09-3",
+		"language": "eu",
+		"number-of-pages": "103",
+		"number-of-volumes": "2",
+		"publisher": "Hordago",
+		"publisher-place": "Donostia",
+		"title": "Pirataren andrea",
+		"volume": "2",
+		"author": [
+			{
+				"family": "Salgari",
+				"given": "Emilio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1980"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/X65AFE26",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 SAL pir",
+		"event-place": "Donostia",
+		"ISBN": "978-84-85795-09-3",
+		"language": "eu",
+		"number-of-pages": "123",
+		"number-of-volumes": "2",
+		"publisher": "Hordago",
+		"publisher-place": "Donostia",
+		"title": "Pirataren andrea",
+		"volume": "1",
+		"author": [
+			{
+				"family": "Salgari",
+				"given": "Emilio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1980"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/MBN8FAD3",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 RUI ane",
+		"event-place": "Iruñea",
+		"ISBN": "978-84-7681-553-3",
+		"language": "eus",
+		"number-of-pages": "45",
+		"publisher": "Pamiela",
+		"publisher-place": "Iruñea",
+		"title": "Anekdotak",
+		"author": [
+			{
+				"family": "Ruiz",
+				"given": "Ruben"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/6VTEWMNZ",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 RUI bes",
+		"event-place": "Zaragoza",
+		"ISBN": "978-84-9106-625-5",
+		"language": "eus",
+		"number-of-pages": "71",
+		"publisher": "Matxinsalto Bilduma",
+		"publisher-place": "Zaragoza",
+		"title": "Besomotz",
+		"author": [
+			{
+				"family": "Ruiz Aguirre",
+				"given": "Luis Mariano"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/GM7JIP84",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 ROW har",
+		"event-place": "Donostia",
+		"ISBN": "978-84-8331-703-7",
+		"language": "eu",
+		"number-of-pages": "279",
+		"publisher": "Elkarlanean",
+		"publisher-place": "Donostia",
+		"title": "Harry Potter eta sorgin-harria",
+		"author": [
+			{
+				"family": "Rowling",
+				"given": "Joanne K."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2004"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/7LIPYZUN",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 ROD caj",
+		"event-place": "Madrid",
+		"ISBN": "978-84-15016-05-2",
+		"language": "es",
+		"number-of-pages": "137",
+		"publisher": "El Rompecabezas",
+		"publisher-place": "Madrid",
+		"title": "Cajal, el travieso",
+		"author": [
+			{
+				"family": "Rodríguez Serrano",
+				"given": "Esteban"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/QNX3WRR8",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 ROD kat",
+		"event-place": "Madrid",
+		"ISBN": "978-84-207-9245-3",
+		"language": "eu",
+		"number-of-pages": "88",
+		"publisher": "Anaya",
+		"publisher-place": "Madrid",
+		"title": "Katu jaunaren negozioak",
+		"author": [
+			{
+				"family": "Rodari",
+				"given": "Gianni"
+			},
+			{
+				"family": "Ginesta",
+				"given": "Montserrat"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/LQR9Y95L",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 RIV ezi",
+		"event-place": "Donostia",
+		"ISBN": "978-84-8331-554-5",
+		"language": "eus",
+		"number-of-pages": "170",
+		"publisher": "Elkarlanean",
+		"publisher-place": "Donostia",
+		"title": "Ezinezkoa!",
+		"author": [
+			{
+				"family": "Rivais",
+				"given": "Yak"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/VQI6GFXV",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 PUJ mai",
+		"event-place": "Euba",
+		"ISBN": "---",
+		"language": "eu",
+		"number-of-pages": "47",
+		"publisher": "IKA",
+		"publisher-place": "Euba",
+		"title": "Mainton eta praisku",
+		"author": [
+			{
+				"family": "Pujana",
+				"given": "Bibiñe"
+			},
+			{
+				"family": "Ruiz",
+				"given": "Jesus Antonio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1983"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/329PETN3",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 PER bel",
+		"edition": "El País",
+		"event-place": "Barcelona",
+		"language": "es",
+		"number-of-pages": "40",
+		"publisher": "Editorial Sol 90, S.L.",
+		"publisher-place": "Barcelona",
+		"title": "La Bella Durmiente",
+		"author": [
+			{
+				"family": "Perrault",
+				"given": "Charles"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/Y4593SLC",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 PAZ jua",
+		"event-place": "Madrid",
+		"ISBN": "978-84-15016-48-9",
+		"language": "es",
+		"number-of-pages": "137",
+		"publisher": "El Rompecabezas",
+		"publisher-place": "Madrid",
+		"title": "Juan Ramón Jiménez: el poeta",
+		"author": [
+			{
+				"family": "Paz",
+				"given": "Mateo",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/FPQPH4MJ",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 PAZ ces",
+		"event-place": "Madrid",
+		"ISBN": "978-84-96751-42-2",
+		"language": "Spanish",
+		"number-of-pages": "123",
+		"publisher": "El Rompecabezas",
+		"publisher-place": "Madrid",
+		"title": "César Vallejo: el poeta de los pobres",
+		"author": [
+			{
+				"family": "Paz",
+				"given": "Mateo",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/JKM6VH2C",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 PAU hod",
+		"event-place": "Donostia",
+		"ISBN": "978-84-7917-076-9",
+		"language": "eu",
+		"number-of-pages": "203",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Hodeia",
+		"author": [
+			{
+				"family": "Pausewang",
+				"given": "Gudrun"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1991"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/NX82DSUH",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 OSO jar",
+		"event-place": "Madrid",
+		"ISBN": "978-84-16839-24-7",
+		"language": "eu",
+		"number-of-pages": "135",
+		"publisher": "Alfaguara",
+		"publisher-place": "Madrid",
+		"title": "Jara bikiak eta bikoteak",
+		"author": [
+			{
+				"family": "Osoro Igartua",
+				"given": "Jasone"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/QXDGFY33",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 ORW abe",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Donostia",
+		"ISBN": "978-84-8331-039-7",
+		"language": "eu",
+		"number-of-pages": "161",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Abereen etxaldea",
+		"author": [
+			{
+				"family": "Orwell",
+				"given": "George"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/936W94EP",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 ORW abe",
+		"event-place": "Donostia",
+		"ISBN": "978-84-7099-147-9",
+		"language": "eu",
+		"number-of-pages": "157",
+		"publisher": "Hordago",
+		"publisher-place": "Donostia",
+		"title": "Abereeneko iraultza",
+		"author": [
+			{
+				"family": "Orwell",
+				"given": "George"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1981"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/WXGRPDB8",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 ORW abe",
+		"event-place": "Donostia",
+		"ISBN": "978-84-7099-147-9",
+		"language": "eu",
+		"number-of-pages": "157",
+		"publisher": "Hordago",
+		"publisher-place": "Donostia",
+		"title": "Abereeneko iraultza",
+		"author": [
+			{
+				"family": "Orwell",
+				"given": "George"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1981"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/MXGVMM3T",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 ORM per",
+		"event-place": "Donostia",
+		"ISBN": "978-84-8448-573-5",
+		"language": "eu",
+		"number-of-pages": "141",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Pernando amezketarra",
+		"author": [
+			{
+				"family": "Ormazabal",
+				"given": "Joxantonio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1981"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/ATK7LZD3",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 OLA txi",
+		"event-place": "Pamplona",
+		"ISBN": "978-84-7681-758-2",
+		"language": "es",
+		"number-of-pages": "109",
+		"publisher": "Pamiela",
+		"publisher-place": "Pamplona",
+		"title": "Tximeletrak",
+		"author": [
+			{
+				"family": "Olaso Bengoa",
+				"given": "Xabier"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/G3W4EJR4",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 NIC paw",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-488-4562-9",
+		"language": "es",
+		"number-of-pages": "24",
+		"publisher": "Penguin",
+		"publisher-place": "Barcelona",
+		"title": "Paw Patrol. ¡Salvemos el tren!",
+		"author": [
+			{
+				"literal": "Nickelodeon"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/ERVTMJEY",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 MUN ask",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-92629-24-4",
+		"language": "es",
+		"number-of-pages": "109",
+		"publisher": "Ediciones Beta",
+		"publisher-place": "Bilbao",
+		"title": "Askatasun malkoak",
+		"author": [
+			{
+				"family": "Munitiz",
+				"given": "Josu"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/BULIYY3B",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 MOR sex",
+		"event-place": "Donostia",
+		"ISBN": "978-84-8331-642-9",
+		"language": "eu",
+		"number-of-pages": "113",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Sexu egunsentiak",
+		"author": [
+			{
+				"family": "Morillo",
+				"given": "Fernando"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/EXX3XRMA",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 MOR sex",
+		"event-place": "Donostia",
+		"ISBN": "978-84-8331-642-9",
+		"language": "eu",
+		"number-of-pages": "113",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Sexu egunsentiak",
+		"author": [
+			{
+				"family": "Morillo",
+				"given": "Fernando"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/UZL5WGJZ",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 MOR bil",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-580-1",
+		"language": "eu",
+		"number-of-pages": "282",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Bilbo Samurai",
+		"author": [
+			{
+				"family": "Morillo",
+				"given": "Fernando"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/D7S32D2M",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 MOR zur",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-531-3",
+		"language": "eu",
+		"number-of-pages": "223",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Zure arimaren truke",
+		"author": [
+			{
+				"family": "Morillo",
+				"given": "Fernando"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/N7SP47BK",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 MEN obs",
+		"event-place": "Donostia",
+		"ISBN": "978-84-7917-711-9",
+		"language": "eu",
+		"number-of-pages": "131",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Obsexuen kluba",
+		"author": [
+			{
+				"family": "Mendiguren",
+				"given": "Xabier"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1997"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/VHC7YTTD",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 MEN obs",
+		"event-place": "Donostia",
+		"ISBN": "978-84-7917-711-9",
+		"language": "eu",
+		"number-of-pages": "131",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Obsexuen kluba",
+		"author": [
+			{
+				"family": "Mendiguren",
+				"given": "Xabier"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1997"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/LG8QRNBN",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 MEN ame",
+		"event-place": "Donostia",
+		"ISBN": "978-84-8331-025-0",
+		"language": "eu",
+		"number-of-pages": "79",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Ametsen kontrabandista",
+		"author": [
+			{
+				"family": "Mendiguren Elizegi",
+				"given": "Xabier"
+			},
+			{
+				"family": "Urmeneta",
+				"given": "Asisko"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1992"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/UAKBUZYP",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 MEN txa",
+		"event-place": "Donostia",
+		"ISBN": "978-84-8331-655-9",
+		"language": "eu",
+		"number-of-pages": "188",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Txakurraren alaba",
+		"author": [
+			{
+				"family": "Mendiguren Elizegi",
+				"given": "Xabier"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/GBWKLBYA",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 MEN ait",
+		"event-place": "Donostia",
+		"ISBN": "84-9746-208-4",
+		"language": "eu",
+		"number-of-pages": "36",
+		"publisher": "Erein",
+		"publisher-place": "Donostia",
+		"title": "Aitorrek bi ama ditu",
+		"author": [
+			{
+				"family": "Mendieta",
+				"given": "María José"
+			},
+			{
+				"family": "Zabaleta",
+				"given": "Jon"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/XGF9HNI6",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 MAR ezk",
+		"event-place": "Madrid",
+		"ISBN": "978-84-204-5609-6",
+		"language": "eu",
+		"number-of-pages": "157",
+		"publisher": "Alfaguara",
+		"publisher-place": "Madrid",
+		"title": "Ez eskatu sardinarik sasoiz kanpo",
+		"author": [
+			{
+				"family": "Martín",
+				"given": "Andreu"
+			},
+			{
+				"family": "Ribera",
+				"given": "Jaume"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/H7Q2A924",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 LON ave",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-7577-120-5",
+		"language": "es",
+		"number-of-pages": "117",
+		"publisher": "Juan Granica",
+		"publisher-place": "Barcelona",
+		"title": "Una aventura en el aire",
+		"author": [
+			{
+				"family": "London",
+				"given": "Jack"
+			},
+			{
+				"family": "Grego",
+				"given": "Adela"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1986"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/NRCI3GDN",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 LON pir",
+		"event-place": "Donostia",
+		"ISBN": "978-84-85795-13-0",
+		"language": "eu",
+		"number-of-pages": "187",
+		"publisher": "Hordago",
+		"publisher-place": "Donostia",
+		"title": "Pirataren espedizioa",
+		"author": [
+			{
+				"family": "London",
+				"given": "Jack"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1981"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/DI3J49S8",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 LON pir",
+		"event-place": "Donostia",
+		"ISBN": "978-84-85795-13-0",
+		"language": "eu",
+		"number-of-pages": "187",
+		"publisher": "Hordago",
+		"publisher-place": "Donostia",
+		"title": "Pirataren espedizioa",
+		"author": [
+			{
+				"family": "London",
+				"given": "Jack"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1981"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/HXKSU5JI",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 LON biz",
+		"event-place": "Donostia",
+		"ISBN": "978-84-7099-227-8",
+		"language": "eu",
+		"number-of-pages": "157",
+		"publisher": "Hordago",
+		"publisher-place": "Donostia",
+		"title": "Bizi nahi",
+		"author": [
+			{
+				"family": "London",
+				"given": "Jack"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1981"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/M589NVPX",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 LON mau",
+		"event-place": "Donostia",
+		"ISBN": "978-84-85795-12-3",
+		"language": "eu",
+		"number-of-pages": "108",
+		"publisher": "Hordago",
+		"publisher-place": "Donostia",
+		"title": "Mauki: hego itsasaldeko gertakariak",
+		"title-short": "Mauki",
+		"author": [
+			{
+				"family": "London",
+				"given": "Jack"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1980"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/JED3SF6G",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "82-93 LON abe",
+		"event-place": "Donostia",
+		"ISBN": "978-84-85795-02-4",
+		"language": "eu",
+		"number-of-pages": "125",
+		"publisher": "Hordago",
+		"publisher-place": "Donostia",
+		"title": "Abentura ikaragarria airean",
+		"author": [
+			{
+				"family": "London",
+				"given": "Jack"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1980"
+				]
+			]
+		}
+	}
+]

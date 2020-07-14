@@ -1,0 +1,542 @@
+[
+	{
+		"id": "http://zotero.org/groups/2204707/items/DF5BQG22",
+		"type": "book",
+		"call-number": "82-31:741.52 ZAP dub",
+		"event-place": "Bilbo",
+		"ISBN": "978-84-16251-37-7",
+		"language": "eus",
+		"note": "OCLC: 948792190",
+		"number-of-pages": "226",
+		"publisher": "Astiberri",
+		"publisher-place": "Bilbo",
+		"title": "Dublindarra",
+		"author": [
+			{
+				"family": "Zapico",
+				"given": "Alfonso"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/FNFH5Y8G",
+		"type": "book",
+		"call-number": "82-31:741.52 ZAL rer",
+		"event-place": "Donostia",
+		"ISBN": "978-84-15337-45-4",
+		"language": "eus",
+		"number-of-pages": "159",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "De rerum natura 4: 2010-2011",
+		"author": [
+			{
+				"literal": "Zaldieroa"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/IKSBICCJ",
+		"type": "book",
+		"call-number": "82-31:741.52 UNA una",
+		"event-place": "Donosti",
+		"ISBN": "978-84-16251-41-4",
+		"language": "es",
+		"number-of-pages": "206",
+		"publisher": "Astiberri",
+		"publisher-place": "Donosti",
+		"title": "Una entre muchas",
+		"author": [
+			{
+				"literal": "Una"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/QC2EKMQM",
+		"type": "book",
+		"call-number": "82-31:741.52 TAL sal",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-15724-95-7",
+		"language": "es",
+		"note": "OCLC: 1105541305",
+		"number-of-pages": "166",
+		"publisher": "La Cúpula",
+		"publisher-place": "Barcelona",
+		"title": "Sally Heathcote, sufragista",
+		"author": [
+			{
+				"family": "Talbot",
+				"given": "Mary M"
+			},
+			{
+				"family": "Charlesworth",
+				"given": "Kate"
+			},
+			{
+				"family": "Talbot",
+				"given": "Bryan"
+			},
+			{
+				"family": "Díaz",
+				"given": "Lorenzo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/M3SE9H6M",
+		"type": "book",
+		"call-number": "82-31:741.52 PRA tra",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-679-0805-3",
+		"language": "es",
+		"number-of-pages": "93",
+		"publisher": "Norma",
+		"publisher-place": "Barcelona",
+		"title": "Trazo de tiza",
+		"author": [
+			{
+				"family": "Prado",
+				"given": "Miguelanxo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/SHR3KM47",
+		"type": "book",
+		"call-number": "82-31:741.52 PER cam",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-320-4132-7",
+		"language": "es",
+		"number-of-pages": "284",
+		"publisher": "Planeta",
+		"publisher-place": "Barcelona",
+		"title": "Por el \"Camino\" Hacia Dios",
+		"author": [
+			{
+				"family": "Perich",
+				"given": "Jaume"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1978"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/XE8HTNQ6",
+		"type": "book",
+		"call-number": "82-31:741.52 PER aut",
+		"event-place": "Barcelona",
+		"ISBN": "mkt0003498742",
+		"language": "es",
+		"number-of-pages": "185",
+		"publisher": "Estela",
+		"publisher-place": "Barcelona",
+		"title": "Autopista: cuando un bosque se quema, algo suyo se quema, señor conde",
+		"title-short": "Autopista",
+		"author": [
+			{
+				"family": "Perich",
+				"given": "Jaume"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1971"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/TM8IT8X2",
+		"type": "book",
+		"call-number": "82-31:741.52 OTX pit",
+		"event-place": "Bilbao",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "30",
+		"publisher": "Aministia askatasuna",
+		"publisher-place": "Bilbao",
+		"title": "Los pitufos en amnistia",
+		"author": [
+			{
+				"literal": "Otxarkoagako amnistiaren aldeko komitea"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1979"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/BFSARKKU",
+		"type": "book",
+		"call-number": "82-31:741.52 HER luz",
+		"event-place": "Gasteiz",
+		"ISBN": "978-84-85631-60-5",
+		"language": "es",
+		"number-of-pages": "53",
+		"publisher": "Ikusager",
+		"publisher-place": "Gasteiz",
+		"title": "La luz de un siglo ha muerto",
+		"author": [
+			{
+				"family": "Hernández Cava",
+				"given": "Felipe"
+			},
+			{
+				"family": "Barrio",
+				"given": "Federico",
+				"dropping-particle": "del"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1993"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/XF6LDY4I",
+		"type": "book",
+		"call-number": "82-31:741.52 HEL art",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-16205-23-3",
+		"language": "es",
+		"number-of-pages": "198",
+		"publisher": "Consonni",
+		"publisher-place": "Bilbao",
+		"title": "Artoons",
+		"author": [
+			{
+				"family": "Helguera",
+				"given": "Pablo"
+			},
+			{
+				"family": "Perdices",
+				"given": "Álvaro"
+			},
+			{
+				"family": "Zaya",
+				"given": "Octavio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/BGRAH4T7",
+		"type": "book",
+		"call-number": "82-31:741.52 GAL mar",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-96815-40-7",
+		"language": "es",
+		"number-of-pages": "64",
+		"publisher": "Astiberri",
+		"publisher-place": "Bilbao",
+		"title": "María y yo",
+		"author": [
+			{
+				"family": "Gallardo",
+				"given": "María"
+			},
+			{
+				"family": "Gallardo",
+				"given": "Miguel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/F4D64YWY",
+		"type": "book",
+		"call-number": "82-31:741.52 FOR for",
+		"event-place": "Madrid",
+		"ISBN": "978-84-7380-209-3",
+		"language": "es",
+		"number-of-pages": "300",
+		"publisher": "Sedmay",
+		"publisher-place": "Madrid",
+		"title": "Forges 4",
+		"author": [
+			{
+				"literal": "Forges"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1977"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/DMXX6TJH",
+		"type": "book",
+		"call-number": "82-31:741.52 FER oct",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-96815-47-6",
+		"language": "es",
+		"number-of-pages": "336",
+		"publisher": "Astiberri",
+		"publisher-place": "Bilbao",
+		"title": "Octubre",
+		"author": [
+			{
+				"family": "Ferry",
+				"given": "Pasqual"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/YG2WJPYT",
+		"type": "book",
+		"call-number": "82-31:741.52 EIB barr",
+		"event-place": "Donostia",
+		"ISBN": "978-84-944108-0-2",
+		"language": "--",
+		"number-of-pages": "28",
+		"publisher": "Edo!",
+		"publisher-place": "Donostia",
+		"title": "Barrukoa",
+		"author": [
+			{
+				"family": "Eibar",
+				"given": "Eider"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/649HSRRA",
+		"type": "book",
+		"call-number": "82-31:741.52 CUE rue",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-16205-11-0",
+		"language": "es",
+		"number-of-pages": "138",
+		"publisher": "Consonni",
+		"publisher-place": "Bilbao",
+		"title": "La rue del percebe de la cultura y la niebla de la cultura digital",
+		"author": [
+			{
+				"family": "Cuesta",
+				"given": "Mery"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/RVVMUMH3",
+		"type": "book",
+		"call-number": "82-31:741.52 CON get",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-96815-15-5",
+		"language": "es",
+		"number-of-pages": "126",
+		"publisher": "Astiberri",
+		"publisher-place": "Bilbao",
+		"title": "The Get Fuzzy Experience: Are You Bucksperienced",
+		"author": [
+			{
+				"family": "Conley",
+				"given": "Darby"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/KX7WZLED",
+		"type": "book",
+		"call-number": "82-31:741.52 BER hon",
+		"event-place": "Donostia",
+		"ISBN": "01126788",
+		"language": "eus",
+		"number-of-pages": "48",
+		"publisher": "Habe",
+		"publisher-place": "Donostia",
+		"title": "Hontza",
+		"author": [
+			{
+				"family": "Berzosa",
+				"given": "Migel"
+			},
+			{
+				"family": "Muro Harriet",
+				"given": "Gregorio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1985"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/3RPXNCS3",
+		"type": "book",
+		"call-number": "82-31:741.52 BAL noc",
+		"event-place": "Barcelona",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "57",
+		"publisher": "Especial Star Books",
+		"publisher-place": "Barcelona",
+		"title": "La noche de siempre",
+		"author": [
+			{
+				"family": "Ballester Montesol",
+				"given": "Javier"
+			},
+			{
+				"family": "España",
+				"given": "Ramón",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1982"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/S8QK338R",
+		"type": "book",
+		"call-number": "82-31:741.52 ano bid",
+		"event-place": "Donostia",
+		"ISBN": "978-84-944108-1-9",
+		"language": "eu",
+		"number-of-pages": "22",
+		"publisher": "Edo!",
+		"publisher-place": "Donostia",
+		"title": "Bidea",
+		"author": [
+			{
+				"family": "Añorga",
+				"given": "Pello"
+			},
+			{
+				"family": "Probanza",
+				"given": "Concetta"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/IR4PH489",
+		"type": "book",
+		"call-number": "82-31:741.52 ANO tex",
+		"event-place": "Madrid",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "96",
+		"publisher": "Araldo",
+		"publisher-place": "Madrid",
+		"title": "Tex: furia salvaje",
+		"author": [
+			{
+				"literal": "Anonimoa"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1971"
+				]
+			]
+		}
+	}
+]

@@ -1,0 +1,516 @@
+[
+	{
+		"id": "http://zotero.org/groups/2204707/items/PZZJJ3H8",
+		"type": "book",
+		"call-number": "070 ANT min",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-126-1",
+		"language": "es",
+		"number-of-pages": "158",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Miniaturas",
+		"author": [
+			{
+				"family": "Antoñana",
+				"given": "Pablo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/UP7LJNFK",
+		"type": "book",
+		"call-number": "070 CAST vas",
+		"event-place": "Donostia",
+		"ISBN": "978-84-89077-61-4",
+		"language": "es",
+		"number-of-pages": "100",
+		"publisher": "Egin",
+		"publisher-place": "Donostia",
+		"title": "Los vascos también ríen",
+		"author": [
+			{
+				"family": "Castellano",
+				"given": "Rafael"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/ZI2B7FPV",
+		"type": "book",
+		"call-number": "070 EGA mil",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-200-8",
+		"language": "es",
+		"number-of-pages": "262",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Mil noticias insólitas del país de los vascos",
+		"author": [
+			{
+				"family": "Egaña",
+				"given": "Iñaki"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/UGFZH9EC",
+		"type": "book",
+		"call-number": "070 EGA mil",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-543-6",
+		"language": "es",
+		"number-of-pages": "325",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Mil nuevas noticias insólitas del país de los vascos",
+		"author": [
+			{
+				"family": "Egaña",
+				"given": "Iñaki"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/SEMEW6CQ",
+		"type": "book",
+		"call-number": "070 GOR pir",
+		"event-place": "Anglet",
+		"ISBN": "978-2-84747-013-0",
+		"language": "es",
+		"number-of-pages": "157",
+		"publisher": "Kale Gorria",
+		"publisher-place": "Anglet",
+		"title": "Los piratas del Prestige: de la Casa Blanca a la Zarzuela",
+		"author": [
+			{
+				"family": "Gortazar",
+				"given": "Iban"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2003"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/EEEEB9BV",
+		"type": "book",
+		"call-number": "070 GRA his",
+		"event-place": "Madrid",
+		"ISBN": "978-84-16001-58-3",
+		"language": "es",
+		"number-of-pages": "557",
+		"publisher": "Libros de K.O.",
+		"publisher-place": "Madrid",
+		"title": "Una historia personal: sobre cómo alcancé la cima del periodismo en un mundo de hombres",
+		"author": [
+			{
+				"family": "Graham",
+				"given": "Katharine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/B6MNTDAT",
+		"type": "book",
+		"call-number": "070 LAP aqu",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-026-4",
+		"language": "es",
+		"number-of-pages": "198",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "De aquellos barros...: prensa navarra y nacionalidad vasca",
+		"title-short": "De aquellos barros--",
+		"author": [
+			{
+				"family": "Lapeskera",
+				"given": "Ramón"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/PZJPERQZ",
+		"type": "book",
+		"call-number": "070 QUI gra",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Donostia",
+		"ISBN": "978-84-931197-5-1",
+		"language": "es",
+		"number-of-pages": "250",
+		"publisher": "Ardi Beltza",
+		"publisher-place": "Donostia",
+		"title": "Gran hermano, el precio de la dignidad",
+		"author": [
+			{
+				"family": "Quintans",
+				"given": "Rebeca"
+			},
+			{
+				"family": "Sánchez Díaz",
+				"given": "Andrés"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/ZFBEMU4C",
+		"type": "book",
+		"call-number": "070 REI col",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-86597-81-8",
+		"language": "es",
+		"number-of-pages": "345",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Colegas",
+		"author": [
+			{
+				"family": "Rei",
+				"given": "Pepe"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1998"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/XPCJBZ4A",
+		"type": "book",
+		"call-number": "070 REI col",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-86597-81-8",
+		"language": "es",
+		"number-of-pages": "345",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Colegas",
+		"author": [
+			{
+				"family": "Rei",
+				"given": "Pepe"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1998"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/ZHMIFSUC",
+		"type": "book",
+		"call-number": "070 REI col",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-86597-81-8",
+		"language": "es",
+		"number-of-pages": "345",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Colegas",
+		"author": [
+			{
+				"family": "Rei",
+				"given": "Pepe"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1998"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/DW7XDB9S",
+		"type": "book",
+		"call-number": "070 REI egi",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-114-8",
+		"language": "es",
+		"number-of-pages": "230",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Egin investigación: otra forma de periodismo",
+		"title-short": "Egin investigación",
+		"author": [
+			{
+				"family": "Rei",
+				"given": "Pepe"
+			},
+			{
+				"family": "San Martín",
+				"given": "Edurne"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1998"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/2GM9FXXZ",
+		"type": "book",
+		"call-number": "070 REI egi",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-114-8",
+		"language": "es",
+		"number-of-pages": "230",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Egin investigación: otra forma de periodismo",
+		"title-short": "Egin investigación",
+		"author": [
+			{
+				"family": "Rei",
+				"given": "Pepe"
+			},
+			{
+				"family": "San Martín",
+				"given": "Edurne"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1998"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/XJYSE3B3",
+		"type": "book",
+		"call-number": "070 REI egi",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-114-8",
+		"language": "es",
+		"number-of-pages": "230",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Egin investigación: otra forma de periodismo",
+		"title-short": "Egin investigación",
+		"author": [
+			{
+				"family": "Rei",
+				"given": "Pepe"
+			},
+			{
+				"family": "San Martín",
+				"given": "Edurne"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1998"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/FJT4NVSF",
+		"type": "book",
+		"call-number": "070 REI egi",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-114-8",
+		"language": "es",
+		"number-of-pages": "230",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Egin investigación: otra forma de periodismo",
+		"title-short": "Egin investigación",
+		"author": [
+			{
+				"family": "Rei",
+				"given": "Pepe"
+			},
+			{
+				"family": "San Martín",
+				"given": "Edurne"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1998"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/M6T23SZ2",
+		"type": "book",
+		"call-number": "070 REI egi",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-114-8",
+		"language": "es",
+		"number-of-pages": "230",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Egin investigación: otra forma de periodismo",
+		"title-short": "Egin investigación",
+		"author": [
+			{
+				"family": "Rei",
+				"given": "Pepe"
+			},
+			{
+				"family": "San Martín",
+				"given": "Edurne"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1998"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/ISPXAYXB",
+		"type": "book",
+		"call-number": "070 KAS mit",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-153-7",
+		"language": "es",
+		"number-of-pages": "278",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "El mito de Mondragón",
+		"author": [
+			{
+				"family": "Kasmir",
+				"given": "Sharryn"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/YJ4VLJEN",
+		"type": "book",
+		"call-number": "070 BER esc",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-016-5",
+		"language": "es",
+		"number-of-pages": "247",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Escritos en Euskal Herria",
+		"author": [
+			{
+				"family": "Bergamín",
+				"given": "José"
+			},
+			{
+				"family": "Erauskin",
+				"given": "Javier Sánchez"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/LLJDN5G4",
+		"type": "book",
+		"call-number": "070 LUR aur",
+		"event-place": "Donostia",
+		"ISBN": "978-84-7099-031-1",
+		"language": "eus",
+		"note": "OCLC: 863177161",
+		"number-of-pages": "102",
+		"publisher": "Lur",
+		"publisher-place": "Donostia",
+		"title": "Aurtengo zenbait berri",
+		"author": [
+			{
+				"literal": "Lur"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1973"
+				]
+			]
+		}
+	}
+]

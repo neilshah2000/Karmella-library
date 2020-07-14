@@ -1,0 +1,491 @@
+[
+	{
+		"id": "http://zotero.org/groups/2204707/items/L5ER7366",
+		"type": "book",
+		"call-number": "929 ZUB jos",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Donostia",
+		"ISBN": "978-84-7917-623-5",
+		"language": "eu",
+		"number-of-pages": "111",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Jose Antonio Agirre",
+		"author": [
+			{
+				"family": "Zuberogoitia",
+				"given": "Aitor"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1997"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/MYLJFTRD",
+		"type": "book",
+		"call-number": "929 MON ale",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Madrid",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "157",
+		"publisher": "Atlas",
+		"publisher-place": "Madrid",
+		"title": "Alejandro Magno",
+		"author": [
+			{
+				"family": "Montero Díaz",
+				"given": "Santiago"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1944"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/EHXGDICC",
+		"type": "book",
+		"call-number": "929 LOR gud",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-86597-45-0",
+		"language": "es",
+		"number-of-pages": "302",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Gudari, una pasión útil: vida y obra de Eli Gallastegi (1892-1974)",
+		"title-short": "Gudari, una pasión útil",
+		"author": [
+			{
+				"family": "Lorenzo Espinosa",
+				"given": "José María"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1992"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/DK8FQLBX",
+		"type": "book",
+		"call-number": "929 LOR gud",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-86597-45-0",
+		"language": "es",
+		"number-of-pages": "302",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Gudari, una pasión útil: vida y obra de Eli Gallastegi (1892-1974)",
+		"title-short": "Gudari, una pasión útil",
+		"author": [
+			{
+				"family": "Lorenzo Espinosa",
+				"given": "José María"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1992"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/YK4W5FUZ",
+		"type": "book",
+		"call-number": "929 IZA cui",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Badalona",
+		"ISBN": "978-84-936220-3-9",
+		"language": "es",
+		"number-of-pages": "197",
+		"publisher": "Altaïr",
+		"publisher-place": "Badalona",
+		"title": "Cuidadores de mundos: el biógrafo de los pedruscos, un constructor de calaveras, el hombre de las doscientas fuentes y otras memorias vivas del País Vasco y Navarra",
+		"title-short": "Cuidadores de mundos",
+		"author": [
+			{
+				"family": "Izagirre",
+				"given": "Ander"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/BJSPYZ2F",
+		"type": "book",
+		"call-number": "929 ITU man",
+		"event-place": "Irun",
+		"ISBN": "978-84-9868-248-9",
+		"language": "eus",
+		"number-of-pages": "238",
+		"publisher": "Alberdania",
+		"publisher-place": "Irun",
+		"title": "Manuel Iturrioz: borrokalari baten bizipenak (1902-1991)",
+		"author": [
+			{
+				"family": "Iturrioz",
+				"given": "Joxemari"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/AUEIFR53",
+		"type": "book",
+		"abstract": "Este es un libro de viajes fuera de los comun. Dos alegres argentinos recorren Latinoamerica y cuentan, con la frescura de los veinte años, su encuentro con el paisaje y con el paisaneje. Uno de ellos es Ernesto Che Guevara, el que años despues por la misma ruta de Bolívar, será guía y ejemplo para la juventud de todo el mundo. En el relato, ameno y conmovedor, despunta y a la sensibilidad y el temple que caracterizara al futuro revolucionario. (Quelle: Buchdeckel verso).",
+		"call-number": "929 GUE via",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-915-1",
+		"language": "es",
+		"number-of-pages": "352",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Viaje por Sudamérica",
+		"author": [
+			{
+				"family": "Guevara",
+				"given": "Ernesto (Che)"
+			},
+			{
+				"family": "Granado",
+				"given": "Alberto"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/6PNKQYDH",
+		"type": "book",
+		"abstract": "Este es un libro de viajes fuera de los comun. Dos alegres argentinos recorren Latinoamerica y cuentan, con la frescura de los veinte años, su encuentro con el paisaje y con el paisaneje. Uno de ellos es Ernesto Che Guevara, el que años despues por la misma ruta de Bolívar, será guía y ejemplo para la juventud de todo el mundo. En el relato, ameno y conmovedor, despunta y a la sensibilidad y el temple que caracterizara al futuro revolucionario. (Quelle: Buchdeckel verso).",
+		"call-number": "929 GUE via",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-915-1",
+		"language": "es",
+		"number-of-pages": "352",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Viaje por Sudamérica",
+		"author": [
+			{
+				"family": "Guevara",
+				"given": "Ernesto (Che)"
+			},
+			{
+				"family": "Granado",
+				"given": "Alberto"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/YE2V2AD4",
+		"type": "book",
+		"abstract": "Este es un libro de viajes fuera de los comun. Dos alegres argentinos recorren Latinoamerica y cuentan, con la frescura de los veinte años, su encuentro con el paisaje y con el paisaneje. Uno de ellos es Ernesto Che Guevara, el que años despues por la misma ruta de Bolívar, será guía y ejemplo para la juventud de todo el mundo. En el relato, ameno y conmovedor, despunta y a la sensibilidad y el temple que caracterizara al futuro revolucionario. (Quelle: Buchdeckel verso).",
+		"call-number": "929 GUE via",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-915-1",
+		"language": "es",
+		"number-of-pages": "352",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Viaje por Sudamérica",
+		"author": [
+			{
+				"family": "Guevara",
+				"given": "Ernesto (Che)"
+			},
+			{
+				"family": "Granado",
+				"given": "Alberto"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/UEUGXN75",
+		"type": "book",
+		"abstract": "Tras la invasión de Holanda, los Frank, comerciantes judíos alemanes emigrados a Amsterdam en 1933, se ocultaron de la Gestapo en una buhardilla anexa al edificio donde el padre de Ana tenía sus oficinas. Eran ocho personas y permanecían recluidas desde junio de 1942 hasta agosto de 1944, fecha en que fueron detenidos y enviados a campos de concentración. En ese lugar y en las más precarias condiciones, Ana, a la sazón de una niña de trece años, escribió su estremecedor diario: un testimonio único en su género sobre el horror y la barbarie nazi, y sobre los sentimientos y experiencias de la propia Ana y sus acompañantes. Ana murió en el campo de Bergen-Belsen en marzo de 1945. Su diario nunca morirá",
+		"call-number": "929 FRA dia",
+		"event-place": "Barcelona",
+		"ISBN": "978-958-8611-94-5",
+		"language": "es",
+		"number-of-pages": "378",
+		"publisher": "Random House Mondadori",
+		"publisher-place": "Barcelona",
+		"title": "Diario",
+		"author": [
+			{
+				"family": "Frank",
+				"given": "Anne"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/PXE6DGLI",
+		"type": "book",
+		"abstract": "Tras la invasión de Holanda, los Frank, comerciantes judíos alemanes emigrados a Amsterdam en 1933, se ocultaron de la Gestapo en una buhardilla anexa al edificio donde el padre de Ana tenía sus oficinas. Eran ocho personas y permanecían recluidas desde junio de 1942 hasta agosto de 1944, fecha en que fueron detenidos y enviados a campos de concentración. En ese lugar y en las más precarias condiciones, Ana, a la sazón de una niña de trece años, escribió su estremecedor diario: un testimonio único en su género sobre el horror y la barbarie nazi, y sobre los sentimientos y experiencias de la propia Ana y sus acompañantes. Ana murió en el campo de Bergen-Belsen en marzo de 1945. Su diario nunca morirá",
+		"call-number": "929 FRA dia",
+		"event-place": "Barcelona",
+		"ISBN": "978-958-8611-94-5",
+		"language": "es",
+		"number-of-pages": "378",
+		"publisher": "Random House Mondadori",
+		"publisher-place": "Barcelona",
+		"title": "Diario",
+		"author": [
+			{
+				"family": "Frank",
+				"given": "Anne"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/EU3IGLG7",
+		"type": "book",
+		"call-number": "929 FIL dia",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-226-4938-0",
+		"language": "es",
+		"number-of-pages": "218",
+		"publisher": "Círculo de Lectores",
+		"publisher-place": "Barcelona",
+		"title": "Diario de Zlata",
+		"author": [
+			{
+				"family": "Filipovic",
+				"given": "Zlata"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/YLCM65P9",
+		"type": "book",
+		"call-number": "929 CAL ern",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-492-7",
+		"language": "es",
+		"number-of-pages": "196",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "De Ernesto al Che",
+		"author": [
+			{
+				"family": "Calica Ferrer",
+				"given": "Carlos"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/9D9VQUFQ",
+		"type": "book",
+		"call-number": "929 BLA tod",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-459-0",
+		"language": "es",
+		"number-of-pages": "339",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Todo el tiempo de los cedros: paisaje familiar de Fidel Castro Ruz",
+		"title-short": "Todo el tiempo de los cedros",
+		"author": [
+			{
+				"family": "Blanco",
+				"given": "Katiuska"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/MHLQUC4C",
+		"type": "book",
+		"call-number": "929 BAR cim",
+		"event-place": "Madrid",
+		"ISBN": "978-84-7844-617-9",
+		"language": "es",
+		"number-of-pages": "224",
+		"publisher": "Siruela",
+		"publisher-place": "Madrid",
+		"title": "Cimarrón: historia de un esclavo",
+		"author": [
+			{
+				"family": "Barnet",
+				"given": "Miguel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1998"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/DALX5XW2",
+		"type": "book",
+		"call-number": "929 AGU dia",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-103-2",
+		"language": "es",
+		"number-of-pages": "288",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Diario de Aguirre",
+		"author": [
+			{
+				"family": "Aguirre y Lecube",
+				"given": "José Antonio",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1998"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/IYG6WQAI",
+		"type": "book",
+		"call-number": "929 GIM mel",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-564-1",
+		"language": "es",
+		"number-of-pages": "457",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Me llaman el Solitario: autobiografía de un expropiador de bancos",
+		"title-short": "Me llaman el Solitario",
+		"author": [
+			{
+				"family": "Giménez Arbe",
+				"given": "Jaime"
+			},
+			{
+				"family": "Jiménez",
+				"given": "Lucio Urtubia"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/IEJ9GNVF",
+		"type": "book",
+		"call-number": "929 GUE via",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-915-1",
+		"language": "es",
+		"number-of-pages": "352",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Viaje por Sudamérica",
+		"author": [
+			{
+				"family": "Guevara",
+				"given": "Ernesto (Che)"
+			},
+			{
+				"family": "Granado",
+				"given": "Alberto"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
+				]
+			]
+		}
+	}
+]

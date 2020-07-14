@@ -1,0 +1,2700 @@
+[
+	{
+		"id": "http://zotero.org/groups/2204707/items/I42ITG3F",
+		"type": "book",
+		"call-number": "030 URK soz",
+		"event-place": "Donostia",
+		"ISBN": "978-84-96371-34-7",
+		"language": "eus",
+		"number-of-pages": "295",
+		"publisher": "Gaiak",
+		"publisher-place": "Donostia",
+		"title": "Soziologia eta historia batzen",
+		"author": [
+			{
+				"family": "Urkola",
+				"given": "Mikel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/5BSILQBN",
+		"type": "book",
+		"call-number": "030 TXI lin",
+		"event-place": "Donostia",
+		"ISBN": "978-84-89077-62-1",
+		"language": "eu",
+		"number-of-pages": "103",
+		"publisher": "Egin",
+		"publisher-place": "Donostia",
+		"title": "Lingua navarrorum",
+		"author": [
+			{
+				"family": "Txillardegi",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/QNQMNMWD",
+		"type": "book",
+		"call-number": "030 TXI lin",
+		"event-place": "Donostia",
+		"ISBN": "978-84-89077-62-1",
+		"language": "eu",
+		"number-of-pages": "103",
+		"publisher": "Egin",
+		"publisher-place": "Donostia",
+		"title": "Lingua navarrorum",
+		"author": [
+			{
+				"family": "Txillardegi",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/RY6Z5K4H",
+		"type": "book",
+		"call-number": "030 TRE par",
+		"event-place": "Bilbao",
+		"ISBN": "---",
+		"language": "Testuak euskaraz eta gaztelaniaz",
+		"number-of-pages": "52",
+		"number-of-volumes": "2",
+		"publisher": "Egin",
+		"publisher-place": "Bilbao",
+		"title": "Parajes naturales de Euskal Herria II = Euskal Herriko natur parajeak II",
+		"volume": "2",
+		"author": [
+			{
+				"literal": "Tremoia Kolektiboa"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1993"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/QXAIPKY5",
+		"type": "book",
+		"call-number": "030 TRE par",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-87187-63-6",
+		"language": "eu/es",
+		"number-of-pages": "60",
+		"number-of-volumes": "2",
+		"publisher": "Egin",
+		"publisher-place": "Bilbao",
+		"title": "Parajes naturales de Euskal Herria = Euskal Herriko natur parajeak",
+		"volume": "1",
+		"author": [
+			{
+				"literal": "Tremoia Kolektiboa"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1992"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/6CCXCDXB",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "030 TOR gur",
+		"event-place": "Donostia",
+		"ISBN": "978-84-9843-182-7",
+		"language": "eu",
+		"number-of-pages": "173",
+		"publisher": "Ttarttalo",
+		"publisher-place": "Donostia",
+		"title": "Gure inguruko animaliak",
+		"author": [
+			{
+				"family": "Tordjmam",
+				"given": "Nathalie"
+			},
+			{
+				"family": "Fournier le Ray",
+				"given": "Anne-Laure"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/2YHH6DPZ",
+		"type": "book",
+		"call-number": "030 SCH cul",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-329-2254-1",
+		"language": "es",
+		"number-of-pages": "237",
+		"publisher": "Ceac",
+		"publisher-place": "Barcelona",
+		"title": "Cultivo de frutales",
+		"author": [
+			{
+				"family": "Schmid",
+				"given": "Heiner"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1990"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/EJREBRNZ",
+		"type": "book",
+		"call-number": "030 SAR cor",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-7183-305-1",
+		"language": "es",
+		"number-of-pages": "64",
+		"number-of-volumes": "6",
+		"publisher": "Hymsa",
+		"publisher-place": "Barcelona",
+		"title": "Corte y confección: cómo aprender a cortar y coser. Curso fácil y completo",
+		"title-short": "Corte y confección",
+		"volume": "6",
+		"author": [
+			{
+				"family": "Sarret",
+				"given": "Josef"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1984"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/QWNYI56U",
+		"type": "book",
+		"call-number": "030 SAR cor",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-7183-305-1",
+		"language": "es",
+		"number-of-pages": "64",
+		"number-of-volumes": "6",
+		"publisher": "Hymsa",
+		"publisher-place": "Barcelona",
+		"title": "Corte y confección: cómo aprender a cortar y coser. Costura tradicional",
+		"title-short": "Corte y confección",
+		"volume": "4",
+		"author": [
+			{
+				"family": "Sarret",
+				"given": "Josef"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1984"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/Z3I2F3XK",
+		"type": "book",
+		"call-number": "030 SAR cor",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-7183-305-1",
+		"language": "es",
+		"number-of-pages": "64",
+		"number-of-volumes": "6",
+		"publisher": "Hymsa",
+		"publisher-place": "Barcelona",
+		"title": "Corte y confección: cómo aprender a cortar y coser. Costura infantil",
+		"title-short": "Corte y confección",
+		"volume": "5",
+		"author": [
+			{
+				"family": "Sarret",
+				"given": "Josef"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1984"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/M6W35NUG",
+		"type": "book",
+		"call-number": "030 SAR cor",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-7183-305-1",
+		"language": "es",
+		"number-of-pages": "64",
+		"number-of-volumes": "6",
+		"publisher": "Hymsa",
+		"publisher-place": "Barcelona",
+		"title": "Corte y confección: cómo aprender a cortar y coser. Costura divertida",
+		"title-short": "Corte y confección",
+		"volume": "1",
+		"author": [
+			{
+				"family": "Sarret",
+				"given": "Josef"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1984"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/VU95THTZ",
+		"type": "book",
+		"call-number": "030 SAR cor",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-7183-305-1",
+		"language": "es",
+		"number-of-pages": "64",
+		"number-of-volumes": "6",
+		"publisher": "Hymsa",
+		"publisher-place": "Barcelona",
+		"title": "Corte y confección: cómo aprender a cortar y coser. Costura con fantasía",
+		"title-short": "Corte y confección",
+		"volume": "3",
+		"author": [
+			{
+				"family": "Sarret",
+				"given": "Josef"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1984"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/VTAMZR66",
+		"type": "book",
+		"call-number": "030 SAR cor",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-7183-305-1",
+		"language": "es",
+		"number-of-pages": "64",
+		"number-of-volumes": "6",
+		"publisher": "Hymsa",
+		"publisher-place": "Barcelona",
+		"title": "Corte y confección: cómo aprender a cortar y coser. Costura clásica",
+		"title-short": "Corte y confección",
+		"volume": "2",
+		"author": [
+			{
+				"family": "Sarret",
+				"given": "Josef"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1984"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/TL2PSUII",
+		"type": "book",
+		"call-number": "030 SAR bit",
+		"event-place": "Donostia",
+		"ISBN": "978-84-9109-153-0",
+		"language": "eu",
+		"number-of-pages": "156",
+		"publisher": "Erein",
+		"publisher-place": "Donostia",
+		"title": "Bitakora kaiera",
+		"author": [
+			{
+				"family": "Sarasola",
+				"given": "Ibon"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/2AQ6A2U7",
+		"type": "book",
+		"call-number": "030 SAM est",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Madrid",
+		"ISBN": "978-84-344-0122-8",
+		"language": "es",
+		"number-of-pages": "684",
+		"publisher": "Ariel",
+		"publisher-place": "Madrid",
+		"title": "Estructura económica: teoría básica y estructura mundial",
+		"title-short": "Estructura económica",
+		"author": [
+			{
+				"family": "Sampedro",
+				"given": "José Luis"
+			},
+			{
+				"family": "Cortiña",
+				"given": "Rafael Martínez"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1973"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/LW4VYSI2",
+		"type": "book",
+		"call-number": "030 SAL ize",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-95438-50-8",
+		"language": "eus",
+		"number-of-pages": "308",
+		"publisher": "Euskaltzaindia",
+		"publisher-place": "Bilbao",
+		"title": "Izen ttipiak euskaraz",
+		"author": [
+			{
+				"family": "Salaberri Zaratiegi",
+				"given": "Patxi"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/M6ARA85M",
+		"type": "book",
+		"call-number": "030 ROU alt",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-87812-41-5",
+		"language": "es",
+		"number-of-pages": "155",
+		"publisher": "Dorleta",
+		"publisher-place": "Bilbao",
+		"title": "Altimetrías Pirineos. Zona 4, Andorra, Ax-les-Thermes, Quillan, Axat, Puigcerda, Font-Romeu, Mont-Louis, Olette, Prades, Ille-sur-Têt, Camprodon, Vinça, Amélie-les-Bains, Prats-de-Mollo...",
+		"author": [
+			{
+				"family": "Roux",
+				"given": "Jacques"
+			},
+			{
+				"family": "Muller",
+				"given": "Claude"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/MSEI5SF2",
+		"type": "book",
+		"call-number": "030 RAL biz",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-7752-329-1",
+		"language": "eu/es",
+		"number-of-pages": "331",
+		"publisher": "Lurralde-Azterlanetarako Bizkaiko Iraskundea",
+		"publisher-place": "Bilbao",
+		"title": "Bizkaiko itsasaldea = El litoral marino de Bizkaia",
+		"author": [
+			{
+				"family": "Rallo",
+				"given": "Ana"
+			},
+			{
+				"family": "Orive",
+				"given": "Emma"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2004"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/XDM7IU7C",
+		"type": "book",
+		"call-number": "030 PRI orq",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-8056-190-7",
+		"language": "es",
+		"number-of-pages": "110",
+		"publisher": "Bilbao Bizkaia Kutxa",
+		"publisher-place": "Bilbao",
+		"title": "Orquídeas de Bizkaia",
+		"author": [
+			{
+				"family": "Prieto",
+				"given": "Amador"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/QQQB2QYD",
+		"type": "book",
+		"call-number": "030 PER man",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Iruña",
+		"ISBN": "84-7681-167-5",
+		"language": "es",
+		"number-of-pages": "255",
+		"publisher": "Pamiela",
+		"publisher-place": "Iruña",
+		"title": "Manual práctico para la desobediencia civil",
+		"author": [
+			{
+				"family": "Pérez",
+				"given": "José Antonio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/BQ2AXI9H",
+		"type": "book",
+		"call-number": "030 ODD alp",
+		"event-place": "Barcelona",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "129",
+		"publisher": "Editorial Teide",
+		"publisher-place": "Barcelona",
+		"title": "Alpinismo",
+		"author": [
+			{
+				"family": "Oddo",
+				"given": "Guido"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1973"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/JDJW3JAY",
+		"type": "book",
+		"call-number": "030 OCE eus",
+		"event-place": "Gasteiz",
+		"ISBN": "978-84-457-2161-2",
+		"language": "eu/es",
+		"number-of-pages": "179",
+		"publisher": "Eusko Jaurlaritza",
+		"publisher-place": "Gasteiz",
+		"title": "Euskal Herriko eta inguruetako basamahatsondoa: ekologia, kokopena eta arriskuak = La vid silvestre en el País Vasco y territorios limítrofes : ecología, distribución y riesgos para su conservación",
+		"author": [
+			{
+				"family": "Ocete Rubio",
+				"given": "Rafael"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/FIEKKQZV",
+		"type": "book",
+		"abstract": "Robert Nisbet expone en este libro, a través de un abordaje original, lo que tiene de fundamental y distintivo, en lo conceptual e histórico, respectivamente, la tradición sociológica. Aunque abarca algunos de los temas que podríamos encontrar en una historia del pensamiento sociológico, su propósito es bastante diferente, a un tiempo más estrecho y más amplio: lo primero, porque no son pocos los nombres aquí excluidos, que no podrían faltar en una historia formal de la sociología; y más amplio porque su autor no ha vacilado en destacar la importancia de personas que no fueron sociólogos -ni en lo nominal ni en lo sustancial-, pero cuya relación con la tradición sociológica considera vital. Si aceptamos que en el centro de toda tradición intelectual hay un núcleo de ideas que le da continuidad a través de las generaciones, y la identifica entre todas las otras disciplinas que componen el estudio humanístico y científico del hombre, se puede pensar, en el caso de la sociología, en ciertas ideas que funcionan como sus elementos constitutivos y que configuran en su relación funcional recíproca el núcleo aludido. Estas ideas no representan la totalidad de la sociología moderna, sus múltiples intereses empíricos, sus metodologías y conceptos, pero dan a la tradición sociológica la continuidad y coherencia que tienen desde hace más de un siglo.",
+		"call-number": "030 NIS for",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Buenos Aires",
+		"ISBN": "978-950-518-995-3",
+		"language": "es",
+		"number-of-pages": "240",
+		"publisher": "Amorrortu",
+		"publisher-place": "Buenos Aires",
+		"title": "La formación del pensamiento sociológico",
+		"author": [
+			{
+				"family": "Nisbet",
+				"given": "Robert"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/TWTM75I3",
+		"type": "book",
+		"call-number": "030 NAV rut",
+		"event-place": "Bilbo",
+		"ISBN": "978-84-8216-064-1",
+		"language": "es",
+		"number-of-pages": "183",
+		"publisher": "Sua",
+		"publisher-place": "Bilbo",
+		"title": "Rutas y paseos por el alto Nervión: Altube, Urkabustaiz y Sierra Salvada",
+		"author": [
+			{
+				"family": "Navarro Ullés",
+				"given": "Juan Carlos"
+			},
+			{
+				"family": "Velilla",
+				"given": "Salvador"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/TBPE5KZ4",
+		"type": "book",
+		"call-number": "030 NAT mar",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-8298-170-3",
+		"language": "es",
+		"number-of-pages": "240",
+		"number-of-volumes": "17",
+		"publisher": "RBA",
+		"publisher-place": "Barcelona",
+		"title": "El maravilloso mundo de los animales. Reptiles y anfibios en su hábitat",
+		"volume": "16",
+		"author": [
+			{
+				"literal": "National Geographic Society"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/93IXK88I",
+		"type": "book",
+		"call-number": "030 NAT mar",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-8298-170-3",
+		"language": "es",
+		"number-of-pages": "240",
+		"number-of-volumes": "17",
+		"publisher": "RBA",
+		"publisher-place": "Barcelona",
+		"title": "El maravilloso mundo de los animales. Peces e invertebrados marinos en su hábitat",
+		"volume": "17",
+		"author": [
+			{
+				"literal": "National Geographic Society"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/EMGIITRV",
+		"type": "book",
+		"call-number": "030 NAT mar",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-8298-170-3",
+		"language": "es",
+		"number-of-pages": "240",
+		"number-of-volumes": "17",
+		"publisher": "RBA",
+		"publisher-place": "Barcelona",
+		"title": "El maravilloso mundo de los animales. Mamíferos en su hábitat VII",
+		"volume": "11",
+		"author": [
+			{
+				"literal": "National Geographic Society"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/74MFNF7V",
+		"type": "book",
+		"call-number": "030 NAT mar",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-8298-170-3",
+		"language": "es",
+		"number-of-pages": "240",
+		"number-of-volumes": "17",
+		"publisher": "RBA",
+		"publisher-place": "Barcelona",
+		"title": "El maravilloso mundo de los animales. Mamíferos en su hábitat VI",
+		"volume": "10",
+		"author": [
+			{
+				"literal": "National Geographic Society"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/GQKMYZV9",
+		"type": "book",
+		"call-number": "030 NAT mar",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-8298-170-3",
+		"language": "es",
+		"number-of-pages": "240",
+		"number-of-volumes": "17",
+		"publisher": "RBA",
+		"publisher-place": "Barcelona",
+		"title": "El maravilloso mundo de los animales. Mamíferos en su hábitat V",
+		"volume": "9",
+		"author": [
+			{
+				"literal": "National Geographic Society"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/Y3ST65I5",
+		"type": "book",
+		"call-number": "030 NAT mar",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-8298-170-3",
+		"language": "es",
+		"number-of-pages": "240",
+		"number-of-volumes": "17",
+		"publisher": "RBA",
+		"publisher-place": "Barcelona",
+		"title": "El maravilloso mundo de los animales. Mamíferos en su hábitat IV",
+		"volume": "8",
+		"author": [
+			{
+				"literal": "National Geographic Society"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/P4ACSIKX",
+		"type": "book",
+		"call-number": "030 NAT mar",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-8298-170-3",
+		"language": "es",
+		"number-of-pages": "240",
+		"number-of-volumes": "17",
+		"publisher": "RBA",
+		"publisher-place": "Barcelona",
+		"title": "El maravilloso mundo de los animales. Mamíferos en su hábitat III",
+		"volume": "7",
+		"author": [
+			{
+				"literal": "National Geographic Society"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/8BLV7693",
+		"type": "book",
+		"call-number": "030 NAT mar",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-8298-170-3",
+		"language": "es",
+		"number-of-pages": "240",
+		"number-of-volumes": "17",
+		"publisher": "RBA",
+		"publisher-place": "Barcelona",
+		"title": "El maravilloso mundo de los animales. Mamíferos en su hábitat II",
+		"volume": "6",
+		"author": [
+			{
+				"literal": "National Geographic Society"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/GLCYYVR3",
+		"type": "book",
+		"call-number": "030 NAT mar",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-8298-170-3",
+		"language": "es",
+		"number-of-pages": "240",
+		"number-of-volumes": "17",
+		"publisher": "RBA",
+		"publisher-place": "Barcelona",
+		"title": "El maravilloso mundo de los animales. Mamíferos en su hábitat I",
+		"volume": "5",
+		"author": [
+			{
+				"literal": "National Geographic Society"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/VQP5YFQ8",
+		"type": "book",
+		"call-number": "030 NAT mar",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-8298-173-4",
+		"language": "es",
+		"number-of-pages": "240",
+		"number-of-volumes": "17",
+		"publisher": "RBA",
+		"publisher-place": "Barcelona",
+		"title": "El maravilloso mundo de los animales. Introducción al mundo de los reptiles y los anfibios",
+		"volume": "3",
+		"author": [
+			{
+				"literal": "National Geographic Society"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/R7Q42NME",
+		"type": "book",
+		"call-number": "030 NAT mar",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-8298-171-0",
+		"language": "es",
+		"number-of-pages": "240",
+		"number-of-volumes": "17",
+		"publisher": "RBA",
+		"publisher-place": "Barcelona",
+		"title": "El maravilloso mundo de los animales. Introducción al mundo de los mamiferos",
+		"volume": "1",
+		"author": [
+			{
+				"literal": "National Geographic Society"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/9K7CILLB",
+		"type": "book",
+		"call-number": "030 NAT mar",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-8298-172-7",
+		"language": "es",
+		"number-of-pages": "240",
+		"number-of-volumes": "17",
+		"publisher": "RBA",
+		"publisher-place": "Barcelona",
+		"title": "El maravilloso mundo de los animales. Intorducción al mundo de las aves",
+		"volume": "2",
+		"author": [
+			{
+				"literal": "National Geographic Society"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/6UY7KHKP",
+		"type": "book",
+		"call-number": "030 NAT mar",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-8298-170-3",
+		"language": "es",
+		"number-of-pages": "240",
+		"number-of-volumes": "17",
+		"publisher": "RBA",
+		"publisher-place": "Barcelona",
+		"title": "El maravilloso mundo de los animales. Aves en su hábitat IV",
+		"volume": "15",
+		"author": [
+			{
+				"literal": "National Geographic Society"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/UWZ5YX3K",
+		"type": "book",
+		"call-number": "030 NAT mar",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-8298-170-3",
+		"language": "es",
+		"number-of-pages": "240",
+		"number-of-volumes": "17",
+		"publisher": "RBA",
+		"publisher-place": "Barcelona",
+		"title": "El maravilloso mundo de los animales. Aves en su hábitat III",
+		"volume": "14",
+		"author": [
+			{
+				"literal": "National Geographic Society"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/S72LRUFY",
+		"type": "book",
+		"call-number": "030 NAT mar",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-8298-170-3",
+		"language": "es",
+		"number-of-pages": "240",
+		"number-of-volumes": "17",
+		"publisher": "RBA",
+		"publisher-place": "Barcelona",
+		"title": "El maravilloso mundo de los animales. Aves en su hábitat II",
+		"volume": "13",
+		"author": [
+			{
+				"literal": "National Geographic Society"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/DP4UJYXY",
+		"type": "book",
+		"call-number": "030 NAT mar",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-8298-170-3",
+		"language": "es",
+		"number-of-pages": "240",
+		"number-of-volumes": "17",
+		"publisher": "RBA",
+		"publisher-place": "Barcelona",
+		"title": "El maravilloso mundo de los animales. Aves en su hábitat I",
+		"volume": "12",
+		"author": [
+			{
+				"literal": "National Geographic Society"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/UQE9MB3Z",
+		"type": "book",
+		"call-number": "030 NAT mar",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-8298-174-1",
+		"language": "es",
+		"number-of-pages": "240",
+		"number-of-volumes": "17",
+		"publisher": "RBA",
+		"publisher-place": "Barcelona",
+		"title": "El maravilloso mundo de los animales.  Introducción al mundo de los peces",
+		"volume": "1",
+		"author": [
+			{
+				"literal": "National Geographic Society"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/NLEZT7MJ",
+		"type": "book",
+		"call-number": "030 MON zum",
+		"event-place": "Madrid",
+		"ISBN": "978-84-7630-865-3",
+		"language": "es",
+		"number-of-pages": "160",
+		"publisher": "LIBSA",
+		"publisher-place": "Madrid",
+		"title": "Zumos y alimentos licuados: sanos y curativos",
+		"title-short": "Zumos y alimentos licuados",
+		"author": [
+			{
+				"family": "Montesinos Ballesteros",
+				"given": "Guillermo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/F98WHA2X",
+		"type": "book",
+		"call-number": "030 MOL gui",
+		"event-place": "Bilbao",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "37",
+		"publisher": "Asociación de Amigos de los Caminos de Santiago en Bizkaia",
+		"publisher-place": "Bilbao",
+		"title": "Guía para andar por los caminos de Santiago",
+		"author": [
+			{
+				"family": "Molero",
+				"given": "Begoña"
+			},
+			{
+				"family": "Molero",
+				"given": "Ibai"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/UTXGKN2P",
+		"type": "book",
+		"call-number": "030 MAR gra",
+		"event-place": "Bilbao",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "110",
+		"publisher": "Editorial La Gran Enciclopedia Vasca",
+		"publisher-place": "Bilbao",
+		"title": "La Gran enciclopedia vasca",
+		"volume": "5-6",
+		"author": [
+			{
+				"family": "Martín de Retana",
+				"given": "José María"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1967"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/3L66B66X",
+		"type": "book",
+		"call-number": "030 MAR gra",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-315-2968-0",
+		"language": "es",
+		"number-of-pages": "190",
+		"publisher": "De Vecchi",
+		"publisher-place": "Barcelona",
+		"title": "El gran libro de las orquídeas",
+		"author": [
+			{
+				"family": "Martija-Ochoa",
+				"given": "Magali"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2003"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/3ACBYIFM",
+		"type": "book",
+		"call-number": "030 MAR eso",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-08-17105-8",
+		"language": "es",
+		"note": "OCLC: 1107144840",
+		"number-of-pages": "158",
+		"publisher": "Destino",
+		"publisher-place": "Barcelona",
+		"title": "Eso no es amor",
+		"author": [
+			{
+				"family": "Marroquí",
+				"given": "Marina"
+			},
+			{
+				"family": "Ben-Arab",
+				"given": "Màriam"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/AXJU9L9P",
+		"type": "book",
+		"call-number": "030 MAI pod",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-315-1342-9",
+		"language": "es",
+		"number-of-pages": "159",
+		"publisher": "De Vecchi",
+		"publisher-place": "Barcelona",
+		"title": "La poda",
+		"author": [
+			{
+				"family": "Mainardi Fazio",
+				"given": "Fausta"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/R6R77ZW9",
+		"type": "book",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "030 LEM jol",
+		"event-place": "Donostia",
+		"ISBN": "978-84-7148-069-9",
+		"language": "es",
+		"number-of-pages": "190",
+		"publisher": "Txertoa",
+		"publisher-place": "Donostia",
+		"title": "Jolasean",
+		"author": [
+			{
+				"family": "Lemke",
+				"given": "Stefan"
+			},
+			{
+				"family": "Pricken",
+				"given": "Marie Luise"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1980"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/UJU4XB64",
+		"type": "book",
+		"call-number": "030 REV man",
+		"event-place": "Zaragoza",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "94",
+		"publisher": "La Revuelta",
+		"publisher-place": "Zaragoza",
+		"title": "Manual para una dieta vegana.",
+		"author": [
+			{
+				"literal": "La Revuelta"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/VRGCWC82",
+		"type": "book",
+		"call-number": "030 KEN art",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-329-8504-1",
+		"language": "es",
+		"number-of-pages": "173",
+		"publisher": "CEAC",
+		"publisher-place": "Barcelona",
+		"title": "El arte del papel maché",
+		"author": [
+			{
+				"family": "Kenny",
+				"given": "Carla"
+			},
+			{
+				"family": "Kenny",
+				"given": "John B"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1992"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/RKHQ53L2",
+		"type": "book",
+		"call-number": "030 EUS bat",
+		"event-place": "Donostia",
+		"language": "eus",
+		"number-of-pages": "230",
+		"publisher": "Lur",
+		"publisher-place": "Donostia",
+		"title": "Batasunaren kutxa",
+		"author": [
+			{
+				"literal": "Euskal Idazleen Elkartea"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1973"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/8V767SD7",
+		"type": "book",
+		"call-number": "030 ITU bio",
+		"event-place": "Donostia",
+		"ISBN": "978-84-89077-69-0",
+		"language": "es",
+		"number-of-pages": "103",
+		"publisher": "Egin",
+		"publisher-place": "Donostia",
+		"title": "Biografía sentimental del montañismo vasco",
+		"author": [
+			{
+				"family": "Iturriza",
+				"given": "Antxon"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/ZMGH7Y8P",
+		"type": "book",
+		"call-number": "030 HEC cac",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-282-0638-9",
+		"language": "es",
+		"number-of-pages": "127",
+		"publisher": "Omega",
+		"publisher-place": "Barcelona",
+		"title": "Cactos y otras suculentas",
+		"author": [
+			{
+				"family": "Hecht",
+				"given": "Hans"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1981"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/8XUP8REG",
+		"type": "book",
+		"call-number": "030 HAR ces",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-329-8512-6",
+		"language": "es",
+		"number-of-pages": "166",
+		"publisher": "Ceac",
+		"publisher-place": "Barcelona",
+		"title": "Cestería natural: cómo hacer cestas de mimbre, de tiras, tejidas en espiral ... fibras, rafia y broza fina",
+		"author": [
+			{
+				"family": "Hart",
+				"given": "Carol"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1985"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/6NBZDSNI",
+		"type": "book",
+		"call-number": "030 GUR mam",
+		"event-place": "Bilbao",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "15",
+		"publisher": "Bilbo Aurrezki Kutxa",
+		"publisher-place": "Bilbao",
+		"title": "Mamiferos salvajes de Euskal Herria.",
+		"author": [
+			{
+				"literal": "Gurruchaga"
+			},
+			{
+				"literal": "Echevarria"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1987"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/5USW64JG",
+		"type": "book",
+		"call-number": "030 GAR neg",
+		"event-place": "Donostia",
+		"ISBN": "978-84-9843-652-5",
+		"language": "eus",
+		"number-of-pages": "121",
+		"publisher": "Ttarttalo",
+		"publisher-place": "Donostia",
+		"title": "Negua: zer egin nire barazki saskiarekin",
+		"author": [
+			{
+				"family": "García de Vicuña",
+				"given": "Nagore"
+			},
+			{
+				"family": "Zarrabeitia",
+				"given": "Diego"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/XACZ4CTL",
+		"type": "book",
+		"call-number": "030 GAR man",
+		"event-place": "Gasteiz",
+		"ISBN": "978-84-457-1241-2",
+		"language": "es",
+		"number-of-pages": "197",
+		"publisher": "Eusko Jaurlaritza",
+		"publisher-place": "Gasteiz",
+		"title": "Manual de emergencias en montaña.",
+		"author": [
+			{
+				"family": "Gárate",
+				"given": "Ramón"
+			},
+			{
+				"family": "lizarraga",
+				"given": "Kepa"
+			},
+			{
+				"family": "García",
+				"given": "Raul"
+			},
+			{
+				"family": "Elkoro",
+				"given": "Ramón"
+			},
+			{
+				"family": "Armentia",
+				"given": "Jon"
+			},
+			{
+				"family": "Burcio",
+				"given": "Antxon"
+			},
+			{
+				"family": "Arregui",
+				"given": "Ricardo"
+			},
+			{
+				"family": "Burcio",
+				"given": "Antxon"
+			},
+			{
+				"family": "Garoia",
+				"given": "Xabier"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/G9R2I3NA",
+		"type": "book",
+		"call-number": "030 FIS man",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Madrid",
+		"ISBN": "978-84-254-0801-4",
+		"language": "es",
+		"number-of-pages": "579",
+		"publisher": "Herder",
+		"publisher-place": "Madrid",
+		"title": "Manual de historia de la filosofía",
+		"author": [
+			{
+				"family": "Fischl",
+				"given": "Johann"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1974"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/4M7IMPNS",
+		"type": "book",
+		"call-number": "030 FAB inj",
+		"event-place": "Madrid",
+		"ISBN": "978-84-305-9571-6",
+		"language": "es",
+		"number-of-pages": "95",
+		"publisher": "Susaeta",
+		"publisher-place": "Madrid",
+		"title": "Injertos y técnicas de reproducción: acodos, acodos aéreos, esquejes--",
+		"title-short": "Injertos y técnicas de reproducción",
+		"author": [
+			{
+				"family": "Fabro",
+				"given": "Adriano Del"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/IP3RAPV4",
+		"type": "book",
+		"call-number": "030 ETX suk",
+		"event-place": "Donostia",
+		"ISBN": "978-84-89077-65-2",
+		"language": "eu",
+		"number-of-pages": "100",
+		"publisher": "Egin",
+		"publisher-place": "Donostia",
+		"title": "Sukaliztegi Partikularra",
+		"author": [
+			{
+				"family": "Etxeberria",
+				"given": "Hasier"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1997"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/FAJPL99V",
+		"type": "book",
+		"call-number": "030 ETX suk",
+		"event-place": "Donostia",
+		"ISBN": "978-84-89077-65-2",
+		"language": "eu",
+		"number-of-pages": "100",
+		"publisher": "Egin",
+		"publisher-place": "Donostia",
+		"title": "Sukaliztegi Partikularra",
+		"author": [
+			{
+				"family": "Etxeberria",
+				"given": "Hasier"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1997"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/T98QRYUU",
+		"type": "book",
+		"call-number": "030 ERE ipa",
+		"event-place": "Bilbo",
+		"ISBN": "978-84-95663-32-0",
+		"language": "eu/es",
+		"number-of-pages": "432",
+		"publisher": "Mugalari",
+		"publisher-place": "Bilbo",
+		"title": "Ipar Euskal Herria: gida",
+		"title-short": "Ipar Euskal Herria",
+		"author": [
+			{
+				"family": "Ereñaga",
+				"given": "Amaia"
+			},
+			{
+				"family": "Beyreuther",
+				"given": "Conny"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2004"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/QVT8QMDQ",
+		"type": "book",
+		"call-number": "030 ELO hel",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-8056-235-5",
+		"language": "es",
+		"number-of-pages": "149",
+		"publisher": "BBK",
+		"publisher-place": "Bilbao",
+		"title": "Helechos de Bizkaia",
+		"author": [
+			{
+				"family": "Elorza",
+				"given": "Javier"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/64AKS53Y",
+		"type": "book",
+		"call-number": "030 EGA qui",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-399-9",
+		"language": "es",
+		"number-of-pages": "513",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Quién es quién en la historia del país de los vascos",
+		"author": [
+			{
+				"family": "Egaña",
+				"given": "Iñaki"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/TG9XT7B9",
+		"type": "book",
+		"call-number": "030 EGA dic",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-039-4",
+		"language": "es",
+		"number-of-pages": "756",
+		"number-of-volumes": "2",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Diccionario histórico-político de Euskal Herria H-Z",
+		"volume": "2",
+		"author": [
+			{
+				"family": "Egaña",
+				"given": "Iñaki"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/XJJSEBU2",
+		"type": "book",
+		"call-number": "030 EGA dic",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-039-4",
+		"language": "es",
+		"number-of-pages": "756",
+		"number-of-volumes": "2",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Diccionario histórico-político de Euskal Herria A-G",
+		"volume": "1",
+		"author": [
+			{
+				"family": "Egaña",
+				"given": "Iñaki"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/QNZEHQNG",
+		"type": "book",
+		"call-number": "030 EGA dic",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-039-4",
+		"language": "es",
+		"number-of-pages": "756",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Diccionario histórico-político de Euskal Herria",
+		"author": [
+			{
+				"family": "Egaña",
+				"given": "Iñaki"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/WLHZ2TMW",
+		"type": "book",
+		"call-number": "030 CRE plan",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-248-0458-9",
+		"language": "Spanish",
+		"number-of-pages": "97",
+		"publisher": "Caja de Ahorros Vizcaina",
+		"publisher-place": "Bilbao",
+		"title": "Plantas medicinales del País Vasco",
+		"author": [
+			{
+				"family": "Crespo de Garbisu",
+				"given": "Elvira"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1979"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/H6UQUKJG",
+		"type": "book",
+		"call-number": "030 CRE plan",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-248-0458-9",
+		"language": "Spanish",
+		"number-of-pages": "97",
+		"publisher": "Caja de Ahorros Vizcaina",
+		"publisher-place": "Bilbao",
+		"title": "Plantas medicinales del País Vasco",
+		"author": [
+			{
+				"family": "Crespo de Garbisu",
+				"given": "Elvira"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1979"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/WK9BZ2IB",
+		"type": "book",
+		"call-number": "030 COR sen",
+		"event-place": "Aribe",
+		"ISBN": "978-84-611-2847-1",
+		"language": "es",
+		"number-of-pages": "40",
+		"publisher": "Nafarroako Pirinioko Partzuergo Turistikoa",
+		"publisher-place": "Aribe",
+		"title": "Senderos por el Pirineo Navarro: paseos señalizados de interés naturalístico y cultural",
+		"author": [
+			{
+				"family": "Cortés",
+				"given": "Iñaki"
+			},
+			{
+				"family": "Madoz",
+				"given": "Mikel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/8M3WHN4F",
+		"type": "book",
+		"abstract": "Beschrijving van een aantal spelletjes, waarbij met een stuk touw figuren worden gevormd tussen twee of vier handen. Aan de hand van zwart-witte tekeningen met roze steunkleur wordt verteld, hoe je allerlei figuren kunt spannen met een stuk touw tussen twee of vier handen.",
+		"archive": "Haur eta Gazte Literatura",
+		"call-number": "030 BOT kop",
+		"event-place": "Laren",
+		"ISBN": "978-90-6761-178-7",
+		"language": "ne",
+		"number-of-pages": "46",
+		"publisher": "Bookman International",
+		"publisher-place": "Laren",
+		"title": "Kop en schotel",
+		"author": [
+			{
+				"family": "Botermans",
+				"given": "Nicolette"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/8GZU8LWS",
+		"type": "book",
+		"call-number": "030 BED how",
+		"event-place": "Bilbao",
+		"ISBN": "978-0-7318-0668-3",
+		"language": "en",
+		"number-of-pages": "65",
+		"publisher": "Search press",
+		"publisher-place": "Bilbao",
+		"title": "How to grow culinary herbs & spices the natural way.",
+		"author": [
+			{
+				"family": "Bedoyere",
+				"given": "Charlotte De",
+				"dropping-particle": "la"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1997"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/GD4F5X8K",
+		"type": "book",
+		"call-number": "030 BEA ver",
+		"event-place": "Gasteiz",
+		"ISBN": "978-84-457-1483-6",
+		"language": "es",
+		"number-of-pages": "317",
+		"publisher": "Eusko Jaurlaritza",
+		"publisher-place": "Gasteiz",
+		"title": "Vertebrados amenazados del País Vasco",
+		"author": [
+			{
+				"family": "Bea",
+				"given": "Antonio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/7TBISW34",
+		"type": "book",
+		"call-number": "030 BEA ver",
+		"event-place": "Gasteiz",
+		"ISBN": "978-84-457-1483-6",
+		"language": "es",
+		"number-of-pages": "317",
+		"publisher": "Eusko Jaurlaritza",
+		"publisher-place": "Gasteiz",
+		"title": "Vertebrados amenazados del País Vasco",
+		"author": [
+			{
+				"family": "Bea",
+				"given": "Antonio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/9CTU7JVF",
+		"type": "book",
+		"call-number": "030 BAS dic",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-606-0152-4",
+		"language": "es",
+		"number-of-pages": "321",
+		"publisher": "Bilboko Udala",
+		"publisher-place": "Bilbao",
+		"title": "Diccionario abreviado de las calles de Bilbao",
+		"author": [
+			{
+				"family": "Basas Fernández",
+				"given": "Manuel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1991"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/9DLNGFMH",
+		"type": "book",
+		"call-number": "030 BAR bid",
+		"event-place": "Gasteiz",
+		"ISBN": "978-84-7821-380-1",
+		"language": "eu",
+		"number-of-pages": "237",
+		"publisher": "Arabako Foru Aldundia",
+		"publisher-place": "Gasteiz",
+		"title": "Bidean: Álava en el Camino = Alava dans le Chemin = Alava in the Way",
+		"title-short": "Bidean",
+		"author": [
+			{
+				"family": "Bartolomé García",
+				"given": "Fernando"
+			},
+			{
+				"family": "Agote",
+				"given": "Javier"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/ZRFXVCWQ",
+		"type": "book",
+		"call-number": "030 AZU gui",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-87812-06-4",
+		"language": "es",
+		"number-of-pages": "125",
+		"publisher": "Dorleta",
+		"publisher-place": "Bilbao",
+		"title": "Guia ilustrada de la BTT: Elección, Técnica, Mecánica, Historia, Consejos",
+		"title-short": "Guia ilustrada de la BTT",
+		"author": [
+			{
+				"family": "Azurmendi",
+				"given": "Beñat"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1993"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/9A7MCAHE",
+		"type": "book",
+		"call-number": "030 AZT eus",
+		"event-place": "Astigarraga",
+		"ISBN": "---",
+		"language": "eu",
+		"number-of-pages": "226",
+		"publisher": "Udalbiltza",
+		"publisher-place": "Astigarraga",
+		"title": "Euskal herria datuen talaiatik",
+		"author": [
+			{
+				"literal": "Aztiker soziologia ikergunea"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/JERIBX3N",
+		"type": "book",
+		"call-number": "030 AYE mon",
+		"event-place": "Lasarte",
+		"ISBN": "978-84-88960-13-9",
+		"language": "es",
+		"number-of-pages": "320",
+		"publisher": "Ostoa",
+		"publisher-place": "Lasarte",
+		"title": "Montaña y aventura, crónicas de: viajes y expediciones, grandes escaladas, experiencias extremas",
+		"title-short": "Montaña y aventura, crónicas de",
+		"author": [
+			{
+				"family": "Ayerbe Echebarría",
+				"given": "Enrique"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/FY5MNN3V",
+		"type": "book",
+		"call-number": "030 ART fit",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-458-0703-3",
+		"language": "es",
+		"number-of-pages": "1148",
+		"publisher": "Cita",
+		"publisher-place": "Bilbao",
+		"title": "Fitoterapia: vademecum de prescripción",
+		"author": [
+			{
+				"family": "Arteche García",
+				"given": "Alejandro"
+			},
+			{
+				"family": "Vanaclocha",
+				"given": "Bernat Vanaclocha"
+			},
+			{
+				"family": "Salazar",
+				"given": "Juan Ignacio Güenechea"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1998"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/T74ZXK5V",
+		"type": "book",
+		"call-number": "030 ARR hit",
+		"event-place": "Irun",
+		"ISBN": "978-84-96310-71-1",
+		"language": "eus",
+		"number-of-pages": "283",
+		"publisher": "Alberdania",
+		"publisher-place": "Irun",
+		"title": "Hitza azti",
+		"author": [
+			{
+				"family": "Arranz",
+				"given": "Iñaki"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/GXW5J3IF",
+		"type": "book",
+		"call-number": "030 ARI exp",
+		"event-place": "Iruña",
+		"ISBN": "978-84-500-3373-1",
+		"language": "es",
+		"number-of-pages": "104",
+		"publisher": "Grafinasa",
+		"publisher-place": "Iruña",
+		"title": "Expedicion navarra al himalaya 79: Dhaulagiri 8.172",
+		"author": [
+			{
+				"family": "Ariz Martinez",
+				"given": "Gregorio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1980"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/Q5GPST62",
+		"type": "book",
+		"call-number": "030 ARE int",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Madrid",
+		"ISBN": "978-84-309-4589-4",
+		"language": "es",
+		"number-of-pages": "477",
+		"publisher": "Tecnos",
+		"publisher-place": "Madrid",
+		"title": "Introducción a las relaciones internacionales",
+		"author": [
+			{
+				"family": "Arenal",
+				"given": "Celestino",
+				"dropping-particle": "del"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/DYJ43WJJ",
+		"type": "book",
+		"call-number": "030 ARE biz",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-89816-50-3",
+		"language": "eus",
+		"number-of-pages": "399",
+		"number-of-volumes": "2",
+		"publisher": "Labayru Ikastegia Bilbao Bizkaia Kutxa Fundazioa",
+		"publisher-place": "Bilbao",
+		"title": "Bizkai euskeraren jarraibide liburua: lehenengo pausuak",
+		"volume": "1",
+		"author": [
+			{
+				"family": "Arejita",
+				"given": "Adolfo"
+			},
+			{
+				"literal": "Labayru Ikastegia"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/M9AQ4ENR",
+		"type": "book",
+		"call-number": "030 ARE biz",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-89816-26-8",
+		"language": "eus",
+		"number-of-pages": "368",
+		"number-of-volumes": "2",
+		"publisher": "Labayru Ikastegia Bilbao Bizkaia Kutxa Fundazioa",
+		"publisher-place": "Bilbao",
+		"title": "Bizkai euskeraren jarraibide liburua: bigarren pausuak",
+		"volume": "2",
+		"author": [
+			{
+				"family": "Arejita",
+				"given": "Adolfo"
+			},
+			{
+				"literal": "Labayru Ikastegia"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/KI9787DV",
+		"type": "book",
+		"call-number": "030 ANO kam",
+		"event-place": "Barcelona",
+		"ISBN": "84-85047-18-4",
+		"language": "es",
+		"number-of-pages": "276",
+		"publisher": "ATE",
+		"publisher-place": "Barcelona",
+		"title": "kama sutra: El arte de amar en la india milenaria",
+		"author": [
+			{
+				"literal": "Anonimoa"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1973"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/2A4CRUJW",
+		"type": "book",
+		"call-number": "030 ANG pir",
+		"event-place": "Donostia",
+		"ISBN": "978-84-8331-681-8",
+		"language": "eu",
+		"number-of-pages": "304",
+		"publisher": "Elkarlanean",
+		"publisher-place": "Donostia",
+		"title": "Pirineoak: 1000 igoera : V Aranetik Andorrara (bide arruntak eta eskalada errazak).",
+		"title-short": "Pirineoak",
+		"author": [
+			{
+				"family": "Angulo",
+				"given": "Miguel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/WLRFXFCH",
+		"type": "book",
+		"call-number": "030 AMU Zue",
+		"event-place": "Donostia",
+		"ISBN": "978-84-7529-044-7",
+		"language": "eu",
+		"number-of-pages": "216",
+		"publisher": "Egin",
+		"publisher-place": "Donostia",
+		"title": "Zu ere bertsolari",
+		"author": [
+			{
+				"family": "Amuriza",
+				"given": "Xabier"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/QKHSW6H3",
+		"type": "book",
+		"call-number": "030 AMU Zue",
+		"event-place": "Donostia",
+		"ISBN": "978-84-7529-044-7",
+		"language": "eu",
+		"number-of-pages": "216",
+		"publisher": "Egin",
+		"publisher-place": "Donostia",
+		"title": "Zu ere bertsolari",
+		"author": [
+			{
+				"family": "Amuriza",
+				"given": "Xabier"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/BPP2CXMI",
+		"type": "book",
+		"call-number": "030 ALC Peq",
+		"event-place": "Iruña",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "72",
+		"publisher": "Libera Repubblica di Venaus in esilio",
+		"publisher-place": "Iruña",
+		"title": "Pequeño glosario anti-TAV. Desde Val di Susa: un equipaje mínimo en vista de la reanudación de las hostilidades",
+		"author": [
+			{
+				"literal": "Alcuni della barricata del Sol Levante"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/XWXZPF76",
+		"type": "book",
+		"call-number": "030 AIZ cla",
+		"event-place": "Gasteiz",
+		"ISBN": "978-84-457-1396-9",
+		"language": "es",
+		"number-of-pages": "831",
+		"publisher": "Eusko Ikaskuntza",
+		"publisher-place": "Gasteiz",
+		"title": "Claves ilustradas de la flora del País Vasco y territorios limítrofes",
+		"editor": [
+			{
+				"family": "Aizpuru",
+				"given": "Iñaki"
+			},
+			{
+				"family": "Aseginolaza",
+				"given": "Carlos"
+			},
+			{
+				"family": "Uribe-Echebarría",
+				"given": "Pedro María"
+			},
+			{
+				"family": "Urrutia",
+				"given": "Pello"
+			},
+			{
+				"family": "Zorrakin",
+				"given": "Iñaki"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/2VHMCFHB",
+		"type": "book",
+		"call-number": "030 AIZ cla",
+		"event-place": "Gasteiz",
+		"ISBN": "978-84-457-1396-9",
+		"language": "es",
+		"number-of-pages": "831",
+		"publisher": "Eusko Ikaskuntza",
+		"publisher-place": "Gasteiz",
+		"title": "Claves ilustradas de la flora del País Vasco y territorios limítrofes",
+		"editor": [
+			{
+				"family": "Aizpuru",
+				"given": "Iñaki"
+			},
+			{
+				"family": "Aseginolaza",
+				"given": "Carlos"
+			},
+			{
+				"family": "Uribe-Echebarría",
+				"given": "Pedro María"
+			},
+			{
+				"family": "Urrutia",
+				"given": "Pello"
+			},
+			{
+				"family": "Zorrakin",
+				"given": "Iñaki"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/ZJDIFGLF",
+		"type": "book",
+		"call-number": "030 AGU vet",
+		"event-place": "Donostia",
+		"ISBN": "978-84-89077-66-9",
+		"language": "es",
+		"number-of-pages": "95",
+		"publisher": "Egin",
+		"publisher-place": "Donostia",
+		"title": "Veterinaria popular vasca",
+		"author": [
+			{
+				"family": "Aguirre Sorondo",
+				"given": "Antxon"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/M4BQFTE7",
+		"type": "book",
+		"call-number": "030 HES exp",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-7031-499-5",
+		"language": "es",
+		"number-of-pages": "128",
+		"publisher": "Blume",
+		"publisher-place": "Barcelona",
+		"title": "El experto en plantas de interior",
+		"author": [
+			{
+				"family": "Hessayon",
+				"given": "David Gerald"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1982"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/P4WGXMLU",
+		"type": "book",
+		"call-number": "030 GOM lib",
+		"event-place": "Madrid",
+		"ISBN": "978-84-206-3895-9",
+		"language": "es",
+		"number-of-pages": "482",
+		"publisher": "Alianza editorial",
+		"publisher-place": "Madrid",
+		"title": "El libro de la encuadernación",
+		"author": [
+			{
+				"family": "Gómez Raggio",
+				"given": "Francisco"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/AALAJ4RT",
+		"type": "book",
+		"call-number": "030 FRI pod",
+		"event-place": "Madrid",
+		"ISBN": "978-84-305-7513-8",
+		"language": "es",
+		"number-of-pages": "96",
+		"publisher": "Susaeta",
+		"publisher-place": "Madrid",
+		"title": "La poda de los árboles frutales",
+		"author": [
+			{
+				"family": "Fritsch",
+				"given": "Robert"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/PC7XCQDG",
+		"type": "book",
+		"call-number": "030 BAR med",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-85288-35-9",
+		"language": "es",
+		"number-of-pages": "167",
+		"publisher": "Ediciones Vascas",
+		"publisher-place": "Bilbao",
+		"title": "La medicina popular en el País Vasco",
+		"author": [
+			{
+				"family": "Barriola",
+				"given": "Ignacio María"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1979"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/USIRKETW",
+		"type": "book",
+		"call-number": "030 BAR alb",
+		"event-place": "Galdakao",
+		"ISBN": "978-84-398-7409-6",
+		"language": "es",
+		"number-of-pages": "59",
+		"publisher": "Caja de Ahorros de Navarra ; Bizkaiko Foru Aldundia, Kultura Saila ; Eusko Jaurlaritza, Kultura eta Turismo Saila",
+		"publisher-place": "Galdakao",
+		"title": "La alboka y su música popular vasca",
+		"author": [
+			{
+				"family": "Barrenetxea",
+				"given": "José Mariano"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1986"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/FKDA4XGB",
+		"type": "book",
+		"call-number": "030 BAE arq",
+		"event-place": "Bilbao",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "300",
+		"publisher": "Biblioteca Vascongada Villar",
+		"publisher-place": "Bilbao",
+		"title": "La arquitectura del caserio vasco.",
+		"author": [
+			{
+				"family": "Baeschlin",
+				"given": "Alfredo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1968"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/VYYIT9YX",
+		"type": "book",
+		"abstract": "Presentación sistématica y clara del conjunto de problemas que lleva consigo la formulación de esa parte fundamental de la política pública cuyo contenido es económico.",
+		"call-number": "030 ARI for",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Madrid",
+		"ISBN": "978-84-470-0782-0",
+		"language": "es",
+		"number-of-pages": "209",
+		"publisher": "Civitas",
+		"publisher-place": "Madrid",
+		"title": "La formación de la política económica",
+		"author": [
+			{
+				"family": "Arias",
+				"given": "Xosé Carlos"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	}
+]

@@ -1,0 +1,1963 @@
+[
+	{
+		"id": "http://zotero.org/groups/2204707/items/CN3N5HBP",
+		"type": "book",
+		"call-number": "325 VID soñ",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-339-2559-6",
+		"language": "es",
+		"number-of-pages": "134",
+		"publisher": "Editorial Anagrama",
+		"publisher-place": "Barcelona",
+		"title": "Soñando la guerra: sangre por petróleo y la junta Cheney-Busch",
+		"title-short": "Soñando la guerra",
+		"author": [
+			{
+				"family": "Vidal",
+				"given": "Gore"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2003"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/ZXBY4XG3",
+		"type": "book",
+		"call-number": "325 VAZ dec",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-9082-208-1",
+		"language": "eu/es",
+		"number-of-pages": "302",
+		"publisher": "EHU",
+		"publisher-place": "Bilbao",
+		"title": "La década ganada en América Latina: una mirada analítica a las luchas populares = Irabazitako hamarkada Latinoamerikan : herri borrokei begirada analitikoa",
+		"author": [
+			{
+				"family": "Vázquez Puente",
+				"given": "Unai"
+			},
+			{
+				"family": "Uharte Pozas",
+				"given": "Luismi"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/S2W5XBNI",
+		"type": "book",
+		"call-number": "325 UHA sur",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-526-9",
+		"language": "es",
+		"number-of-pages": "278",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "El sur en revolución: una mirada a la Venezuela bolivariana",
+		"title-short": "El sur en revolución",
+		"author": [
+			{
+				"family": "Uharte Pozas",
+				"given": "Luismi"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/DWBNYSKY",
+		"type": "book",
+		"call-number": "325 TOS bal",
+		"event-place": "La Habana",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "317",
+		"publisher": "Editorial de Ciencias Sociales",
+		"publisher-place": "La Habana",
+		"title": "Bala, tizón y machete",
+		"author": [
+			{
+				"family": "Toste Ballart",
+				"given": "Gilberto"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1990"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/MVVDKID5",
+		"type": "book",
+		"call-number": "325 TOE can",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-164-3",
+		"language": "es",
+		"number-of-pages": "435",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Canción triste de un mudo",
+		"author": [
+			{
+				"family": "Toer",
+				"given": "Pramoedya Ananta"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/EKKAW5M5",
+		"type": "book",
+		"call-number": "325 TOE can",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-164-3",
+		"language": "es",
+		"number-of-pages": "435",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Canción triste de un mudo",
+		"author": [
+			{
+				"family": "Toer",
+				"given": "Pramoedya Ananta"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/3ATJXJPT",
+		"type": "book",
+		"call-number": "325 TAI año",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-019-6",
+		"language": "es",
+		"number-of-pages": "261",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "El año que estuvimos en ninguna parte",
+		"author": [
+			{
+				"family": "Taibo II",
+				"given": "Paco Ignacio"
+			},
+			{
+				"family": "Escobar",
+				"given": "Froilán"
+			},
+			{
+				"family": "Guerra",
+				"given": "Félix"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/XHZZZD28",
+		"type": "book",
+		"call-number": "325 COL des",
+		"event-place": "Anglet",
+		"ISBN": "978-2-84747-016-1",
+		"language": "es",
+		"number-of-pages": "191",
+		"number-of-volumes": "2",
+		"publisher": "Kale Gorria",
+		"publisher-place": "Anglet",
+		"title": "Desarmando la guerra global. Del 11 de septiembre a la invasión de Iraq",
+		"volume": "2",
+		"author": [
+			{
+				"family": "Collon",
+				"given": "Michel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2003"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/IXXSLPWW",
+		"type": "book",
+		"call-number": "325 COL des",
+		"event-place": "Anglet",
+		"ISBN": "978-2-84747-015-4",
+		"language": "es",
+		"number-of-pages": "189",
+		"number-of-volumes": "2",
+		"publisher": "Kale Gorria",
+		"publisher-place": "Anglet",
+		"title": "Desarmando la guerra global. De la Guerra del Golfo a la ocupación de los Balcanes",
+		"volume": "1",
+		"author": [
+			{
+				"family": "Collon",
+				"given": "Michel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2003"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/TIELTRTJ",
+		"type": "book",
+		"call-number": "325 CHO nue",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-86597-37-5",
+		"language": "es",
+		"number-of-pages": "268",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "El nuevo orden mundial o La conquista interminable",
+		"author": [
+			{
+				"family": "Chomsky",
+				"given": "Noam"
+			},
+			{
+				"family": "Ramirez",
+				"given": "Sergio"
+			},
+			{
+				"family": "Borge",
+				"given": "Tomás"
+			},
+			{
+				"family": "Cueva",
+				"given": "Agustín"
+			},
+			{
+				"family": "García",
+				"given": "Roberto"
+			},
+			{
+				"family": "Casanova",
+				"given": "Pablo G."
+			},
+			{
+				"family": "Petras",
+				"given": "James F."
+			},
+			{
+				"family": "Sánchez Ferlosio",
+				"given": "Rafael"
+			},
+			{
+				"family": "Belli",
+				"given": "Gioconda"
+			},
+			{
+				"family": "Pérez Esquivel",
+				"given": "Adolfo"
+			},
+			{
+				"family": "Landa",
+				"given": "Karmelo"
+			},
+			{
+				"family": "Dieterich",
+				"given": "Heinz"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1991"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/SA3UCCY9",
+		"type": "book",
+		"call-number": "325 CHO nue",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-86597-37-5",
+		"language": "es",
+		"number-of-pages": "268",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "El nuevo orden mundial o La conquista interminable",
+		"author": [
+			{
+				"family": "Chomsky",
+				"given": "Noam"
+			},
+			{
+				"family": "Ramirez",
+				"given": "Sergio"
+			},
+			{
+				"family": "Borge",
+				"given": "Tomás"
+			},
+			{
+				"family": "Cueva",
+				"given": "Agustín"
+			},
+			{
+				"family": "García",
+				"given": "Roberto"
+			},
+			{
+				"family": "Casanova",
+				"given": "Pablo G."
+			},
+			{
+				"family": "Petras",
+				"given": "James F."
+			},
+			{
+				"family": "Sánchez Ferlosio",
+				"given": "Rafael"
+			},
+			{
+				"family": "Belli",
+				"given": "Gioconda"
+			},
+			{
+				"family": "Pérez Esquivel",
+				"given": "Adolfo"
+			},
+			{
+				"family": "Landa",
+				"given": "Karmelo"
+			},
+			{
+				"family": "Dieterich",
+				"given": "Heinz"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1991"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/W4MX5ZW8",
+		"type": "book",
+		"call-number": "325 CHO nue",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-86597-37-5",
+		"language": "es",
+		"number-of-pages": "268",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "El nuevo orden mundial o La conquista interminable",
+		"author": [
+			{
+				"family": "Chomsky",
+				"given": "Noam"
+			},
+			{
+				"family": "Ramirez",
+				"given": "Sergio"
+			},
+			{
+				"family": "Borge",
+				"given": "Tomás"
+			},
+			{
+				"family": "Cueva",
+				"given": "Agustín"
+			},
+			{
+				"family": "García",
+				"given": "Roberto"
+			},
+			{
+				"family": "Casanova",
+				"given": "Pablo G."
+			},
+			{
+				"family": "Petras",
+				"given": "James F."
+			},
+			{
+				"family": "Sánchez Ferlosio",
+				"given": "Rafael"
+			},
+			{
+				"family": "Belli",
+				"given": "Gioconda"
+			},
+			{
+				"family": "Pérez Esquivel",
+				"given": "Adolfo"
+			},
+			{
+				"family": "Landa",
+				"given": "Karmelo"
+			},
+			{
+				"family": "Dieterich",
+				"given": "Heinz"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1991"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/LCJNPQYI",
+		"type": "book",
+		"call-number": "325 CHO hab",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-106-3",
+		"language": "es",
+		"number-of-pages": "252",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Hablemos de terrorismo",
+		"author": [
+			{
+				"family": "Chomsky",
+				"given": "Noam"
+			},
+			{
+				"family": "Dieterich",
+				"given": "Heinz"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1998"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/CBD7ZI7F",
+		"type": "book",
+		"call-number": "325 CHO ald",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-056-1",
+		"language": "es",
+		"number-of-pages": "204",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "La aldea global",
+		"author": [
+			{
+				"family": "Chomsky",
+				"given": "Noam"
+			},
+			{
+				"family": "Dieterich",
+				"given": "Heinz"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1997"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/LCGDMN6J",
+		"type": "book",
+		"call-number": "325 CHO ven",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-86597-49-8",
+		"language": "es",
+		"number-of-pages": "179",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Los vencedores: una ironía de la historia",
+		"title-short": "Los vencedores",
+		"author": [
+			{
+				"family": "Chomsky",
+				"given": "Noam"
+			},
+			{
+				"family": "Dieterich",
+				"given": "Heinz"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1992"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/9QXB4VUS",
+		"type": "book",
+		"call-number": "325 CHO ter",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-86597-17-7",
+		"language": "es",
+		"number-of-pages": "218",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Terrorismo de estado: el papel internacional de EEUU",
+		"title-short": "Terrorismo de estado",
+		"author": [
+			{
+				"family": "Chomsky",
+				"given": "Noam"
+			},
+			{
+				"family": "Bonasso",
+				"given": "Miguel"
+			},
+			{
+				"family": "Pieterse",
+				"given": "Jan N."
+			},
+			{
+				"family": "Herman",
+				"given": "Edward S."
+			},
+			{
+				"family": "Schulz",
+				"given": "William"
+			},
+			{
+				"family": "Petras",
+				"given": "James F."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1990"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/7I9K3HXS",
+		"type": "book",
+		"call-number": "325 CHO ter",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-86597-17-7",
+		"language": "es",
+		"number-of-pages": "218",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Terrorismo de estado: el papel internacional de EEUU",
+		"title-short": "Terrorismo de estado",
+		"author": [
+			{
+				"family": "Chomsky",
+				"given": "Noam"
+			},
+			{
+				"family": "Bonasso",
+				"given": "Miguel"
+			},
+			{
+				"family": "Pieterse",
+				"given": "Jan N."
+			},
+			{
+				"family": "Herman",
+				"given": "Edward S."
+			},
+			{
+				"family": "Schulz",
+				"given": "William"
+			},
+			{
+				"family": "Petras",
+				"given": "James F."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1990"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/JN7MMJ6N",
+		"type": "book",
+		"call-number": "325 CHO int",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-918-2",
+		"language": "es",
+		"number-of-pages": "154",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Las intenciones del tío Sam",
+		"author": [
+			{
+				"family": "Chomsky",
+				"given": "Noam"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/RZYWF5KC",
+		"type": "book",
+		"call-number": "325 CHO cub",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Hondarribia",
+		"ISBN": "978-84-89753-85-3",
+		"language": "es",
+		"number-of-pages": "109",
+		"publisher": "Hiru",
+		"publisher-place": "Hondarribia",
+		"title": "Cuba: ¿hacia dónde se dirige el socialismo?, intelectuales cubanos ante el perídodo especial",
+		"title-short": "Cuba",
+		"author": [
+			{
+				"family": "Chomsky",
+				"given": "Avi"
+			},
+			{
+				"family": "Chomsky",
+				"given": "Noam"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1997"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/X5LUTKGX",
+		"type": "book",
+		"call-number": "325 CAS hon",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-86597-47-4",
+		"language": "es",
+		"number-of-pages": "158",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "La honda de David: Cuba frente al Nuevo Orden : conversaciones con Fidel Castro",
+		"title-short": "La honda de David",
+		"author": [
+			{
+				"family": "Castro",
+				"given": "Fidel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1992"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/J85RN43K",
+		"type": "book",
+		"call-number": "325 ARR chu",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Donostia",
+		"ISBN": "978-84-8331-518-7",
+		"language": "eu",
+		"number-of-pages": "154",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Churchill",
+		"author": [
+			{
+				"family": "Arruti",
+				"given": "Joseba"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/RRDFN743",
+		"type": "book",
+		"call-number": "325 AOI vie",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-257-2",
+		"language": "es",
+		"number-of-pages": "472",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "La vieja herida: de la conquista española al Amejoramiento Foral",
+		"title-short": "La vieja herida",
+		"author": [
+			{
+				"family": "Aoiz",
+				"given": "Floren"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/YM33IUXY",
+		"type": "book",
+		"call-number": "325 AOI vie",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-257-2",
+		"language": "es",
+		"number-of-pages": "472",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "La vieja herida: de la conquista española al Amejoramiento Foral",
+		"title-short": "La vieja herida",
+		"author": [
+			{
+				"family": "Aoiz",
+				"given": "Floren"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/YUA4WEFZ",
+		"type": "book",
+		"call-number": "325 DIO cas",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-131-5",
+		"language": "es",
+		"number-of-pages": "296",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "El caso Galíndez: los vascos en los Servicios de Inteligencia de EEUU",
+		"title-short": "El caso Galíndez",
+		"author": [
+			{
+				"family": "Dios Unanue",
+				"given": "Manuel",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/4SEDT847",
+		"type": "book",
+		"call-number": "325 DIO cas",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-131-5",
+		"language": "es",
+		"number-of-pages": "296",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "El caso Galíndez: los vascos en los Servicios de Inteligencia de EEUU",
+		"title-short": "El caso Galíndez",
+		"author": [
+			{
+				"family": "Dios Unanue",
+				"given": "Manuel",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/HGSSB9HT",
+		"type": "book",
+		"call-number": "325 DIO cas",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-131-5",
+		"language": "es",
+		"number-of-pages": "296",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "El caso Galíndez: los vascos en los Servicios de Inteligencia de EEUU",
+		"title-short": "El caso Galíndez",
+		"author": [
+			{
+				"family": "Dios Unanue",
+				"given": "Manuel",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/DDYJ25M3",
+		"type": "book",
+		"call-number": "325 TAI año",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-019-6",
+		"language": "es",
+		"number-of-pages": "261",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "El año que estuvimos en ninguna parte",
+		"author": [
+			{
+				"family": "Taibo II",
+				"given": "Paco Ignacio"
+			},
+			{
+				"family": "Escobar",
+				"given": "Froilán"
+			},
+			{
+				"family": "Guerra",
+				"given": "Félix"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/UAPCC8VZ",
+		"type": "book",
+		"call-number": "325 TAI año",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-019-6",
+		"language": "es",
+		"number-of-pages": "261",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "El año que estuvimos en ninguna parte",
+		"author": [
+			{
+				"family": "Taibo II",
+				"given": "Paco Ignacio"
+			},
+			{
+				"family": "Escobar",
+				"given": "Froilán"
+			},
+			{
+				"family": "Guerra",
+				"given": "Félix"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/6I9MU9JR",
+		"type": "book",
+		"call-number": "325 TAI año",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-019-6",
+		"language": "es",
+		"number-of-pages": "261",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "El año que estuvimos en ninguna parte",
+		"author": [
+			{
+				"family": "Taibo II",
+				"given": "Paco Ignacio"
+			},
+			{
+				"family": "Escobar",
+				"given": "Froilán"
+			},
+			{
+				"family": "Guerra",
+				"given": "Félix"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/YWPG37T6",
+		"type": "book",
+		"call-number": "325 TAI año",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-019-6",
+		"language": "es",
+		"number-of-pages": "261",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "El año que estuvimos en ninguna parte",
+		"author": [
+			{
+				"family": "Taibo II",
+				"given": "Paco Ignacio"
+			},
+			{
+				"family": "Escobar",
+				"given": "Froilán"
+			},
+			{
+				"family": "Guerra",
+				"given": "Félix"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/MZ4L3UB7",
+		"type": "book",
+		"call-number": "325 SAS bat",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"ISBN": "978-84-95786-65-4",
+		"language": "es",
+		"number-of-pages": "161",
+		"publisher": "Hiru",
+		"title": "La batalla de los intelectuales: o, Nuevo discurso de las armas y las letras",
+		"title-short": "La batalla de los intelectuales",
+		"author": [
+			{
+				"family": "Sastre",
+				"given": "Alfonso"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2004"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/KG5998ES",
+		"type": "book",
+		"call-number": "325 SAI pal",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-054-7",
+		"language": "es",
+		"number-of-pages": "188",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Palestina: paz sin territorios",
+		"title-short": "Palestina",
+		"author": [
+			{
+				"family": "Said",
+				"given": "Edward W."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1997"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/2MHYCSNP",
+		"type": "book",
+		"abstract": "Quien mejor conoce las propuestas de negociacin rechazadas por la OLP aos atrs, Edward. W. Said, evala en este libro la primera fase de la autonoma de Gaza y Jeric y las perspectivas futuras, resituando el proceso en su marco real: como una iniciativa norteamericana impuesta tras la guerra contra Irak, en el momento de mayor crisis contempornea del mundo rabe y de mxima debilidad palestina.",
+		"call-number": "325 SAI gaz",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-012-7",
+		"language": "es",
+		"number-of-pages": "190",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Gaza-Jericó: pax americana",
+		"title-short": "Gaza-Jericó",
+		"author": [
+			{
+				"family": "Said",
+				"given": "Edward W."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/NJ9KD2BT",
+		"type": "book",
+		"call-number": "325 ROD his",
+		"event-place": "La Habana",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "276",
+		"publisher": "Libros para la Educación",
+		"publisher-place": "La Habana",
+		"title": "Historia I SOC",
+		"author": [
+			{
+				"family": "Rodríguez Ruiz",
+				"given": "Nereyda"
+			},
+			{
+				"family": "Martinez Aguliera",
+				"given": "Teresa"
+			},
+			{
+				"family": "Carvajal Ojeda",
+				"given": "Ana Luisa"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1978"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/9WC7UFJA",
+		"type": "book",
+		"call-number": "325 RED ame",
+		"event-place": "Moscú",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "159",
+		"publisher": "Academia de Ciencias de la URSS",
+		"publisher-place": "Moscú",
+		"title": "América latina: petróleo y política",
+		"author": [
+			{
+				"literal": "Redacción \"Ciencias Sociales Contemporaneas\""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1985"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/NRVKLDC6",
+		"type": "book",
+		"call-number": "325\t PRA jud",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-594-8",
+		"language": "es",
+		"number-of-pages": "253",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "El judío errado",
+		"author": [
+			{
+				"family": "Pradilla",
+				"given": "Alberto"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/WQXQ8VHX",
+		"type": "book",
+		"call-number": "325 PET imp",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-15313-02-1",
+		"language": "es",
+		"number-of-pages": "211",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Imperialismo y barbarie",
+		"author": [
+			{
+				"family": "Petras",
+				"given": "James F."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/LLJQIFD7",
+		"type": "book",
+		"call-number": "325 PAU mit",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Hondarribia",
+		"ISBN": "978-84-95786-18-0",
+		"language": "es",
+		"number-of-pages": "357",
+		"publisher": "Hiru",
+		"publisher-place": "Hondarribia",
+		"title": "El mito de la guerra buena : EEUU en la segunda guerra mundial",
+		"title-short": "El mito de la guerra buena",
+		"author": [
+			{
+				"family": "Pauwels",
+				"given": "Jacques R."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/HY86IRCH",
+		"type": "book",
+		"call-number": "325 PAR ter",
+		"event-place": "Anglet",
+		"ISBN": "978-2-84747-005-5",
+		"language": "es",
+		"number-of-pages": "143",
+		"publisher": "Kale Gorria",
+		"publisher-place": "Anglet",
+		"title": "Terrorismo, la gran excusa: lo que los Estados Unidos no quieren saber de ellos mismos",
+		"title-short": "Terrorismo, la gran excusa",
+		"author": [
+			{
+				"family": "Parenti",
+				"given": "Michael"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/IMAUWYNT",
+		"type": "book",
+		"call-number": "325 OND bue",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-590-0",
+		"language": "es",
+		"number-of-pages": "132",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Buenos días, camaradas",
+		"author": [
+			{
+				"literal": "Ondjaki"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/MDIZEZ5B",
+		"type": "book",
+		"call-number": "325 OLA man",
+		"event-place": "Donostia",
+		"ISBN": "978-84-9783-563-3",
+		"language": "es",
+		"number-of-pages": "161",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Manuel Iradier afrikako arimaren esploratzailea",
+		"author": [
+			{
+				"family": "Olasagasti Aiestaran",
+				"given": "Ramón"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/YRWC83US",
+		"type": "book",
+		"call-number": "325 MUÑ rel",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Santo Domingo",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "304",
+		"publisher": "Alfa y Omega",
+		"publisher-place": "Santo Domingo",
+		"title": "Las relaciones domínico-haitianas: geopolítica y migración",
+		"title-short": "Las relaciones domínico-haitianas",
+		"author": [
+			{
+				"family": "Muñoz",
+				"given": "María Helena"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/8LQQZ8TZ",
+		"type": "book",
+		"call-number": "325 MAR tex",
+		"event-place": "La Habana",
+		"ISBN": "978-959-13-0634-0",
+		"language": "es",
+		"number-of-pages": "74",
+		"publisher": "Centro de Estudios Martianos",
+		"publisher-place": "La Habana",
+		"title": "Textos antimperialistas de José Martí",
+		"editor": [
+			{
+				"family": "Martí",
+				"given": "José"
+			},
+			{
+				"family": "García Marruz",
+				"given": "Fina"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1990"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/VA9U5UDN",
+		"type": "book",
+		"call-number": "325 KES mor",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-86597-20-7",
+		"language": "es",
+		"number-of-pages": "203",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Morir por Palestina",
+		"author": [
+			{
+				"family": "Kesteman",
+				"given": "Françoise"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1991"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/YL9AMDKM",
+		"type": "book",
+		"call-number": "325 KES mor",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-86597-20-7",
+		"language": "es",
+		"number-of-pages": "203",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Morir por Palestina",
+		"author": [
+			{
+				"family": "Kesteman",
+				"given": "Françoise"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1991"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/3WY8P5UF",
+		"type": "book",
+		"call-number": "325 KES mor",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-86597-20-7",
+		"language": "es",
+		"number-of-pages": "203",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Morir por Palestina",
+		"author": [
+			{
+				"family": "Kesteman",
+				"given": "Françoise"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1991"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/CBIP3SBA",
+		"type": "book",
+		"abstract": "Cette nouvelle version de la biographie de Thomas Sankara vient compléter la première édition en remontant jusqu'à son enfance, du Burkina à Madagascar. L'auteur reconstitue son itinéraire personnel, les événements qui ont pu le marquer et les influences qu'il a subies tout en accordant une large place à l'histoire de ces deux pays. Ce livre aborde le rôle qu'a joué Thomas Sankara dans la gestion des affaires de l'Etat, comme dirigeant révolutionnaire et comme leader des pays pauvres.",
+		"call-number": "325 JAF bio",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Paris",
+		"ISBN": "978-2-296-18375-9",
+		"language": "fr",
+		"number-of-pages": "348",
+		"publisher": "Editions L'Harmattan",
+		"publisher-place": "Paris",
+		"title": "Biographie de Thomas Sankara: La patrie ou la mort...",
+		"title-short": "Biographie de Thomas Sankara",
+		"author": [
+			{
+				"family": "Jaffré",
+				"given": "Bruno"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1997"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/ZLW7X2U8",
+		"type": "book",
+		"call-number": "325 IBA lau",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-16350-71-1",
+		"language": "eu",
+		"number-of-pages": "218",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Laura esaten zioten: Miren Odriozolaren borrokak",
+		"title-short": "Laura esaten zioten",
+		"author": [
+			{
+				"family": "Ibarguren",
+				"given": "Leire"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/X3I7NLUE",
+		"type": "book",
+		"call-number": "325 HOR aby",
+		"event-place": "Bilbao",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "351",
+		"publisher": "Ipes",
+		"publisher-place": "Bilbao",
+		"title": "ABYA Yala (Amerindia) por descubrir",
+		"author": [
+			{
+				"family": "Hornilla",
+				"given": "Txema"
+			},
+			{
+				"family": "Araluze",
+				"given": "Julio"
+			},
+			{
+				"family": "Reguera",
+				"given": "Iñaki"
+			},
+			{
+				"family": "Duplá",
+				"given": "Antonio"
+			},
+			{
+				"family": "Antigüedad",
+				"given": "Iñaki"
+			},
+			{
+				"family": "Juliano",
+				"given": "Dolores"
+			},
+			{
+				"family": "Laviña",
+				"given": "Javier"
+			},
+			{
+				"family": "Zabala",
+				"given": "Idoye"
+			},
+			{
+				"family": "Cabrera",
+				"given": "Ma Luisa"
+			},
+			{
+				"family": "Briceño",
+				"given": "Carlos"
+			},
+			{
+				"family": "Celorio",
+				"given": "Juan José"
+			},
+			{
+				"family": "Avalos",
+				"given": "Roberto"
+			},
+			{
+				"family": "Unzeta",
+				"given": "Koldo"
+			},
+			{
+				"family": "Sánchez Carrión",
+				"given": "José María"
+			},
+			{
+				"family": "Barriola",
+				"given": "Joseba"
+			},
+			{
+				"literal": "CONAIE"
+			},
+			{
+				"family": "Forcano",
+				"given": "Benjamín"
+			},
+			{
+				"family": "Dubois",
+				"given": "Alfonso"
+			},
+			{
+				"family": "Mintegi",
+				"given": "Laura"
+			},
+			{
+				"family": "Bonasso",
+				"given": "Miguel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1992"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/CRRWSGLB",
+		"type": "book",
+		"call-number": "325 HER mac",
+		"event-place": "La Habana",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "171",
+		"publisher": "Ciencias Sociales",
+		"publisher-place": "La Habana",
+		"title": "Maceo: dos conferencias historicas",
+		"author": [
+			{
+				"family": "Hernandez",
+				"given": "Eugenio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1990"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/VBVHKG7I",
+		"type": "book",
+		"abstract": "André Gide (París, 1869-1951) fue novelista, poeta, dramaturgo, crítico literario y viajero. Su obra, que se inicia en 1891 con la publicación de Los cuadernos de André Walter, es amplísima, miles de páginas que abarcan casi todos los géneros. Siempre a la vanguardia de algunas de las grandes causas del siglo XX, fustigó el colonialismo, reivindicó la homosexualidad, se convirtió al comunismo para terminar abjurando de él: a su muerte, en 1951, la izquierda le aborrecía tanto como la derecha. En 1947 le fue concedido el premio Nobel. Sus obras más destacadas son Los alimentos terrenales (1897), El inmoralista (1902), Los sótanos del Vaticano (1914), Corydon (1924), Los monederos falsos (1925), y el Diario, para muchos su obra cumbre. En julio de 1925, André Gide emprendió un viaje a las posesiones francesas de África ecuatorial como enviado especial del Ministerio para las Colonias. De aquella estancia, que duró aproximadamente un año, surgió este Viaje al Congo, una dura crítica de la política colonial del Elíseo que tenía muy poco que ver con otras obras contemporáneas escritas al dictado de determinados intereses políticos o comerciales. El libro, que provocó una verdadera convulsión política en Francia, no es tan sólo un testimonio vivo de una de las actuaciones más infamantes del hombre blanco en el continente negro, sino uno de los grandes exponentes de la literatura de viajes de todos los tiempos. «Hay muchos libros de viajes que me han aportado mucho. Pero si he de señalar algunos me inclinaría por El coloso de Maroussi de Henry Miller y el Viaje al Congo de André Gide; Vía de escape, de Graham Greene y cualquiera de Manu Leguineche, un artista en este tipo de género, por ejemplo: El camino más corto».JAVIER REVERTE",
+		"call-number": "325 GID via",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-8307-625-5",
+		"language": "es",
+		"number-of-pages": "224",
+		"publisher": "Siete leguas",
+		"publisher-place": "Barcelona",
+		"title": "Viaje al Congo",
+		"author": [
+			{
+				"family": "Gide",
+				"given": "André"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2004"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/DB3IGDI2",
+		"type": "book",
+		"call-number": "325\t GAL por",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-86597-71-9",
+		"language": "es",
+		"number-of-pages": "220",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Por la libertad vasca",
+		"author": [
+			{
+				"family": "Gallastegi",
+				"given": "Eli (Gudari)"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1993"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/PFT32CJJ",
+		"type": "book",
+		"call-number": "325\t GAL por",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-86597-71-9",
+		"language": "es",
+		"number-of-pages": "220",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Por la libertad vasca",
+		"author": [
+			{
+				"family": "Gallastegi",
+				"given": "Eli (Gudari)"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1993"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/8D4I7SUB",
+		"type": "book",
+		"call-number": "325\t GAL por",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-86597-71-9",
+		"language": "es",
+		"number-of-pages": "220",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Por la libertad vasca",
+		"author": [
+			{
+				"family": "Gallastegi",
+				"given": "Eli (Gudari)"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1993"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/D2EDVXHS",
+		"type": "book",
+		"call-number": "325 FOR ira",
+		"event-place": "Anglet",
+		"ISBN": "978-2-84747-017-8",
+		"language": "eu/es",
+		"number-of-pages": "103",
+		"publisher": "Kale Gorria",
+		"publisher-place": "Anglet",
+		"title": "Iraq: contexto sociopolítico en Oriente Medio tras la ocupación",
+		"title-short": "Iraq",
+		"author": [
+			{
+				"family": "Forest",
+				"given": "Eva"
+			},
+			{
+				"family": "Lago",
+				"given": "Aurora"
+			},
+			{
+				"family": "Varea",
+				"given": "Carlos"
+			},
+			{
+				"family": "Barreñada",
+				"given": "Isaias"
+			},
+			{
+				"family": "Frabetti",
+				"given": "Carlo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2004"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/I68RBGTV",
+		"type": "book",
+		"call-number": "325 FAR hai",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-95786-15-9",
+		"language": "es",
+		"number-of-pages": "465",
+		"publisher": "Hiru",
+		"publisher-place": "Bilbao",
+		"title": "Haití para qué: (usos y abusos de Haití)",
+		"title-short": "Haití para qué",
+		"author": [
+			{
+				"family": "Farmer",
+				"given": "Paul"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/LPLRNU5W",
+		"type": "book",
+		"call-number": "325 ESP pol",
+		"event-place": "La Habana",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "208",
+		"publisher": "Casa de las Américas",
+		"publisher-place": "La Habana",
+		"title": "La política económica de los Estado Unidos hacia América Latina entre 1945 y 1961",
+		"author": [
+			{
+				"family": "Espinoza García",
+				"given": "Manuel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1971"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/Y3L42ILQ",
+		"type": "book",
+		"call-number": "325 ESC cub",
+		"event-place": "La Habana",
+		"ISBN": "959-211-025-5",
+		"language": "es",
+		"number-of-pages": "284",
+		"publisher": "Editorial Capitán San Luis",
+		"publisher-place": "La Habana",
+		"title": "Cuba, la guerra secreta de la CIA: agresiones de Estados Unidos contra Cuba, 1959-1962",
+		"title-short": "Cuba, la guerra secreta de la CIA",
+		"author": [
+			{
+				"family": "Escalante Font",
+				"given": "Fabián"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1993"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/YAMIGIZM",
+		"type": "book",
+		"call-number": "325 DIR sen",
+		"event-place": "La Habana",
+		"ISBN": "978-959-01-0404-6",
+		"language": "es",
+		"number-of-pages": "99",
+		"publisher": "Editora Política",
+		"publisher-place": "La Habana",
+		"title": "Sentencia del Tribunal Provincial Popular de Ciudad de La Habana en el proceso por la demanda del pueblo de Cuba contra el Gobierno de Estados Unidos por daños económicos ocasionados a Cuba.",
+		"author": [
+			{
+				"literal": "Dirección Nacional de Tribunal Populares"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/GYX2NPDI",
+		"type": "book",
+		"call-number": "325 DIO cas",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-131-5",
+		"language": "es",
+		"number-of-pages": "296",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "El caso Galíndez: los vascos en los Servicios de Inteligencia de EEUU",
+		"title-short": "El caso Galíndez",
+		"author": [
+			{
+				"family": "Dios Unanue",
+				"given": "Manuel",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/GBPQSUKS",
+		"type": "book",
+		"call-number": "325 DIE cub",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-916-8",
+		"language": "es",
+		"number-of-pages": "230",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Cuba ante la razón cínica",
+		"author": [
+			{
+				"family": "Dieterich",
+				"given": "Heinz"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/THUNRRRN",
+		"type": "book",
+		"call-number": "325 CUP ñac",
+		"event-place": "La Habana",
+		"language": "es",
+		"number-of-pages": "316",
+		"publisher": "Editora Política",
+		"publisher-place": "La Habana",
+		"title": "De Ñacahuasú a La Higuera",
+		"author": [
+			{
+				"family": "Cupull",
+				"given": "Adys"
+			},
+			{
+				"family": "González",
+				"given": "Froilán"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1989"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/G2UGS8HH",
+		"type": "book",
+		"call-number": "325 COR car",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Madrid",
+		"ISBN": "978-84-7679-234-6",
+		"language": "es",
+		"number-of-pages": "219",
+		"publisher": "Cambio16",
+		"publisher-place": "Madrid",
+		"title": "Cartas de relación a Carlos V",
+		"author": [
+			{
+				"family": "Cortés",
+				"given": "Hernán"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1985"
+				]
+			]
+		}
+	}
+]

@@ -1,0 +1,1433 @@
+[
+	{
+		"id": "http://zotero.org/groups/2204707/items/MD7IXKIL",
+		"type": "book",
+		"call-number": "165 LAR peg",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-86597-35-1",
+		"language": "es",
+		"number-of-pages": "254",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Pega, pero escucha",
+		"author": [
+			{
+				"family": "Larrainzar",
+				"given": "Patxi"
+			},
+			{
+				"family": "Larrainzar",
+				"given": "Patxi"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1991"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/LSESMAHP",
+		"type": "book",
+		"call-number": "165 LAR peg",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-86597-35-1",
+		"language": "es",
+		"number-of-pages": "254",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Pega, pero escucha",
+		"author": [
+			{
+				"family": "Larrainzar",
+				"given": "Patxi"
+			},
+			{
+				"family": "Larrainzar",
+				"given": "Patxi"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1991"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/L7YPESLG",
+		"type": "book",
+		"call-number": "165 LAC heg",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Donostia",
+		"ISBN": "978-84-697-2691-4",
+		"language": "eu",
+		"number-of-pages": "149",
+		"publisher": "Iratzar",
+		"publisher-place": "Donostia",
+		"title": "Hegemonia, artikulazioa eta populismoa. Laclauren ekarpenak eta Euskal Herria",
+		"author": [
+			{
+				"family": "Laclau",
+				"given": "Ernesto"
+			},
+			{
+				"family": "Aoiz",
+				"given": "Floren"
+			},
+			{
+				"family": "Olariaga",
+				"given": "Andoni"
+			},
+			{
+				"family": "Azkune",
+				"given": "Jon"
+			},
+			{
+				"family": "Apaolaza",
+				"given": "Unai"
+			},
+			{
+				"family": "Zubiaga",
+				"given": "Mario"
+			},
+			{
+				"family": "Urdangarin",
+				"given": "Mikel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/4DSBMCDF",
+		"type": "book",
+		"call-number": "165 KRA mun",
+		"event-place": "Donostia",
+		"ISBN": "978-84-697-3117-8",
+		"language": "eu",
+		"number-of-pages": "42",
+		"publisher": "Tabakalera, Kultura Garaikidearen Nazioarteko Zentroa",
+		"publisher-place": "Donostia",
+		"title": "Munduaren gainbehera magia beltzaren obraz",
+		"author": [
+			{
+				"family": "Kraus",
+				"given": "Karl"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/UES9QWXN",
+		"type": "book",
+		"call-number": "165 JAU dem",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-339-1386-9",
+		"language": "es",
+		"number-of-pages": "280",
+		"publisher": "Anagrama",
+		"publisher-place": "Barcelona",
+		"title": "La democracia en la encrucijada",
+		"author": [
+			{
+				"family": "Jáuregui Bereciartu",
+				"given": "Gurutz"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/IZJXWRAU",
+		"type": "book",
+		"call-number": "165 IBA reg",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Madrid",
+		"ISBN": "84-323-0833-1",
+		"language": "es",
+		"number-of-pages": "194",
+		"publisher": "Siglo XXI",
+		"publisher-place": "Madrid",
+		"title": "El Regreso del sujeto: la investigación social de segundo orden",
+		"title-short": "El Regreso del sujeto",
+		"author": [
+			{
+				"family": "Ibáñez",
+				"given": "Jesús"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/K9XKSEJJ",
+		"type": "book",
+		"call-number": "165 IBA reg",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Madrid",
+		"ISBN": "84-323-0833-1",
+		"language": "es",
+		"number-of-pages": "194",
+		"publisher": "Siglo XXI",
+		"publisher-place": "Madrid",
+		"title": "El Regreso del sujeto: la investigación social de segundo orden",
+		"title-short": "El Regreso del sujeto",
+		"author": [
+			{
+				"family": "Ibáñez",
+				"given": "Jesús"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/R2JZGY3P",
+		"type": "book",
+		"abstract": "A l'heure de la remontée brutale de toutes les formes de \" nationalités \", où les nouveaux Etats partent à la recherche de leur \" sentiment national \" et où les vieux Etats nations connaissent des flambées de nationalisme, on ne peut être que reconnaissant à l'historien qui cherche à nous faire comprendre cette fin de siècle à la lumière de celle du siècle dernier. Nul n'était mieux préparé qu'Eric Hobsbawm à cette méditation savante. \" Mitteleuropéen \" de naissance, français, allemand et italien de langue et de culture, juif d'origine, marxiste de conviction et britannique de nationalité et de cœur, il s'est, comme historien, attaché à la fois aux phénomènes les plus anomiques et marginaux - les bandits et les grands révoltés - et aux courants les plus déterminants de l'ordre économique et social de l'Europe contemporaine. Qu'on ne s'attende pas ici à de nouvelles et définitives définitions d'un phénomène aussi complexe et multiforme. Eric Hobsbawm s'attache avant tout à cerner d'un regard neuf les tribulations du concept, étant entendu qu'elles ne relèvent pas du ciel des idées mais s'enracinent dans une multitude de \" nationalismes \" historiques, sociaux, locaux, où la part du mythe se noue inextricablement à celle des réalités, dans une histoire pleine de bruit, de fureur et de sang, mais dont l'apogée - c'est une des originalités du livre que de le soutenir - est peut-être déjà dépassée.",
+		"call-number": "165 HOB nat",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Paris",
+		"ISBN": "978-2-07-041652-3",
+		"language": "fr",
+		"number-of-pages": "270",
+		"publisher": "Gallimard",
+		"publisher-place": "Paris",
+		"title": "Nations et nationalisme depuis 1780: programme, mythe, réalité",
+		"title-short": "Nations et nationalisme depuis 1780",
+		"author": [
+			{
+				"family": "Hobsbawm",
+				"given": "Eric John"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1992"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/M72A4JKX",
+		"type": "book",
+		"call-number": "165 HEI nat",
+		"event-place": "Donostia",
+		"ISBN": "978-84-89772-12-0",
+		"language": "eus",
+		"number-of-pages": "157",
+		"publisher": "Gaiak",
+		"publisher-place": "Donostia",
+		"title": "Naturaren irudia gaur egungo fisikan",
+		"author": [
+			{
+				"family": "Heisenberg",
+				"given": "Werner"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1997"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/G2GKKP4I",
+		"type": "book",
+		"abstract": "Tal vez sorprenda que la imagen mas difundida del siglo xx no represente a una estrella de rock, o de Hollywood y mucho menos un hombre de negocios o un deportista de exito. Tampoco a un poeta, un pintor, o un cientifico. Ernesto Che Guevara no dirigio el destino de una potencia mundial y su imagen no fue resultado de una campana mediatica en sentido estricto, aunque podria decirse que ella es en si misma una campana con un mensaje reconocible. El Che es el hombre rebelde por excelencia pero el mismo fue ministro y banquero y dirigio juicios sumarisimos y ejecuciones. Tambien fue un icono del voluntarismo, expresion maxima (o minima, segun quiera verse) de la accion revolucionaria y eje de la construccion de una sociedad nueva.",
+		"call-number": "165 GUE soc",
+		"event-place": "La Habana",
+		"ISBN": "978-84-9953-926-3",
+		"language": "en",
+		"number-of-pages": "28",
+		"publisher": "Editora Política",
+		"publisher-place": "La Habana",
+		"title": "El socialismo y el hombre en Cuba",
+		"author": [
+			{
+				"family": "Guevara",
+				"given": "Ernesto (Che)"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1988"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/EIV8JE82",
+		"type": "book",
+		"call-number": "165 GAR tra",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Madrid",
+		"ISBN": "978-84-206-2196-8",
+		"language": "es",
+		"number-of-pages": "224",
+		"publisher": "Alianza",
+		"publisher-place": "Madrid",
+		"title": "Las transformaciones del estado contemporaneo",
+		"author": [
+			{
+				"family": "Garcia-pelayo",
+				"given": "Manuel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1992"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/M56BHS6E",
+		"type": "book",
+		"abstract": "Este cuarto volumen de la obra periodística del autor contiene dos decenios de la historia del mundo y de América Latina.",
+		"call-number": "165 GAR por",
+		"event-place": "Buenos Aires",
+		"ISBN": "978-84-397-0188-0",
+		"language": "es",
+		"number-of-pages": "356",
+		"publisher": "Sudamericana",
+		"publisher-place": "Buenos Aires",
+		"title": "Por la libre: obra periodística 4 (1974-1995)",
+		"title-short": "Por la libre",
+		"author": [
+			{
+				"family": "García Márquez",
+				"given": "Gabriel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/P3GU6UVM",
+		"type": "book",
+		"call-number": "165 GAR dem",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-16350-63-6",
+		"language": "es",
+		"number-of-pages": "267",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Democracia, estado, revolución: antología de textos políticos",
+		"title-short": "Democracia, estado, revolución",
+		"author": [
+			{
+				"family": "García Linera",
+				"given": "Álvaro"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/FS2788WR",
+		"type": "book",
+		"call-number": "165 GAB glo",
+		"event-place": "Donostia",
+		"ISBN": "978-84-9109-152-3",
+		"language": "eu",
+		"number-of-pages": "239",
+		"publisher": "Erein",
+		"publisher-place": "Donostia",
+		"title": "Globalizazioak eta erdi aro berria: diferentzien itzuleraz",
+		"title-short": "Globalizazioak eta erdi aro berria",
+		"author": [
+			{
+				"family": "Gabilondo",
+				"given": "Joseba"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/5FYIPK9P",
+		"type": "book",
+		"call-number": "165 FRE int",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-395-2171-6",
+		"language": "es",
+		"number-of-pages": "689",
+		"publisher": "Planeta-Agostini",
+		"publisher-place": "Barcelona",
+		"title": "La Interpretación de los sueños",
+		"author": [
+			{
+				"family": "Freud",
+				"given": "Sigmund"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/LWPMYUL3",
+		"type": "book",
+		"call-number": "165 FOC enf",
+		"event-place": "Barcelona",
+		"ISBN": "978-950-12-6741-9",
+		"language": "es",
+		"number-of-pages": "122",
+		"publisher": "Paidós",
+		"publisher-place": "Barcelona",
+		"title": "Enfermedad mental y personalidad",
+		"author": [
+			{
+				"family": "Foucault",
+				"given": "Michel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1984"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/NW48IP8Y",
+		"type": "book",
+		"call-number": "165 FOC pal",
+		"event-place": "Madrid",
+		"ISBN": "978-2-07-022484-5",
+		"language": "es",
+		"number-of-pages": "375",
+		"publisher": "Planeta-Agostini",
+		"publisher-place": "Madrid",
+		"title": "Las Palabras y las cosas: una arqueología de las ciencias humanas",
+		"title-short": "Las Palabras y las cosas",
+		"author": [
+			{
+				"family": "Foucault",
+				"given": "Michel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1981"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/6UVZFSDK",
+		"type": "book",
+		"call-number": "165 ETX reg",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-005-9",
+		"language": "es",
+		"number-of-pages": "210",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Regresar a Sara: testimonio de un deportado vasco",
+		"title-short": "Regresar a Sara",
+		"author": [
+			{
+				"family": "Etxegarai",
+				"given": "Alfonso"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/5B7RUVG2",
+		"type": "book",
+		"call-number": "165 ETX reg",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-005-9",
+		"language": "es",
+		"number-of-pages": "210",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Regresar a Sara: testimonio de un deportado vasco",
+		"title-short": "Regresar a Sara",
+		"author": [
+			{
+				"family": "Etxegarai",
+				"given": "Alfonso"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/U477WGGG",
+		"type": "book",
+		"call-number": "165 ENG ori",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Madrid",
+		"ISBN": "978-84-245-0096-2",
+		"language": "es",
+		"number-of-pages": "218",
+		"publisher": "Ayuso",
+		"publisher-place": "Madrid",
+		"title": "El origen de la familia, de la propiedad privada y del estado",
+		"author": [
+			{
+				"family": "Engels",
+				"given": "Friedrich"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1975"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/U7IZKWGV",
+		"type": "book",
+		"call-number": "165 ECO est",
+		"event-place": "Barcelona",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "510",
+		"publisher": "Lumen",
+		"publisher-place": "Barcelona",
+		"title": "La estructura ausente",
+		"author": [
+			{
+				"family": "Eco",
+				"given": "Umberto"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1978"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/CEWG7XL6",
+		"type": "book",
+		"call-number": "165 DEL con",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "València",
+		"ISBN": "978-84-8191-021-6",
+		"language": "es",
+		"number-of-pages": "290",
+		"publisher": "Pre-Textos",
+		"publisher-place": "València",
+		"title": "Conversaciones, 1972-1990",
+		"author": [
+			{
+				"family": "Deleuze",
+				"given": "Gilles"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/PH8Q2U3C",
+		"type": "book",
+		"call-number": "165 CHO man",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-003-5",
+		"language": "es",
+		"number-of-pages": "219",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Mantener la chusma a raya",
+		"author": [
+			{
+				"family": "Chomsky",
+				"given": "Noam"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1998"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/YGA93FJF",
+		"type": "book",
+		"call-number": "165 BRA pra",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-7279-115-2",
+		"language": "es",
+		"number-of-pages": "114",
+		"publisher": "Hogar del Libro",
+		"publisher-place": "Barcelona",
+		"title": "La praxis de la educación especial",
+		"title-short": "La praxis de la educación especial",
+		"author": [
+			{
+				"family": "Bravo",
+				"given": "Isidre"
+			},
+			{
+				"family": "Renau",
+				"given": "Dolors"
+			},
+			{
+				"family": "Julià",
+				"given": "Antoni"
+			},
+			{
+				"family": "Hernández",
+				"given": "Víctor"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1981"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/D3VYFH53",
+		"type": "book",
+		"call-number": "165\t BON apr",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-01-90192-8",
+		"language": "es",
+		"number-of-pages": "192",
+		"publisher": "Plaza & Janés",
+		"publisher-place": "Barcelona",
+		"title": "Aprender a pensar",
+		"author": [
+			{
+				"family": "Bono",
+				"given": "Edward De"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1987"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/6R9RNZLN",
+		"type": "book",
+		"call-number": "165 ARR eus",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Zarautz",
+		"ISBN": "978-84-95421-07-4",
+		"language": "es",
+		"number-of-pages": "158",
+		"publisher": "Oria",
+		"publisher-place": "Zarautz",
+		"title": "Euskadi invertebrada",
+		"author": [
+			{
+				"family": "Arregi",
+				"given": "Joseba"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/KMUXN46Y",
+		"type": "book",
+		"call-number": "165 AOI jar",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-329-6",
+		"language": "es",
+		"number-of-pages": "438",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "El jarrón roto: la transición en Navarra: una cuestión de Estado",
+		"title-short": "El jarrón roto",
+		"author": [
+			{
+				"family": "Aoiz",
+				"given": "Floren"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/Z7ZSV949",
+		"type": "book",
+		"call-number": "165 ANT man",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Bilbo",
+		"ISBN": "978-84-87567-17-9",
+		"language": "eu",
+		"number-of-pages": "204",
+		"publisher": "Bakeaz",
+		"publisher-place": "Bilbo",
+		"title": "Manifestu ekosozialista: alternatiba berde baten alde Europan",
+		"title-short": "Manifestu ekosozialista",
+		"author": [
+			{
+				"family": "Antunes",
+				"given": "Carlos"
+			},
+			{
+				"family": "Kemp",
+				"given": "Penny"
+			},
+			{
+				"family": "Stengers",
+				"given": "Isabelle"
+			},
+			{
+				"family": "Telkamper",
+				"given": "Wilfried"
+			},
+			{
+				"family": "Juquin",
+				"given": "Pierre"
+			},
+			{
+				"family": "Otto Wolf",
+				"given": "Frieder"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1992"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/MUTGTTAI",
+		"type": "book",
+		"call-number": "165 ANT man",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Madrid",
+		"ISBN": "978-84-87567-34-6",
+		"language": "es",
+		"number-of-pages": "137",
+		"publisher": "Los Libros de la Catarata",
+		"publisher-place": "Madrid",
+		"title": "Manifiesto ecosocialista",
+		"author": [
+			{
+				"family": "Antunes",
+				"given": "Carlos"
+			},
+			{
+				"family": "Juquin",
+				"given": "Pierre"
+			},
+			{
+				"family": "Kemp",
+				"given": "Penny"
+			},
+			{
+				"family": "Stengers",
+				"given": "Isabelle"
+			},
+			{
+				"family": "Telkamper",
+				"given": "Wilfred"
+			},
+			{
+				"family": "Otto Wolf",
+				"given": "Frieder"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1993"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/Z5JRQ4G6",
+		"type": "book",
+		"call-number": "165 ANT man",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Madrid",
+		"ISBN": "978-84-87567-34-6",
+		"language": "es",
+		"number-of-pages": "137",
+		"publisher": "Los Libros de la Catarata",
+		"publisher-place": "Madrid",
+		"title": "Manifiesto ecosocialista",
+		"author": [
+			{
+				"family": "Antunes",
+				"given": "Carlos"
+			},
+			{
+				"family": "Juquin",
+				"given": "Pierre"
+			},
+			{
+				"family": "Kemp",
+				"given": "Penny"
+			},
+			{
+				"family": "Stengers",
+				"given": "Isabelle"
+			},
+			{
+				"family": "Telkamper",
+				"given": "Wilfred"
+			},
+			{
+				"family": "Otto Wolf",
+				"given": "Frieder"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1993"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/5R8VEPJZ",
+		"type": "book",
+		"call-number": "165 ALL dis",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-7290-205-3",
+		"language": "es",
+		"number-of-pages": "254",
+		"publisher": "Bellaterra",
+		"publisher-place": "Barcelona",
+		"title": "Discapacitados: la reivindicación de la igualdad en la diferencia",
+		"title-short": "Discapacitados",
+		"author": [
+			{
+				"family": "Allué",
+				"given": "Marta"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2003"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/TNQ4JBZ7",
+		"type": "book",
+		"call-number": "165 AIZ eus",
+		"event-place": "Bilbo",
+		"ISBN": "978-84-8438-435-9",
+		"language": "eu",
+		"number-of-pages": "237",
+		"publisher": "Udako Euskal Unibertsitatea",
+		"publisher-place": "Bilbo",
+		"title": "Euskal Herriko pentsamenduaren gida",
+		"author": [
+			{
+				"family": "Aizpuru",
+				"given": "Alaitz"
+			},
+			{
+				"family": "Altonaga",
+				"given": "Bakarne"
+			},
+			{
+				"family": "Galletebeitia",
+				"given": "Iban"
+			},
+			{
+				"family": "Olariaga",
+				"given": "Andoni"
+			},
+			{
+				"family": "Gabilondo",
+				"given": "Joseba"
+			},
+			{
+				"family": "Azurmendi",
+				"given": "Joxe"
+			},
+			{
+				"family": "Sudupe",
+				"given": "Pako"
+			},
+			{
+				"family": "Apaolaza",
+				"given": "Unai"
+			},
+			{
+				"family": "Ezkurdia",
+				"given": "Gurutze"
+			},
+			{
+				"family": "Bilbao",
+				"given": "Begoña"
+			},
+			{
+				"family": "Perezu",
+				"given": "Karmele"
+			},
+			{
+				"family": "Atutxa",
+				"given": "Ibai"
+			},
+			{
+				"family": "Larrinaga",
+				"given": "Josu"
+			},
+			{
+				"family": "Sarasola",
+				"given": "Beñat"
+			},
+			{
+				"family": "Galfarsoro",
+				"given": "Imanol"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/U3HJWVFY",
+		"type": "book",
+		"call-number": "165 ZIZ def",
+		"event-place": "Madrid",
+		"ISBN": "978-84-95363-30-5",
+		"language": "es",
+		"note": "OCLC: 865270419",
+		"number-of-pages": "143",
+		"publisher": "Biblioteca Público",
+		"publisher-place": "Madrid",
+		"title": "En defensa de la intolerancia",
+		"author": [
+			{
+				"family": "Zizek",
+				"given": "Slavoj"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/QL83N6Y6",
+		"type": "book",
+		"call-number": "165 ZIZ bie",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-15313-15-1",
+		"language": "es",
+		"number-of-pages": "106",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "¡Bienvenidos a tiempos interesantes!",
+		"author": [
+			{
+				"family": "Žižek",
+				"given": "Slavoj"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/FG8KMI76",
+		"type": "book",
+		"call-number": "165 VOL tra",
+		"event-place": "Madrid",
+		"ISBN": "978-1-974443-69-7",
+		"language": "es",
+		"number-of-pages": "249",
+		"publisher": "Diario Público",
+		"publisher-place": "Madrid",
+		"title": "Tratado sobre la tolerancia",
+		"author": [
+			{
+				"family": "Voltaire",
+				"given": "François Marie"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/GIQ88NX8",
+		"type": "book",
+		"call-number": "165 SAS de",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Hondarribia",
+		"ISBN": "978-84-95786-96-8",
+		"language": "es",
+		"number-of-pages": "194",
+		"publisher": "Hiru",
+		"publisher-place": "Hondarribia",
+		"title": "De la posmodernidad a la neohistoria: y otras reflexiones circunstanciales",
+		"title-short": "De la posmodernidad a la neohistoria",
+		"author": [
+			{
+				"family": "Sastre",
+				"given": "Alfonso"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/6VHRIE9C",
+		"type": "book",
+		"call-number": "165 SAS man",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Hondarribia",
+		"ISBN": "978-84-95786-59-3",
+		"language": "es",
+		"number-of-pages": "174",
+		"publisher": "Hiru",
+		"publisher-place": "Hondarribia",
+		"title": "Manifiesto contra el pensamiento débil",
+		"author": [
+			{
+				"family": "Sastre",
+				"given": "Alfonso"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2003"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/TGZUEG7M",
+		"type": "book",
+		"call-number": "165 SAD fil",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-209-1",
+		"language": "eu",
+		"number-of-pages": "320",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Filosofia apaingelan",
+		"author": [
+			{
+				"family": "Sade",
+				"given": "Marquis",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/Y3B7SNJF",
+		"type": "book",
+		"call-number": "165 PON no",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-030-1",
+		"language": "es",
+		"number-of-pages": "196",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "No ser una silla: la cara oculta del mundo de grandes discapacitados",
+		"title-short": "No ser una silla",
+		"author": [
+			{
+				"family": "Pónga",
+				"given": "Armando",
+				"dropping-particle": "de"
+			},
+			{
+				"family": "Egea",
+				"given": "Pedro"
+			},
+			{
+				"family": "Navarro",
+				"given": "Conchita"
+			},
+			{
+				"family": "Ochandorena",
+				"given": "Juan"
+			},
+			{
+				"family": "Recalde",
+				"given": "Carlos"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/R45NEXNN",
+		"type": "book",
+		"call-number": "165 NIE mas",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-7530-393-2",
+		"language": "es",
+		"number-of-pages": "287",
+		"publisher": "Ediciones Orbis",
+		"publisher-place": "Barcelona",
+		"title": "Más allá del bien y del mal",
+		"author": [
+			{
+				"family": "Nietzsche",
+				"given": "Friedrich"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1983"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/PXNFJJTR",
+		"type": "book",
+		"call-number": "165 MON ide",
+		"event-place": "La Habana",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "620",
+		"number-of-volumes": "2",
+		"publisher": "Casa de las Américas",
+		"publisher-place": "La Habana",
+		"title": "Las Ideas en la América Latina: una antología del pensamiento filosófico, político y social",
+		"volume": "2",
+		"author": [
+			{
+				"family": "Monal",
+				"given": "Isabel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1985"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/VXUAWXSJ",
+		"type": "book",
+		"call-number": "165 MON ide",
+		"event-place": "La Habana",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "255",
+		"number-of-volumes": "2",
+		"publisher": "Casa de las Américas",
+		"publisher-place": "La Habana",
+		"title": "Las Ideas en la América Latina: una antología del pensamiento filosófico, político y social",
+		"title-short": "Las Ideas en la América Latina",
+		"volume": "1",
+		"author": [
+			{
+				"family": "Monal",
+				"given": "Isabel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1985"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/M4JN9IW3",
+		"type": "book",
+		"call-number": "165 MAR fet",
+		"event-place": "Logroño",
+		"ISBN": "978-84-15862-15-4",
+		"language": "es",
+		"number-of-pages": "85",
+		"publisher": "Pepitas de Calabaza",
+		"publisher-place": "Logroño",
+		"title": "El fetichismo de la mercancía (y su secreto)",
+		"author": [
+			{
+				"family": "Marx",
+				"given": "Karl"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/FW9CVHLU",
+		"type": "book",
+		"call-number": "165 MAR otr",
+		"event-place": "La Habana",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "288",
+		"publisher": "Centro de Estudios Martianos",
+		"publisher-place": "La Habana",
+		"title": "Otras crónicas de Nueva York",
+		"author": [
+			{
+				"family": "Martí",
+				"given": "José"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1983"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/TY3FGVTH",
+		"type": "book",
+		"call-number": "165 MAR sie",
+		"event-place": "La Habana",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "326",
+		"publisher": "Casa de las Américas",
+		"publisher-place": "La Habana",
+		"title": "Siete ensayos de interpretacion de la realidad peruana",
+		"author": [
+			{
+				"family": "Mariátegui",
+				"given": "José Carlos"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1975"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/IUIEYZLQ",
+		"type": "book",
+		"call-number": "165 MAC pri",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Medellín, Colombia",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "210",
+		"publisher": "Edilux Ediciones",
+		"publisher-place": "Medellín, Colombia",
+		"title": "El príncipe",
+		"author": [
+			{
+				"family": "Machiavelli",
+				"given": "Niccolò"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1989"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/KYNRGJSC",
+		"type": "book",
+		"call-number": "165 LAR peg",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-86597-35-1",
+		"language": "es",
+		"number-of-pages": "254",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Pega, pero escucha",
+		"author": [
+			{
+				"family": "Larrainzar",
+				"given": "Patxi"
+			},
+			{
+				"family": "Larrainzar",
+				"given": "Patxi"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1991"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/GETUFZTZ",
+		"type": "book",
+		"call-number": "165 RIC nau",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Hondarribia",
+		"ISBN": "978-84-96584-32-7",
+		"language": "es",
+		"number-of-pages": "173",
+		"publisher": "Hiru",
+		"publisher-place": "Hondarribia",
+		"title": "El naufragio del hombre",
+		"author": [
+			{
+				"family": "Alba Rico",
+				"given": "Santiago"
+			},
+			{
+				"family": "Liria",
+				"given": "Carlos Fernández"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	}
+]

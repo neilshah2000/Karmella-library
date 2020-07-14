@@ -1,0 +1,256 @@
+[
+	{
+		"id": "http://zotero.org/groups/2204707/items/VWG4WVV4",
+		"type": "book",
+		"call-number": "321.6 LEZ igl",
+		"event-place": "Donostia",
+		"ISBN": "978-84-89077-57-7",
+		"language": "es",
+		"number-of-pages": "151",
+		"publisher": "Egin",
+		"publisher-place": "Donostia",
+		"title": "La Iglesia en Euskal Herria",
+		"author": [
+			{
+				"family": "Lezaun",
+				"given": "Jesús"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/T58LYGLX",
+		"type": "book",
+		"call-number": "321.6 EGA cri",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-559-7",
+		"language": "es",
+		"number-of-pages": "512",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Los crímenes de Franco en Euskal Herria, 1936-1940",
+		"author": [
+			{
+				"family": "Egaña",
+				"given": "Iñaki"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/WCBNZN37",
+		"type": "book",
+		"call-number": "321.6 BOW int",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Madrid",
+		"ISBN": "978-84-206-8127-6",
+		"language": "es",
+		"number-of-pages": "294",
+		"publisher": "Alianza",
+		"publisher-place": "Madrid",
+		"title": "Introducción a la economía: competencia, autoritarismo y cambio en las economías capitalistas",
+		"title-short": "Introducción a la economía",
+		"author": [
+			{
+				"family": "Bowles",
+				"given": "Samuel"
+			},
+			{
+				"family": "Edwards",
+				"given": "Richard"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1990"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/ZPNEII5U",
+		"type": "book",
+		"call-number": "321.6 BON dia",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-285-5",
+		"language": "es",
+		"number-of-pages": "280",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Diario de un clandestino",
+		"author": [
+			{
+				"family": "Bonasso",
+				"given": "Miguel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2003"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/ALLU38JR",
+		"type": "book",
+		"call-number": "321.6 AMU zam",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-15313-09-0",
+		"language": "eu",
+		"number-of-pages": "405",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Zamorako apaiz-kartzela: eliza eta estatuaren presondegia (1968-1976)",
+		"author": [
+			{
+				"family": "Amuriza",
+				"given": "Xabier"
+			},
+			{
+				"family": "Arregi",
+				"given": "Juan Mari"
+			},
+			{
+				"family": "Aurtenetxe",
+				"given": "Iñaki"
+			},
+			{
+				"family": "Berriategortua",
+				"given": "Periko"
+			},
+			{
+				"family": "Bilbao",
+				"given": "Patxi"
+			},
+			{
+				"family": "Couce",
+				"given": "Vicente"
+			},
+			{
+				"family": "Dorronsoro",
+				"given": "Lukax"
+			},
+			{
+				"family": "Elustondo",
+				"given": "Miel"
+			},
+			{
+				"family": "Etxabe",
+				"given": "Jon"
+			},
+			{
+				"family": "Fornes",
+				"given": "Eduard"
+			},
+			{
+				"family": "Gabikagojeaskoa",
+				"given": "Alberto"
+			},
+			{
+				"family": "Gamo",
+				"given": "Mariano"
+			},
+			{
+				"family": "Garcia Salve",
+				"given": "Paco"
+			},
+			{
+				"family": "Izagirre",
+				"given": "Felipe"
+			},
+			{
+				"family": "Kalzada",
+				"given": "Julen"
+			},
+			{
+				"family": "Muñoz",
+				"given": "Pablo"
+			},
+			{
+				"family": "Naberan",
+				"given": "Josu"
+			},
+			{
+				"family": "Placer",
+				"given": "Felix"
+			},
+			{
+				"family": "Orbe",
+				"given": "Martin"
+			},
+			{
+				"family": "Solabarria",
+				"given": "Periko"
+			},
+			{
+				"family": "Oruemazaga",
+				"given": "Imanol"
+			},
+			{
+				"family": "Ubieta",
+				"given": "Jose Angel"
+			},
+			{
+				"family": "Zelaieta",
+				"given": "Angel"
+			},
+			{
+				"family": "Zuazabeitia",
+				"given": "Mikel"
+			},
+			{
+				"family": "Zulaika",
+				"given": "Juan Mari"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/LE45PBT2",
+		"type": "book",
+		"call-number": "321.6 VAS cla",
+		"event-place": "La Habana",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "128",
+		"publisher": "Centro de Estudios sobre América",
+		"publisher-place": "La Habana",
+		"title": "Clases dominantes y aparato estatal: estudios sobre América del Sur",
+		"author": [
+			{
+				"family": "Vasconi",
+				"given": "Tomás Amadeo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1989"
+				]
+			]
+		}
+	}
+]

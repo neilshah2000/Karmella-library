@@ -7,6 +7,7 @@ from rest_framework_bulk.routes import BulkRouter
 router = BulkRouter()
 router.register(r'books', views.BookViewSet)
 router.register(r'authors', views.AuthorViewSet)
+router.register(r'shelves', views.ShelfViewSet)
 
 urlpatterns = [
     path('', views.index, name='index'),

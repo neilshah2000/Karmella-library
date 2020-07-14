@@ -1,0 +1,4313 @@
+[
+	{
+		"id": "http://zotero.org/groups/2204707/items/PTKAQDIT",
+		"type": "book",
+		"call-number": "82-32 ZUB bih",
+		"event-place": "Donostia",
+		"ISBN": "978-84-7917-529-0",
+		"language": "eu",
+		"number-of-pages": "59",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Bihotzerre",
+		"author": [
+			{
+				"family": "Zubizarreta",
+				"given": "Patxi"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/IZUPRGRZ",
+		"type": "book",
+		"call-number": "82-32 ZAR biz",
+		"event-place": "Bilbao",
+		"language": "eus",
+		"note": "OCLC: 28782733",
+		"number-of-pages": "301",
+		"publisher": "Eguiluz",
+		"publisher-place": "Bilbao",
+		"title": "Bizkaiko euskal-idazleak",
+		"author": [
+			{
+				"family": "Zarate",
+				"given": "Mikel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1970"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/Q2LDLA9W",
+		"type": "book",
+		"call-number": "82-32 ZAL sek",
+		"event-place": "Donosti",
+		"ISBN": "978-84-9027-842-0",
+		"language": "eus",
+		"note": "OCLC: 1083179901",
+		"number-of-pages": "207",
+		"publisher": "Elkar",
+		"publisher-place": "Donosti",
+		"title": "Sekula kontatu behar ez nizkizun gauzak",
+		"author": [
+			{
+				"family": "Zaldua",
+				"given": "Iban"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/MH6AS3UG",
+		"type": "book",
+		"call-number": "82-32 ZAL ino",
+		"event-place": "Donostia",
+		"ISBN": "978-84-9027-230-5",
+		"language": "eus",
+		"note": "OCLC: 890268982",
+		"number-of-pages": "292",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Inon ez, inoiz ez",
+		"author": [
+			{
+				"family": "Zaldua",
+				"given": "Iban"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/C2BMWFV7",
+		"type": "book",
+		"call-number": "82-32 ZAB sek",
+		"event-place": "Donostia",
+		"ISBN": "978-84-7917-614-3",
+		"language": "eu",
+		"number-of-pages": "60",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Sekula beteko",
+		"author": [
+			{
+				"family": "Zabaleta",
+				"given": "Pello"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/9NJ32MAE",
+		"type": "book",
+		"call-number": "82-32 ZAB gau",
+		"event-place": "Tafalla",
+		"ISBN": "---",
+		"language": "eu",
+		"number-of-pages": "64",
+		"publisher": "Altaffaylla Kultur Taldea",
+		"publisher-place": "Tafalla",
+		"title": "\"Gauerdiko Teila\": araudia",
+		"author": [
+			{
+				"family": "Zabaleta",
+				"given": "Patxi"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1987"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/IBD6FGYZ",
+		"type": "book",
+		"call-number": "82-32 ZAB har",
+		"event-place": "Irun",
+		"ISBN": "978-84-9868-244-1",
+		"language": "eus",
+		"number-of-pages": "235",
+		"publisher": "Alberdania",
+		"publisher-place": "Irun",
+		"title": "Harkaitzaren magalean 2008-2009",
+		"author": [
+			{
+				"family": "Zabala",
+				"given": "Pello"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/8KM7EDL3",
+		"type": "book",
+		"call-number": "82-32 YOU eki",
+		"event-place": "Euba",
+		"ISBN": "978-84-7992-983-1",
+		"language": "eu",
+		"number-of-pages": "159",
+		"publisher": "Ibaizabal",
+		"publisher-place": "Euba",
+		"title": "Ekialdeko kontakizunak",
+		"author": [
+			{
+				"family": "Yourcenar",
+				"given": "Marguerite"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1997"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/GJZC26IT",
+		"type": "book",
+		"call-number": "82-32 YAN hab",
+		"event-place": "Tafalla",
+		"language": "es",
+		"number-of-pages": "124",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Habaneras. Diez narradoras cubanas",
+		"author": [
+			{
+				"family": "Yáñez",
+				"given": "Mirta"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/SJWHWUEA",
+		"type": "book",
+		"call-number": "82-32 WIL pri",
+		"event-place": "Donostia",
+		"language": "eu",
+		"number-of-pages": "118",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Printze Zoriontsua Eta Beste Ipuin Batzuk",
+		"author": [
+			{
+				"family": "Wilde",
+				"given": "Oscar"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1987"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/2D9XSPJW",
+		"type": "book",
+		"call-number": "82-32 WAN bue",
+		"event-place": "Madrid",
+		"ISBN": "978-84-16544-31-8",
+		"language": "es",
+		"number-of-pages": "342",
+		"publisher": "Errata Naturae",
+		"publisher-place": "Madrid",
+		"title": "Buenos días, guapa",
+		"author": [
+			{
+				"family": "Wander",
+				"given": "Maxie"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/M8XTSFD8",
+		"type": "book",
+		"call-number": "82-32 WAL ura",
+		"event-place": "Donostia",
+		"ISBN": "978-84-697-3119-2",
+		"language": "eu",
+		"number-of-pages": "18",
+		"publisher": "Tabakalera, Kultura Garaikidearen Nazioarteko Zentroa",
+		"publisher-place": "Donostia",
+		"title": "Hau ura da",
+		"title-short": "Hau ura da",
+		"author": [
+			{
+				"family": "Wallace",
+				"given": "David Foster"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/UZR5ZJQC",
+		"type": "book",
+		"call-number": "82-32 BAÑ rel",
+		"event-place": "Bilbo",
+		"ISBN": "978-84-8216-015-3",
+		"language": "es",
+		"number-of-pages": "301",
+		"publisher": "Sua",
+		"publisher-place": "Bilbo",
+		"title": "Relatos de mujeres viajeras",
+		"author": [
+			{
+				"family": "Bañon Castellón",
+				"given": "Lola"
+			},
+			{
+				"literal": "et al."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/UDIEP355",
+		"type": "book",
+		"call-number": "82-32 BAK art",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-090-5",
+		"language": "es",
+		"number-of-pages": "182",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Las artimañas de los hombres y otras historias",
+		"author": [
+			{
+				"family": "Bakr",
+				"given": "Salwa"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1998"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/VF38XVE4",
+		"type": "book",
+		"call-number": "82-32 BAK art",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-090-5",
+		"language": "es",
+		"number-of-pages": "182",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Las artimañas de los hombres y otras historias",
+		"author": [
+			{
+				"family": "Bakr",
+				"given": "Salwa"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1998"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/5PE2SYJH",
+		"type": "book",
+		"call-number": "82-32 AZK cue",
+		"event-place": "San Sebastian",
+		"ISBN": "978-84-89077-22-5",
+		"language": "es",
+		"number-of-pages": "188",
+		"publisher": "Egin",
+		"publisher-place": "San Sebastian",
+		"title": "Cuentos y leyendas",
+		"editor": [
+			{
+				"family": "Azkue",
+				"given": "Resurrección María",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/2IBFWPGJ",
+		"type": "book",
+		"call-number": "82-32 AZK cue",
+		"event-place": "San Sebastian",
+		"ISBN": "978-84-89077-22-5",
+		"language": "es",
+		"number-of-pages": "188",
+		"publisher": "Egin",
+		"publisher-place": "San Sebastian",
+		"title": "Cuentos y leyendas",
+		"editor": [
+			{
+				"family": "Azkue",
+				"given": "Resurrección María",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/3VISFJE8",
+		"type": "book",
+		"call-number": "82-32 AZK cue",
+		"event-place": "Donostia",
+		"ISBN": "84-89077-22-3",
+		"language": "es",
+		"number-of-pages": "188",
+		"publisher": "Egin",
+		"publisher-place": "Donostia",
+		"title": "Cuentos y leyendas",
+		"author": [
+			{
+				"family": "Azkue",
+				"given": "Resurrección María"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/GYRA32HG",
+		"type": "book",
+		"call-number": "82-32 ATX men",
+		"event-place": "Donostia",
+		"ISBN": "978-84-9746-243-3",
+		"language": "eu",
+		"number-of-pages": "172",
+		"publisher": "Erein",
+		"publisher-place": "Donostia",
+		"title": "Mende berrirako ipuinak: antologia",
+		"title-short": "Mende berrirako ipuinak",
+		"editor": [
+			{
+				"family": "Olaziregi",
+				"given": "Mari Jose"
+			}
+		],
+		"author": [
+			{
+				"family": "Atxaga",
+				"given": "Bernardo"
+			},
+			{
+				"family": "Cano",
+				"given": "Harkaitz"
+			},
+			{
+				"family": "Cillero",
+				"given": "Javi"
+			},
+			{
+				"family": "Garzia",
+				"given": "Juan"
+			},
+			{
+				"family": "Iturbe",
+				"given": "Arantxa"
+			},
+			{
+				"family": "Lertxundi",
+				"given": "Anjel"
+			},
+			{
+				"family": "Linazasoro",
+				"given": "Karlos"
+			},
+			{
+				"family": "Lizarralde",
+				"given": "Pello"
+			},
+			{
+				"family": "Montoia",
+				"given": "Xabier"
+			},
+			{
+				"family": "Mujika",
+				"given": "Inazio"
+			},
+			{
+				"family": "Oñederra",
+				"given": "Lourdes"
+			},
+			{
+				"family": "Rozas",
+				"given": "Ixiar"
+			},
+			{
+				"family": "Sarrionandia",
+				"given": "Joseba"
+			},
+			{
+				"family": "Zaldua",
+				"given": "Iban"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/42M767PQ",
+		"type": "book",
+		"call-number": "82-32 ATX hen",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Donostia",
+		"ISBN": "84-89077-12-6",
+		"language": "eu/es",
+		"number-of-pages": "93",
+		"publisher": "Egin",
+		"publisher-place": "Donostia",
+		"title": "Henry Bengoa Inventarium: Alfabeto sobre la cultura vasca",
+		"author": [
+			{
+				"family": "Atxaga",
+				"given": "Bernardo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/ENVSXNTP",
+		"type": "book",
+		"call-number": "82-32 ATX hen",
+		"event-place": "Donostia",
+		"ISBN": "84-89077-12-6",
+		"language": "eu/es",
+		"number-of-pages": "93",
+		"publisher": "Egin",
+		"publisher-place": "Donostia",
+		"title": "Henry Bengoa Inventarium: Alfabeto sobre la cultura vasca",
+		"author": [
+			{
+				"family": "Atxaga",
+				"given": "Bernardo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/I4R2LVU7",
+		"type": "book",
+		"call-number": "82-32 ATX hen",
+		"event-place": "Donostia",
+		"ISBN": "84-89077-12-6",
+		"language": "eu/es",
+		"number-of-pages": "93",
+		"publisher": "Egin",
+		"publisher-place": "Donostia",
+		"title": "Henry Bengoa Inventarium: Alfabeto sobre la cultura vasca",
+		"author": [
+			{
+				"family": "Atxaga",
+				"given": "Bernardo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/ZWZ2SUXF",
+		"type": "book",
+		"call-number": "82-32 ATX est",
+		"event-place": "Donostia",
+		"ISBN": "978-84-7568-519-9",
+		"language": "eu",
+		"number-of-pages": "70",
+		"publisher": "Erein",
+		"publisher-place": "Donostia",
+		"title": "Esteban Werfell",
+		"author": [
+			{
+				"family": "Atxaga",
+				"given": "Bernardo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/GJZG7VKB",
+		"type": "book",
+		"call-number": "82-32 ASI cue",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-406-3153-4",
+		"language": "es",
+		"number-of-pages": "700",
+		"number-of-volumes": "2",
+		"publisher": "Ediciones B",
+		"publisher-place": "Barcelona",
+		"title": "Cuentos completos",
+		"volume": "1",
+		"author": [
+			{
+				"family": "Asimov",
+				"given": "Isaac"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1992"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/SY6SCVP2",
+		"type": "book",
+		"call-number": "82-32 ARR lab",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-073-8",
+		"language": "eu",
+		"number-of-pages": "384",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Labur aroz",
+		"author": [
+			{
+				"family": "Arrieta",
+				"given": "Joxe Austin"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1997"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/MNPKWNK6",
+		"type": "book",
+		"call-number": "82-32 ARR zaz",
+		"event-place": "Donostia",
+		"ISBN": "978-84-8331-696-2",
+		"language": "eu",
+		"number-of-pages": "130",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Zazpi kolore",
+		"author": [
+			{
+				"family": "Arretxe",
+				"given": "Jon"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/CT29ISQ6",
+		"type": "book",
+		"call-number": "82-32 ARR sex",
+		"event-place": "Madrid",
+		"ISBN": "978-84-414-1880-6",
+		"language": "es",
+		"number-of-pages": "173",
+		"publisher": "Edaf",
+		"publisher-place": "Madrid",
+		"title": "Sexo, colores y cianuro: (Relatos)",
+		"author": [
+			{
+				"family": "Arranz",
+				"given": "Conrado"
+			},
+			{
+				"family": "Hirota",
+				"given": "Twiggy"
+			},
+			{
+				"family": "Paz",
+				"given": "Mateo",
+				"dropping-particle": "de"
+			},
+			{
+				"family": "Urgull",
+				"given": "David"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/YZAUR67Y",
+		"type": "book",
+		"call-number": "82-32 ANT bak",
+		"event-place": "Donostia",
+		"ISBN": "978-84-936917-6-9",
+		"language": "eu",
+		"number-of-pages": "207",
+		"publisher": "Ataramiñe",
+		"publisher-place": "Donostia",
+		"title": "Bakarmortuko kronikak: idatzi nahi ez nituenak",
+		"title-short": "Bakarmortuko kronikak",
+		"author": [
+			{
+				"family": "Antza",
+				"given": "Mikel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/JV5E7XUS",
+		"type": "book",
+		"call-number": "82-32 ANO MIL",
+		"event-place": "Barcelona",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "598",
+		"publisher": "Círculo de Lectores",
+		"publisher-place": "Barcelona",
+		"title": "Las mil y una noches (Selección)",
+		"author": [
+			{
+				"literal": "Anonimoa"
+			}
+		],
+		"editor": [
+			{
+				"family": "Palau",
+				"given": "Enrique"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1969"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/4BNJWAE4",
+		"type": "book",
+		"call-number": "82-32 AMU oin",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-85479-16-0",
+		"language": "eus",
+		"note": "OCLC: 971634775",
+		"number-of-pages": "179",
+		"publisher": "Euskaltzandia",
+		"publisher-place": "Bilbao",
+		"title": "Oinak: ikaslegin izenaz argitaratuak",
+		"author": [
+			{
+				"family": "Amuriza",
+				"given": "Xabier"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1990"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/RNEPWI4E",
+		"type": "book",
+		"call-number": "82-32 ALM his",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-294-7",
+		"language": "es",
+		"number-of-pages": "200",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Historias de dentro de casa",
+		"author": [
+			{
+				"family": "Almeida",
+				"given": "Germano"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2003"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/3SIYRCCM",
+		"type": "book",
+		"call-number": "82-32 ALM mon",
+		"event-place": "Donosti",
+		"ISBN": "978-84-397-3452-9",
+		"language": "es",
+		"note": "OCLC: 1034020529",
+		"number-of-pages": "93",
+		"publisher": "Random House Mondadori",
+		"publisher-place": "Donosti",
+		"title": "El mono en el remolino notas del rodaje de Zama de Lucrecia Martel",
+		"author": [
+			{
+				"family": "Almada",
+				"given": "Selva"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/INLJTDEV",
+		"type": "book",
+		"call-number": "82-32 AGI 201",
+		"event-place": "Donostia",
+		"ISBN": "978-84-9109-214-8",
+		"language": "eus",
+		"number-of-pages": "107",
+		"publisher": "Erein",
+		"publisher-place": "Donostia",
+		"title": "2015eko eta 2016ko Gabriel Aresti Sariak: XXXII-XXXIII, Bilbao hiria ipuin lehiaketa",
+		"author": [
+			{
+				"family": "Agirre",
+				"given": "Katixa"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/4P43WVJ9",
+		"type": "book",
+		"call-number": "82-32 AGI ipu",
+		"event-place": "Bilbao",
+		"ISBN": "BI-1662-97",
+		"language": "eu",
+		"number-of-pages": "78",
+		"publisher": "Eguzki-Zaleak",
+		"publisher-place": "Bilbao",
+		"title": "Ipuin berdeak",
+		"author": [
+			{
+				"family": "Agirre",
+				"given": "Joxean"
+			},
+			{
+				"family": "Amestoy",
+				"given": "Koldo"
+			},
+			{
+				"family": "Aristi",
+				"given": "Pako"
+			},
+			{
+				"family": "Borda",
+				"given": "Itxaro"
+			},
+			{
+				"family": "Cano",
+				"given": "Harkaitz"
+			},
+			{
+				"family": "Elexpuru",
+				"given": "Juan Martin"
+			},
+			{
+				"family": "Ezkiaga",
+				"given": "Ezkiaga"
+			},
+			{
+				"family": "Lasa",
+				"given": "Amaia"
+			},
+			{
+				"family": "Lazkano",
+				"given": "Maite"
+			},
+			{
+				"family": "Zabala",
+				"given": "Juan Luis"
+			},
+			{
+				"family": "Zabaleta",
+				"given": "Patxi"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1997"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/7BX5C6JJ",
+		"type": "book",
+		"call-number": "82-32 ABA rel",
+		"event-place": "Madrid",
+		"ISBN": "978-84-7039-578-9",
+		"language": "es",
+		"number-of-pages": "146",
+		"publisher": "Castalia: Instituto de la Mujer",
+		"publisher-place": "Madrid",
+		"title": "Relatos eróticos",
+		"author": [
+			{
+				"family": "Abad",
+				"given": "Mercedes"
+			},
+			{
+				"family": "Constante",
+				"given": "susana"
+			},
+			{
+				"family": "Sías Mas",
+				"given": "Paloma"
+			},
+			{
+				"family": "Mayoral",
+				"given": "Paloma"
+			},
+			{
+				"family": "Ortiz",
+				"given": "Lourdes"
+			},
+			{
+				"family": "Rosetti",
+				"given": "Ana"
+			},
+			{
+				"family": "Tusquets",
+				"given": "Esther"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1990"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/D63QWGW3",
+		"type": "book",
+		"call-number": "82-32 JIM hem",
+		"event-place": "Donostia",
+		"ISBN": "978-84-7917-528-3",
+		"language": "eu",
+		"number-of-pages": "62",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Hemen datzana da",
+		"author": [
+			{
+				"family": "Jimenez",
+				"given": "Edorta"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/QFGSDDUU",
+		"type": "book",
+		"call-number": "82-32 IZA fra",
+		"event-place": "Zarautz",
+		"ISBN": "978-84-92468-91-1",
+		"language": "eus",
+		"note": "OCLC: 989153977",
+		"number-of-pages": "247",
+		"publisher": "Susa",
+		"publisher-place": "Zarautz",
+		"title": "Franco hil zuten egunak: eta Basques' harbour-eko beste kontu asko",
+		"author": [
+			{
+				"family": "Izagirre",
+				"given": "Koldo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/U4L9LH48",
+		"type": "book",
+		"call-number": "82-32 ITU koa",
+		"event-place": "Donostia",
+		"ISBN": "978-84-9027-688-4",
+		"language": "eus",
+		"note": "OCLC: 1034979334",
+		"number-of-pages": "81",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Koadernoa zuri",
+		"author": [
+			{
+				"family": "Iturbe",
+				"given": "Arantxa"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/VMG27E7W",
+		"type": "book",
+		"call-number": "82-32 HUX env",
+		"event-place": "Barcelona",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "159",
+		"publisher": "Editiones G.P.",
+		"publisher-place": "Barcelona",
+		"title": "La envoltura humana",
+		"author": [
+			{
+				"family": "Huxley",
+				"given": "Aldous"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1961"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/XJ6L7Y5Y",
+		"type": "book",
+		"call-number": "82-32 HIT rel",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-8238-161-9",
+		"language": "es",
+		"number-of-pages": "553",
+		"publisher": "Círculo de Lectores",
+		"publisher-place": "Barcelona",
+		"title": "Relatos que me asustaron",
+		"author": [
+			{
+				"family": "Hitchcock",
+				"given": "Alfred"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1988"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/B2NAUYT2",
+		"type": "book",
+		"call-number": "82-32 HER hor",
+		"event-place": "Madrid",
+		"ISBN": "978-84-414-2013-7",
+		"language": "es",
+		"number-of-pages": "145",
+		"publisher": "Edaf",
+		"publisher-place": "Madrid",
+		"title": "Hormigas y huesos : (microrrelatos)",
+		"author": [
+			{
+				"family": "Herrero",
+				"given": "Leandro"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/FAZSBEPM",
+		"type": "book",
+		"call-number": "82-32 HAR des",
+		"event-place": "Donostia",
+		"ISBN": "978-84-7407-038-5",
+		"language": "eu",
+		"number-of-pages": "64",
+		"publisher": "Kriselu",
+		"publisher-place": "Donostia",
+		"title": "Desgizona",
+		"author": [
+			{
+				"family": "Haranburu Altuna",
+				"given": "Luis"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1977"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/4UBKM8D3",
+		"type": "book",
+		"call-number": "82-32 HAL ait",
+		"event-place": "Irun",
+		"ISBN": "978-84-9868-325-7",
+		"language": "eus",
+		"number-of-pages": "157",
+		"publisher": "Alberdania",
+		"publisher-place": "Irun",
+		"title": "Aitaren pitokeriak",
+		"author": [
+			{
+				"family": "Halpern",
+				"given": "Justin"
+			},
+			{
+				"family": "Alberdi",
+				"given": "Uxue"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/B3SN9USW",
+		"type": "book",
+		"call-number": "82-32 GOR ipu",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-86833-16-9",
+		"language": "eu",
+		"number-of-pages": "118",
+		"publisher": "Labayru",
+		"publisher-place": "Bilbao",
+		"title": "Ipuin arinak",
+		"author": [
+			{
+				"family": "Gorostiza",
+				"given": "Jabier"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1989"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/TGU6T624",
+		"type": "book",
+		"call-number": "82-32 GIB pro",
+		"event-place": "Buenos Aires",
+		"ISBN": "978-84-286-0228-0",
+		"language": "es",
+		"number-of-pages": "132",
+		"publisher": "Pomaire",
+		"publisher-place": "Buenos Aires",
+		"title": "El profeta",
+		"author": [
+			{
+				"family": "Gibran",
+				"given": "Kahlil"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1977"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/ITY2DQYL",
+		"type": "book",
+		"call-number": "82-32 GAR inc",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-01-24228-1",
+		"language": "es",
+		"number-of-pages": "158",
+		"publisher": "Plaza & Janés",
+		"publisher-place": "Barcelona",
+		"title": "La increíble y triste historia de la cándida Eréndira y de su abuela desalmada",
+		"author": [
+			{
+				"family": "García Márquez",
+				"given": "Gabriel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/V5P9N2TV",
+		"type": "book",
+		"abstract": "En el prólogo, García Márquez nos regala su explicación de por qué son doce, por qué cuentos y por qué peregrinos.",
+		"call-number": "82-32 GAR doc",
+		"event-place": "Madrid",
+		"ISBN": "978-84-397-1840-6",
+		"language": "es",
+		"number-of-pages": "256",
+		"publisher": "Mondadori",
+		"publisher-place": "Madrid",
+		"title": "Doce cuentos peregrinos",
+		"author": [
+			{
+				"family": "García Márquez",
+				"given": "Gabriel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1992"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/FYJ396R9",
+		"type": "book",
+		"abstract": "Galeano recopiló en 1989 sus artículos publicados hasta ese año. Reúne aquí los publicados hasta 1993. La pluma buida del gran periodista uruguayo resalta de nuevo con su conocida agudeza directa. Es difícil escoger entre estos artículos excelentes. A destacar: íEl desprecio como destinoî, sobre el ífin de la historiaî de Fukuyama; íA pesar de los pesaresî sobre Cuba; y su discurso ante la Asociación de Libreros de Estados Unidos en Los ¡ngeles.",
+		"call-number": "82-32 GAL serc",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Madrid",
+		"ISBN": "978-987-629-139-2",
+		"language": "es",
+		"number-of-pages": "146",
+		"publisher": "Siglo XXI",
+		"publisher-place": "Madrid",
+		"title": "Ser como ellos y otros artículos",
+		"author": [
+			{
+				"family": "Galeano",
+				"given": "Eduardo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1997"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/5YS4NT27",
+		"type": "book",
+		"call-number": "82-32 FER mai",
+		"event-place": "Donostia",
+		"ISBN": "978-84-9783-680-7",
+		"language": "eus",
+		"note": "OCLC: 733654189",
+		"number-of-pages": "162",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Maitasuna da geratzen den bakarra",
+		"author": [
+			{
+				"family": "Fernández Paz",
+				"given": "Agustín"
+			},
+			{
+				"family": "Auladell",
+				"given": "Pablo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/94MCNVGB",
+		"type": "book",
+		"call-number": "82-32 FER kon",
+		"event-place": "Donostia",
+		"ISBN": "978-84-7917-613-6",
+		"language": "eu",
+		"number-of-pages": "59",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Kontaktua",
+		"author": [
+			{
+				"family": "Fernández Ostolaza",
+				"given": "Luis"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/BB6TP6DY",
+		"type": "book",
+		"call-number": "82-32 FER cue",
+		"event-place": "Bilbao",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "163",
+		"publisher": "Colectivo",
+		"publisher-place": "Bilbao",
+		"title": "Cuentos incombustibles",
+		"author": [
+			{
+				"family": "Fernández de Retana Lobo",
+				"given": "Juan Jesús"
+			},
+			{
+				"literal": "et al."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1981"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/2JTYW6GG",
+		"type": "book",
+		"call-number": "82-32 EZK ize",
+		"event-place": "Donostia",
+		"ISBN": "978-84-7917-639-6",
+		"language": "eu",
+		"number-of-pages": "52",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Izeba Maripi",
+		"author": [
+			{
+				"family": "Ezkiaga Lasa",
+				"given": "Patxi"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/RN6A7LLC",
+		"type": "book",
+		"call-number": "82-32 ETX ala",
+		"event-place": "Donostia",
+		"ISBN": "978-84-7917-530-6",
+		"language": "eu",
+		"number-of-pages": "60",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Alajaineta",
+		"author": [
+			{
+				"family": "Etxeberria",
+				"given": "Hasier"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/KRTEK4M5",
+		"type": "book",
+		"call-number": "82-32 DIA ema",
+		"event-place": "Bilbao",
+		"ISBN": "---",
+		"language": "eu/es",
+		"number-of-pages": "149",
+		"publisher": "Servicio Municipal de la Mujer, Ayuntamiento de Bilbao",
+		"publisher-place": "Bilbao",
+		"title": "Emakumeak kontari = Relatos de mujer",
+		"author": [
+			{
+				"family": "Díaz de Durana",
+				"given": "Amaia"
+			},
+			{
+				"literal": "Emakumeak Kontari Lehiaketa"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/HHK3WF93",
+		"type": "book",
+		"call-number": "82-32 CRI rel",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-89979-69-7",
+		"language": "es",
+		"number-of-pages": "92",
+		"publisher": "Roger",
+		"publisher-place": "Bilbao",
+		"title": "Relatos para leer con una mano",
+		"author": [
+			{
+				"family": "Cristóbal",
+				"given": "Pilar"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/RTG4JF8E",
+		"type": "book",
+		"abstract": "A lo largo de estas breves crónicas, verdaderas perlas narrativas, nos ofrece un viaje por las múltiples caras de la realidad, ese día a día que no tiene sitio en los informes ofiaciales y en las noticias de prensa.",
+		"call-number": "82-32 COU cro",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-013-4",
+		"language": "es",
+		"number-of-pages": "198",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Cronicando",
+		"author": [
+			{
+				"family": "Couto",
+				"given": "Mia"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/UD83RC7U",
+		"type": "book",
+		"abstract": "A lo largo de estas breves crónicas, verdaderas perlas narrativas, nos ofrece un viaje por las múltiples caras de la realidad, ese día a día que no tiene sitio en los informes ofiaciales y en las noticias de prensa.",
+		"call-number": "82-32 COU cro",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-013-4",
+		"language": "es",
+		"number-of-pages": "198",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Cronicando",
+		"author": [
+			{
+				"family": "Couto",
+				"given": "Mia"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/XHVFVVT4",
+		"type": "book",
+		"abstract": "A lo largo de estas breves crónicas, verdaderas perlas narrativas, nos ofrece un viaje por las múltiples caras de la realidad, ese día a día que no tiene sitio en los informes ofiaciales y en las noticias de prensa.",
+		"call-number": "82-32 COU cro",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-013-4",
+		"language": "es",
+		"number-of-pages": "198",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Cronicando",
+		"author": [
+			{
+				"family": "Couto",
+				"given": "Mia"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/IVHNIGVX",
+		"type": "book",
+		"abstract": "A lo largo de estas breves crónicas, verdaderas perlas narrativas, nos ofrece un viaje por las múltiples caras de la realidad, ese día a día que no tiene sitio en los informes ofiaciales y en las noticias de prensa.",
+		"call-number": "82-32 COU cro",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-013-4",
+		"language": "es",
+		"number-of-pages": "198",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Cronicando",
+		"author": [
+			{
+				"family": "Couto",
+				"given": "Mia"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/NE9T5FDP",
+		"type": "book",
+		"call-number": "82-32 COR cue",
+		"event-place": "Madrid",
+		"ISBN": "978-84-85471-26-3",
+		"language": "es",
+		"number-of-pages": "213",
+		"publisher": "Hyspamerica",
+		"publisher-place": "Madrid",
+		"title": "Cuentos",
+		"author": [
+			{
+				"family": "Cortázar",
+				"given": "Julio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1987"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/5MMLJ5BV",
+		"type": "book",
+		"call-number": "82-32 COR alg",
+		"event-place": "Madrid",
+		"ISBN": "978-84-204-2101-8",
+		"language": "es",
+		"number-of-pages": "201",
+		"publisher": "Bruguera",
+		"publisher-place": "Madrid",
+		"title": "Alguien que anda por ahí y otros relatos",
+		"author": [
+			{
+				"family": "Cortázar",
+				"given": "Julio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1977"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/UCQFEN8M",
+		"type": "book",
+		"call-number": "82-32 CHA his",
+		"event-place": "La Habana",
+		"language": "Spanish",
+		"number-of-pages": "170",
+		"publisher": "Letras cubanas",
+		"publisher-place": "La Habana",
+		"title": "Historias de hadas para adultos",
+		"author": [
+			{
+				"family": "Chaviano",
+				"given": "Daína"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1986"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/RJ83FSHB",
+		"type": "book",
+		"call-number": "82-32 CHA cue",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-15313-50-2",
+		"language": "es",
+		"number-of-pages": "241",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Cuentos del arañero",
+		"author": [
+			{
+				"family": "Chávez Frías",
+				"given": "Hugo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/3F3AJG46",
+		"type": "book",
+		"call-number": "82-32 CHA can",
+		"event-place": "Wrights Lane",
+		"ISBN": "0-14-062207-1",
+		"language": "en",
+		"number-of-pages": "342",
+		"publisher": "Penguin Books",
+		"publisher-place": "Wrights Lane",
+		"title": "The Canterbury tales: a selection",
+		"title-short": "The Canterbury tales",
+		"author": [
+			{
+				"family": "Chaucer",
+				"given": "Geoffrey"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/2QPMNT2A",
+		"type": "book",
+		"call-number": "82-32 CHA ley",
+		"event-place": "Donostia",
+		"ISBN": "84-89077-21-5",
+		"language": "es",
+		"number-of-pages": "96",
+		"publisher": "Egin",
+		"publisher-place": "Donostia",
+		"title": "La leyenda de Aitor",
+		"author": [
+			{
+				"family": "Chaho",
+				"given": "Joseph Augustin"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/V8LQU5IK",
+		"type": "book",
+		"call-number": "82-32 CHA ley",
+		"event-place": "Donostia",
+		"ISBN": "84-89077-21-5",
+		"language": "es",
+		"number-of-pages": "96",
+		"publisher": "Egin",
+		"publisher-place": "Donostia",
+		"title": "La leyenda de Aitor",
+		"author": [
+			{
+				"family": "Chaho",
+				"given": "Joseph Augustin"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/WA8Z8BFI",
+		"type": "book",
+		"call-number": "82-32 CER nov",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Madrid",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "234",
+		"publisher": "Espasa-Calpe",
+		"publisher-place": "Madrid",
+		"title": "Novelas ejemplares",
+		"author": [
+			{
+				"family": "Cervantes Saavedra",
+				"given": "Miguel",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1972"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/VAQQB62Y",
+		"type": "book",
+		"call-number": "82-32 CAS vas",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Bilbo",
+		"language": "es",
+		"number-of-pages": "214",
+		"publisher": "L. Haranburu",
+		"publisher-place": "Bilbo",
+		"title": "Vascos heréticos: ensayos y enredos de la cábala vasca",
+		"title-short": "Vascos heréticos",
+		"author": [
+			{
+				"family": "Castellano",
+				"given": "Rafael"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1977"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/X9HYUEX4",
+		"type": "book",
+		"call-number": "82-32 CAS ero",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Donostia",
+		"ISBN": "84-7407-037-6",
+		"language": "es",
+		"number-of-pages": "224",
+		"publisher": "L. Haranburu",
+		"publisher-place": "Donostia",
+		"title": "Erotismo vasco",
+		"author": [
+			{
+				"family": "Castellano",
+				"given": "Rafael"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1977"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/KKNADCLZ",
+		"type": "book",
+		"call-number": "82-32 CAR cue",
+		"event-place": "La Habana",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "280",
+		"publisher": "Letras Cubanas",
+		"publisher-place": "La Habana",
+		"title": "Cuentos escogidos",
+		"author": [
+			{
+				"family": "Cardoso",
+				"given": "Onelio Jorge"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1989"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/YGFJ7UKH",
+		"type": "book",
+		"call-number": "82-32 CAM nar",
+		"event-place": "Donostia",
+		"ISBN": "84-89077-40-1",
+		"language": "es",
+		"number-of-pages": "125",
+		"publisher": "Egin",
+		"publisher-place": "Donostia",
+		"title": "Narraciones vascas",
+		"author": [
+			{
+				"family": "Campión",
+				"given": "Arturo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/DK36FHRH",
+		"type": "book",
+		"call-number": "82-32 CAM nar",
+		"event-place": "Donostia",
+		"ISBN": "84-89077-40-1",
+		"language": "es",
+		"number-of-pages": "125",
+		"publisher": "Egin",
+		"publisher-place": "Donostia",
+		"title": "Narraciones vascas",
+		"author": [
+			{
+				"family": "Campión",
+				"given": "Arturo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/VXWAPTZE",
+		"type": "book",
+		"call-number": "82-32 CAM nar",
+		"event-place": "Donostia",
+		"ISBN": "84-89077-40-1",
+		"language": "es",
+		"number-of-pages": "125",
+		"publisher": "Egin",
+		"publisher-place": "Donostia",
+		"title": "Narraciones vascas",
+		"author": [
+			{
+				"family": "Campión",
+				"given": "Arturo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/4NQMQRBP",
+		"type": "book",
+		"call-number": "82-32 CAM nar",
+		"event-place": "Donostia",
+		"ISBN": "84-89077-40-1",
+		"language": "es",
+		"number-of-pages": "125",
+		"publisher": "Egin",
+		"publisher-place": "Donostia",
+		"title": "Narraciones vascas",
+		"author": [
+			{
+				"family": "Campión",
+				"given": "Arturo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/UE92KIDW",
+		"type": "book",
+		"abstract": "Esta obra es una atractiva recopilación de crónicas de viaje que transportará al lector a lugares de los que pocos occidentales han oído hablar, y menos aún vistos con sus propios ojos, lugares hasta ahora libres de los aderezos, lujos y corrupciones de la civilización moderna. A través de escenas reales, apenas diferenciables de los episodios que Paul Bowles ha transformado en cuentos en sus numerosos libros, este gran maestro de la narrativa nos acerca a un mundo del que cada vez escuchamos hablar más, sin que por ellos deje de resultarnos misterioso y desconocido.",
+		"call-number": "82-32 BOW cab",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Madrid",
+		"ISBN": "978-84-204-2678-5",
+		"language": "es",
+		"number-of-pages": "232",
+		"publisher": "Alfaguara",
+		"publisher-place": "Madrid",
+		"title": "Cabezas verdes, manos azules",
+		"author": [
+			{
+				"family": "Bowles",
+				"given": "Paul"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1994",
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/QLRLEWIZ",
+		"type": "book",
+		"call-number": "82-32 BOS mas",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Santo Domingo",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "285",
+		"publisher": "Alfa y Omega",
+		"publisher-place": "Santo Domingo",
+		"title": "Más cuentos escritos en el exilio",
+		"author": [
+			{
+				"family": "Bosch",
+				"given": "Juan"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1988"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/Z33XE5SL",
+		"type": "book",
+		"call-number": "82-32 BONA mad",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Hondarribia",
+		"ISBN": "978-84-87524-97-4",
+		"language": "es",
+		"number-of-pages": "142",
+		"publisher": "Hiru",
+		"publisher-place": "Hondarribia",
+		"title": "I, Las Madres de Plaza de Mayo: un punto de referencia para los revolucionarios de América Latina ; II, Senideak : el largo viaje de la solidaridad.",
+		"title-short": "Las Madres de Plaza de Mayo; Senideak",
+		"author": [
+			{
+				"family": "Bonafini",
+				"given": "Hebe",
+				"dropping-particle": "de"
+			},
+			{
+				"family": "Fernández",
+				"given": "Gabriel J. E"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/X2QCU8ME",
+		"type": "book",
+		"call-number": "82-32 BIO mem",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-7223-420-8",
+		"language": "es",
+		"number-of-pages": "197",
+		"publisher": "Tusquets",
+		"publisher-place": "Barcelona",
+		"title": "Memorias. Infancia, adolescencia, y cómo se hace un escritor",
+		"author": [
+			{
+				"family": "Bioy Casares",
+				"given": "Adolfo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/BK6MAFIF",
+		"type": "book",
+		"call-number": "82-32 BIL ema",
+		"event-place": "Bilbao",
+		"ISBN": "---",
+		"language": "eu/es",
+		"number-of-pages": "141",
+		"publisher": "Servicio Municipal de la Mujer",
+		"publisher-place": "Bilbao",
+		"title": "Emakumeak kontari III. Relatos de mujer III.",
+		"author": [
+			{
+				"family": "Bilbao Albondiga",
+				"given": "Begoña"
+			},
+			{
+				"literal": "et al."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/JGVNJ9YV",
+		"type": "book",
+		"abstract": "Este libro rescata del pasado las anecdotas y los personajes que acompanaron al protagonista, Claudio, a lo largo de su vida en diversos barrios de Montevideo. En estos anos se vera perseguido por dos enigmas: el halo tragico de una hora, las tres y diez, y la fugitiva presencia de Rita, la muchacha que entro una vez en su cuarto trepando por la higuera.",
+		"call-number": "82-32 BEN bor",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Buenos Aires",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "210",
+		"publisher": "Destino",
+		"publisher-place": "Buenos Aires",
+		"title": "La borra del café",
+		"author": [
+			{
+				"family": "Benedetti",
+				"given": "Mario"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1993"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/T7IX45EJ",
+		"type": "book",
+		"call-number": "82-32 BEL uka",
+		"event-place": "Donostia",
+		"ISBN": "978-84-9027-337-1",
+		"language": "eus",
+		"note": "OCLC: 920314809",
+		"number-of-pages": "177",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Ukabilak eta loreak",
+		"author": [
+			{
+				"family": "Belamuno",
+				"given": "Julen"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/SMHG2Y6Z",
+		"type": "book",
+		"call-number": "82-32 URR orr",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-86833-56-5",
+		"language": "eu",
+		"number-of-pages": "106",
+		"publisher": "Labayru",
+		"publisher-place": "Bilbao",
+		"title": "Orrialdeak",
+		"author": [
+			{
+				"family": "Urrutia",
+				"given": "Andres"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1992"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/XU2TTH7T",
+		"type": "book",
+		"call-number": "82-32 URK mam",
+		"event-place": "Donostia",
+		"ISBN": "978-84-9027-330-2",
+		"language": "eus",
+		"note": "OCLC: 899974530",
+		"number-of-pages": "127",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Mamuak",
+		"author": [
+			{
+				"family": "Urkiza",
+				"given": "Ana"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/MZSEQI6S",
+		"type": "book",
+		"call-number": "82-32 TOL mej",
+		"event-place": "Madrid",
+		"ISBN": "978-84-7461-218-9",
+		"language": "es",
+		"number-of-pages": "192",
+		"publisher": "Club Internacional del Libro",
+		"publisher-place": "Madrid",
+		"title": "Sus mejores cuentos",
+		"author": [
+			{
+				"family": "Tolstoï",
+				"given": "Lev Nikolaevich"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1992"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/2DU3FX77",
+		"type": "book",
+		"call-number": "82-32 TOL mue",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-345-8264-4",
+		"language": "es",
+		"number-of-pages": "189",
+		"publisher": "Salvat",
+		"publisher-place": "Barcelona",
+		"title": "La muerte de Ivan Ilich ; El diablo ; El Padre Sergio",
+		"author": [
+			{
+				"family": "Tolstoï",
+				"given": "Lev Nikolaevich"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1985"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/C8NJD4WJ",
+		"type": "book",
+		"call-number": "82-32 STE hec",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-350-0246-2",
+		"language": "es",
+		"number-of-pages": "336",
+		"publisher": "Edhasa-Sudamericana",
+		"publisher-place": "Barcelona",
+		"title": "Los hechos del Rey Arturo y sus nobles caballeros: según la obra de Sir Thomas Malory y otras fuentes",
+		"title-short": "Los hechos del Rey Arturo y sus nobles caballeros",
+		"author": [
+			{
+				"family": "Steinbeck",
+				"given": "John"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1984"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/CMKE93CG",
+		"type": "book",
+		"call-number": "82-32 STE omn",
+		"event-place": "Barcelona",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "850",
+		"publisher": "Vergara",
+		"publisher-place": "Barcelona",
+		"title": "El ómnibus perdido ; Atormentada tierra; El valle largo",
+		"author": [
+			{
+				"family": "Steinbeck",
+				"given": "John"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1963"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/AKR4P273",
+		"type": "book",
+		"call-number": "82-32 SIN chi",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-339-3067-5",
+		"language": "es",
+		"number-of-pages": "165",
+		"publisher": "Anagrama",
+		"publisher-place": "Barcelona",
+		"title": "Chinches",
+		"author": [
+			{
+				"family": "Sinclair",
+				"given": "Clive"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1985"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/VVQ6BCDM",
+		"type": "book",
+		"call-number": "82-32 SIN cor",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-339-3035-4",
+		"language": "es",
+		"number-of-pages": "165",
+		"publisher": "Anagrama",
+		"publisher-place": "Barcelona",
+		"title": "Corazones de oro",
+		"author": [
+			{
+				"family": "Sinclair",
+				"given": "Clive"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1983"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/6VVXX96E",
+		"type": "book",
+		"call-number": "82-32 SCL eje",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-373-9",
+		"language": "es",
+		"number-of-pages": "190",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "El ejército de un hombre solo",
+		"author": [
+			{
+				"family": "Scliar",
+				"given": "Moacyr"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2004"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/XJNDPQR9",
+		"type": "book",
+		"call-number": "82-32 SAS kon",
+		"event-place": "Donostia",
+		"ISBN": "978-84-7917-531-3",
+		"language": "eu",
+		"number-of-pages": "57",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Kontratua",
+		"author": [
+			{
+				"family": "Sastre",
+				"given": "Pablo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/8S987JZ6",
+		"type": "book",
+		"call-number": "82-32 SAR ele",
+		"edition": "Elearazi",
+		"event-place": "Donostia",
+		"language": "eus",
+		"note": "OCLC: 971842128",
+		"number-of-pages": "171",
+		"publisher": "s.n",
+		"publisher-place": "Donostia",
+		"title": "Elearazi: hiru urtetako aukeraketa bat, itzultzaileak mintzo",
+		"author": [
+			{
+				"family": "Sarriugarte",
+				"given": "Danele"
+			},
+			{
+				"family": "Arrula Ruiz",
+				"given": "Garazi"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/GMBZDCPC",
+		"type": "book",
+		"call-number": "82-32 SAR nie",
+		"event-place": "Donostia",
+		"ISBN": "84-89077-25-8",
+		"language": "eu",
+		"number-of-pages": "220",
+		"publisher": "Pamiela",
+		"publisher-place": "Donostia",
+		"title": "Ni ez naiz hemengoa",
+		"author": [
+			{
+				"family": "Sarrionandia",
+				"given": "Joseba"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/FZT926BJ",
+		"type": "book",
+		"call-number": "82-32 SAR hit",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-074-5",
+		"language": "eu",
+		"number-of-pages": "456",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Hitzen ondoeza",
+		"author": [
+			{
+				"family": "Sarrionandia",
+				"given": "Joseba"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1997"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/DD3NKIKZ",
+		"type": "book",
+		"call-number": "82-32 SAR nos",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Donostia",
+		"ISBN": "84-89077-25-8",
+		"language": "es",
+		"number-of-pages": "136",
+		"publisher": "Egin",
+		"publisher-place": "Donostia",
+		"title": "No soy de aquí",
+		"author": [
+			{
+				"family": "Sarrionandia",
+				"given": "Joseba"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/YSA7U9QE",
+		"type": "book",
+		"call-number": "82-32 SAR nos",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Donostia",
+		"ISBN": "84-89077-25-8",
+		"language": "es",
+		"number-of-pages": "136",
+		"publisher": "Egin",
+		"publisher-place": "Donostia",
+		"title": "No soy de aquí",
+		"author": [
+			{
+				"family": "Sarrionandia",
+				"given": "Joseba"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/VBIFXLC8",
+		"type": "book",
+		"call-number": "82-32 SAR nos",
+		"event-place": "Donostia",
+		"ISBN": "84-89077-25-8",
+		"language": "es",
+		"number-of-pages": "136",
+		"publisher": "Egin",
+		"publisher-place": "Donostia",
+		"title": "No soy de aquí",
+		"author": [
+			{
+				"family": "Sarrionandia",
+				"given": "Joseba"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/E56W6KYJ",
+		"type": "book",
+		"call-number": "82-32 SAR nos",
+		"event-place": "Donostia",
+		"ISBN": "84-89077-25-8",
+		"language": "es",
+		"number-of-pages": "136",
+		"publisher": "Egin",
+		"publisher-place": "Donostia",
+		"title": "No soy de aquí",
+		"author": [
+			{
+				"family": "Sarrionandia",
+				"given": "Joseba"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/FWQW8XTY",
+		"type": "book",
+		"call-number": "82-32 SAR nar",
+		"event-place": "Donostia",
+		"language": "eu",
+		"number-of-pages": "121",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Narrazioak",
+		"author": [
+			{
+				"family": "Sarrionandia",
+				"given": "Joseba"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1986"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/A85WQW9G",
+		"type": "book",
+		"call-number": "82-32 SAR nar",
+		"event-place": "Donostia",
+		"language": "eu",
+		"number-of-pages": "121",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Narrazioak",
+		"author": [
+			{
+				"family": "Sarrionandia",
+				"given": "Joseba"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1986"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/QVAWNLDK",
+		"type": "book",
+		"call-number": "82-32 SAR cue",
+		"event-place": "Madrid",
+		"ISBN": "978-84-663-1846-4",
+		"language": "es",
+		"number-of-pages": "73",
+		"publisher": "Punto de Lectura",
+		"publisher-place": "Madrid",
+		"title": "El cuento de la isla desconocida",
+		"author": [
+			{
+				"family": "Saramago",
+				"given": "José"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/HASG5763",
+		"type": "book",
+		"call-number": "82-32 SAI pri",
+		"event-place": "Madrid",
+		"ISBN": "978-84-206-3628-3",
+		"language": "es",
+		"number-of-pages": "116",
+		"publisher": "Alianza",
+		"publisher-place": "Madrid",
+		"title": "El principito",
+		"author": [
+			{
+				"family": "Saint-Exupéry",
+				"given": "Antoine",
+				"dropping-particle": "de"
+			}
+		],
+		"translator": [
+			{
+				"family": "Carill",
+				"given": "Bonifacio",
+				"dropping-particle": "del"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2004"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/YGKRSKDF",
+		"type": "book",
+		"call-number": "82-32 RYT cua",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-393-7",
+		"language": "es",
+		"number-of-pages": "164",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Cuando la ballena se va",
+		"author": [
+			{
+				"family": "Rytcheau",
+				"given": "Jurij"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/MDYYP9X4",
+		"type": "book",
+		"call-number": "82-32 RUL rel",
+		"event-place": "Colombia",
+		"ISBN": "978-84-206-4618-3",
+		"language": "es",
+		"number-of-pages": "94",
+		"publisher": "Alianza Editorial",
+		"publisher-place": "Colombia",
+		"title": "Relatos",
+		"author": [
+			{
+				"family": "Rulfo",
+				"given": "Juan"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/2MFVHFV8",
+		"type": "book",
+		"abstract": "Coleccion de cuentos que suponen un retrato de la cultura indigena, para lo cual el autor tuvo que crerar ambientes, escenarios, situaciones y personajes reconocibles con claridad como parte de la geografia fisica, mitica e ideologica. Clasico de la literatura indigenista. Supersticiones, trato conyugal, tradiciones, religiosidad... el autor nos ofrece estampas increibles y risuenas de estos pueblos acorralados por nuestra civilizacion.",
+		"call-number": "82-32 ROJ dio",
+		"event-place": "Tafalla",
+		"language": "es",
+		"number-of-pages": "142",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "El diosero y otros relatos indígenas",
+		"author": [
+			{
+				"family": "Rojas González",
+				"given": "Francisco"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/HKDD2PFS",
+		"type": "book",
+		"call-number": "82-32 ROD kas",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-458-3",
+		"language": "eu",
+		"number-of-pages": "218",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Kasandra leihoan",
+		"author": [
+			{
+				"family": "Rodriguez",
+				"given": "Fito"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/ZKWLCZDT",
+		"type": "book",
+		"call-number": "82-32 ROD kat",
+		"event-place": "Donostia-San Sebastián",
+		"language": "eu/es/en/fr/de/it",
+		"note": "OCLC: 920291888",
+		"number-of-pages": "165",
+		"publisher": "Etxepare Euskal Institutua",
+		"publisher-place": "Donostia-San Sebastián",
+		"title": "Katu jendea = Gatos = Tant de chats = Katzenmenschen = Katmensen = Chats",
+		"author": [
+			{
+				"family": "Rodriguez",
+				"given": "Eider"
+			},
+			{
+				"literal": "Etxepare Euskal Institutua"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/UR88NRJZ",
+		"type": "book",
+		"abstract": "Con prosa ágil e irónica, con los giros y modismos que delatan la dualidad idiomática, y hasta con el erotismo más desbordado, la autora -nacida en Cuba y ahora residente en Nueva York- retrata el interior de los residentes hispanos en la ciudad emblemática de los Estados Unidos.",
+		"call-number": "82-32 RIV his",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-112-4",
+		"language": "es",
+		"number-of-pages": "172",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Las historias prohibidas de Marta Veneranda",
+		"author": [
+			{
+				"family": "Rivera-Valdés",
+				"given": "Sonia"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1998"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/LNZNDIBL",
+		"type": "book",
+		"abstract": "Con prosa ágil e irónica, con los giros y modismos que delatan la dualidad idiomática, y hasta con el erotismo más desbordado, la autora -nacida en Cuba y ahora residente en Nueva York- retrata el interior de los residentes hispanos en la ciudad emblemática de los Estados Unidos.",
+		"call-number": "82-32 RIV his",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-112-4",
+		"language": "es",
+		"number-of-pages": "172",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Las historias prohibidas de Marta Veneranda",
+		"author": [
+			{
+				"family": "Rivera-Valdés",
+				"given": "Sonia"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1998"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/88ZKU47K",
+		"type": "book",
+		"abstract": "Con prosa ágil e irónica, con los giros y modismos que delatan la dualidad idiomática, y hasta con el erotismo más desbordado, la autora -nacida en Cuba y ahora residente en Nueva York- retrata el interior de los residentes hispanos en la ciudad emblemática de los Estados Unidos.",
+		"call-number": "82-32 RIV his",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-112-4",
+		"language": "es",
+		"number-of-pages": "172",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Las historias prohibidas de Marta Veneranda",
+		"author": [
+			{
+				"family": "Rivera-Valdés",
+				"given": "Sonia"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1998"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/9E4BCBXF",
+		"type": "book",
+		"call-number": "82-32 POE nar",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-89693-01-2",
+		"language": "es",
+		"number-of-pages": "428",
+		"publisher": "Optima",
+		"publisher-place": "Barcelona",
+		"title": "Narraciones extraordinarias",
+		"author": [
+			{
+				"family": "Poe",
+				"given": "Edgar Allan"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1998"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/QA7292Q9",
+		"type": "book",
+		"call-number": "82-32 PET kat",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-275-6",
+		"language": "eu",
+		"number-of-pages": "246",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Katearen begiak",
+		"author": [
+			{
+				"family": "Petxarroman",
+				"given": "Iñaki"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2003"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/KQJP57RT",
+		"type": "book",
+		"call-number": "82-32 PET kat",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-275-6",
+		"language": "eu",
+		"number-of-pages": "246",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Katearen begiak",
+		"author": [
+			{
+				"family": "Petxarroman",
+				"given": "Iñaki"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2003"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/KY4YG2Q3",
+		"type": "book",
+		"call-number": "82-32 PAR par",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-485-9",
+		"language": "es",
+		"number-of-pages": "191",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Parábolas del silencio",
+		"author": [
+			{
+				"family": "Parra",
+				"given": "Eduardo Antonio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/BJWPCN2R",
+		"type": "book",
+		"call-number": "82-32 PAR nad",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-246-6",
+		"language": "es",
+		"number-of-pages": "48",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Nadie los vio salir",
+		"author": [
+			{
+				"family": "Parra",
+				"given": "Eduardo Antonio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/EJTFURNE",
+		"type": "book",
+		"call-number": "82-32 PAR lim",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-238-1",
+		"language": "es",
+		"number-of-pages": "149",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Los límites de la noche",
+		"author": [
+			{
+				"family": "Parra",
+				"given": "Eduardo Antonio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/IN64ACFJ",
+		"type": "book",
+		"call-number": "82-32 PAR tie",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-192-6",
+		"language": "es",
+		"number-of-pages": "148",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Tierra de nadie",
+		"author": [
+			{
+				"family": "Parra",
+				"given": "Eduardo Antonio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/YQMBNYYW",
+		"type": "book",
+		"call-number": "82-32 PAR tie",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-192-6",
+		"language": "es",
+		"number-of-pages": "148",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Tierra de nadie",
+		"author": [
+			{
+				"family": "Parra",
+				"given": "Eduardo Antonio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/KYIRSXXG",
+		"type": "book",
+		"call-number": "82-32 PAR tie",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-192-6",
+		"language": "es",
+		"number-of-pages": "148",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Tierra de nadie",
+		"author": [
+			{
+				"family": "Parra",
+				"given": "Eduardo Antonio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/48KGVU9Y",
+		"type": "book",
+		"call-number": "82-32 PAR tie",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-192-6",
+		"language": "es",
+		"number-of-pages": "148",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Tierra de nadie",
+		"author": [
+			{
+				"family": "Parra",
+				"given": "Eduardo Antonio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/MJN5PP8N",
+		"type": "book",
+		"call-number": "82-32 PAR tie",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-192-6",
+		"language": "es",
+		"number-of-pages": "148",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Tierra de nadie",
+		"author": [
+			{
+				"family": "Parra",
+				"given": "Eduardo Antonio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/FYRWVVQL",
+		"type": "book",
+		"call-number": "82-32 PAR hon",
+		"event-place": "Irún",
+		"ISBN": "978-84-96310-81-0",
+		"language": "eus",
+		"number-of-pages": "271",
+		"publisher": "Alberdania",
+		"publisher-place": "Irún",
+		"title": "Hona hemen gu biok",
+		"author": [
+			{
+				"family": "Parker",
+				"given": "Dorothy"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/S3Z3US47",
+		"type": "book",
+		"call-number": "82-32 NUÑ ema",
+		"event-place": "Bilbao",
+		"ISBN": "---",
+		"language": "eu/es",
+		"number-of-pages": "107",
+		"publisher": "Servicio Municipal de la Mujer",
+		"publisher-place": "Bilbao",
+		"title": "Emakumeak kontari XIII, XIV, XV. Relatos de mujer XIII, XIV, XV.",
+		"author": [
+			{
+				"family": "Nuñez Gonzalez",
+				"given": "Teresa"
+			},
+			{
+				"literal": "et al."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/JG983QQZ",
+		"type": "book",
+		"call-number": "82-32 NER nac",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-322-1124-9",
+		"language": "es",
+		"number-of-pages": "316",
+		"publisher": "Seix Barral",
+		"publisher-place": "Barcelona",
+		"title": "Para nacer he nacido",
+		"author": [
+			{
+				"family": "Neruda",
+				"given": "Pablo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1985"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/MGQQHS7I",
+		"type": "book",
+		"call-number": "82-32 MON hon",
+		"event-place": "Donosti",
+		"ISBN": "978-84-9027-294-7",
+		"language": "eus",
+		"number-of-pages": "224",
+		"publisher": "Elkar",
+		"publisher-place": "Donosti",
+		"title": "Hondamendia",
+		"author": [
+			{
+				"family": "Montoia",
+				"given": "Xabier"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/P95D2CDU",
+		"type": "book",
+		"call-number": "82-32 MON ema",
+		"event-place": "Iruña",
+		"ISBN": "978-84-86766-47-4",
+		"language": "eus",
+		"number-of-pages": "218",
+		"publisher": "Susa",
+		"publisher-place": "Iruña",
+		"title": "Emakume biboteduna",
+		"author": [
+			{
+				"family": "Montoia",
+				"given": "Xabier"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1992"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/JN3Z37WR",
+		"type": "book",
+		"call-number": "82-32 MOI chi",
+		"event-place": "Barcelona",
+		"language": "es",
+		"number-of-pages": "155",
+		"publisher": "Editorial Lumen",
+		"publisher-place": "Barcelona",
+		"title": "Ese chico pelirrojo a quien veo cada día",
+		"author": [
+			{
+				"family": "Moix",
+				"given": "Ana María"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1971"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/XUIVIEH3",
+		"type": "book",
+		"call-number": "82-32 MER kon",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-254-1",
+		"language": "eu",
+		"number-of-pages": "188",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Kondoi urrunak",
+		"author": [
+			{
+				"family": "Merino",
+				"given": "Juan Karlos"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/JZMAS7PT",
+		"type": "book",
+		"call-number": "82-32 MEN ipu",
+		"event-place": "Donostia",
+		"ISBN": "978-84-9783-173-4",
+		"language": "eus",
+		"number-of-pages": "173",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Ipuin izugarriak",
+		"author": [
+			{
+				"family": "Mendiguren Elizegi",
+				"given": "Xabier"
+			},
+			{
+				"family": "Bilbao Alboniga",
+				"given": "Begoña"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/XHULS8YQ",
+		"type": "book",
+		"abstract": "Lau ipuin luze edo nobela laburrez osatua. Ikasleaz maitemindu den irakasle heldua, gaztetako abenturarik zoroenak elkarri kon-tatzen dizkioten bi emakume, politika eta larru kontuak nahasten dituen istorioa... Sentimen-duak nahiz gorputzak sortzen diguten ahalkea ahaztuz, muturreraino eraman ditu pertsonaiak eta egoerak, era askotako teknikak erabiliz: gutuna, elkarrizketa hutsa...",
+		"call-number": "82-32 MEN ari",
+		"event-place": "Donostia",
+		"ISBN": "978-84-9027-162-9",
+		"language": "eu",
+		"number-of-pages": "204",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Arima enkoniatuak",
+		"author": [
+			{
+				"family": "Mendiguren Elizegi",
+				"given": "Xabier"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/DLKEQ2Y6",
+		"type": "book",
+		"call-number": "82-32 MEN ene",
+		"event-place": "Donostia",
+		"ISBN": "978-84-7917-617-4",
+		"language": "eu",
+		"number-of-pages": "57",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Ene dama maite horri",
+		"author": [
+			{
+				"family": "Mendiguren Elizegi",
+				"given": "Xabier"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/IAK5DNK2",
+		"type": "book",
+		"call-number": "82-32 MEA fab",
+		"event-place": "Bilbao",
+		"ISBN": "84-88541-21-X",
+		"language": "es",
+		"number-of-pages": "146",
+		"publisher": "Laga",
+		"publisher-place": "Bilbao",
+		"title": "Fabulas del Errabundo y otros escritos (Selección)",
+		"author": [
+			{
+				"family": "Meabe",
+				"given": "Tomás"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/PZTWEN9N",
+		"type": "book",
+		"call-number": "82-32 MEA car",
+		"event-place": "Bilbao",
+		"language": "eus",
+		"number-of-pages": "57",
+		"publisher": "Bizkaiko Foru Aldundia = Diputación Foral de Bizkaia",
+		"publisher-place": "Bilbao",
+		"title": "Carnicería Manolo harategia",
+		"author": [
+			{
+				"family": "Meabe",
+				"given": "Miren Agur"
+			},
+			{
+				"family": "Unzueta Zamalloa",
+				"given": "Lourdes"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/LVV56Q26",
+		"type": "book",
+		"call-number": "82-32 MEA une",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-505-4599-9",
+		"language": "eu",
+		"number-of-pages": "123",
+		"publisher": "Labayru",
+		"publisher-place": "Bilbao",
+		"title": "Uneka... gaba",
+		"author": [
+			{
+				"family": "Meabe",
+				"given": "Miren Agur"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1988"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/IF3M85QA",
+		"type": "book",
+		"call-number": "82-32 MEA une",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-505-4599-9",
+		"language": "eu",
+		"number-of-pages": "123",
+		"publisher": "Labayru",
+		"publisher-place": "Bilbao",
+		"title": "Uneka... gaba",
+		"author": [
+			{
+				"family": "Meabe",
+				"given": "Miren Agur"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1988"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/6KBFLGY6",
+		"type": "book",
+		"call-number": "82-32 MAY rec",
+		"event-place": "Madrid",
+		"ISBN": "978-84-204-8382-5",
+		"language": "es",
+		"number-of-pages": "213",
+		"publisher": "Alfaguara",
+		"publisher-place": "Madrid",
+		"title": "Recuerda, cuerpo",
+		"author": [
+			{
+				"family": "Mayoral",
+				"given": "Marina"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1998"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/529ZH2A5",
+		"type": "book",
+		"call-number": "82-32 LOP nob",
+		"event-place": "Donostia",
+		"ISBN": "978-84-7917-616-7",
+		"language": "eu",
+		"number-of-pages": "55",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Nobela argitaragarria",
+		"author": [
+			{
+				"family": "López Gaseni",
+				"given": "Manu"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/43RSMFH7",
+		"type": "book",
+		"call-number": "82-32 LON sua",
+		"event-place": "Donostia",
+		"ISBN": "978-84-7568-518-2",
+		"language": "eu",
+		"number-of-pages": "45",
+		"publisher": "Erein",
+		"publisher-place": "Donostia",
+		"title": "Sua piztu",
+		"author": [
+			{
+				"family": "London",
+				"given": "Jack"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/B7JW6XUR",
+		"type": "book",
+		"call-number": "82-32 LES lad",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-02-07605-2",
+		"language": "es",
+		"number-of-pages": "157",
+		"publisher": "Bruguera",
+		"publisher-place": "Barcelona",
+		"title": "Lady Macbeth de Mtsensk",
+		"author": [
+			{
+				"family": "Leskov",
+				"given": "Nikolaï Semionovich"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1984"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/EYHSWUCG",
+		"type": "book",
+		"call-number": "82-32 LER ais",
+		"event-place": "Donostia",
+		"language": "eu",
+		"number-of-pages": "107",
+		"publisher": "Erein",
+		"publisher-place": "Donostia",
+		"title": "Aise eman zenidan eskua",
+		"author": [
+			{
+				"family": "Lertxundi",
+				"given": "Anjel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1984"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/N73Q846P",
+		"type": "book",
+		"call-number": "82-32 LEO vio",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-15070-91-7",
+		"language": "es",
+		"number-of-pages": "174",
+		"publisher": "Los libros del lince",
+		"publisher-place": "Barcelona",
+		"title": "Violación Nueva York",
+		"author": [
+			{
+				"family": "Leo de Blas",
+				"given": "Jana"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/QH33ZPWV",
+		"type": "book",
+		"call-number": "82-32 LEM chr",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Paris",
+		"ISBN": "978-2-7210-0462-8",
+		"language": "fr",
+		"number-of-pages": "277",
+		"publisher": "Des femmes",
+		"publisher-place": "Paris",
+		"title": "La chrysalide: chroniques algériennes",
+		"title-short": "La chrysalide",
+		"author": [
+			{
+				"family": "Lemsine",
+				"given": "Aïcha"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/ZIB2LN3L",
+		"type": "book",
+		"call-number": "82-32 LAW mar",
+		"event-place": "Castelló",
+		"ISBN": "978-84-85056-30-9",
+		"language": "es",
+		"number-of-pages": "162",
+		"publisher": "Los libros de Plon",
+		"publisher-place": "Castelló",
+		"title": "La mariquita ; el zorro",
+		"author": [
+			{
+				"family": "Lawrence",
+				"given": "David Herbert"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1980"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/8CW98WG2",
+		"type": "book",
+		"call-number": "82-32 KOB nag",
+		"event-place": "Iruñea",
+		"ISBN": "978-84-16946-05-1",
+		"language": "eus",
+		"number-of-pages": "268",
+		"publisher": "Katakrak",
+		"publisher-place": "Iruñea",
+		"title": "Nagusia kanpoan bizi da ; 1928ko martxoaren 15a",
+		"author": [
+			{
+				"family": "Kobayashi",
+				"given": "Takiji"
+			},
+			{
+				"family": "Yoshida",
+				"given": "Hiromi"
+			},
+			{
+				"family": "Kobayashi",
+				"given": "Takiji"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/L8FHM4UV",
+		"type": "book",
+		"call-number": "82-32 KER fik",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-600-4453-6",
+		"language": "eu/es",
+		"number-of-pages": "91",
+		"publisher": "Gabriel Aresti Institutua",
+		"publisher-place": "Bilbao",
+		"title": "Fikzioak / Ficciones",
+		"author": [
+			{
+				"family": "Kerexeta",
+				"given": "Esti"
+			},
+			{
+				"family": "Piris",
+				"given": "Ion"
+			},
+			{
+				"family": "Jimenez",
+				"given": "Luis Adolfo"
+			},
+			{
+				"family": "Balboa",
+				"given": "Miren"
+			},
+			{
+				"family": "Urkijo",
+				"given": "Ainhoa"
+			},
+			{
+				"family": "Gorka",
+				"given": "Arana"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1986"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/K3646Y5B",
+		"type": "book",
+		"call-number": "82-32 KAF met",
+		"event-place": "Madrid",
+		"ISBN": "978-84-206-5136-1",
+		"language": "es",
+		"number-of-pages": "133",
+		"publisher": "Alianza",
+		"publisher-place": "Madrid",
+		"title": "La metamorfosis",
+		"author": [
+			{
+				"family": "Kafka",
+				"given": "Franz"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2004"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/9JZW6EQN",
+		"type": "book",
+		"call-number": "82-32 KAF met",
+		"event-place": "Madrid",
+		"ISBN": "978-84-206-5136-1",
+		"language": "es",
+		"number-of-pages": "133",
+		"publisher": "Alianza",
+		"publisher-place": "Madrid",
+		"title": "La metamorfosis",
+		"author": [
+			{
+				"family": "Kafka",
+				"given": "Franz"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/GDL9URSL",
+		"type": "book",
+		"call-number": "82-32 HUX car",
+		"event-place": "Buenos Aires",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "671",
+		"publisher": "Sudamericana",
+		"publisher-place": "Buenos Aires",
+		"title": "Cartas",
+		"author": [
+			{
+				"family": "Huxley",
+				"given": "Aldous"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1969"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/2HJ3EE8B",
+		"type": "book",
+		"abstract": "Inork ez luke galtzetan pixa eginda hil nahi. Biluzik hiltzea baino okerragoa da hori, duintasun izpirik gabe. Nik, nola hil nahi dudan galdetzen didatenean, lore moreak dituen soinekoa jantzita erantzuten dut. Daukadan politena da?.Umeen jolasa ez ezik, bizitzaren metafora da aulki-jokoa: aldiro gutako bat geldituko da lekurik gabe, eta utzi egin beharko du joko-zelaia. Maitasuna, gerra, askatasuna, errebeldia? gai handi eta eternalak ageri dira herri txiki bateko biztanleen bizitzetan. Hiru emakumeren ahotsek josten dute eleberri honen sarea: Teresa, Martiña eta Eulali haurrak ezagutuko ditugu, adokinetan korrika, baita haiek berak gaztetan ere, beren ilusio eta hausturekin, eta pasarte horiekin tartekaturik pertsonaia berberak gaur egun, arratsaldero kafea hartzen, gozotegian, nor bere aulkian.",
+		"call-number": "82-32 ALB aul",
+		"event-place": "Donostia",
+		"ISBN": "978-84-9783-800-9",
+		"language": "eu",
+		"number-of-pages": "95",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Aulki jokoa",
+		"author": [
+			{
+				"family": "Alberdi",
+				"given": "Uxue"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/QU8952Y9",
+		"type": "book",
+		"call-number": "82-32 KIR aba",
+		"event-place": "Donostia",
+		"ISBN": "84-89077-18-5",
+		"language": "es",
+		"number-of-pages": "95",
+		"publisher": "Egin",
+		"publisher-place": "Donostia",
+		"title": "Abarrak. Euskara batuan",
+		"author": [
+			{
+				"family": "Kirikiño",
+				"given": "Ebaristo Bustintza"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1982"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/BIYZ53J7",
+		"type": "book",
+		"call-number": "82-32 KIR aba",
+		"event-place": "Donostia",
+		"ISBN": "84-89077-18-5",
+		"language": "es",
+		"number-of-pages": "95",
+		"publisher": "Egin",
+		"publisher-place": "Donostia",
+		"title": "Abarrak. Euskara batuan",
+		"author": [
+			{
+				"family": "Kirikiño",
+				"given": "Ebaristo Bustintza"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1982"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/BXPQBN7J",
+		"type": "book",
+		"call-number": "82-32 KIR aba",
+		"event-place": "Donostia",
+		"ISBN": "84-89077-18-5",
+		"language": "es",
+		"number-of-pages": "95",
+		"publisher": "Egin",
+		"publisher-place": "Donostia",
+		"title": "Abarrak. Euskara batuan",
+		"author": [
+			{
+				"family": "Kirikiño",
+				"given": "Ebaristo Bustintza"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1982"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/9LMCJNYC",
+		"type": "book",
+		"call-number": "82-32 BUT rel",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-01-38584-1",
+		"language": "es",
+		"number-of-pages": "173",
+		"publisher": "Plaza & Janés",
+		"publisher-place": "Barcelona",
+		"title": "Relatos para un fin de milenio",
+		"author": [
+			{
+				"family": "Butragueño",
+				"given": "Elena"
+			},
+			{
+				"family": "Goñi",
+				"given": "Javier"
+			},
+			{
+				"family": "Puértolas",
+				"given": "Soledad"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1998"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/L5EEEYCY",
+		"type": "book",
+		"call-number": "82-32 LON rel",
+		"event-place": "Madrid",
+		"ISBN": "978-1-973819-33-2",
+		"language": "es",
+		"number-of-pages": "165",
+		"publisher": "Alianza",
+		"publisher-place": "Madrid",
+		"title": "Relatos de los mares del Sur",
+		"author": [
+			{
+				"family": "London",
+				"given": "Jack"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1998"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/23CWP2ZX",
+		"type": "book",
+		"call-number": "82-32 PAR lim",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-238-1",
+		"language": "es",
+		"number-of-pages": "149",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Los límites de la noche",
+		"author": [
+			{
+				"family": "Parra",
+				"given": "Eduardo Antonio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/8YSHGQQS",
+		"type": "book",
+		"call-number": "82-32 SAM hel",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-124-7",
+		"language": "es",
+		"number-of-pages": "119",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Hêlîn olía a resina",
+		"author": [
+			{
+				"family": "Samanci",
+				"given": "Suzan"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/S2ZJ93M3",
+		"type": "book",
+		"call-number": "82-32 IRA gal",
+		"event-place": "Donostia",
+		"ISBN": "978-84-9783-860-3",
+		"language": "eu",
+		"number-of-pages": "91",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Galerna",
+		"author": [
+			{
+				"family": "Iratxe",
+				"given": "Esnaola"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/XVCQ3Z9Z",
+		"type": "book",
+		"call-number": "82-32 SAI pri",
+		"event-place": "México",
+		"ISBN": "978-84-206-3628-3",
+		"language": "es",
+		"number-of-pages": "85",
+		"publisher": "Palabra",
+		"publisher-place": "México",
+		"title": "El principito",
+		"author": [
+			{
+				"family": "Saint-Exupéry",
+				"given": "Antoine",
+				"dropping-particle": "de"
+			}
+		],
+		"translator": [
+			{
+				"family": "Carill",
+				"given": "Bonifacio",
+				"dropping-particle": "del"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1992"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/949KBA8Y",
+		"type": "book",
+		"call-number": "82-32 JUAN dia",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-161-2",
+		"language": "es",
+		"number-of-pages": "180",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Días",
+		"author": [
+			{
+				"family": "Juana Chaos",
+				"given": "Iñaki De"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/7TX92Q3D",
+		"type": "book",
+		"call-number": "82-32 KAF car",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-02-09396-7",
+		"language": "es",
+		"number-of-pages": "106",
+		"publisher": "Bruguera",
+		"publisher-place": "Barcelona",
+		"title": "Carta al padre",
+		"author": [
+			{
+				"family": "Kafka",
+				"given": "Franz"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1983"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/HDTA8VZT",
+		"type": "book",
+		"call-number": "82-32 OLA alb",
+		"event-place": "Donostia",
+		"ISBN": "978-84-7917-615-0",
+		"language": "eu",
+		"number-of-pages": "62",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Albahaka lurrina",
+		"author": [
+			{
+				"family": "Olaizola",
+				"given": "Jesus Mari (Txiliku)"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	}
+]

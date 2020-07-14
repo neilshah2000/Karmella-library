@@ -1,0 +1,527 @@
+[
+	{
+		"id": "http://zotero.org/groups/2204707/items/DM2X69QU",
+		"type": "book",
+		"call-number": "78+791 OSK osk",
+		"event-place": "Bilbao",
+		"ISBN": "---",
+		"language": "eu/es",
+		"number-of-pages": "63",
+		"publisher": "Fundación BBK",
+		"publisher-place": "Bilbao",
+		"title": "Oskorri & the pub ibiltaria",
+		"author": [
+			{
+				"literal": "Oskorri"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/8Q5H9M3B",
+		"type": "book",
+		"call-number": "78+791 OSK osk",
+		"event-place": "Bilbao",
+		"ISBN": "---",
+		"language": "eu/es",
+		"number-of-pages": "63",
+		"publisher": "Fundación BBK",
+		"publisher-place": "Bilbao",
+		"title": "Oskorri & the pub ibiltaria",
+		"author": [
+			{
+				"literal": "Oskorri"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/22ZKVUHV",
+		"type": "book",
+		"call-number": "78+791 NIÑ com",
+		"event-place": "Córdoba",
+		"ISBN": "978-84-946129-0-9",
+		"language": "es",
+		"number-of-pages": "140",
+		"publisher": "Bandaàparte Editores",
+		"publisher-place": "Córdoba",
+		"title": "No comparto los postres",
+		"author": [
+			{
+				"literal": "Niño de Elche"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/3A43LXI2",
+		"type": "book",
+		"call-number": "78+791 MIL pab",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-922-9",
+		"language": "es",
+		"number-of-pages": "224",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Pablo Milanés: con luz propia",
+		"title-short": "Pablo Milanés",
+		"author": [
+			{
+				"family": "Milanés",
+				"given": "Pablo"
+			},
+			{
+				"family": "Díaz Pérez",
+				"given": "Clara"
+			},
+			{
+				"family": "Sanz",
+				"given": "Joseba"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/RFVXLDMJ",
+		"type": "book",
+		"call-number": "78+791 MAR gro",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-7223-488-8",
+		"language": "es",
+		"number-of-pages": "341",
+		"publisher": "Tusquets",
+		"publisher-place": "Barcelona",
+		"title": "Groucho y yo",
+		"author": [
+			{
+				"family": "Marx",
+				"given": "Groucho"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1987"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/SJATY7CC",
+		"type": "book",
+		"call-number": "78+791 GOR lau",
+		"event-place": "Pamplona",
+		"ISBN": "978-84-7681-686-8",
+		"language": "es",
+		"number-of-pages": "189",
+		"publisher": "Pamiela",
+		"publisher-place": "Pamplona",
+		"title": "Lau kantari: Beñat Achiary, Mikel Laboa, Imanol Larzabal, Ruper Ordorika",
+		"author": [
+			{
+				"family": "Gorostidi",
+				"given": "Juan"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/BCY2PNCS",
+		"type": "book",
+		"call-number": "78+791 FER eus",
+		"event-place": "Donostia",
+		"ISBN": "978-84-943032-0-3",
+		"language": "cas",
+		"note": "OCLC: 937776218",
+		"number-of-pages": "401",
+		"publisher": "Euskadiko Filmategia Fundazioa = Fundación Filmoteca Vasca",
+		"publisher-place": "Donostia",
+		"title": "Euskal zinema: zinemagileen hiru belaunaldi = Cine vasco : tres generaciones de cineastas",
+		"author": [
+			{
+				"family": "Fernández",
+				"given": "Joxean"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/4JHMLAHY",
+		"type": "book",
+		"call-number": "78+791 ESK zut",
+		"edition": "Gaztelupeko hotsak",
+		"event-place": "Soraluze",
+		"ISBN": "978-84-936157-4-1",
+		"language": "eus",
+		"number-of-pages": "235",
+		"publisher": "Paper hotsak",
+		"publisher-place": "Soraluze",
+		"title": "Zutaz kantatzeko: Bide ertzean",
+		"author": [
+			{
+				"family": "Eskisabel",
+				"given": "Jon"
+			},
+			{
+				"literal": "Bide ertzean"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/XGDBCTDN",
+		"type": "book",
+		"call-number": "78+791 CAL sal",
+		"event-place": "Tafalla",
+		"language": "es",
+		"number-of-pages": "168",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Salsa: esa irreverente alegría",
+		"title-short": "Salsa",
+		"author": [
+			{
+				"family": "Calvo Ospina",
+				"given": "Hernando"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/P6PC6WZB",
+		"type": "book",
+		"abstract": "L'Ovidi passeja -irònic i tendre, compromès, corrosiu, apassionat i rigorós- entre les pàgines d'aquest llibre, que li vol retre homenatge.Una biografia? Sí, és clar, perquè resseguirem somnis i tr...",
+		"call-number": "78+791 CAD ovi",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-7502-649-7",
+		"language": "cat",
+		"number-of-pages": "300",
+		"publisher": "3i4",
+		"publisher-place": "Barcelona",
+		"title": "L'Ovidi",
+		"author": [
+			{
+				"family": "Cadenas",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/PN567HRZ",
+		"type": "book",
+		"call-number": "78+791 BIL bil",
+		"event-place": "Bilbao",
+		"ISBN": "---",
+		"language": "eu",
+		"number-of-pages": "120",
+		"publisher": "Bilboko konpartsak",
+		"publisher-place": "Bilbao",
+		"title": "Bilbo kantari",
+		"author": [
+			{
+				"literal": "Bilboko konpartsak"
+			}
+		],
+		"issued": {
+			"literal": "---"
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/3HPRX2ND",
+		"type": "book",
+		"call-number": "78+791 BIL bil",
+		"event-place": "Bilbao",
+		"ISBN": "---",
+		"language": "eu",
+		"number-of-pages": "120",
+		"publisher": "Bilboko konpartsak",
+		"publisher-place": "Bilbao",
+		"title": "Bilbo kantari",
+		"author": [
+			{
+				"literal": "Bilboko konpartsak"
+			}
+		],
+		"issued": {
+			"literal": "---"
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/QNJ2UG3C",
+		"type": "book",
+		"call-number": "78+791 BAL pri",
+		"ISBN": "84-317-0202-8",
+		"language": "es",
+		"number-of-pages": "149",
+		"publisher": "Zero",
+		"title": "Primer cancionero flamenco [por] M. Balmaseda",
+		"author": [
+			{
+				"family": "Balmaseda",
+				"given": "Manuel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1973"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/MQR7C27S",
+		"type": "book",
+		"call-number": "78+791 AZK can",
+		"event-place": "Bilbao",
+		"ISBN": "84-85479-54-8",
+		"language": "es",
+		"number-of-pages": "93",
+		"publisher": "Euskaltzaindia",
+		"publisher-place": "Bilbao",
+		"title": "Cancionero popular vasco",
+		"author": [
+			{
+				"family": "Azkue",
+				"given": "Resurrección María",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1990"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/PRS3E3J3",
+		"type": "book",
+		"call-number": "78+791 ARA his",
+		"event-place": "Donostia",
+		"ISBN": "84-89077-53-3",
+		"language": "es",
+		"number-of-pages": "123",
+		"publisher": "Egin",
+		"publisher-place": "Donostia",
+		"title": "Historia de la música vasca",
+		"author": [
+			{
+				"family": "Arana Martija",
+				"given": "José Antonio ( 1931-2011)"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/9ADUX4RN",
+		"type": "book",
+		"call-number": "78+791 ARA his",
+		"event-place": "Donostia",
+		"ISBN": "84-89077-53-3",
+		"language": "es",
+		"number-of-pages": "123",
+		"publisher": "Egin",
+		"publisher-place": "Donostia",
+		"title": "Historia de la música vasca",
+		"author": [
+			{
+				"family": "Arana Martija",
+				"given": "José Antonio ( 1931-2011)"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/MX6725T9",
+		"type": "book",
+		"call-number": "78+791 AMU ber",
+		"event-place": "Donostia",
+		"ISBN": "978-84-89077-52-2",
+		"language": "eu",
+		"number-of-pages": "111",
+		"publisher": "Egin",
+		"publisher-place": "Donostia",
+		"title": "Bertsolaritzaren historia",
+		"author": [
+			{
+				"family": "Amuriza",
+				"given": "Xabier"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/AZD9V38I",
+		"type": "book",
+		"call-number": "78+791 POR neg",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-468-2",
+		"language": "es",
+		"number-of-pages": "418",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Negación punk en Euskal Herria",
+		"author": [
+			{
+				"family": "Porrah",
+				"given": "Huan"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/3L4CHFCH",
+		"type": "book",
+		"call-number": "78+791 OSK eur",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-95653-08-6",
+		"language": "eu/es/fr",
+		"number-of-pages": "---",
+		"publisher": "Bilbao Bizkaia Kutxa Fundazioa",
+		"publisher-place": "Bilbao",
+		"title": "Euripean kantari: lasai desafinatzeko 87 kantu. Singing in the rain",
+		"title-short": "Euripean kantari",
+		"author": [
+			{
+				"literal": "Oskorri"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/EWGPRE8M",
+		"type": "book",
+		"call-number": "78+791 OSK osk",
+		"event-place": "Bilbao",
+		"ISBN": "---",
+		"language": "eu/es",
+		"number-of-pages": "63",
+		"publisher": "Fundación BBK",
+		"publisher-place": "Bilbao",
+		"title": "Oskorri & the pub ibiltaria",
+		"author": [
+			{
+				"literal": "Oskorri"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/DSH8MCIX",
+		"type": "book",
+		"call-number": "78+791 OSK osk",
+		"event-place": "Bilbao",
+		"ISBN": "---",
+		"language": "eu/es",
+		"number-of-pages": "63",
+		"publisher": "Fundación BBK",
+		"publisher-place": "Bilbao",
+		"title": "Oskorri & the pub ibiltaria",
+		"author": [
+			{
+				"literal": "Oskorri"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	}
+]

@@ -1,0 +1,758 @@
+[
+	{
+		"id": "http://zotero.org/groups/2204707/items/6GBXTLZ2",
+		"type": "book",
+		"call-number": "329.marx BOR gra",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-86597-63-4",
+		"language": "es",
+		"number-of-pages": "230",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Un grano de maíz: hablando con Fidel",
+		"title-short": "Un grano de maíz",
+		"author": [
+			{
+				"family": "Borge",
+				"given": "Tomás"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1992"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/DYXRR3XF",
+		"type": "book",
+		"call-number": "329.marx BOR gra",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-86597-63-4",
+		"language": "es",
+		"number-of-pages": "230",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Un grano de maíz: hablando con Fidel",
+		"title-short": "Un grano de maíz",
+		"author": [
+			{
+				"family": "Borge",
+				"given": "Tomás"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1992"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/UH9YZICT",
+		"type": "book",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-338-8",
+		"language": "es",
+		"number-of-pages": "194",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Eleanor Marx, hija de Karl",
+		"author": [
+			{
+				"family": "Silveira",
+				"given": "María José"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/28G74UUP",
+		"type": "book",
+		"call-number": "329.marx TOW evo",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Barcelona",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "156",
+		"publisher": "Plaza & Janés",
+		"publisher-place": "Barcelona",
+		"title": "Evolución, marxismo y cristianismo: estudio sobre las síntesis de Teilhard de Chardin",
+		"title-short": "Evolución, marxismo y cristianismo",
+		"author": [
+			{
+				"family": "Towers",
+				"given": "Bernard"
+			},
+			{
+				"family": "Dyson",
+				"given": "Anthony"
+			},
+			{
+				"family": "Elliot",
+				"given": "Francis G."
+			},
+			{
+				"family": "Fothergill",
+				"given": "F. G."
+			},
+			{
+				"family": "Garaudy",
+				"given": "Roger"
+			},
+			{
+				"family": "Sproxton",
+				"given": "Fernon"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1971"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/FC7PSUN4",
+		"type": "book",
+		"call-number": "329.marx TAB pen",
+		"event-place": "La habana",
+		"ISBN": "978-980-01-1432-2",
+		"language": "es",
+		"number-of-pages": "213",
+		"publisher": "Monte de Avila",
+		"publisher-place": "La habana",
+		"title": "El pensamiento económico de Ernesto Che Guevara",
+		"author": [
+			{
+				"family": "Tablada Pérez",
+				"given": "Carlos"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1987"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/VIQZKLE3",
+		"type": "book",
+		"call-number": "329.marx SIL ele",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-338-8",
+		"language": "es",
+		"number-of-pages": "194",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Eleanor Marx, hija de Karl",
+		"author": [
+			{
+				"family": "Silveira",
+				"given": "María José"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/W6PA37GX",
+		"type": "book",
+		"call-number": "329.marx SHM cub",
+		"event-place": "Moscú",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "298",
+		"publisher": "Progreso",
+		"publisher-place": "Moscú",
+		"title": "Cuba: experiencia del desarrollo social",
+		"editor": [
+			{
+				"family": "Shmeral",
+				"given": "Y."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1983"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/HRHSQ6UT",
+		"type": "book",
+		"call-number": "329.marx ROD maq",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-195-7",
+		"language": "es",
+		"number-of-pages": "272",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Maquis: la guerrilla vasca, 1938-1962",
+		"title-short": "Maquis",
+		"author": [
+			{
+				"family": "Rodríguez Alvarez",
+				"given": "Mikel"
+			},
+			{
+				"family": "Rodríguez",
+				"given": "Mikel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/4P6DHWBW",
+		"type": "book",
+		"call-number": "329.marx ROD maq",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-195-7",
+		"language": "es",
+		"number-of-pages": "272",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Maquis: la guerrilla vasca, 1938-1962",
+		"title-short": "Maquis",
+		"author": [
+			{
+				"family": "Rodríguez Alvarez",
+				"given": "Mikel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/KVE5QPRW",
+		"type": "book",
+		"call-number": "329.marx PAR est",
+		"event-place": "La Habana",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "51",
+		"publisher": "Editora Politica",
+		"publisher-place": "La Habana",
+		"title": "Estatutos del Partido Comunista de Cuba: aprobados por el I Congreso, con las modificaciones acordadas por el II Congreso diciembri de 1980",
+		"author": [
+			{
+				"literal": "Partido Comunista de Cuba"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1981"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/4FBEN4MI",
+		"type": "book",
+		"call-number": "329.marx MIN con",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Madrid",
+		"ISBN": "978-84-8307-003-1",
+		"language": "es",
+		"number-of-pages": "299",
+		"publisher": "Península",
+		"publisher-place": "Madrid",
+		"title": "Un continente desaparecido",
+		"author": [
+			{
+				"family": "Mina",
+				"given": "Gianni"
+			},
+			{
+				"family": "Serrat",
+				"given": "Joan Manuel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/3YLK9S86",
+		"type": "book",
+		"call-number": "329.marx MIN fid",
+		"event-place": "La Habana",
+		"ISBN": "978-88-200-1154-3",
+		"language": "it",
+		"number-of-pages": "268",
+		"publisher": "Edivision",
+		"publisher-place": "La Habana",
+		"title": "Fidel",
+		"author": [
+			{
+				"family": "Mina",
+				"given": "Gianni"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1991"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/E87XGMD3",
+		"type": "book",
+		"call-number": "329.marx MAS che",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "84-86597-60-9",
+		"language": "es",
+		"number-of-pages": "410",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Che Guevara: grandeza y riesgo de la utopía",
+		"title-short": "Che Guevara",
+		"author": [
+			{
+				"family": "Massari",
+				"given": "Roberto"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1992"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/N3W4VGNN",
+		"type": "book",
+		"call-number": "329.marx MAS che",
+		"event-place": "Tafalla",
+		"ISBN": "84-86597-60-9",
+		"language": "es",
+		"number-of-pages": "410",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Che Guevara: grandeza y riesgo de la utopía",
+		"title-short": "Che Guevara",
+		"author": [
+			{
+				"family": "Massari",
+				"given": "Roberto"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1992"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/9PRHBRSG",
+		"type": "book",
+		"call-number": "329.marx LEN qui",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Madrid",
+		"ISBN": "84-323-0147-7",
+		"language": "es",
+		"number-of-pages": "240",
+		"publisher": "Siglo XXI",
+		"publisher-place": "Madrid",
+		"title": "¿Quienes son los \"Amigos del pueblo\" y como luchan contra los socialdemócratas?",
+		"author": [
+			{
+				"family": "Lenin",
+				"given": "Vladímir Ílitx"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1974"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/3PDSZQQ5",
+		"type": "book",
+		"call-number": "329.marx KRI dir",
+		"event-place": "La Habana",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "180",
+		"publisher": "Editora Política",
+		"publisher-place": "La Habana",
+		"title": "Dirección científica de la cultura",
+		"author": [
+			{
+				"family": "Kristova",
+				"given": "Ana"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1984"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/XRZ499GW",
+		"type": "book",
+		"call-number": "329.marx IRA sed",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Donostia",
+		"ISBN": "978-84-7086-077-5",
+		"language": "es",
+		"number-of-pages": "614",
+		"publisher": "Etor-Erribide",
+		"publisher-place": "Donostia",
+		"title": "Uno se divide en dos: el arma revolucionaria de Mao Tse-tung",
+		"title-short": "Uno se divide en dos",
+		"author": [
+			{
+				"family": "Irala",
+				"given": "Antonio",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1976"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/IDPZUKEB",
+		"type": "book",
+		"call-number": "329.marx HAR mun",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "La Habana",
+		"ISBN": "978-959-06-1695-2",
+		"language": "es",
+		"number-of-pages": "287",
+		"publisher": "Ruth casa",
+		"publisher-place": "La Habana",
+		"title": "Un mundo a construir: nuevos caminos",
+		"author": [
+			{
+				"family": "Harnecker",
+				"given": "Marta"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/K63HNG6T",
+		"type": "book",
+		"call-number": "329.marx GRO for",
+		"event-place": "La Habana",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "76",
+		"publisher": "Gente Nueva",
+		"publisher-place": "La Habana",
+		"title": "Un forjador eternamente joven",
+		"author": [
+			{
+				"family": "Grobart",
+				"given": "Fabio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1985"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/N3B8C6Q3",
+		"type": "book",
+		"call-number": "329.marx GOR per",
+		"event-place": "La Habana",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "345",
+		"publisher": "Editora Política",
+		"publisher-place": "La Habana",
+		"title": "La Perestroika y la nueva mentalidad para nuestro país y para el mundo entero",
+		"author": [
+			{
+				"family": "Gorbachiov",
+				"given": "Mijail Sergueevich"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1988"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/AES46TNC",
+		"type": "book",
+		"call-number": "329.marx ERR yen",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-511-5",
+		"language": "es",
+		"number-of-pages": "216",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Y en eso se fue Fidel",
+		"author": [
+			{
+				"family": "Errazkin",
+				"given": "Iñaki"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/EZJ99H9Y",
+		"type": "book",
+		"call-number": "329.marx CAS enc",
+		"event-place": "La Habana",
+		"language": "es",
+		"number-of-pages": "384",
+		"publisher": "Oficina de Publicaciones del Consejo de Estado",
+		"publisher-place": "La Habana",
+		"title": "Un encuentro con Fidel",
+		"author": [
+			{
+				"family": "Castro",
+				"given": "Fidel"
+			},
+			{
+				"family": "Mina",
+				"given": "Gianni"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1987"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/5BD7AH5G",
+		"type": "book",
+		"call-number": "329.marx CAS hab",
+		"event-place": "Buenos Aires",
+		"ISBN": "978-950-07-0489-2",
+		"language": "Spanish",
+		"number-of-pages": "345",
+		"publisher": "Mondadori",
+		"publisher-place": "Buenos Aires",
+		"title": "Habla Fidel",
+		"author": [
+			{
+				"family": "Castro",
+				"given": "Fidel"
+			},
+			{
+				"family": "Mina",
+				"given": "Gianni"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1988"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/RUVWMIIY",
+		"type": "book",
+		"call-number": "329.marx CAS fid",
+		"event-place": "La Habana",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "364",
+		"publisher": "Oficina de Publicaciones del Consejo de Estado",
+		"publisher-place": "La Habana",
+		"title": "Fidel y la religión: conversaciones con Frei Betto",
+		"author": [
+			{
+				"family": "Castro",
+				"given": "Fidel"
+			},
+			{
+				"family": "Bretto",
+				"given": "Frei"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1985"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/MUUUFAKC",
+		"type": "book",
+		"call-number": "329.marx CAS fid",
+		"event-place": "La Habana",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "237",
+		"publisher": "Editora Política",
+		"publisher-place": "La Habana",
+		"title": "Fidel Castro: nada podrá detener la marcha de la historia : entrevista concedida a Jeffrey Elliot y Mervin Dymally sobre múltiples temas económicos, políticos e históricos",
+		"author": [
+			{
+				"family": "Castro",
+				"given": "Fidel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1985"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/X82FYRMH",
+		"type": "book",
+		"call-number": "329.marx CAS ide",
+		"event-place": "La Habana",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "427",
+		"publisher": "Editora Política",
+		"publisher-place": "La Habana",
+		"title": "Ideología, conciencia y trabajo político: 1959-1986",
+		"title-short": "Ideología, conciencia y trabajo político",
+		"author": [
+			{
+				"family": "Castro",
+				"given": "Fidel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1986"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/PMFETAZ6",
+		"type": "book",
+		"call-number": "329.marx CAS pri",
+		"event-place": "La Habana",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "270",
+		"publisher": "Departamento de Orientación Revolucionaria del Comité Central del Partido Comunista de Cuba",
+		"publisher-place": "La Habana",
+		"title": "Primer congreso del Partido Comunista de Cuba: informe central",
+		"title-short": "Primer congreso del Partido Comunista de Cuba",
+		"author": [
+			{
+				"family": "Castro",
+				"given": "Fidel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1975"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/DYNIZ22Z",
+		"type": "book",
+		"call-number": "329.marx CAS cam",
+		"event-place": "La Habana",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "294",
+		"publisher": "Editora Política",
+		"publisher-place": "La Habana",
+		"title": "Por el camino correcto: compilación de textos",
+		"author": [
+			{
+				"family": "Castro",
+				"given": "Fidel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1988"
+				]
+			]
+		}
+	}
+]

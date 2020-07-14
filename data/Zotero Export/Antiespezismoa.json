@@ -1,0 +1,99 @@
+[
+	{
+		"id": "http://zotero.org/groups/2204707/items/VSZ2CLXV",
+		"type": "book",
+		"call-number": "329.anti POG den",
+		"event-place": "Madrid",
+		"language": "es",
+		"number-of-pages": "166",
+		"publisher": "Ochodoscuatro",
+		"publisher-place": "Madrid",
+		"title": "Dentro de las jaulas: Liberación animal y encarcelamiento",
+		"author": [
+			{
+				"family": "Pogson",
+				"given": "Lewis"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/YM5BMUAI",
+		"type": "book",
+		"call-number": "329.anti HRI \t\tani",
+		"event-place": "Madrid",
+		"ISBN": "978-84-697-1751-6",
+		"language": "es",
+		"number-of-pages": "170",
+		"publisher": "Ochodoscuatro",
+		"publisher-place": "Madrid",
+		"title": "Los animales son parte de la clase trabajadora y otros ensayos",
+		"author": [
+			{
+				"family": "Hribal",
+				"given": "Jason"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/FYB9YZS2",
+		"type": "book",
+		"call-number": "329.anti FRE R-209",
+		"event-place": "Madrid",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "287",
+		"publisher": "Ochodoscuatro",
+		"publisher-place": "Madrid",
+		"title": "R-209 habla el Frente de Liberación Animal",
+		"author": [
+			{
+				"literal": "Frente de Liberación Animal"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/6A4ATLQY",
+		"type": "book",
+		"call-number": "329.anti ASA este",
+		"event-place": "Madrid",
+		"ISBN": "978-84-946223-4-2",
+		"language": "es",
+		"number-of-pages": "161",
+		"publisher": "ochodoscuatro",
+		"publisher-place": "Madrid",
+		"title": "En este sitio maldito donde reina la tristeza... Reflexiones sobre la cárceles de aniumales humanos y no humanos",
+		"author": [
+			{
+				"literal": "Asamblea Antiespecista de Madrid"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	}
+]

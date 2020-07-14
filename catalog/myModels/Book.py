@@ -1,6 +1,7 @@
 from django.db import models
 from django.urls import reverse # Used to generate URLs by reversing the URL patterns
 from .Author import Author
+from .Shelf import Shelf
 
 class Book(models.Model):
     """Model representing a book (but not a specific copy of a book)."""
@@ -18,6 +19,7 @@ class Book(models.Model):
     collectionTitle = models.CharField(max_length=50, blank=True, null=True)
     place = models.CharField(max_length=50, blank=True, null=True)
     abstract = models.CharField(max_length=2000, blank=True, null=True)
+    shelf = models.ForeignKey(Shelf, on_delete=models.DO_NOTHING, null=True)
 
 
     def __str__(self):

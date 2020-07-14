@@ -1,0 +1,281 @@
+[
+	{
+		"id": "http://zotero.org/groups/2204707/items/YU5PNKCB",
+		"type": "book",
+		"call-number": "329.indi ODR est",
+		"event-place": "Donostia",
+		"ISBN": "978-84-9783-963-1",
+		"language": "eus",
+		"number-of-pages": "343",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Estatu etnozidaren kontra edo jatorrizko hiztun-herriak nola, zergaitik eta nork arrozten dituen",
+		"author": [
+			{
+				"family": "Odriozola",
+				"given": "Joxe Manuel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/4QTX6VZL",
+		"type": "book",
+		"call-number": "329.indi MOS can",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-206-0",
+		"language": "es",
+		"number-of-pages": "166",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "El canto de la muerte por un dolor apache",
+		"author": [
+			{
+				"family": "Mosconi",
+				"given": "Patrick"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/TU4X38C2",
+		"type": "book",
+		"call-number": "329.indi MOS can",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-206-0",
+		"language": "es",
+		"number-of-pages": "166",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "El canto de la muerte por un dolor apache",
+		"author": [
+			{
+				"family": "Mosconi",
+				"given": "Patrick"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/KSA25ZCT",
+		"type": "book",
+		"call-number": "329.indi MOS can",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-206-0",
+		"language": "es",
+		"number-of-pages": "166",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "El canto de la muerte por un dolor apache",
+		"author": [
+			{
+				"family": "Mosconi",
+				"given": "Patrick"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/GXQI3AYG",
+		"type": "book",
+		"call-number": "329.indi MOS can",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-206-0",
+		"language": "es",
+		"number-of-pages": "166",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "El canto de la muerte por un dolor apache",
+		"author": [
+			{
+				"family": "Mosconi",
+				"given": "Patrick"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/MTXKLFH8",
+		"type": "book",
+		"call-number": "329.indi HAG inc",
+		"event-place": "La Habana",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "122",
+		"publisher": "Instituto del libro",
+		"publisher-place": "La Habana",
+		"title": "Los Incas",
+		"author": [
+			{
+				"family": "Hagen",
+				"given": "Victor Wolfgang Von"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1969"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/L7D5BAQZ",
+		"type": "book",
+		"call-number": "329.indi GAR bal",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-92559-06-0",
+		"language": "es",
+		"number-of-pages": "253",
+		"publisher": "Virus Editorial",
+		"publisher-place": "Barcelona",
+		"title": "La bala y la escuela (Holocausto indígena): modos en que la educación oficial complementa el trabajo represivo de las fuerzas policíaco-militares en los pueblos indios de México",
+		"title-short": "La bala y la escuela (Holocausto indígena)",
+		"author": [
+			{
+				"family": "García Olivo",
+				"given": "Pedro"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/IC7NHUER",
+		"type": "book",
+		"call-number": "329.indi GAR dol",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Madrid",
+		"ISBN": "978-84-88119-25-4",
+		"language": "es",
+		"number-of-pages": "128",
+		"publisher": "Talasa",
+		"publisher-place": "Madrid",
+		"title": "El dolor invisible: Una experiencia de grupos de auto-apoyo con mujeres salvadoreñas",
+		"author": [
+			{
+				"family": "Garaizabal",
+				"given": "Cristina"
+			},
+			{
+				"family": "Vázquez",
+				"given": "Norma"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/ELAJKD4H",
+		"type": "book",
+		"call-number": "329.indi CHO chi",
+		"event-place": "Tafalla",
+		"ISBN": "84-8136-918-7",
+		"language": "es",
+		"number-of-pages": "228",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Chiapas insurgente: 5 ensayos sobre la realidad mexicana",
+		"title-short": "Chiapas insurgente",
+		"author": [
+			{
+				"family": "Chomsky",
+				"given": "Noam"
+			},
+			{
+				"family": "Tigüera",
+				"given": "Sebastiao"
+			},
+			{
+				"family": "Díaz",
+				"given": "Roberto"
+			},
+			{
+				"family": "Díaz",
+				"given": "Hector"
+			},
+			{
+				"family": "Dussel",
+				"given": "Enrique"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1997"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/ZNPVUBIL",
+		"type": "book",
+		"call-number": "329.indi BAR sim",
+		"event-place": "Mexico",
+		"ISBN": "978-968-23-0127-8",
+		"language": "es",
+		"number-of-pages": "257",
+		"publisher": "Siglo Veintiuno Editores",
+		"publisher-place": "Mexico",
+		"title": "Si me permiten hablar: testimonio de Domitila una mujer de las minas de Bolivia",
+		"title-short": "Si me permiten hablar",
+		"author": [
+			{
+				"family": "Barrios de Chungara",
+				"given": "Domitila"
+			},
+			{
+				"family": "Viezzer",
+				"given": "Moema"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1978"
+				]
+			]
+		}
+	}
+]

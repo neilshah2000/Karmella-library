@@ -1,0 +1,232 @@
+[
+	{
+		"id": "http://zotero.org/groups/2204707/items/RENTN9VV",
+		"type": "book",
+		"abstract": "Howard Zinn’s books have inspired students and activists of all ages, affirming the power of ordinary people to influence the course of history. In La Otra Historia of Los Estados Unidos, the definitive Spanish-language edition of Zinn’s classic A People’s History of the United States, Zinn takes on the standard narrative of American history showing the lie behind the official history – exposing Columbus not as discoverer, but as murderer; the Founding Fathers not as liberators but the foundation of a new and moneyed elite—at the same time championing alternate American heroes, from Bartolomeo de las Casas to Tecumseh to Cesar Chavez, who successfully put a challenge to American imperial power, and won. Now updated and expanded through the Bush presidency, La Otra Historia de Los Estados Unidos reminds us, once again, that America’s true greatness lies not in its military generals, but in its dissident voices.",
+		"call-number": "329.arra ZIN otr",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Hondarribia",
+		"ISBN": "978-1-60980-281-3",
+		"language": "es",
+		"number-of-pages": "627",
+		"publisher": "Hiru",
+		"publisher-place": "Hondarribia",
+		"title": "La Otra Historia de los Estados Unidos",
+		"author": [
+			{
+				"family": "Zinn",
+				"given": "Howard"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/JTE3QKSQ",
+		"type": "book",
+		"abstract": "Malcolm X's autobiography and discourses, in Spanish; with 2 short pieces by other writers.",
+		"call-number": "329.arra X mal",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-86597-29-0",
+		"language": "es",
+		"number-of-pages": "244",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Malcolm X: vida y voz de un hombre negro : autobiografía y selección de discursos",
+		"title-short": "Malcolm X",
+		"author": [
+			{
+				"family": "X",
+				"given": "Malcolm"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/L74M5BA4",
+		"type": "book",
+		"call-number": "329.arra GRE suc",
+		"event-place": "Madrid",
+		"ISBN": "978-84-948305-2-5",
+		"language": "Es",
+		"number-of-pages": "330",
+		"publisher": "La Felguera",
+		"publisher-place": "Madrid",
+		"title": "Sucios, grasientos, rebeldes: una revolución greaser.",
+		"author": [
+			{
+				"literal": "GREASERS"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/RXV96DWF",
+		"type": "book",
+		"call-number": "329.arra DAV ask",
+		"event-place": "Iruñea",
+		"ISBN": "978-84-16946-01-3",
+		"language": "eu",
+		"number-of-pages": "187",
+		"publisher": "Katakrak",
+		"publisher-place": "Iruñea",
+		"title": "Askatasuna, etengabeko borroka bat: Ferguson, Palestina eta mugimendu baterako oinarriak",
+		"author": [
+			{
+				"family": "Davis",
+				"given": "Angela"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/2YBPUE78",
+		"type": "book",
+		"call-number": "329.arra AZU his",
+		"event-place": "Donostia",
+		"ISBN": "978-84-9027-297-8",
+		"language": "eus",
+		"number-of-pages": "626",
+		"publisher": "Elkar",
+		"publisher-place": "Donostia",
+		"title": "Historia, arraza, nazioa: Renan eta nazionalismoaren inguruko topiko batzuk",
+		"author": [
+			{
+				"family": "Azurmendi",
+				"given": "Joxe"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/R6KGVKFM",
+		"type": "book",
+		"call-number": "329.arra ABU des",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-023-3",
+		"language": "es",
+		"number-of-pages": "185",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Desde la galería de la muerte",
+		"author": [
+			{
+				"family": "Abu-Jamal",
+				"given": "Mumia"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/PYSVHINR",
+		"type": "book",
+		"call-number": "329.arra ABU des",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-023-3",
+		"language": "es",
+		"number-of-pages": "185",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Desde la galería de la muerte",
+		"author": [
+			{
+				"family": "Abu-Jamal",
+				"given": "Mumia"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/2A62WN5C",
+		"type": "book",
+		"call-number": "329.arra ABU des",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-023-3",
+		"language": "es",
+		"number-of-pages": "185",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Desde la galería de la muerte",
+		"author": [
+			{
+				"family": "Abu-Jamal",
+				"given": "Mumia"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/SRKGFJRL",
+		"type": "book",
+		"call-number": "329.arra ABU des",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-023-3",
+		"language": "es",
+		"number-of-pages": "185",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "Desde la galería de la muerte",
+		"author": [
+			{
+				"family": "Abu-Jamal",
+				"given": "Mumia"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	}
+]

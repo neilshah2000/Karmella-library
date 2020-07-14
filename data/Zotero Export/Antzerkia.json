@@ -1,0 +1,1016 @@
+[
+	{
+		"id": "http://zotero.org/groups/2204707/items/9LG84QZB",
+		"type": "book",
+		"call-number": "82-2 SAS aho",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-398-6302-1",
+		"language": "es",
+		"number-of-pages": "50",
+		"publisher": "Hiru",
+		"publisher-place": "Bilbao",
+		"title": "Ahola no es de leil",
+		"author": [
+			{
+				"family": "Sastre",
+				"given": "Alfonso"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1990"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/249B5HJ8",
+		"type": "book",
+		"call-number": "82-2 ROJ cel",
+		"event-place": "Zaragoza",
+		"ISBN": "978-84-263-1642-4",
+		"language": "es",
+		"number-of-pages": "348",
+		"publisher": "Luis Vives",
+		"publisher-place": "Zaragoza",
+		"title": "La Celestina",
+		"author": [
+			{
+				"family": "Rojas",
+				"given": "Fernando",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1990"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/I5C5CUCT",
+		"type": "book",
+		"call-number": "82-2 ROD tab",
+		"event-place": "Madrid",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "178",
+		"publisher": "Taurus",
+		"publisher-place": "Madrid",
+		"title": "La taberna y las tinajas: o, Auto de la donosa taberna. Los inocentes de la Moncloa",
+		"author": [
+			{
+				"family": "Rodríguez Méndez",
+				"given": "José María"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1968"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/WSF66NZX",
+		"type": "book",
+		"call-number": "82-2 REZ art",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-339-7814-1",
+		"language": "es",
+		"number-of-pages": "102",
+		"publisher": "Anagrama",
+		"publisher-place": "Barcelona",
+		"title": "Arte",
+		"author": [
+			{
+				"family": "Reza",
+				"given": "Yasmina"
+			}
+		],
+		"editor": [
+			{
+				"family": "Flotats",
+				"given": "Josep Maria"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/ALBEP93C",
+		"type": "book",
+		"call-number": "82-2 ONE des",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-7530-504-2",
+		"language": "es",
+		"number-of-pages": "283",
+		"publisher": "Orbis",
+		"publisher-place": "Barcelona",
+		"title": "Deseo bajo los olmos ; Días sin fin",
+		"author": [
+			{
+				"family": "O'Neill",
+				"given": "Eugene"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1986"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/LGLVFFLI",
+		"type": "book",
+		"call-number": "82-2 LAR sen",
+		"event-place": "Donostia",
+		"ISBN": "84-89077-38-X",
+		"language": "eu",
+		"number-of-pages": "91",
+		"publisher": "Egin",
+		"publisher-place": "Donostia",
+		"title": "Senperen gertatua",
+		"author": [
+			{
+				"family": "Larzabal",
+				"given": "Piarres"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/NPKBIDFX",
+		"type": "book",
+		"call-number": "82-2 LAR sen",
+		"event-place": "Donostia",
+		"ISBN": "84-89077-38-X",
+		"language": "eu",
+		"number-of-pages": "91",
+		"publisher": "Egin",
+		"publisher-place": "Donostia",
+		"title": "Senperen gertatua",
+		"author": [
+			{
+				"family": "Larzabal",
+				"given": "Piarres"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/72LR3JBZ",
+		"type": "book",
+		"call-number": "82-2 HIT lib",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Madrid",
+		"ISBN": "978-84-7039-026-5",
+		"language": "es",
+		"number-of-pages": "334",
+		"publisher": "Castalia",
+		"publisher-place": "Madrid",
+		"title": "El Libro de Buen Amor",
+		"author": [
+			{
+				"family": "Hita",
+				"given": "Arcipreste",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/Y63VRSAQ",
+		"type": "book",
+		"call-number": "82-2 GOE fau",
+		"event-place": "Madrid",
+		"ISBN": "978-84-03-55054-4",
+		"language": "es",
+		"number-of-pages": "479",
+		"publisher": "Aguilar",
+		"publisher-place": "Madrid",
+		"title": "Fausto",
+		"author": [
+			{
+				"family": "Goethe",
+				"given": "Johann Wolfgang von ("
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1976"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/U9TPZVM9",
+		"type": "book",
+		"call-number": "82-2 GER 7te",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-300-1793-5",
+		"language": "eu",
+		"number-of-pages": "126",
+		"publisher": "Xabier Gereño",
+		"publisher-place": "Bilbao",
+		"title": "7 teatro lan: Euskara, Bigarren maila",
+		"author": [
+			{
+				"family": "Gereño",
+				"given": "Xabier"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1979"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/2GJJ32ZR",
+		"type": "book",
+		"call-number": "82-2 GAR com",
+		"event-place": "Madrid",
+		"ISBN": "978-1-4000-9295-6",
+		"language": "es",
+		"number-of-pages": "256",
+		"publisher": "Ollero y Ramos",
+		"publisher-place": "Madrid",
+		"title": "Cómo Se Cuenta un Cuento",
+		"author": [
+			{
+				"family": "García Márquez",
+				"given": "Gabriel"
+			}
+		],
+		"issued": {
+			"literal": "20041996"
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/LRSV2WCX",
+		"type": "book",
+		"call-number": "82-2 GAR dia",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-253-2757-5",
+		"language": "es",
+		"number-of-pages": "80",
+		"publisher": "Mondadori",
+		"publisher-place": "Barcelona",
+		"title": "Diatriba de amor contra un hombre sentado",
+		"author": [
+			{
+				"family": "García Márquez",
+				"given": "Gabriel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/ZPPIFDLT",
+		"type": "book",
+		"abstract": "Unfilmed screenplay",
+		"call-number": "82-2 GAR sec",
+		"event-place": "Salamanca",
+		"ISBN": "978-84-85334-25-4",
+		"language": "es",
+		"number-of-pages": "152",
+		"publisher": "Lóguez",
+		"publisher-place": "Salamanca",
+		"title": "El secuestro: relato cinematográfico",
+		"title-short": "El secuestro",
+		"author": [
+			{
+				"family": "García Márquez",
+				"given": "Gabriel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1983"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/Q8Z837CC",
+		"type": "book",
+		"call-number": "82-2 GAR don",
+		"event-place": "Buenos Aires",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "127",
+		"publisher": "Editorial Lasada",
+		"publisher-place": "Buenos Aires",
+		"title": "Doña Rosita la soltera: o, el lenguaje de las flores : poema granadino del novecientos, dividido en varios jardines, con escenas de canto y baile (1935)",
+		"author": [
+			{
+				"family": "García Lorca",
+				"given": "Federico"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1976"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/3XSH4G2Z",
+		"type": "book",
+		"call-number": "82-2 FO mue",
+		"event-place": "Hondarribia",
+		"ISBN": "978-84-89753-77-8",
+		"language": "es",
+		"number-of-pages": "144",
+		"publisher": "Argitaletxe HIRU",
+		"publisher-place": "Hondarribia",
+		"title": "Muerte accidental de un anarquista",
+		"author": [
+			{
+				"family": "Fo",
+				"given": "Darío"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2003"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/26MV5L3C",
+		"type": "book",
+		"call-number": "82-2 FLA ten",
+		"event-place": "Madrid",
+		"ISBN": "978-84-7339-044-6",
+		"language": "es",
+		"number-of-pages": "188",
+		"publisher": "Akal",
+		"publisher-place": "Madrid",
+		"title": "Las tentaciones de San Antonio",
+		"author": [
+			{
+				"family": "Flaubert",
+				"given": "Gustave"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1974"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/Z5MHLEM6",
+		"type": "book",
+		"call-number": "82-2 BUC his",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Bilbao",
+		"ISBN": "---",
+		"language": "eu/es",
+		"number-of-pages": "72",
+		"publisher": "Iru",
+		"publisher-place": "Bilbao",
+		"title": "Historia de Woyzeck",
+		"author": [
+			{
+				"family": "Büchner",
+				"given": "Georg"
+			},
+			{
+				"family": "Sastre",
+				"given": "Alfonso"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1989"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/9E3ZUZZR",
+		"type": "book",
+		"call-number": "82-2 BUC his",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Bilbao",
+		"ISBN": "---",
+		"language": "eu/es",
+		"number-of-pages": "72",
+		"publisher": "Iru",
+		"publisher-place": "Bilbao",
+		"title": "Historia de Woyzeck",
+		"author": [
+			{
+				"family": "Büchner",
+				"given": "Georg"
+			},
+			{
+				"family": "Sastre",
+				"given": "Alfonso"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1989"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/KINQ5WDV",
+		"type": "book",
+		"call-number": "82-2 BUC woy",
+		"event-place": "Madrid",
+		"ISBN": "978-84-334-0142-7",
+		"language": "es",
+		"number-of-pages": "131",
+		"publisher": "Júcar",
+		"publisher-place": "Madrid",
+		"title": "Woyzeck y Leoncio y Lena",
+		"author": [
+			{
+				"family": "Büchner",
+				"given": "Georg"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1974"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/7A9TY3I6",
+		"type": "book",
+		"call-number": "82-2 BRE kau",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-934898-1-6",
+		"language": "eu",
+		"number-of-pages": "117",
+		"publisher": "Artezblai",
+		"publisher-place": "Bilbao",
+		"title": "Kaukasiar kreazko borobila",
+		"author": [
+			{
+				"family": "Brecht",
+				"given": "Bertolt"
+			}
+		],
+		"translator": [
+			{
+				"family": "Borda",
+				"given": "Itxaro"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/W2T4DCW4",
+		"type": "book",
+		"call-number": "82-2 BAR ley",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-453-8",
+		"language": "es",
+		"number-of-pages": "260",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "La leyenda de Jaun de Alzate",
+		"author": [
+			{
+				"family": "Baroja",
+				"given": "Pío"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/VK42ESS5",
+		"type": "book",
+		"call-number": "82-2 BAR ley",
+		"event-place": "Tafalla",
+		"ISBN": "978-84-8136-453-8",
+		"language": "es",
+		"number-of-pages": "260",
+		"publisher": "Txalaparta",
+		"publisher-place": "Tafalla",
+		"title": "La leyenda de Jaun de Alzate",
+		"author": [
+			{
+				"family": "Baroja",
+				"given": "Pío"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/XNX9UUMJ",
+		"type": "book",
+		"call-number": "82-2 ARI tea",
+		"event-place": "Madrid",
+		"ISBN": "978-84-7155-123-8",
+		"language": "es",
+		"number-of-pages": "399",
+		"publisher": "Hernando",
+		"publisher-place": "Madrid",
+		"title": "Teatro completo 2",
+		"author": [
+			{
+				"literal": "Aristófanes"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1984"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/MQ6Y5IYC",
+		"type": "book",
+		"call-number": "82-2 ZOR don",
+		"event-place": "Madrid",
+		"ISBN": "978-84-670-0333-8",
+		"language": "es",
+		"number-of-pages": "178",
+		"publisher": "Espasa",
+		"publisher-place": "Madrid",
+		"title": "Don Juan Tenorio",
+		"author": [
+			{
+				"family": "Zorrilla",
+				"given": "José"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/CGPWRQUX",
+		"type": "book",
+		"call-number": "82-2 WEI per",
+		"event-place": "Hondarribia",
+		"ISBN": "978-84-87524-52-3",
+		"language": "es",
+		"number-of-pages": "146",
+		"publisher": "Argitaletxe HIRU",
+		"publisher-place": "Hondarribia",
+		"title": "Persecución y asesinato de Jean-Paul Marat: representados por el grupo teatral de la casa de salud de Charentón bajo la dirección del Señor de Sade : drama en dos actos",
+		"author": [
+			{
+				"family": "Weiss",
+				"given": "Peter"
+			},
+			{
+				"family": "Sastre",
+				"given": "Alfonso"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/W6TGSCEU",
+		"type": "book",
+		"call-number": "82-2 VEG cab",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Madrid",
+		"ISBN": "978-84-376-0309-4",
+		"language": "es",
+		"number-of-pages": "207",
+		"publisher": "Cátedra",
+		"publisher-place": "Madrid",
+		"title": "El caballero de Olmedo",
+		"author": [
+			{
+				"family": "Vega",
+				"given": "Lope",
+				"dropping-particle": "de"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/5FUQ3LXS",
+		"type": "book",
+		"call-number": "82-2 SOY tea",
+		"event-place": "La Habana",
+		"language": "es",
+		"number-of-pages": "643",
+		"publisher": "Editorial Arte y Literatura",
+		"publisher-place": "La Habana",
+		"title": "Teatro",
+		"author": [
+			{
+				"family": "Soyinka",
+				"given": "Wole"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1987"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/YJQDRFXW",
+		"type": "book",
+		"call-number": "82-2 SOF tea",
+		"event-place": "Barcelona",
+		"ISBN": "978-84-02-03252-2",
+		"language": "es",
+		"number-of-pages": "335",
+		"publisher": "Bruguera",
+		"publisher-place": "Barcelona",
+		"title": "Teatro completo",
+		"author": [
+			{
+				"literal": "Sófocles"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1981"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/BTKHFCNF",
+		"type": "book",
+		"call-number": "82-2 SHA muc",
+		"event-place": "Madrid",
+		"ISBN": "978-84-239-2895-8",
+		"language": "es",
+		"number-of-pages": "106",
+		"publisher": "Espasa-Calpe",
+		"publisher-place": "Madrid",
+		"title": "Mucho ruido y pocas nueces",
+		"author": [
+			{
+				"family": "Shakespeare",
+				"given": "William"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/KE5373U4",
+		"type": "book",
+		"call-number": "82-2 SHA vid",
+		"event-place": "Madrid",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "216",
+		"publisher": "Espasa-Calpe",
+		"publisher-place": "Madrid",
+		"title": "La Vida del Rey Enrique V ; Pericles, príncipe de Tiro",
+		"author": [
+			{
+				"family": "Shakespeare",
+				"given": "William"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1969"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/GGHNYRZJ",
+		"type": "book",
+		"call-number": "82-2 SHA noc",
+		"event-place": "Madrid",
+		"ISBN": "---",
+		"language": "es",
+		"number-of-pages": "174",
+		"publisher": "Calpe",
+		"publisher-place": "Madrid",
+		"title": "Noche de Epifanía: comedia",
+		"title-short": "Noche de Epifanía",
+		"author": [
+			{
+				"family": "Shakespeare",
+				"given": "William"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1924"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/HH7N5MRV",
+		"type": "book",
+		"call-number": "82-2 SAS emm",
+		"event-place": "Bilbo",
+		"ISBN": "978-84-936331-7-2",
+		"language": "eu",
+		"number-of-pages": "76",
+		"publisher": "Artezblai",
+		"publisher-place": "Bilbo",
+		"title": "Emmanuel Kanten azken egunak",
+		"author": [
+			{
+				"family": "Sastre",
+				"given": "Alfonso"
+			}
+		],
+		"translator": [
+			{
+				"family": "Rodríguez",
+				"given": "Fito"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/R9IHZYMP",
+		"type": "book",
+		"call-number": "82-2 SAS dra",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Donostia",
+		"ISBN": "978-84-89077-28-7",
+		"language": "es",
+		"number-of-pages": "122",
+		"publisher": "Egin",
+		"publisher-place": "Donostia",
+		"title": "Dramas y versos",
+		"author": [
+			{
+				"family": "Sastre",
+				"given": "Alfonso"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/6QXCX8M8",
+		"type": "book",
+		"call-number": "82-2 SAS dra",
+		"event-place": "Donostia",
+		"ISBN": "978-84-89077-28-7",
+		"language": "es",
+		"number-of-pages": "122",
+		"publisher": "Egin",
+		"publisher-place": "Donostia",
+		"title": "Dramas y versos",
+		"author": [
+			{
+				"family": "Sastre",
+				"given": "Alfonso"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/BYPSW9UT",
+		"type": "book",
+		"call-number": "82-2 SAS dra",
+		"event-place": "Donostia",
+		"ISBN": "978-84-89077-28-7",
+		"language": "es",
+		"number-of-pages": "122",
+		"publisher": "Egin",
+		"publisher-place": "Donostia",
+		"title": "Dramas y versos",
+		"author": [
+			{
+				"family": "Sastre",
+				"given": "Alfonso"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/RG26FSFA",
+		"type": "book",
+		"call-number": "82-2 SAS dra",
+		"event-place": "Donostia",
+		"ISBN": "978-84-89077-28-7",
+		"language": "es",
+		"number-of-pages": "122",
+		"publisher": "Egin",
+		"publisher-place": "Donostia",
+		"title": "Dramas y versos",
+		"author": [
+			{
+				"family": "Sastre",
+				"given": "Alfonso"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/472M7B6I",
+		"type": "book",
+		"call-number": "82-2 SAS ult",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Hondarribia",
+		"ISBN": "84-87524-53-2",
+		"language": "es",
+		"number-of-pages": "123",
+		"publisher": "Hiru",
+		"publisher-place": "Hondarribia",
+		"title": "Los últimos días de Emmanuel Kant contados por Ernesto Teodoro Amadeo Hoffmann: drama en un prólogo y diez cuadros",
+		"author": [
+			{
+				"family": "Sastre",
+				"given": "Alfonso"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1993"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/765VCSL6",
+		"type": "book",
+		"call-number": "82-2 SAS ana",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Hondarribia",
+		"ISBN": "978-84-87524-54-7",
+		"language": "es",
+		"number-of-pages": "126",
+		"publisher": "Hiru",
+		"publisher-place": "Hondarribia",
+		"title": "Análisis de un comando",
+		"author": [
+			{
+				"family": "Sastre",
+				"given": "Alfonso"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1993"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2204707/items/M2XWQQWL",
+		"type": "book",
+		"call-number": "82-2 SAS dem",
+		"collection-title": "Belen Gonzalez Peñalbaren Kolekzioa",
+		"event-place": "Bilbao",
+		"ISBN": "978-84-87524-02-8",
+		"language": "es",
+		"number-of-pages": "154",
+		"publisher": "Hiru",
+		"publisher-place": "Bilbao",
+		"title": "Demasiado tarde para Filoctetes: (tragedia de aventuras)",
+		"title-short": "Demasiado tarde para Filoctetes",
+		"author": [
+			{
+				"family": "Sastre",
+				"given": "Alfonso"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1991"
+				]
+			]
+		}
+	}
+]
