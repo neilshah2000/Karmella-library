@@ -11,5 +11,5 @@ class BookViewSet(BulkModelViewSet):
     queryset = Book.objects.all().order_by('title')
     serializer_class = BookSerializer
     filter_backends = [DjangoFilterBackend, filters.SearchFilter]
-    filterset_fields = ['pages', 'place']
+    filterset_fields = ['pages', 'place', 'shelf']
     search_fields = ['title', 'abstract']

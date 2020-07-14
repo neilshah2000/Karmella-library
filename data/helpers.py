@@ -4,8 +4,6 @@ import os
 from datetime import datetime, timedelta
 from BookCreator import BookCreator
 
-# serverUrl = 'http://127.0.0.1:8000/'
-# serverUrl = 'https://blooming-mountain-86004.herokuapp.com/'
 
 # User is object like {'username': 'olga', 'password': 'olga'}
 def loginUser(user, serverUrl):
