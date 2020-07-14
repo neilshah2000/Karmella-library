@@ -1,10 +1,12 @@
 from AuthorFinder import AuthorFinder
+from ShelfFinder import ShelfFinder
 
 class BookCreator:
-    def __init__(self):
-        self.authorFinder = AuthorFinder('https://blooming-mountain-86004.herokuapp.com/')
+    def __init__(self, serverUrl):
+        self.authorFinder = AuthorFinder(serverUrl)
+        self.shelfFinder = ShelfFinder(serverUrl)
     
-    def createBook(self, zoteroBook):
+    def createBook(self, zoteroBook, shelfName):
         title = zoteroBook.get('title')
         titleShort = zoteroBook.get('title-short')
         isbn = zoteroBook.get('ISBN')
@@ -18,6 +20,7 @@ class BookCreator:
         place = zoteroBook.get('event-place')
         abstract = zoteroBook.get('abstract')
 
+        shelf = self.getShelf(shelfName)
         issued = self.getIssued(zoteroBook)
         author = self.getAuthors(zoteroBook)
 
@@ -35,7 +38,8 @@ class BookCreator:
             'place': place,
             'abstract': abstract,
             'issued': issued,
-            'author': author
+            'author': author,
+            'shelf': shelf
         }
 
         return aBook
@@ -59,3 +63,13 @@ class BookCreator:
             print(e)
         finally:
             return authors
+    
+    def getShelf(self, shelfName):
+        shelfId = None
+        try:
+            shelf = self.shelfFinder.findShelf(shelfName)
+            shelfId = shelf['id']
+        except Exception as e:
+            print(e)
+        finally:
+            return shelfId

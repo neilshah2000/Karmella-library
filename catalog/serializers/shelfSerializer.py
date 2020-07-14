@@ -9,4 +9,4 @@ class ShelfSerializer(BulkSerializerMixin, serializers.ModelSerializer):
     class Meta:
         model = Shelf
         list_serializer_class = BulkListSerializer
-        fields = ['name']
+        fields = '__all__'

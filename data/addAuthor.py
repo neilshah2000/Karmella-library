@@ -1,10 +1,14 @@
 import requests
 import json
-from helpers import loginUser, addAuthor, addAuthorBulk
-from extractAuthors import getAuthorSet
+from helpers import loginUser, addAuthor, addAuthorBulk, getAuthorSet
 
 
-authorSet = getAuthorSet()
+serverUrl = 'http://127.0.0.1:8000/'
+# serverUrl = 'https://blooming-mountain-86004.herokuapp.com/'
+
+json_file = '/home/neil/Code/library/locallibrary/data/Karmelako_liburutegia.json'
+
+authorSet = getAuthorSet(json_file)
 authList = list()
 
 for authTup in authorSet:
@@ -13,5 +17,5 @@ for authTup in authorSet:
     authDict['last_name'] = authTup[1]
     authList.append(authDict)
 
-response = addAuthorBulk(authList)
+response = addAuthorBulk(authList, serverUrl)
 print(response.json())
