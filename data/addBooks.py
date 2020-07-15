@@ -3,8 +3,8 @@ import json
 import os
 from helpers import addBooks, returnZoteroJsonAsCatalogObjects, getShelfNamesAndFilePaths
 
-serverUrl = 'http://127.0.0.1:8000/'
-# serverUrl = 'https://blooming-mountain-86004.herokuapp.com/'
+# serverUrl = 'http://127.0.0.1:8000/'
+serverUrl = 'https://blooming-mountain-86004.herokuapp.com/'
 
 
 shelfDirectoryPath = '/home/neil/Code/library/locallibrary/data/Zotero Export'

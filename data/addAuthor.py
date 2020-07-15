@@ -3,8 +3,8 @@ import json
 from helpers import loginUser, addAuthor, addAuthorBulk, getAuthorSet
 
 
-serverUrl = 'http://127.0.0.1:8000/'
-# serverUrl = 'https://blooming-mountain-86004.herokuapp.com/'
+# serverUrl = 'http://127.0.0.1:8000/'
+serverUrl = 'https://blooming-mountain-86004.herokuapp.com/'
 
 json_file = '/home/neil/Code/library/locallibrary/data/Karmelako_liburutegia.json'
 
