@@ -8,6 +8,7 @@ router = BulkRouter()
 router.register(r'books', views.BookViewSet)
 router.register(r'authors', views.AuthorViewSet)
 router.register(r'shelves', views.ShelfViewSet)
+router.register(r'copies', views.BookInstanceViewSet)
 
 urlpatterns = [
     path('', views.index, name='index'),
