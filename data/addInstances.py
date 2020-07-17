@@ -9,8 +9,9 @@ serverUrl = 'https://blooming-mountain-86004.herokuapp.com/'
 
 zoteroAllBooksFile = '/home/neil/Code/library/locallibrary/data/Karmelako_liburutegia.json'
 
-instances = returnBookInstancesFromZoteroJson(serverUrl, zoteroAllBooksFile)['instances']
-errors = returnBookInstancesFromZoteroJson(serverUrl, zoteroAllBooksFile)['errors']
+instancesAndErrors = returnBookInstancesFromZoteroJson(serverUrl, zoteroAllBooksFile)
+instances = instancesAndErrors['instances']
+errors = instancesAndErrors['errors']
 
 # print(instances)
 # print(errors)
