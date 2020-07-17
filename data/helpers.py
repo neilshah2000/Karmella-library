@@ -3,6 +3,7 @@ import json
 import os
 from datetime import datetime, timedelta
 from BookCreator import BookCreator
+from BookInstanceCreator import BookInstanceCreator
 
 
 # User is object like {'username': 'olga', 'password': 'olga'}
@@ -41,6 +42,13 @@ def addAuthorBulk(authorList, serverUrl):
 def addBooks(booksList, serverUrl):
     jsonData = json.dumps(booksList)
     url = serverUrl + 'catalog/api/books/'
+    headers = {'Content-Type': 'application/json'}
+    response = requests.post(url, headers=headers, data = jsonData)
+    return response
+
+def addBookInstance(bookInstance, serverUrl):
+    jsonData = json.dumps(bookInstance)
+    url = serverUrl + 'catalog/api/copies/'
     headers = {'Content-Type': 'application/json'}
     response = requests.post(url, headers=headers, data = jsonData)
     return response
@@ -99,3 +107,23 @@ def getShelfNamesAndFilePaths(shelfDirectoryPath):
             'path': shelfFilePath
         })
     return namesAndPaths
+
+def returnBookInstancesFromZoteroJson(serverUrl, zoteroFile):
+    with open(zoteroFile) as json_data:
+        library = json.load(json_data)
+
+    bic = BookInstanceCreator(serverUrl)
+    errors = []
+    bookInstances = []
+    for myInst in library:
+        try:
+            instance = bic.getBookInstanceObject(myInst)
+            bookInstances.append(instance)
+        except Exception as error:
+            # print(error)
+            errors.append(error)
+
+    return {
+        'instances': bookInstances,
+        'errors': errors
+    }
