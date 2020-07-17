@@ -6,11 +6,14 @@ from rest_framework_bulk import (
     BulkSerializerMixin,
 )
 from catalog.serializers.authorSerializer import AuthorSerializer
+from catalog.serializers.bookInstanceSerializer import BookInstanceSerializer
 
 class BookSerializer(BulkSerializerMixin, serializers.ModelSerializer):
     # author = AuthorSerializer(many=True, read_only=True) # will be read not written
+
     author = serializers.PrimaryKeyRelatedField(many=True, read_only=False, queryset=Author.objects.all())
     author_names = serializers.StringRelatedField(many=True, source='author',read_only=True)
+    copies = BookInstanceSerializer(many=True, read_only=True)
     class Meta:
         model = Book
         list_serializer_class = BulkListSerializer
