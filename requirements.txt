@@ -6,3 +6,4 @@ gunicorn
 django-heroku
 python-dotenv
 dj_database_url
+djoser
