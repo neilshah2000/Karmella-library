@@ -1,8 +1,9 @@
 from django.db import models
 import uuid # Required for unique book instances
 from .Book import Book
-from django.contrib.auth.models import User
 from datetime import date
+from django.conf import settings
+User = settings.AUTH_USER_MODEL
 
 class BookInstance(models.Model):
     """Model representing a specific copy of a book (i.e. that can be borrowed from the library)."""

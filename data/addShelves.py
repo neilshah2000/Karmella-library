@@ -2,8 +2,8 @@ import requests
 import json
 from helpers import addShelves
 
-serverUrl = 'https://blooming-mountain-86004.herokuapp.com/'
-# serverUrl = 'http://127.0.0.1:8000/'
+# serverUrl = 'https://blooming-mountain-86004.herokuapp.com/'
+serverUrl = 'http://127.0.0.1:8000/'
 
 shelves = [
     {'name': 'Aldizkariak'},
