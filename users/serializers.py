@@ -1,7 +1,7 @@
 from rest_framework import serializers
-from django.contrib.auth.models import User, Group
 from rest_framework.authtoken.models import Token
 from django.contrib.auth.models import Group
+from .models import User
 
 class MyGroupSerializer(serializers.ModelSerializer):
 
@@ -14,7 +14,7 @@ class MyUserSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = User
-        fields = ('email', 'username', 'first_name', 'last_name', 'all_groups')
+        fields = ('email', 'first_name', 'last_name', 'all_groups')
 
 
 class MyTokenSerializer(serializers.ModelSerializer):
