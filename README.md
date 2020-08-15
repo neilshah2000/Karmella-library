@@ -12,3 +12,10 @@ then ```python manage.py migrate```
 ```python data/addShelves.py```
 ```python data/addBooks.py```
 ```python data/addInstances.py ```
+
+
+staff@staff.com
+staff
+
+new@new.com
+newpassneil
