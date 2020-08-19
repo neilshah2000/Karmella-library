@@ -150,7 +150,17 @@ LOGIN_REDIRECT_URL = '/'
 
 
 # for testing in development
-EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
+# EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
+
+
+# Gmail
+EMAIL_USE_TLS = True
+EMAIL_PORT = 587
+EMAIL_HOST = 'smtp.gmail.com'
+EMAIL_HOST_USER = 'karmelakoliburutegia@gmail.com'
+EMAIL_HOST_PASSWORD = 'bilbao123'
+EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
+
 
 # for bulk upload
 DATA_UPLOAD_MAX_NUMBER_FIELDS = 5000
