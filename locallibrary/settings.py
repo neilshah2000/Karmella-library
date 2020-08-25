@@ -192,3 +192,5 @@ DJOSER = {
         'token': 'users.serializers.MyTokenSerializer'
     },
 }
+
+django_heroku.settings(locals())
