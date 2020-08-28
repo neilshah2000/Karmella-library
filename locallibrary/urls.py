@@ -28,8 +28,8 @@ urlpatterns = [
     # https://stackoverflow.com/questions/23939670/serving-static-files-from-root-of-django-development-server
     # https://stackoverflow.com/questions/27065510/how-to-serve-static-files-with-django-that-has-hardcoded-relative-paths-on-herok/40525157#40525157
     # / routes to index.html
-    url(r'^$', serve,
-        kwargs={'path': 'index.html'}),
+    # url(r'^$', serve,
+    #     kwargs={'path': 'index.html'}),
 
     # static files (*.css, *.js, *.jpg etc.) served on /
     url(r'^(?!/static/.*)(?P<path>.*\..*)$',
