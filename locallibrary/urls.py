@@ -20,20 +20,13 @@ from django.views.generic import RedirectView
 from django.conf import settings
 from django.conf.urls.static import static
 
-from django.conf.urls import url
-from django.contrib.staticfiles.views import serve
-from django.views.generic import RedirectView
+from django.views.generic import TemplateView
+
 
 urlpatterns = [
     # https://stackoverflow.com/questions/23939670/serving-static-files-from-root-of-django-development-server
     # https://stackoverflow.com/questions/27065510/how-to-serve-static-files-with-django-that-has-hardcoded-relative-paths-on-herok/40525157#40525157
-    # / routes to index.html
-    # url(r'^$', serve,
-    #     kwargs={'path': 'index.html'}),
 
-    # static files (*.css, *.js, *.jpg etc.) served on /
-    # url(r'^(?!/static/.*)(?P<path>.*\..*)$',
-    #     RedirectView.as_view(url='/static/%(path)s')),
     path('admin/', admin.site.urls),
     path('catalog/', include('catalog.urls')),
     # path('', RedirectView.as_view(url='catalog/', permanent=True)),
@@ -41,4 +34,6 @@ urlpatterns = [
     path('user/', include('users.urls')),
     re_path(r'^auth/', include('djoser.urls')),
     re_path(r'^auth/', include('djoser.urls.authtoken')),
+    # https://stackoverflow.com/questions/53708640/how-to-configure-django-with-webpack-react-using-create-react-app-on-ubuntu-serv
+    re_path('.*', TemplateView.as_view(template_name='index.html')),
 ] + static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
