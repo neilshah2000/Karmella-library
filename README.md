@@ -33,3 +33,6 @@ asdlkfh98jh
 # email account
 karmelakoliburutegia@gmail.com
 bilbao123
+
+# url for app
+https://blooming-mountain-86004.herokuapp.com/static/index.html
