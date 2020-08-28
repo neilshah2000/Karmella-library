@@ -32,10 +32,10 @@ urlpatterns = [
     #     kwargs={'path': 'index.html'}),
 
     # static files (*.css, *.js, *.jpg etc.) served on /
-    url(r'^(?!/static/.*)(?P<path>.*\..*)$',
-        RedirectView.as_view(url='/static/%(path)s')),
+    # url(r'^(?!/static/.*)(?P<path>.*\..*)$',
+    #     RedirectView.as_view(url='/static/%(path)s')),
     path('admin/', admin.site.urls),
-    # path('catalog/', include('catalog.urls')),
+    path('catalog/', include('catalog.urls')),
     # path('', RedirectView.as_view(url='catalog/', permanent=True)),
     path('accounts/', include('django.contrib.auth.urls')),
     path('user/', include('users.urls')),
