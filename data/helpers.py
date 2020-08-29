@@ -8,57 +8,73 @@ from BookInstanceCreator import BookInstanceCreator
 
 # User is object like {'username': 'olga', 'password': 'olga'}
 def loginUser(user, serverUrl):
-    url = serverUrl + 'authentication/token/'
+    url = serverUrl + 'auth/token/login/'
     response = requests.post(url, data = user)
     json_response = response.json()
-    return json_response['access_token']
+    return json_response['auth_token']
 
 
-def addShelves(shelfList, serverUrl):
+def addShelves(shelfList, serverUrl, token):
     jsonData = json.dumps(shelfList)
     url = serverUrl + 'catalog/api/shelves/'
-    headers = {'Content-Type': 'application/json'}
+    headers = {
+        'Content-Type': 'application/json',
+        'Authorization': 'Token ' + token
+    }
     response = requests.post(url, headers=headers, data = jsonData)
     return response
 
 
-def addAuthor(firstName, lastName, serverUrl):
+def addAuthor(firstName, lastName, serverUrl, token):
     bid = {
         "first_name": firstName,
         "last_name": lastName
     }
     url = serverUrl + 'catalog/api/authors/'
-    response = requests.post(url, data = bid)
+    headers = {
+        'Content-Type': 'application/json',
+        'Authorization': 'Token ' + token
+    }
+    response = requests.post(url, headers=headers, data = bid)
     return response
 
-def addAuthorBulk(authorList, serverUrl):
+def addAuthorBulk(authorList, serverUrl, token):
     jsonData = json.dumps(authorList)
     url = serverUrl + 'catalog/api/authors/'
-    headers = {'Content-Type': 'application/json'}
+    headers = {
+        'Content-Type': 'application/json',
+        'Authorization': 'Token ' + token
+    }
     response = requests.post(url, headers=headers, data = jsonData)
     return response
 
 
-def addBooks(booksList, serverUrl):
+def addBooks(booksList, serverUrl, token):
     jsonData = json.dumps(booksList)
     url = serverUrl + 'catalog/api/books/'
-    headers = {'Content-Type': 'application/json'}
+    headers = {
+        'Content-Type': 'application/json',
+        'Authorization': 'Token ' + token
+    }
     response = requests.post(url, headers=headers, data = jsonData)
     return response
 
-def addBookInstance(bookInstance, serverUrl):
+def addBookInstance(bookInstance, serverUrl, token):
     jsonData = json.dumps(bookInstance)
     url = serverUrl + 'catalog/api/copies/'
-    headers = {'Content-Type': 'application/json'}
+    headers = {
+        'Content-Type': 'application/json',
+        'Authorization': 'Token ' + token
+    }
     response = requests.post(url, headers=headers, data = jsonData)
     return response
 
 
-def returnZoteroJsonAsCatalogObjects(json_file, serverUrl, shelfName):
+def returnZoteroJsonAsCatalogObjects(json_file, serverUrl, token, shelfName):
     with open(json_file) as json_data:
         library = json.load(json_data)
 
-    bc = BookCreator(serverUrl)
+    bc = BookCreator(serverUrl, token)
 
     createdBooks = []
     for book in library:
@@ -108,11 +124,11 @@ def getShelfNamesAndFilePaths(shelfDirectoryPath):
         })
     return namesAndPaths
 
-def returnBookInstancesFromZoteroJson(serverUrl, zoteroFile):
+def returnBookInstancesFromZoteroJson(serverUrl, token, zoteroFile):
     with open(zoteroFile) as json_data:
         library = json.load(json_data)
 
-    bic = BookInstanceCreator(serverUrl)
+    bic = BookInstanceCreator(serverUrl, token)
     errors = []
     bookInstances = []
     for myInst in library:

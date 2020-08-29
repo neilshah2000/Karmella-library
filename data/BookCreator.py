@@ -2,9 +2,9 @@ from AuthorFinder import AuthorFinder
 from ShelfFinder import ShelfFinder
 
 class BookCreator:
-    def __init__(self, serverUrl):
-        self.authorFinder = AuthorFinder(serverUrl)
-        self.shelfFinder = ShelfFinder(serverUrl)
+    def __init__(self, serverUrl, token):
+        self.authorFinder = AuthorFinder(serverUrl, token)
+        self.shelfFinder = ShelfFinder(serverUrl, token)
     
     def createBook(self, zoteroBook, shelfName):
         title = zoteroBook.get('title')

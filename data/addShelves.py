@@ -1,9 +1,12 @@
 import requests
 import json
-from helpers import addShelves
+from helpers import loginUser, addShelves
 
-# serverUrl = 'https://blooming-mountain-86004.herokuapp.com/'
-serverUrl = 'http://127.0.0.1:8000/'
+serverUrl = 'https://blooming-mountain-86004.herokuapp.com/'
+email = 'neilshahlimited@hotmail.com'
+password = 'aslkdflk908'
+
+# serverUrl = 'http://127.0.0.1:8000/'
 
 shelves = [
     {'name': 'Aldizkariak'},
@@ -40,6 +43,6 @@ shelves = [
     {'name': 'Langile Mugimendua'}
 ]
 
-
-response = addShelves(shelves, serverUrl)
+token = loginUser({'email': email, 'password': password}, serverUrl)
+response = addShelves(shelves, serverUrl, token)
 print(response.json())

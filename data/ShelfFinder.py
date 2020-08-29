@@ -3,11 +3,15 @@ import json
 
 
 class ShelfFinder:
-    def __init__(self, serverUrl):
+    def __init__(self, serverUrl, token):
         self.serverUrl = serverUrl
 
         url = serverUrl + 'catalog/api/shelves/'
-        response = requests.get(url)
+        headers = {
+            'Content-Type': 'application/json',
+            'Authorization': 'Token ' + token
+        }
+        response = requests.get(url, headers=headers)
         self.shelves = response.json()
 
     def getShelves(self):

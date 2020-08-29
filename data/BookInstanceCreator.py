@@ -3,12 +3,16 @@ import json
 
 
 class BookInstanceCreator:
-    def __init__(self, serverUrl):
+    def __init__(self, serverUrl, token):
         print('calling api...')
         self.serverUrl = serverUrl
 
         url = serverUrl + 'catalog/api/books/'
-        response = requests.get(url)
+        headers = {
+            'Content-Type': 'application/json',
+            'Authorization': 'Token ' + token
+        }
+        response = requests.get(url, headers=headers)
         self.books = response.json()
         print('complete')
 

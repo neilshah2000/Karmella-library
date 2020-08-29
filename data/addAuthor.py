@@ -3,8 +3,10 @@ import json
 from helpers import loginUser, addAuthor, addAuthorBulk, getAuthorSet
 
 
-serverUrl = 'http://127.0.0.1:8000/'
-# serverUrl = 'https://blooming-mountain-86004.herokuapp.com/'
+# serverUrl = 'http://127.0.0.1:8000/'
+serverUrl = 'https://blooming-mountain-86004.herokuapp.com/'
+email = 'neilshahlimited@hotmail.com'
+password = 'aslkdflk908'
 
 json_file = '/home/neil/Code/library/locallibrary/data/Karmelako_liburutegia.json'
 
@@ -17,5 +19,6 @@ for authTup in authorSet:
     authDict['last_name'] = authTup[1]
     authList.append(authDict)
 
-response = addAuthorBulk(authList, serverUrl)
+token = loginUser({'email': email, 'password': password}, serverUrl)
+response = addAuthorBulk(authList, serverUrl, token)
 print(response.json())

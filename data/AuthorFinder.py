@@ -3,11 +3,15 @@ import json
 
 
 class AuthorFinder:
-    def __init__(self, serverUrl):
+    def __init__(self, serverUrl, token):
         self.serverUrl = serverUrl
 
         url = serverUrl + 'catalog/api/authors/'
-        response = requests.get(url)
+        headers = {
+            'Content-Type': 'application/json',
+            'Authorization': 'Token ' + token
+        }
+        response = requests.get(url, headers=headers)
         self.authors = response.json()
 
     def getAuthors(self):
