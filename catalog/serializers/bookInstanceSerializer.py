@@ -6,8 +6,10 @@ from rest_framework_bulk import (
 )
 
 class BookInstanceSerializer(BulkSerializerMixin, serializers.ModelSerializer):
-    book = serializers.StringRelatedField(many=False)
+    # book = serializers.StringRelatedField(many=False)
+
     class Meta:
         model = BookInstance
         list_serializer_class = BulkListSerializer
         fields = '__all__'
+        depth = 2
