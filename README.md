@@ -38,7 +38,8 @@ bilbao123
 https://blooming-mountain-86004.herokuapp.com/static/index.html
 
 
-# buib process
+# build process
 - ```npm run build``` on front end
 - copy files from build folder to catalog/static folder
 - ```python manage.py runserver```
+- ```git push heroku master```
