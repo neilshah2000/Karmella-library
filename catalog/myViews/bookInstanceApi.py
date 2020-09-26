@@ -34,10 +34,12 @@ class BookInstanceViewSet(BulkModelViewSet):
         for instance in request.data:
             bookInstance = get_object_or_404(queryset, id=instance['id'])
             # make sure book is not already on loan
-            if bookInstance.status == dict(BookInstance.LOAN_STATUS).get('o'):
+            # if bookInstance.status == dict(BookInstance.LOAN_STATUS).get('o'):
+            if bookInstance.status == 'o':
                 content = {'status': 'book already on loan'}
                 return Response(content, status=status.HTTP_400_BAD_REQUEST)
-            bookInstance.status = dict(BookInstance.LOAN_STATUS).get('o')
+            # bookInstance.status = dict(BookInstance.LOAN_STATUS).get('o')
+            bookInstance.status = 'o'
             bookInstance.borrower = request.user
             updatedBookInstances.append(bookInstance)
         # if everything is ok, save all now
