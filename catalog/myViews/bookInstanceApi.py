@@ -82,3 +82,20 @@ class BookInstanceViewSet(BulkModelViewSet):
         print(myBorrowed)
         serializer = BookInstanceSerializer(myBorrowed, many=True)
         return Response(serializer.data)
+
+
+    @action(detail=True, methods=['post'])
+    def returnBook(self, request, pk=None):
+        user = request.user.id
+        print(request.user)
+        queryset = BookInstance.objects.all()
+        bookInstance = get_object_or_404(queryset, pk=pk)
+        # make sure this user already has the book out on loan
+        if bookInstance.status != 'o' or bookInstance.borrower.id != request.user.id:
+            content = {'status': 'you have not borrowed this book on the system'}
+            return Response(content, status=status.HTTP_400_BAD_REQUEST)
+        bookInstance.status = 'a'
+        bookInstance.borrower = None
+        bookInstance.save()
+        serializer = BookInstanceSerializer(bookInstance)
+        return Response(serializer.data)
