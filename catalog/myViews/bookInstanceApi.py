@@ -1,4 +1,4 @@
-from catalog.models import BookInstance
+from catalog.models import BookInstance, Book
 from users.models import User
 from catalog.serializers.bookInstanceSerializer import BookInstanceSerializer
 from rest_framework_bulk import BulkModelViewSet
@@ -13,6 +13,15 @@ class BookInstanceViewSet(BulkModelViewSet):
     serializer_class = BookInstanceSerializer
     filter_backends = [DjangoFilterBackend, filters.SearchFilter]
 
+    def create(self, request):
+        print(request.data)
+        bookId = request.data['book']
+        queryset = Book.objects.all()
+        book = get_object_or_404(queryset, pk=bookId)
+        newInstance = BookInstance.create(book)
+        newInstance.save()
+        serializer = BookInstanceSerializer(newInstance)
+        return Response(serializer.data)
 
     @action(detail=True, methods=['post'])
     def checkout(self, request, pk=None):

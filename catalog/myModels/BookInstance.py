@@ -23,7 +23,7 @@ class BookInstance(models.Model):
         max_length=1,
         choices=LOAN_STATUS,
         blank=True,
-        default='m',
+        default='a',
         help_text='Book availability',
     )
 
@@ -39,3 +39,8 @@ class BookInstance(models.Model):
         if self.due_back and date.today() > self.due_back:
             return True
         return False
+    
+    @classmethod
+    def create(cls, book):
+        bookInstance = cls(book=book)
+        return bookInstance
