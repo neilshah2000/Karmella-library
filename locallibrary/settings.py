@@ -162,7 +162,7 @@ EMAIL_USE_TLS = True
 EMAIL_PORT = 587
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_HOST_USER = 'karmelakoliburutegia@gmail.com'
-EMAIL_HOST_PASSWORD = 'bilbao123'
+EMAIL_HOST_PASSWORD = 'lkjaSH08769UHQSDFIJB'
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 
 
